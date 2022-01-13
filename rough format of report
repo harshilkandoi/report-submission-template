@@ -4,8 +4,12 @@ suppose i am in xyz energy subteam:-
 
 specs report should contain:-
 
-1)size of machinery or equipments
-2)
+1)size of machinery or details of the equipments, datasheet details of the parts, working conditions of the machinery 
+2)power output 
+3)installing cost, running cost, maintenance cost 
+4)home requirements specifications what all appliances can be used and for how long, roof size(solar), how many min/hours of exercise will be required 
+
+
 
 
 
@@ -15,4 +19,6 @@ title
 table of contents
 readibility indices
 specs
+diagrams(if any)
 references
+contribution 
