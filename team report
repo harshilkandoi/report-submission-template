@@ -1,1 +1,364 @@
+---
+geometry : margin = 2cm
+---
+
+# <center>  ELP305 : Design and Systems Lab </center>  
+## <center>  Think off-grid living : SUNERGY   </center>
+## <center> Tribe C     </center>
+
+<br>
+<br>
+
+<p align = "center">
+	<img src = "https://upload.wikimedia.org/wikipedia/en/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg" alt = "IITD Logo" >
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+> ##### Motivation
+> We need to briefly motivate the need to adopt to cleaner sources of electricity. Someone needs to write this and the abstract, **Who?**
+
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+###   Table of Contents 
+
+<br>
+<br>
+
+> [[#Authors]]
+>
+> [[#Readability Indices]]
+>
+> [[#Abstract]]
+>
+> [[#Specifications]]
+> 
+>> [[#Wind]]
+>> 
+>> [[#Mechanical]]
+>>
+>> [[#Solar]]
+>> 
+>> [[#Hydroelectricity]]
+>> 
+>> [[#Piezoelectricity]]
+>> 
+>> [[#Chemical based electricity]]
+>> 
+>> [[#Thermoelectricity]]
+>> 
+>> [[#Electricity from biogas]]
+>> 
+>> [[#Reuse of wasted heat]]
+>> 
+>> [[#Storage of energy]]
+
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+###  Authors 
+
+#### Wind
+<font size = "2">
+
+|Name	            |Entry	       |Role                     |email           |Participation |
+|--------------  |-----------|-----------------|------------|--------------|
+|						  |                  |Sub-coordinator|                    |     				  |
+|						  |                  |Member               |                   |      				  |
+|					      |                  |Member               |                   |  					  | 
+|                         |  				 |Member               |                   | 					  |
+|                         |					 |Member               |                   |  					  |   
+
+</font>
+
+#### Mechanical
+<font size = "2">
+
+|Name	            |Entry	       |Role                     |email           |Participation |
+|--------------  |-----------|-----------------|------------|--------------|
+|						  |                  |Sub-coordinator|                    |     				  |
+|						  |                  |Member               |                   |      				  |
+|					      |                  |Member               |                   |  					  | 
+|                         |  				 |Member               |                   | 					  |
+|                         |					 |Member               |                   |  					  |   
+
+</font>
+
+#### Solar
+
+<font size = "2">
+
+|Name	            |Entry	       |Role                     |email           |Participation |
+|--------------  |-----------|-----------------|------------|--------------|
+|						  |                  |Sub-coordinator|                    |     				  |
+|						  |                  |Member               |                   |      				  |
+|					      |                  |Member               |                   |  					  | 
+|                         |  				 |Member               |                   | 					  |
+|                         |					 |Member               |                   |  					  |   
+
+</font>
+
+#### Hydroelectricity
+<font size = "2">
+
+|Name	            |Entry	       |Role                     |email           |Participation |
+|--------------  |-----------|-----------------|------------|--------------|
+|						  |                  |Sub-coordinator|                    |     				  |
+|						  |                  |Member               |                   |      				  |
+|					      |                  |Member               |                   |  					  | 
+|                         |  				 |Member               |                   | 					  |
+|                         |					 |Member               |                   |  					  |   
+
+</font>
+
+#### Piezoelectricity
+
+<font size = "2">
+
+|Name	            |Entry	       |Role                     |email           |Participation |
+|--------------  |-----------|-----------------|------------|--------------|
+|						  |                  |Sub-coordinator|                    |     				  |
+|						  |                  |Member               |                   |      				  |
+|					      |                  |Member               |                   |  					  | 
+|                         |  				 |Member               |                   | 					  |
+|                         |					 |Member               |                   |  					  |   
+
+</font>
+
+
+#### Chemical based electricity
+
+<font size = "2">
+
+|Name	            |Entry	       |Role                     |email           |Participation |
+|--------------  |-----------|-----------------|------------|--------------|
+|						  |                  |Sub-coordinator|                    |     				  |
+|						  |                  |Member               |                   |      				  |
+|					      |                  |Member               |                   |  					  | 
+|                         |  				 |Member               |                   | 					  |
+|                         |					 |Member               |                   |  					  |   
+
+</font>
+
+
+#### Thermoelectricity
+
+<font size = "2">
+
+|Name	            |Entry	       |Role                     |email           |Participation |
+|--------------  |-----------|-----------------|------------|--------------|
+|						  |                  |Sub-coordinator|                    |     				  |
+|						  |                  |Member               |                   |      				  |
+|					      |                  |Member               |                   |  					  | 
+|                         |  				 |Member               |                   | 					  |
+|                         |					 |Member               |                   |  					  |   
+
+</font>
+
+
+#### Electricity from biogas
+
+<font size = "2">
+
+|Name	            |Entry	       |Role                     |email           |Participation |
+|--------------  |-----------|-----------------|------------|--------------|
+|						  |                  |Sub-coordinator|                    |     				  |
+|						  |                  |Member               |                   |      				  |
+|					      |                  |Member               |                   |  					  | 
+|                         |  				 |Member               |                   | 					  |
+|                         |					 |Member               |                   |  					  |   
+
+</font>
+
+
+#### Reuse of wasted heat
+
+<font size = "2">
+
+|Name	            |Entry	       |Role                     |email           |Participation |
+|--------------  |-----------|-----------------|------------|--------------|
+|						  |                  |Sub-coordinator|                    |     				  |
+|						  |                  |Member               |                   |      				  |
+|					      |                  |Member               |                   |  					  | 
+|                         |  				 |Member               |                   | 					  |
+|                         |					 |Member               |                   |  					  |   
+
+</font>
+
+#### Storage of energy
+
+<font size = "2">
+
+|Name	            |Entry	       |Role                     |email           |Participation |
+|--------------  |-----------|-----------------|------------|--------------|
+|						  |                  |Sub-coordinator|                    |     				  |
+|						  |                  |Member               |                   |      				  |
+|					      |                  |Member               |                   |  					  | 
+|                         |  				 |Member               |                   | 					  |
+|                         |					 |Member               |                   |  					  |   
+
+</font>
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+### Documentation
+#### Document Control Number
+
+Subrat Sir also asked for this. So we should discuss this.
+
+Use a Table to give every document a Ref No with a Version Number (this could be related to the Git version for document traceability in the repository)
+
+Mention:
+
+-   [ ] Who is the person who authorized this document ? How does one contact this person ?
+-   [ ] What is the classification level of this document - who should get to see it ?
+-   [ ] What was the date on which it was created for viewing ?
+
+THIS IS LAST YEAR'S DOCUMENTATION:
+
+| Document ID | v1.001 |
+| -------- | -------- |
+| Team Name     | Team E    |
+| Approved for submission| Ashit Ranjan  (11 March 2021, 5:00PM)|
+|                        | Avi Sihag (11 March 2021, 5:00PM)|
+|                        | Ashish Jaiswal (11 March 2021, 5:00PM)|
+|                        | Rockson Th Rong (11 March 2021, 5:00PM)|
+| Contact for correction/clarification| Rockson Th Rong(+91 97749 79669)|
+|                                     | Ashish Jaiswal (+91 78389 87210)|
+| Submitted to                        | Prof. Subrat Kar, Instructor, ELP305 Design and Systems Lab|
+|Date of submission                   | 11 March 2021 at 5:00PM |
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+###  Readability Indices 
+
+#### Documentation Statistics
+
+---
+
+#### Document readability indices
+
+
+
+	
+	
+	
+	
+	
+
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Abstract 
+We need to write in at most 300 words an abstract for the project. We can stress on the how installing such a system can benefit the  house owners and at the same time have a positive impact on the environment.
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+
+### Specifications 
+	
+#### Wind
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+#### Solar
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+#### Mechanical 
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+#### Hydroelectricity
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+#### Piezoelectricity
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+#### Chemical based electricity
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+#### Thermoelectricity
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+#### Electricity from biogas
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+#### Reuse of wated heat
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+#### Storage of energy
+
 
