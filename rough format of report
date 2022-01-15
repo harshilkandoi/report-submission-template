@@ -15,10 +15,11 @@ specs report should contain:-
 
 
 format:-
-title
+title(use YAML)
 table of contents
 readibility indices
 specs
 diagrams(if any)
 references
+appendix for parts datasheet, vendor info
 contribution 
