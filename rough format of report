@@ -14,12 +14,11 @@ Yes
 
 
 format:-
-title(use YAML)
+title(use YAML,done by markdown team)
 table of contents
 readibility indices
 Gantt Chart, WBS, Critical Path and Task Usage / resource (personwise resource) planning
 specs
-diagrams(if any)
 references
 appendix for parts datasheet, vendor info
 contribution 
