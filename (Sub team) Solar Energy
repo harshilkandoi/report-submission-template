@@ -1,1 +1,66 @@
+## Reuse of wasted heat
 
+
+<font size = "2">
+
+|Name	             |Entry	      |Role             |email                |Participation|
+|------------------|------------|-----------------|---------------------|-------------|
+|Jasmeet Singh	   |2019MT60631 |Sub-coordinator  |mt6190631@iitd.ac,in |     				|
+|Bhavya Jain		   |2019EE10622 |Member           |ee1190622@iitd.ac.in |      				|
+|Rishabh Bhatnagar |2019EE30594 |Member           |ee3190594@iitd.ac.in |  					  | 
+|Sagar Sharma      |2019EE10515 |Member           |ee1190515@iitd.ac.in | 					  |
+|Leaandro Rodricks |2019MT10702 |Member           |mt1190702@iitd.ac.in |  					  |   
+
+</font>
+
+
+### Small Abstract
+
+```
+To write (in brief) a few lines about how we are producing electricity.
+```
+
+---
+
+### Specifications
+
+```
+As discussed in the meeting, we need to answer the following questions:
+```
+
+- [ ] size of machinery / details of the equipment, data sheet details of the parts, working conditions of the machinery
+- 5 Bluebird 395 Watt **Solar Panels**
+   1. Solar Panels designed with high efficiency A+ Grade 5BB Cell Technology.
+   2. Only positive power tolerance. Better than conventional mono-crystalline solar panel
+   3. Built with Heavy-duty silver anodized aluminium frame with Pre-drilled holes on the back of the panel for easy & fast Installation
+   4. PID, Salt mist & ammonia corrosion resistant cells and encapsulant
+   5. Attached with IP68 rated Junction box with 3 By Pass Diode, 4mm cable and 2 MC4 connectors
+- HAVELLS HRFR PVC 4 sq/mm Yellow 90 m **Wire**
+   1.Nominal Area of Conductor: 4 sq/mm
+   2.Current Carrying Capacity: 42 A
+   3.Voltage Grade: 1100 V
+   4.Length: 90 m
+   5.Insulation Thickness: 0.8 mm
+- 3 Solar Panel Mounting Structure Set for 2 Solar Panel (6 Channel, 4 End Clamps, 2 Mid Clamps, 6 Spring Nut M8)
+- L&T (Larsen & Toubro Limited) Three Phase Sub Meter LCD Display (10-60A)
+- Power output 
+  Assuming house will have bright sunlight for 5 hours daily.
+   Power output by 5 solar panels monthly(30 days) = 5*5*395*30/1000 kWh= 296.250 kWh/Units
+- Installing cost
+   Cost 5 Bluebird 395 Watt Solar Panels = ₹ 5*14,250 = ₹ 71250/-
+   Cost of HAVELLS HRFR PVC 4 sq/mm Yellow 90 m Wire = ₹4,351/-
+   Cost of 3 Solar Panel Mounting Structure = ₹ 3*2,261= ₹6783/-
+   Cost of L&T (Larsen & Toubro Limited) Three Phase Sub Meter = ₹5,999/-
+   Total Installation cost = ₹71250+₹4,351+₹6783+₹5,999= ₹88,383
+   
+   
+running cost, maintenance cost
+- [ ] home requirements specifications, what all appliances can be used and for how long  
+
+---
+
+### References
+
+```
+sources used.
+```
