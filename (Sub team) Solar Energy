@@ -3,13 +3,13 @@
 
 <font size = "2">
 
-|Name	             |Entry	      |Role             |email                |Participation|
+|Name	             |Entry	     |Role             |email                |Participation|
 |------------------|------------|-----------------|---------------------|--------------|
-|Jasmeet Singh	    |2019MT60631 |Sub-coordinator  |mt6190631@iitd.ac,in |      		   |
-|Bhavya Jain		 |2019EE10622 |Member           |ee1190622@iitd.ac.in |      			|
-|Rishabh Bhatnagar |2019EE30594 |Member           |ee3190594@iitd.ac.in |  				| 
-|Sagar Sharma      |2019EE10515 |Member           |ee1190515@iitd.ac.in | 					|
-|Leaandro Rodricks |2019MT10702 |Member           |mt1190702@iitd.ac.in |  				|   
+|Jasmeet Singh	    |2019MT60631 |Sub-coordinator  |mt6190631@iitd.ac,in |      1		   |
+|Bhavya Jain		 |2019EE10622 |Member           |ee1190622@iitd.ac.in |      1			|
+|Rishabh Bhatnagar |2019EE30594 |Member           |ee3190594@iitd.ac.in |  	 1			| 
+|Sagar Sharma      |2019EE10515 |Member           |ee1190515@iitd.ac.in | 		 1			|
+|Leaandro Rodricks |2019MT10702 |Member           |mt1190702@iitd.ac.in |  	 1			|   
 
 </font>
 
@@ -17,7 +17,8 @@
 ### Small Abstract
 
 ```
-We are producing electricity using Solar Energy 
+We are producing electricity using Solar Energy.
+
 ```
 
 ---
