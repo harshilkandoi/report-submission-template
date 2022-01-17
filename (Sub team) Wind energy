@@ -1,4 +1,3 @@
-
 ## Wind Turbine
 
 
@@ -20,84 +19,86 @@
 
 ---
 
+
 ### Specifications
 
+- ** Components ** 
 
-- **Nacelle**
+     - **Nacelle**
 
      A nacelle is a cover housing that houses all of the generating components in a wind turbine, including the generator, gearbox, drive train, and brake assembly.Nacelle covers are often manufactured via resin-infused glass fiber composites to meet size, complex geometric and weight requirements. Nacelle covers are critical structural components that protect the turbine machinery against external hazards like precipitation, dust, UV radiation and lightning strikes.
 
 
-|  |  |
-|:------------:|:-----------:|
-| Body | Fibreglass and Carbon fibre |
-| Blade Size  | upto 2.2 m |
-| Usage/Application | Wind turbine system |
-| Color | White |
-| Surface finish | Gelcoat |
+     |  |  |
+     |:------------:|:-----------:|
+     | Body | Fibreglass and Carbon fibre |
+     | Blade Size  | upto 2.2 m |
+     | Usage/Application | Wind turbine system |
+     | Color | White |
+     | Surface finish | Gelcoat |
 
 
 
-- **Rotor**
+     - **Rotor**
 
-    Blades and hub together form the rotor. These are the most highly stressed and vital component of any wind turbine. Its job is to absorb the K.E. of wind and convert this energy into rotary motion around a central hub. The design of the turbines rotors is perhaps the most mathematical element of the entire turbine design. The rotors use aerodynamic lift to provide a turning moment and consequently an input torque to the gearbox. The hub acts as the mounting platform for the rotors to the drive shaft. The hub was designed using clamping force as the method for constraining the individual rotors in their desired position.
+     Blades and hub together form the rotor. These are the most highly stressed and vital component of any wind turbine. Its job is to absorb the K.E. of wind and convert this energy into rotary motion around a central hub. The design of the turbines rotors is perhaps the most mathematical element of the entire turbine design. The rotors use aerodynamic lift to provide a turning moment and consequently an input torque to the gearbox. The hub acts as the mounting platform for the rotors to the drive shaft. The hub was designed using clamping force as the method for constraining the individual rotors in their desired position.
 
-|  |  |
-|:------------:|:-----------:|
-| Size of rotor | 3 m (in diameter) |
-| Material for formation of blades | Fibre-reinforced plastic |
-| Radius of blade | 1.4 m |
-| Area swept | 6.15 m^2 |
-| Material used for hub | Aluminium alloy |
-
-      
-      
-- **Generator**
-
-      A generator converts the mechanical energy from the turning blades into electrical power for the use in domestic power. The type of generator most used in wind turbines are the permanent magnet synchronous generators. This is because in recent years, they have gained in attractiveness due to improving performance and decreasing cost. A Permanent Magnet Alternator is an electric generator which is used to convert mechanical energy to AC electrical energy. Wind turbines use permanent magnet alternators because of their inherent simplicity, dependability and consistent performance. A permanent magnet alternator is also light-weight, portable and less space-consuming, which is why they represent a very viable alternative to conventional generators.
-![Permanent Magnet Alternator.png](Permanent Magnet Alternator.png)
-
-| | |
-| :---------------: | :--------------: |
-| Model | ATO-PMG-NE400WM |
-| Rated Power | 400W |
-| Max Power | 445W |
-| Rated Voltage | 12v/24v/48v |
-| Rated Speed | 600rpm/min |
-| Net Weight | 4.5kg |
-| Output Voltage | AC  |
-| Rated Torque | 6.37Nm |
-| Max. Starting Torque | 1Nm |
-| Synchronous Generator Phase | 3 Phase |
-| Insulation Class | F |
-| Service Life | More Than 20 years |
-| Bearing | HRB or for your order |
-| Shaft Material | Stainless Steel |
-| Shell Material | Aluminium Alloy |
-| Permanent Magnet Material | Rare Earth NdFeB |
-| Protection Grade | IP54 |
-| Lubrication | Lubrication Grease |
-| Working Temperature | -40℃ - 80 ℃ |
+     |  |  |
+     |:------------:|:-----------:|
+     | Size of rotor | 3 m (in diameter) |
+     | Material for formation of blades | Fibre-reinforced plastic |
+     | Radius of blade | 1.4 m |
+     | Area swept | 6.15 m^2 |
+     | Material used for hub | Aluminium alloy |
 
 
 
-- **Tower**
-      
-      The tower of the wind turbine carries the nacelle and the rotor. The tower should be tall enough for the bottom edge of the turbine blades to be at least 30 feet above the tallest obstacle within 500 feet. 
-      
-![Tubular Steel Tower.png](Tubular Steel Tower.png)
+     - **Generator**
 
-| | |
-|:------------:|:-----------:|
-| Length of pole | 10m |
-| Material | Mild Steel |
-| Cost | Rs 6500 |
+     A generator converts the mechanical energy from the turning blades into electrical power for the use in domestic power. The type of generator most used in wind turbines are the permanent magnet synchronous generators. This is because in recent years, they have gained in attractiveness due to improving performance and decreasing cost. A Permanent Magnet Alternator is an electric generator which is used to convert mechanical energy to AC electrical energy. Wind turbines use permanent magnet alternators because of their inherent simplicity, dependability and consistent performance. A permanent magnet alternator is also light-weight, portable and less space-consuming, which is why they represent a very viable alternative to conventional generators.
+     ![Permanent Magnet Alternator.png](Permanent Magnet Alternator.png)
+
+     | | |
+     | :---------------: | :--------------: |
+     | Model | ATO-PMG-NE400WM |
+     | Rated Power | 400W |
+     | Max Power | 445W |
+     | Rated Voltage | 12v/24v/48v |
+     | Rated Speed | 600rpm/min |
+     | Net Weight | 4.5kg |
+     | Output Voltage | AC  |
+     | Rated Torque | 6.37Nm |
+     | Max. Starting Torque | 1Nm |
+     | Synchronous Generator Phase | 3 Phase |
+     | Insulation Class | F |
+     | Service Life | More Than 20 years |
+     | Bearing | HRB or for your order |
+     | Shaft Material | Stainless Steel |
+     | Shell Material | Aluminium Alloy |
+     | Permanent Magnet Material | Rare Earth NdFeB |
+     | Protection Grade | IP54 |
+     | Lubrication | Lubrication Grease |
+     | Working Temperature | -40℃ - 80 ℃ |
+
+
+
+     - **Tower**
+
+     The tower of the wind turbine carries the nacelle and the rotor. The tower should be tall enough for the bottom edge of the turbine blades to be at least 30 feet above the tallest obstacle within 500 feet. 
+
+     ![Tubular Steel Tower.png](Tubular Steel Tower.png)
+
+     | | |
+     |:------------:|:-----------:|
+     | Length of pole | 10m |
+     | Material | Mild Steel |
+     | Cost | Rs 6500 |
 
 
 
 - **Power Output**
 
-      The energy produced by a wind turbine depends on a number of factors and is therefore very difficult to calculate accurately. It depends on the surrounding environment, the average wind speed in the region, air density of the region, type of terrain, elevation, etc. To get a rough estimate of power generated by the wind turbine, we need to know the available wind power and the efficiency of the turbine. 
+    The energy produced by a wind turbine depends on a number of factors and is therefore very difficult to calculate accurately. It depends on the surrounding environment, the average wind speed in the region, air density of the region, type of terrain, elevation, etc. To get a rough estimate of power generated by the wind turbine, we need to know the available wind power and the efficiency of the turbine. 
       Available wind power (Pw) = 0.5 * ρ * v³ * A
                             where: 
                             A = Sweep area of turbine = π * r², where r is the size of the blade 
