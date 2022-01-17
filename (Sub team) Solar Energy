@@ -1,25 +1,18 @@
-## Reuse of wasted heat
+
+# Solar Energy
 
 
 <font size = "2">
 
-|Name	             |Entry	     |Role             |email                |Participation|
-|------------------|------------|-----------------|---------------------|--------------|
-|Jasmeet Singh	    |2019MT60631 |Sub-coordinator  |mt6190631@iitd.ac,in |      1		   |
-|Bhavya Jain		 |2019EE10622 |Member           |ee1190622@iitd.ac.in |      1			|
-|Rishabh Bhatnagar |2019EE30594 |Member           |ee3190594@iitd.ac.in |  	 1			| 
-|Sagar Sharma      |2019EE10515 |Member           |ee1190515@iitd.ac.in | 		 1			|
-|Leaandro Rodricks |2019MT10702 |Member           |mt1190702@iitd.ac.in |  	 1			|   
+|Name	             |Entry	      |Role             |email                |Participation|
+|------------------|------------|-----------------|---------------------|-------------|
+|Jasmeet Singh	   |2019MT60631 |Sub-coordinator  |mt6190631@iitd.ac.in |     	1			|
+|Bhavya Jain		   |2019EE10622 |Member           |ee1190622@iitd.ac.in |      		1		|
+|Rishabh Bhatnagar |2019EE30594 |Member           |ee3190594@iitd.ac.in |  			1		  | 
+|Sagar Sharma      |2019EE10515 |Member           |ee1190515@iitd.ac.in | 					1  |
+|Leaandro Rodricks |2019MT10702 |Member           |mt1190702@iitd.ac.in |  				1	  |   
 
 </font>
-
-
-### Small Abstract
-
-```
-We are producing electricity using Solar Energy.
-
-```
 
 ---
 
@@ -37,24 +30,24 @@ As discussed in the meeting, we need to answer the following questions:
    4. PID, Salt mist & ammonia corrosion resistant cells and encapsulant
    5. Attached with IP68 rated Junction box with 3 By Pass Diode, 4mm cable and 2 MC4 connectors
 - HAVELLS HRFR PVC 4 sq/mm Yellow 90 m **Wire**
-   1.Nominal Area of Conductor: 4 sq/mm
-   2.Current Carrying Capacity: 42 A
-   3.Voltage Grade: 1100 V
-   4.Length: 90 m
-   5.Insulation Thickness: 0.8 mm
+   1. Nominal Area of Conductor: 4 sq/mm
+   2. Current Carrying Capacity: 42 A
+   3. Voltage Grade: 1100 V
+   4. Length: 90 m
+   5. Insulation Thickness: 0.8 mm
 - 3 Solar Panel Mounting Structure Set for 2 Solar Panel (6 Channel, 4 End Clamps, 2 Mid Clamps, 6 Spring Nut M8)
 - L&T (Larsen & Toubro Limited) Three Phase Sub Meter LCD Display (10-60A)
-- Power output 
-  Assuming house will have bright sunlight for 5 hours daily.
+- **Power output** 
+    Assuming house will have bright sunlight for 5 hours daily.
    Power output by 5 solar panels monthly(30 days) = 5*5*395*30/1000 kWh= 296.250 kWh/Units
-- Installing cost
+- **Installing cost**
    Cost 5 Bluebird 395 Watt Solar Panels = ₹ 5*14,250 = ₹ 71250/-
    Cost of HAVELLS HRFR PVC 4 sq/mm Yellow 90 m Wire = ₹4,351/-
    Cost of 3 Solar Panel Mounting Structure = ₹ 3*2,261= ₹6783/-
    Cost of L&T (Larsen & Toubro Limited) Three Phase Sub Meter = ₹5,999/-
    Total Installation cost = ₹71250+₹4,351+₹6783+₹5,999= ₹88,383
    
-- Maintenance and Cleaning Cost
+- **Maintenance and Cleaning Cost**
    Average Maintenance and Cleaning Cost is  ₹2,000 / kW per year 
    Total Maintenance and Cleaning Cost= 5*0.395*₹2000 = ₹3950 per year 
    
@@ -90,11 +83,21 @@ Our systems generate approx *296.25 units* per month which makes it sustainable 
 
 ### References
 https://www.solarreviews.com/blog/what-equipment-do-you-need-for-a-solar-power-system
-https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/
-https://www.amazon.in/Larsen-Toubro-Limited-Display-10-60A/
-https://www.amazon.in/Bluebird-Solar-395-Watt-Crystalline/
-https://www.flipkart.com/havells-hrfr-pvc-4-sq-mm-black-90-m-wire/
-https://letsavelectricity.com/cost-of-solar-system-in-india/
+https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc_df_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=2597849844069982857&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1457440431503&psc=1
+https://www.amazon.in/Larsen-Toubro-Limited-Display-10-60A/dp/B09GVWXYWP/ref=asc_df_B09GVWXYWP/?tag=googleshopdes-21&linkCode=df0&hvadid=545232819554&hvpos=&hvnetw=g&hvrand=4336388963072329755&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1433459938069&psc=1
+https://www.amazon.in/Larsen-Toubro-Limited-Display-10-60A/dp/B09GVWXYWP/ref=asc_df_B09GVWXYWP/?tag=googleshopdes-21&linkCode=df0&hvadid=545232819554&hvpos=&hvnetw=g&hvrand=4336388963072329755&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1433459938069&psc=1
+https://www.amazon.in/Bluebird-Solar-395-Watt-Crystalline/dp/B091TV6M9X/ref=asc_df_B091TV6M9X/?tag=googleshopdes-21&linkCode=df0&hvadid=396986918571&hvpos=&hvnetw=g&hvrand=14846268478555082580&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1222930393376&psc=1&ext_vrnc=hi
+https://letsavelectricity.com/cost-of-solar-system-in-india/#:~:text=The%20MNRE%20benchmark%20cost%20for%20solar%20on%20grid%20system%20(2019,kW%20to%20Rs%203%2C000%20%2F%20kW.
+https://atomberg.com/power-consumption-of-a-ceiling-fan/
+https://paytm.com/blog/bill-payments/electricity-bills/how-to-calculate-geyser-power-consumption/
+https://letsavelectricity.com/what-is-the-power-consumption-of-a-microwave-oven/#:~:text=A%201000%20watts%20microwave%20oven,be%2030%20kWh%20of%20electricity.
+https://letsavelectricity.com/power-consumption-of-a-refrigerator/#:~:text=Hence%20daily%20power%20consumption%20of,star%20refrigerator%20for%20one%20day.
+https://www.sciencesstudio.com/2019/08/one-unit-of-electricity-saved.html#:~:text=If%20we%20use%20a%2040,will%20be%20nearly%2015%20units.
+https://www.bijlibachao.com/appliances/room-heater-in-india-heating-as-expensive-as-cooling-in-north.html#:~:text=We%20measured%20a%20room%20heater,or%20Rs%201500%20per%20month.
+https://letsavelectricity.com/how-much-power-does-a-tv-use-in-an-hour/
+https://www.electrical4u.net/energy-calculation/washing-machine-wattage-power-consumption-power-saving-tips/
+https://energyusecalculator.com/electricity_iron.htm#:~:text=An%20iron%20will%20use%20800,a%20day%20%40%20%240.10%20per%20kWh.
+https://www.bajajfinserv.in/insights/3-star-acs-vs-5-star-acs--which-one-should-you-buy-this-summer#:~:text=An%20air%20conditioner's%20electricity%20consumption,consumes%201.6%20units%20every%20hour.
 ```
 sources used.
 ```
