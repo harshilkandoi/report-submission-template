@@ -1,1 +1,10 @@
-
+This project is about designing a system to meet the entire energy needs of a typical household(defined precisely in the requirements report) without drawing commercial electrical power from the utility. 
+We are using various ways of generating electricty like wind,solar,hydro, etc. , we are also presenting a mechanism to capture the heat lost from electrical appliances like laptops,bulb, gas stove etc. and finally the report contains a method of storing that electricity and distributing it for later use. Some notable mentions are :-
+1)Small Wind turbines can be installed in the houses which will generate electricity from wind , it can even be coated with peizoelectric material which will generate electricity when wind compresses the material.
+2)The floors, staircases are fitted with peizoelectric tiles which generate electricity when they contract and expand. 
+3)There is also a bicycle connected by a dynamo, which will not only produce substantial electricity but will also help people in staying fit. 
+4)using rainwater to run turbines
+5)using solar panels
+6)using thermoelectric generation mechanism which is basically generation of voltage due to temperature difference.
+7)using biomass such as cowdung cakes(especially useful in rural areas).
+For more details and specifications refer the report below.    
