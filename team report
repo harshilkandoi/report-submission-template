@@ -20,7 +20,7 @@ geometry : margin = 2cm
 <br>
 
 > ##### Motivation
-> We need to briefly motivate the need to adopt to cleaner sources of electricity. Someone needs to write this and the abstract, **Who?**
+> Ensuring access to affordable, sustainable and reliable energy is one of the 17 sustainable development goals. In this paper we discuss possible ways of generating electricity, to fulfill the energy needs of houses without drawing commercial electrical power from the utility.
 
 
 <div style = "page-break-after: always; visibility: hidden">
@@ -282,7 +282,26 @@ THIS IS LAST YEAR'S DOCUMENTATION:
 
 
 ### Abstract 
-We need to write in at most 300 words an abstract for the project. We can stress on the how installing such a system can benefit the  house owners and at the same time have a positive impact on the environment.
+
+This project is about designing a system to meet the entire energy needs of a typical household(defined precisely in the requirements report) without drawing commercial electrical power from the utility. 
+
+We are using various ways of generating electricity like wind,solar,hydro, etc. , we are also presenting a mechanism to capture the heat lost from electrical appliances like laptops,bulb, gas stove etc. and finally the report contains a method of storing that electricity and distributing it for later use. Some notable mentions are :-
+
+-  Small Wind turbines can be installed in the houses which will generate electricity from wind , it can even be coated with peizoelectric material which will generate electricity when wind compresses the material.
+
+-  The floors, staircases are fitted with peizoelectric tiles which generate electricity when they contract and expand. 
+ 
+- There is also a bicycle connected by a dynamo, which will not only produce substantial electricity but will also help people in staying fit.
+
+-  using rainwater to run turbines
+
+-  using solar panels
+
+-  using thermoelectric generation mechanism which is basically generation of voltage due to temperature difference.
+ 
+-  using biomass such as cowdung cakes(especially useful in rural areas).
+
+For more details and specifications refer the report below.    
 
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
