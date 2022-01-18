@@ -8,11 +8,14 @@ geometry : margin = 2cm
 
 <br>
 <br>
+<br>
+<br>
 
 <p align = "center">
 	<img src = "https://upload.wikimedia.org/wikipedia/en/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg" alt = "IITD Logo" >
 </p>
 
+<br>
 <br>
 <br>
 <br>
@@ -314,6 +317,12 @@ For more details and specifications refer the report below.
 ### Workflow structure
 
 add the gantt chart,WBS etc. here 
+
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
 
 
 ### Specifications 
