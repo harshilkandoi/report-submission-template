@@ -82,10 +82,21 @@ geometry : margin = 2cm
 
 </font>
 
+
+
 #### Mechanical
 
 
+<font size = "2">
 
+|Name	             |Entry	      |Role             |email                |Participation|
+|------------------|------------|-----------------|---------------------|-------------|
+|Himanshu Kumar	   |2019EE30572 |Sub-coordinator  |ee3190572@iitd.ac.in |     	1			|
+|Rishi Raj		     |2019MT60758 |Member           |mt6190758@iitd.ac.in |      		1		|
+|Rahul Kain        |2019EE30592 |Member           |ee3190592@iitd.ac.in |  			1		  | 
+|Ravi Kumar Narnolia      |2019EE10511 |Member           |ee1190511@ee.iitd.ac.in | 					1  |
+
+</font>
 
 
 #### Solar
@@ -533,6 +544,129 @@ Our systems generate approx *355.5 units* per month which makes it sustainable t
 
 
 #### Mechanical 
+
+##### Brief Description
+
+
+We are producing electricity using bicycle pedaling.
+
+---
+
+##### Specifications
+ 
+**Details of the system (Power generation and other specifications)**
+
+- **Bicycle**
+
+A bicycle, also called a pedal cycle, bike or cycle, is a human-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other.Here, it is used to rotate the motor using mechanical power, thus producing electricity.
+        
+
+  |  |  |
+        |:------------:|:-----------:|
+        | Body | Stainless Steel |
+        | Tyre  | Fat |
+        | Usage/Application | Rotating the Motor |
+        | Color | Yellow 
+        
+- **DC Motor**
+
+It is an important component of our product. It helps in converting the mechanical energy through pedals into rotatory motion (the pedals generate force in the form of torque applied on the motor's shaft) which is then converted into electrical energy.Here, we have to remove the brushes of the geared brushed DC Motor as instead of providing lots of torque, it is not fast enough. Besides, those brushes make its efficiency very poor.
+
+  |  |  |
+        |:------------:|:-----------:|
+        | Size | 16mm |
+        | length | 38.4mm |
+        | Voltage | 22.2v |
+        | Load Current | 300mA |
+        | Rated Speed | 313rpm |
+        | Reduction Ratio | 24 |
+
+- **Lithium Ion Cells**
+    
+It is used to power the DC motor controller.Due to the limited space we are going to use a pair of high discharge lithium polymer battery packs. Each one of which is ratted for 11.1v and 5200 mAh with a peak discharge of 25C which means that these batteries can provide nearly 130 amp of continuous current draw and that is helpful as we are going to need sufficient power to be delivered to the brushless motor.
+
+   |  |  |
+        |:------------:|:-----------:|
+        | Rating | 11.1v and 5200mAh |
+        | Peak Discharge | 25C |
+        | Ampere | 150amp |
+
+Here we will use 2 batteries so voltage is 22.2v.
+        
+- **Sprocket**
+
+A sprocket or chain wheel is a profiled wheel with teeth that mesh with a chain, track or other perforated or indented material. To drive the rear wheel we need somewhere around 16N-m of torque and so the required speed is 50km/hr. Our sensorless speed controller can handle 22.2v max, so we can get around 350 rpm. With this setup and gear ratio 1:1 we can have the sufficient torque.
+
+ |  |  |
+        |:------------:|:-----------:|
+        | Model | 25B10 |
+        | No. of teeth | 52 |
+        | Nominal Number | C5 |
+        |Diameter | 85mm |
+
+- **Chain**
+
+It is used to connect rear sprocket to the dc motor to rotate  the motor.
+
+  |  |  |
+        |:------------:|:-----------:|
+        | Type | 9 speed |
+        | Color | Sliver |
+        | Width | 6.6mm |
+		
+- **Power Output**
+
+Torque=16N.m;  
+ Voltage=22.2v;  
+ Ampere=150A;  
+    (τ
+A
+−μ
+A
+·ω
+A
+)R
+B
+=−(τ
+B
+−μ
+B
+·ω
+B
+)R
+B  
+    A=Front Sprocket  
+    B=Rear Sprocket
+
+The 2 battery packs connected in series will provide 145 watt of power with 79.31% efficiency thus providing a 115 watts hour onboard capacity. With this amount of power we can light up around 5 typical 10-Watt light bulbs, charge 3 mobile phones and 1 laptop a time.
+
+
+**Cost Analysis**
+
+ | Part  |  Cost |
+    | :--------:  | :---------: |
+    |  Bicycle | ₹5,000  |
+    | Brushless DC Motor  |  ₹6,000  |
+    | Other misc items like battery, chain, sprocket | ₹4,000 |
+    | **Total** | ₹15,000  |
+
+This is the amount if we don't have a useless bicycle, but if we have a useless bicycle in our home then we can convert it into a electricity generator using less than Rs.10,000.
+
+**Utilization of energy in home appliances and related specifications**
+
+From the above calculations we see that, we can get this thing crazy fast up to around 50 km/hr. As due to the limitations of the speed controller we are unable to achieve a lower gearing ratio that could have enabled us to achieve a much higher speed but on the other hand the higher gearing ratio provided us with a whole lot of torque that can literally flip the bicycle over on demand. Now this whole thing is way more powerful than a brushed geared DC motor and efficient too. We are able to get nearly 4-5km of range on a single charge.
+       
+Bicycle power is purely a form of green energy. It can't produce a large amount of energy but we can have a fair amount of energy for charging devices like mobile phones, laptops etc in cost of getting healthier(which is actually a benefit also).
+
+
+##### References
+   
+1. ‘Bike powered electricity generators are not sustainable - LOW-TECH MAGAZINE’. https://www.lowtechmagazine.com/2011/05/bike-powered-electricity-generators.html (accessed Jan. 18, 2022).
+2. D. King 00, ‘DIY Electric Bicycle Conversion (Using a Brushless Motor)’, Instructables. https://www.instructables.com/DIY-Electric-Bicycle-Conversion-Using-a-Brushless-/ (accessed Jan. 18, 2022).
+3. R. Suhalka, M. C. Khandelwal, K. K. Sharma, and A. Sanghi, ‘Generation of Electrical Power using Bicycle Pedal’, . Flux, p. 5.
+4. ‘Main Page’, Wikipedia, the free encyclopedia. Feb. 03, 2021. Accessed: Jan. 18, 2022. Available: https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1004593520
+5. ‘Pedal Power! How to Build a Bike Generator’. https://www.popularmechanics.com/technology/gadgets/how-to/a10245/pedal-power-how-to-build-a-bike-generator-16627209/ (accessed Jan. 18, 2022).
+
 
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
