@@ -35,6 +35,8 @@ geometry : margin = 2cm
 
 > [[#Authors]]
 >
+> [[#documentation]]
+>
 > [[#Readability Indices]]
 >
 > [[#Abstract]]
@@ -261,7 +263,7 @@ Details of authorisers:-
 
 ###  Readability Indices 
 
-#### Documentation Statistics
+#### Document Statistics
 
 ---
 
@@ -312,6 +314,7 @@ For more details and specifications refer the report below.
 ### Workflow structure
 
 add the gantt chart,WBS etc. here 
+
 
 ### Specifications 
 	
