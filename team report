@@ -51,8 +51,6 @@ geometry : margin = 2cm
 >> 
 >> [[#Piezoelectricity]]
 >> 
->> [[#Chemical based electricity]]
->> 
 >> [[#Thermoelectricity]]
 >> 
 >> [[#Electricity from biogas]]
@@ -129,21 +127,6 @@ geometry : margin = 2cm
 
 
 #### Piezoelectricity
-
-<font size = "2">
-
-|Name	            |Entry	       |Role                     |email           |Participation |
-|--------------  |-----------|-----------------|------------|--------------|
-|						  |                  |Sub-coordinator|                    |     				  |
-|						  |                  |Member               |                   |      				  |
-|					      |                  |Member               |                   |  					  | 
-|                         |  				 |Member               |                   | 					  |
-|                         |					 |Member               |                   |  					  |   
-
-</font>
-
-
-#### Chemical based electricity
 
 <font size = "2">
 
@@ -791,16 +774,11 @@ By above mentioned specifications and power output calculations, we can conclude
 \pagebreak
 </div>
 
+
+
+
+
 #### Piezoelectricity
-
-<div style = "page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
-
-
-
-
-#### Chemical based electricity
 
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
