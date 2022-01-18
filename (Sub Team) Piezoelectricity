@@ -99,9 +99,7 @@ The following are the different ways to harvest piezoelectricty and their specif
        4. Easy integration into compact systems
        5. Superior resistance to atmospheric corrosion
    - <ins>_Cost:_</ins> SAFT LS26500 C Size 3.6V Lithium Battery costs 3000 INR per unit.
-   - <ins>_Datasheet:_</ins>
-   
-![datasheet.png](datasheet.png)
+  
 
 
 
@@ -149,21 +147,31 @@ The following are the different ways to harvest piezoelectricty and their specif
        > Total - around 37000 INR
   
   
-   - <ins>_Datasheet:_</ins>   
-   
+    - <ins>_Datasheet:_</ins>   
 
-![Bimorph Actuators.png](../../../var/folders/dh/nvgqxthd2g7753c0hp8h__s40000gn/T/TemporaryItems/NSIRD_screencaptureui_fUdz2I/Screenshot 2022-01-18 at 6.05.01 PM.png)
+
+1. Bimorph 
+
+| Model          | Length (mm) | Width (mm) | Breadth (mm) | Voltage (V DC) | Force (N) |
+|----------------|-------------|------------|--------------|----------------|-----------|
+| QDA60-20-0.6   | 60          | 20         | 0.60         | 150            | >0.40     |
+| QDA60-10-0.6   | 60          | 10         | 0.60         | 150            | >0.20     |
+| QDA49-2.3-0.75 | 49          | 2.3        | 0.75         | 200            | >0.10     |
+| QDA45-10-0.6   | 45          | 10         | 0.6          | 150            | >0.20     |
 
 ---
 
+2. Stack Actuators 
 
-![PZT Stack Actuators.png](../../../var/folders/dh/nvgqxthd2g7753c0hp8h__s40000gn/T/TemporaryItems/NSIRD_screencaptureui_StAcbo/Screenshot 2022-01-18 at 6.06.22 PM.png)
-
-
+| Model        | Size(mm) | Driver Voltage(max) | Displacement(max) | Force(max) |
+|--------------|----------|---------------------|-------------------|------------|
+| QDS-5-5-18   | 5X5X18   | 150V DC             | 18μm              | 1000N      |
+| QDS-5-5-30   | 5X5X30   | 150V DC             | 30μm              | 1000N      |
+| QDS-5-5-95   | 5X5X95   | 150V DC             | 90μm              | 1000N      |
+| QDS-10-10-30 | 10X10X30 | 150V DC             | 25μm              | 4000N      |
 
 
 ---
-
 
 
 
