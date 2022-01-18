@@ -220,28 +220,18 @@ geometry : margin = 2cm
 
 
 
-
-
-
-
-
 ### Documentation
 #### Document Control Number
-
-Subrat Sir also asked for this. So we should discuss this.
-
-Use a Table to give every document a Ref No with a Version Number (this could be related to the Git version for document traceability in the repository)
-
 
 Details of authorisers:-
 
 <font size = "2">
 
 
-| Name           | Entry       | Role           | Email                | Participation |
-|:--------------:|:-----------:|:--------------:|:--------------------:|:-------------:|
-| Harshil kandoi | 2018EE10465 | Co-Coordinator | ee1180465@iitd.ac.in | 1             |
-| Akash Vardhan  | 2018EE10437 | Co-Coordinator | ee1180437@iitd.ac.in | 1             |
+| Name           | Entry       | Role           | Email                | 
+|:--------------:|:-----------:|:--------------:|:--------------------:|
+| Harshil kandoi | 2018EE10465 | Co-Coordinator | ee1180465@iitd.ac.in | 
+| Akash Vardhan  | 2018EE10437 | Co-Coordinator | ee1180437@iitd.ac.in |
 
 </font>
 
@@ -256,31 +246,12 @@ Details of authorisers:-
 |                                      | Akash Vardhan(ee1180437@iitd.ac.in) |
 | classification level                 | public                             |
 | Submitted to                        | Prof. Subrat Kar, Instructor, ELP305 Design and Systems Lab |
-| Date of submission                   | 19 Jan 2022 at 9:00AM |
+| Date of creation                    | 18 Jan 2022 at 10:00PM |
 
 </font>
 
 - You can go to the github repository named "report-submission-tempalate" to access the original document.
 
-Mention:
-
--   [ ] Who is the person who authorized this document ? How does one contact this person ?
--   [ ] What is the classification level of this document - who should get to see it ?
--   [ ] What was the date on which it was created for viewing ?
-
-THIS IS LAST YEAR'S DOCUMENTATION:
-
-| Document ID | v1.001 |
-| -------- | -------- |
-| Team Name     | Team E    |
-| Approved for submission| Ashit Ranjan  (11 March 2021, 5:00PM)|
-|                        | Avi Sihag (11 March 2021, 5:00PM)|
-|                        | Ashish Jaiswal (11 March 2021, 5:00PM)|
-|                        | Rockson Th Rong (11 March 2021, 5:00PM)|
-| Contact for correction/clarification| Rockson Th Rong(+91 97749 79669)|
-|                                     | Ashish Jaiswal (+91 78389 87210)|
-| Submitted to                        | Prof. Subrat Kar, Instructor, ELP305 Design and Systems Lab|
-|Date of submission                   | 11 March 2021 at 5:00PM |
 
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
