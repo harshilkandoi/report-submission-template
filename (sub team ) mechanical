@@ -99,24 +99,7 @@ We are producing electricity using bicycle pedaling.
     Torque=16N.m;  
     Voltage=22.2v;  
     Ampere=150A;  
-    (τ
-A
-−μ
-A
-·ω
-A
-)R
-B
-=−(τ
-B
-−μ
-B
-·ω
-B
-)R
-B  
-    A=Front Sprocket  
-    B=Rear Sprocket
+    
 
     The 2 battery packs connected in series will provide 145 watt of power with 79.31% efficiency thus providing a 115 watts hour onboard capacity.  
     With this amount of power we can light up around 5 typical 10-Watt light bulbs, charge 3 mobile phones and 1 laptop a time.
