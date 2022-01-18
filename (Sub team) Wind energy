@@ -32,7 +32,6 @@
 
      A nacelle is a cover housing that houses all of the generating components in a wind turbine, including the generator, gearbox, drive train, and brake assembly.Nacelle covers are often manufactured via resin-infused glass fiber composites to meet size, complex geometric and weight requirements. Nacelle covers are critical structural components that protect the turbine machinery against external hazards like precipitation, dust, UV radiation and lightning strikes.
 
-
      |  |  |
      |:------------:|:-----------:|
      | Body | Fibreglass and Carbon fibre |
@@ -61,7 +60,8 @@
 
      A generator converts the mechanical energy from the turning blades into electrical power for the use in domestic power. The type of generator most used in wind turbines are the permanent magnet synchronous generators. This is because in recent years, they have gained in attractiveness due to improving performance and decreasing cost. A Permanent Magnet Alternator is an electric generator which is used to convert mechanical energy to AC electrical energy. Wind turbines use permanent magnet alternators because of their inherent simplicity, dependability and consistent performance. A permanent magnet alternator is also light-weight, portable and less space-consuming, which is why they represent a very viable alternative to conventional generators.
      
-
+     ![Permanent Magnet Alternator](https://www.ato.com/content/images/thumbs/0003578_400w-12v24v48v-alternator-3-phase_550.jpeg)
+     
      | | |
      | :---------------: | :--------------: |
      | Model | ATO-PMG-NE400WM |
@@ -89,7 +89,10 @@
      - **Tower**
 
      The tower of the wind turbine carries the nacelle and the rotor. The tower should be tall enough for the bottom edge of the turbine blades to be at least 30 feet above the tallest obstacle within 500 feet. 
-
+     
+     ![Tubular steel tower](https://5.imimg.com/data5/VI/WS/NX/SELLER-18346028/steel-pole-250x250.jpg)
+     
+     
      | | |
      |:------------:|:-----------:|
      | Length of pole | 10m |
