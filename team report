@@ -234,7 +234,7 @@ geometry : margin = 2cm
 
 
 ### Documentation
-#### Document Control Number
+
 
 Details of authorisers:-
 
@@ -252,7 +252,7 @@ Details of authorisers:-
 
 <font size = "2">
 
-| Document ID |   |
+| Document ID | v1.0   |
 |----------|----------|
 | Team Name     | TRIBE C    |
 | Contact for correction/clarification | Harshil kandoi(ee1180465@iitd.ac.in) |
