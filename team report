@@ -274,9 +274,23 @@ Details of authorisers:-
 
 #### Document Statistics
 
+- **Total number of sentences**: 1950 
+- **Word count** : 9021
+- **Total number of complex words**: 1757
+- **Percent of complex words** : 19.48 %
+- **Average number of words per sentence**: 4.60 
+- **Average syllables per word**: 1.72
+
 ---
 
 #### Document readability indices
+
+- **Flesch Kincaid Reading Ease** : 56.1
+- **Flesch Kincaid Grade Level** : 6.6
+- **Gunning Fog Score** : 7.1
+- **SMOG Index** : 5.7
+- **Coleman Liau Index** : 11.6
+- **Automated Readability Index** : 2.9
 
 
 
