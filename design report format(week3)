@@ -1,0 +1,67 @@
+below are team report and sub team report format respectively:-
+
+
+Team Report Format:-
+
+title(use YAML,done by markdown team)
+
+IITD LOGO
+
+motivation (ctrl C/ctrl V from previous report)
+
+table of contents
+
+authors(Table needed)
+
+documentation
+- details of the document(in a Table format)
+
+document statistics
+- word count,sentences etc...
+- readibility indices
+
+workflow structure
+- Gantt Chart, 
+- WBS, 
+- Critical Path and 
+- Task Usage / resource (personwise resource) planning
+
+abstract(some modification from previous report needed)
+
+subteam content
+- modified requirements
+- modified specs
+- diagrams
+- brief description of working model
+- different options for flexibility based on cost and geographical limitations( especially for energy storage team)
+- references
+- appendix for parts datasheet, vendor info
+
+optional add-on:- an interactive system where upon providing your budget and geographical details , it will give you a pre-designed sytem with the vendor information,
+                  and complete installation procedure.
+
+
+
+
+Sub-Team Report Format:-
+
+authors(Table needed)
+
+workflow structure
+- task allocation table(without heading row) for accountability and will also help in objectively rating members 
+
+modified requirements
+ 
+modified specs
+
+diagrams(CAD, handdrawn etc..) 
+- should contain:- a separate design of the machinery , and a diagram of installed system (till generation of electrcity)
+
+brief description of working model
+
+different options for flexibility based on cost and geographical limitations(only for energy storage team)
+
+references
+
+appendix for parts datasheet, vendor info
+
