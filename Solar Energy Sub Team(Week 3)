@@ -1,3 +1,15 @@
+<font size = "2">
+
+|Name	             |Entry	      |Role             |email                |Participation|
+|------------------|------------|-----------------|---------------------|-------------|
+|Jasmeet Singh	   |2019MT60631 |Sub-coordinator  |mt6190631@iitd.ac.in |     	1			|
+|Bhavya Jain		   |2019EE10622 |Member           |ee1190622@iitd.ac.in |      		1		|
+|Rishabh Bhatnagar |2019EE30594 |Member           |ee3190594@iitd.ac.in |  			1		  | 
+|Sagar Sharma      |2019EE10515 |Member           |ee1190515@iitd.ac.in | 					1  |
+|Leaandro Rodricks |2019MT10702 |Member           |mt1190702@iitd.ac.in |  				1	  |   
+
+</font>
+
 # Brief Description of Working Model
 - So firstly, solar energy falls on the solar panels. We make sure that solar panels are at the best angles for maximum exposure to the sunlight through an *Active Solar Tracker*.This device's sensors react with sunlight and angle the solar panels through drivers and motors accordingly. 
 - These solar panels are mounted on the roof with the help of mounting structures and they allow them to maintain and change their position according to the position of the sun.
