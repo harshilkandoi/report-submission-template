@@ -17,14 +17,20 @@ What all things should be written under this section.
 
 -> Components
 -> Power generation (what all can the system power)
+  -> What is Peak Power
+  -> What is Average Power over energy source duration ?
+  -> What is the amount of units of energy ( units == kWhr) expected to be produced ?
+  -> What is the mode through which your system will output energy ( DONOT INCLUDE STORAGE)
 -> Cost analysis
+## Remove chargers from your reports, energy storage team will handle it
+## but send which charger you wawnt to use to the energy storage  team
 
 
 3. Diagrams and Working
 
 -> Working principle
 -> Actual implementation
-->
+## Add updated geographical specifications too in your reports
 
 
 
