@@ -32,7 +32,7 @@
 4. “Trends in India’s Residential Electricity Consumption | Centre for Policy Research.” Accessed January 11, 2022. [https://cprindia.org/news/6519](https://cprindia.org/news/6519). 
 ##### Specifications
 
-**Details of the system (Power generation and other specifications)**
+Details of the system (Power generation and other specifications)
 
 - 6 Bluebird 395 Watt Solar Panels
    1. Solar Panels designed with high efficiency A+ Grade 5BB Cell Technology.
@@ -47,21 +47,24 @@
    4. Length: 90 m
    5. Insulation Thickness: 0.8 mm
 - 3 Solar Panel Mounting Structure Set for 2 Solar Panel (6 Channel, 4 End Clamps, 2 Mid Clamps, 6 Spring Nut M8)
-- **Power output** 
+- Power output 
     Assuming house will have bright sunlight for 5 hours daily.
    Power output by 6 solar panels monthly(30 days) = 6*5*395*30/1000 kWh= 355.5 kWh 
+- MBATechmeds Solar Sun Tracker (Single Axis)
  
 
-**Cost Analysis**
+Cost Analysis
 
-- **Installing cost**
+- Installing cost
    Cost 6 Bluebird 395 Watt Solar Panels = ₹ 6*14,250 = ₹ 85,500/-
    Cost of HAVELLS HRFR PVC 4 sq/mm Yellow 90 m Wire = ₹4,351/-
    Cost of 3 Solar Panel Mounting Structure = ₹ 3*2,261= ₹6,783/-
+   Cost of Solar Tracker = ₹6000/-
    
-   Total Installation cost = ₹85500+₹4,351+₹6783= ₹96634
    
-- **Maintenance Cost**
+   Total Installation cost = ₹85500+₹4,351+₹6783+₹6000 = ₹102634
+   
+- Maintenance Cost
   Negligible Maintence cost because we have to just clean the solar panels
 ---
 # Brief Description of Working Model
