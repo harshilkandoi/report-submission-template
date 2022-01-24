@@ -14,7 +14,7 @@
 </font>
 
 ### Requiements
-- **Geographical Limitations**
+- *Geographical Limitations*
 
 ![Wind Power Potential Map.png](Wind Power Potential Map.png)
 
@@ -33,6 +33,7 @@ Though wind power is a very clean source of energy, it is not so easy to harness
 **Components** 
  
  - Nacelle: 
+ 
      |  |  |
      |:------------:|:-----------:|
      | Body | Fibreglass and Carbon fibre |
@@ -41,7 +42,10 @@ Though wind power is a very clean source of energy, it is not so easy to harness
      | Color | White |
      | Surface finish | Gelcoat |
     
+    
+    
  - Rotor:
+ 
      |  |  |
      |:------------:|:-----------:|
      | Size of rotor | 3 m (in diameter) |
@@ -50,7 +54,10 @@ Though wind power is a very clean source of energy, it is not so easy to harness
      | Area swept | 6.15 m^2 |
      | Material used for hub | Aluminium alloy |
      
+     
+     
 - Generator:
+
      | | |
      | :---------------: | :--------------: |
      | Model | ATO-PMG-NE400WM |
@@ -74,13 +81,18 @@ Though wind power is a very clean source of energy, it is not so easy to harness
      | Working Temperature | -40℃ - 80 ℃ |
      
      
+     
 - Tower:
+
      | | |
      |:------------:|:-----------:|
      | Length of pole | 10m (may vary depending upon placement setting) |
      | Material | Mild Steel |
      
- **Power Output**
+     
+     
+ ** Power Output**
+ 
     |                           |                              |
     |:-------------------------:|:----------------------------:|
     | Turbine type              | Horizontal-axis wind turbine |
@@ -91,7 +103,10 @@ Though wind power is a very clean source of energy, it is not so easy to harness
     | Turbine efficiency        | 40%                          |
     | Output power              | ~210 W                       |
 
-**Cost Analysis**
+
+
+** Cost Analysis**
+
     | Part  |  Cost |
     | :--------:  | :---------: |
     |  Nacelle | ₹1,000  |
@@ -103,6 +118,8 @@ Though wind power is a very clean source of energy, it is not so easy to harness
     
   The above cost just entails the amount to get all the necessary parts to make the wind turbine excluding the labour cost. So, if we include the man-power needed to get it assembled and build the different parts, the turbine's entire prototype cost is projected to be ₹30,000. This is based on the best-case scenario quote, which excludes any remachining or unforeseen failures. Since there is the possibility of human mistake, accommodations must be taken to guarantee that an accurate situation is presented. As a result, some extra financing should be included to the cost estimate to cover for unanticipated losses.  Therefore, the net cost to make the wind turbine up and running will come about ₹34,000.
 
+  
+  
   
 ### Design
 
