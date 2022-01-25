@@ -346,7 +346,6 @@ For more details and specifications refer the report below.
 	
 #### Wind
 
-
 ##### Requirements
 
 **Geographical requirements**
@@ -372,7 +371,7 @@ Though wind power is a very clean source of energy, it is not so easy to harness
 
 **Components**
 
-- Nacelle: 
+(1) Nacelle: 
  
  |  |  |
  |:------------:|:-----------:|
@@ -384,7 +383,7 @@ Though wind power is a very clean source of energy, it is not so easy to harness
     
    
    
- - Rotor:
+(2) Rotor:
  
  |  |  |
  |:------------:|:-----------:|
@@ -395,10 +394,9 @@ Though wind power is a very clean source of energy, it is not so easy to harness
  | Material used for hub | Aluminum alloy |
      
      
-     
-- Generator:
+(3) Generator:
 
-     | | |
+   | | |
      | :---------------: | :--------------: |
      | Model | ATO-PMG-NE400WM |
      | Rated Power | 400W |
@@ -421,8 +419,7 @@ Though wind power is a very clean source of energy, it is not so easy to harness
      | Working Temperature | -40℃ - 80 ℃ |
      
      
-     
-- Tower:
+ (4) Tower:
 
    | | |
    |:------------:|:-----------:|
@@ -431,7 +428,7 @@ Though wind power is a very clean source of energy, it is not so easy to harness
 
 
 
-**Power generation and utilization**
+**Power generation **
 
  |                           |                              |
  |:-----------------------:|:--------------------------:|
@@ -502,11 +499,13 @@ After the completion of the mechanical design of the wind turbine, the next step
 - “WINDExchange: Small Wind Guidebook.” https://windexchange.energy.gov/small-wind-guidebook#installation (accessed Jan. 17, 2022).
 - C. J, V. D, and M. Majid, “Wind energy programme in India: Emerging energy alternatives for sustainable growth,” _Energy & Environment_, vol. 30, p. 0958305X1984129, Apr. 2019, doi: [10.1177/0958305X19841297](https://doi.org/10.1177/0958305X19841297).
 
-
 ---
+
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
+
+
 
 
 
@@ -669,9 +668,9 @@ The following are the _electrical requirements_:
 
 **Components**
 
-  - *Turbine*
+(1) *Turbine*
 
-  The water turbine is the heart of any hydro power plant. It consists of a number of metal or plastic blades fitted to a central rotating shaft or plate. Water flowing through the casing strikes the blades of the turbine producing torque and making the shaft rotate thus conversing K.E. for water to M.E.\*\*
+The water turbine is the heart of any hydro power plant. It consists of a number of metal or plastic blades fitted to a central rotating shaft or plate. Water flowing through the casing strikes the blades of the turbine producing torque and making the shaft rotate thus conversing K.E. for water to M.E.\*\*
 
    |                     |             |
     |:-------------------:|:-----------:|
@@ -681,9 +680,9 @@ The following are the _electrical requirements_:
     | Head Height         | 2 m to 4 m  |
     | Weight              | 10 kg       |
 
-  - *Generator*
+(2) *Generator*
 
-  Generators are used to convert rotational energy to electrical energy. The type of generator used here is the permanent magnet synchronous generator. This motor generates a single-phase AC output that needs to be converted to DC using a rectifier.
+Generators are used to convert rotational energy to electrical energy. The type of generator used here is the permanent magnet synchronous generator. This motor generates a single-phase AC output that needs to be converted to DC using a rectifier.
 
   |               |                    |
   | :-----------: | :----------------: |
@@ -694,11 +693,11 @@ The following are the _electrical requirements_:
   |  Rated Speed  | 500 rpm - 1500 rpm |
   |  Net Weight   |        15kg        |
 
-  - *AC-DC Converter*
+(3) *AC-DC Converter*
 
-    As the generator gives AC output so to convert AC to DC for charging an AC-DC converter is used.
+As the generator gives AC output so to convert AC to DC for charging an AC-DC converter is used.
 
-      |          |            |
+  |          |            |
       |:--------:|:----------:|
       | Model    | NPS-500 W |
       | Rated Power | 500 W |
@@ -743,7 +742,7 @@ Most of the Hydro-Electric systems used for domestic purposes have η about 75%.
 
 By above mentioned specifications and power output calculations, we can conclude that this system can help us run basic electric home appliances like television, fridge, mobile chargers etc. Also we can increase the power output by suitably choosing the location to get high flow rate like Northern Indian water-bodies have high flow rate. Thus, by suitably choosing the above mentioned devices we can increase the efficiency and can get higher electricity generation.
 
-##### Working
+##### Diagrams and Working
 
 As shown in the figure, water stored at high elevation falls on the turbine of generator i.e. converting the potential energy of water to mechanical energy of turbine by rotating it. Now, this mechanical energy of turbine is converted to electrical energy with the help of drives. Now this pulsating alternating current is passed through transformers for transmitting to distant use places and finally it passes through ac/dc converters to make it usable at required places.
 
@@ -780,9 +779,181 @@ As shown in the figure, water stored at high elevation falls on the turbine of g
 
 
 
+
+
 #### Thermoelectricity
 
 
+##### Requirements
+
+**Geographical requirements**
+
+The Solar TEG would work well under weather and geographical conditions having high sunlight access and hot temperatures.  Therefore regions near equator having lesser number of cloudy days is preferred.
+
+**Requirements from the house**
+
+Roof of the house must be horizontal plane in order to place the device. House shall use energy for basic needs only, no refrigerators or AC's are installed in the house. 
+
+
+##### Specifications
+     
+**Components**
+    
+(1)  *TEG*
+     
+   *Device Info*
+     
+   |  |  |
+     |:------------:|:-----------:|
+     | Type | TGM2871.41.5 |
+     | Price | $11.5 = Rs.855 |
+     | No. of Pieces | 6 |
+     | Size | 55mm*55mm*4.2mm |
+     | Resistance | 3.8ohm |
+     | RAC22C Resistor | 2.6ohm |
+     | Coefficient | 0.85 |
+     | Voltage | 12.2V |
+     | Current | 1.65A |
+     | Power | 20.13W |
+     | Efficiency | 5.1 |
+     
+   *With a battery System*
+     
+   |  |  |
+     |:------------:|:-----------:|
+     | Temperature cold side | 30C |
+     | Temperature hot side | 200C |
+     | Output Power | 7.2 W |
+     | I load | 0.96 amps |
+     | U load | 7.5 volts |
+     | Rac (at 200C) | 7.8 ohm |
+     
+(2) *Aluminum Sheet*
+     
+   |  |  |
+     |:------------:|:-----------:|
+     | Size | 22cm x 15cm x 4mm |
+     | Price | Rs. 35 |
+     | Thermal Conductivity | 237 W·m−1·K−1 |
+     
+(3) *Heat Sink*
+     
+   |  |  |
+     |:------------:|:-----------:|
+     | Model | HEAVY DUTY ALUMINIUM HEAT SINK (Manufacturer : GTX , ASIN(Amazon)  :  B08WLBGPP8 , Item part number  : ALU-250) |
+     | Price | Rs. 1240 |
+     | Size | 250mm x 97mm x 33mm |
+     | No. of Pieces | 2 |
+     
+  (4) *Fresnel Lens*
+     
+   |  |  |
+     |:------------:|:-----------:|
+     | Model | MW-F1000-5 (Chengdu Micromu Technology Co.,Ltd.) |
+     | Price | Rs. 13000 |
+     | Size | 1100mm (Diameter) |
+     | Material | PMMA |
+     | No. of Pieces | 1 |
+     
+  (5) *Water Bucket*
+     
+   |  |  |
+     |:------------:|:-----------:|
+     | Size | 30cm * 30cm * 29cm |
+     | Price | Rs. 200 |
+     
+     
+**Power generation**
+     
+- Power production depends on many factors such as sun, sun's direction, water temperature. Power transferred to load depends can't be computed as it depends heavily on several parameters of battery system.
+- Generated power in a day assuming 4 hours of good sunlight is = Time of Operation x Energy generated by Each TEG x Number of TEG = 5hr * 20W * 6 = 600 Whr/day = 0.6 Units/day .
+- Peak Power 35 W, average power during sunlight hours is 20W 
+     
+**Cost Analysis**
+    
+- Cost to procure the products mentioned = Rs. 20,845
+- Cost to build a wooden frame to support the device ~ Rs. 2500
+- Miscellaneous Cost including screws, paint etc. = Rs. 600
+- Maintenance cost is near to zero as we only need to ensure sink is in contact with water
+- Total Cost = Rs. 23,945 ~ Rs. 24,000
+
+
+##### Diagrams and Working  
+
+**Construction**
+
+<p align = "center">
+	<img src = "https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C2EE22248E&imageInfo.ImageIdentifier.Year=2012"  alt = "Thermo"  | width = "400" height = "300" >
+</p>
+
+- The topside of the aluminum plate is painted black paint to improve heat absorption.
+- Fresnel lens is used for concentrating more sunlight on aluminum sheet.
+- Next attach the hot sides of the TEG modules to the aluminum plate. Use thermal grease between the aluminum plate and TEG module.
+- Next secure the heat sinks to the cold sides of the TEG modules. Since we have two large aluminum heat sinks, we attach each heat sink to cold side of 3 TEGs  . 
+- Heat sinks are partially submerged in the cold ocean water. This keeps the heat sink cool, which in turn keeps the cool side of the TEG module cold.
+- Now , Float the whole device in water and allow the top aluminum plate to get hot in the sunlight. Within a few minutes the TEG will begin to
+  generate electric power.
+  
+  
+  <p align = "center">
+	<img src = "https://content.instructables.com/ORIG/F93/ZNQ3/J7MFSOVQ/F93ZNQ3J7MFSOVQ.jpg?auto=webp&frame=1&width=590&height=1024&fit=bounds&md=5d4d6abad4cf0be2298356cfaddbc183"  alt = "Thermo2"  | width = "600" height = "500" >
+</p>
+
+
+**Working Principle**
+
+Heat from solar radiation heats the Aluminum surface which in turns heats the hot side of TEG. Cold side of TEG being attached to heat sink which in turn is in contact with Water source  as seen in above figure keeps the Cold side of TEG at cool temperature. 
+
+A Fresnel lens concentrates the solar radiation to the the aluminum plate to achieve higher temperatures than otherwise possible. The difference in the temperature between two faces of TEG results in electricity generation in accordance with Seebeck Effect.  
+
+
+##### References
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-http://zotero.org/groups/4560418/items/N6L28KUS"
+class="csl-entry">
+
+“Solar Thermoelectric Generator - Sunflower : 5 Steps (with Pictures) -
+Instructables.” n.d. Accessed January 18, 2022.
+<https://www.instructables.com/Solar-Thermoelectric-Generator-Sunflower/>.
+
+</div>
+
+<div id="ref-http://zotero.org/groups/4560418/items/XYGGT97E"
+class="csl-entry">
+
+Sun, Dongfang, Limei Shen, Yu Yao, Huanxin Chen, Shiping Jin, and Hong
+He. 2017. “The Real-Time Study of Solar Thermoelectric Generator.”
+*Applied Thermal Engineering* 119 (June): 347–59.
+<https://doi.org/10.1016/j.applthermaleng.2017.03.075>.
+
+</div>
+
+<div id="ref-http://zotero.org/groups/4560418/items/W7JJGGGI"
+class="csl-entry">
+
+Zhu, Ning, Takeru Matsuura, Ryutaro Suzuki, and Takashi Tsuchiya. 2014.
+“Development of a Small Solar Power Generation System Based on
+Thermoelectric Generator.” *Energy Procedia*, 2013 International
+Conference on Alternative Energy in Developing Countries and Emerging
+Economies (2013 AEDCEE), 52 (January): 651–58.
+<https://doi.org/10.1016/j.egypro.2014.07.121>.
+
+</div>
+
+<div id="ref-http://zotero.org/groups/4560418/items/5DDN285P"
+class="csl-entry">
+
+“Concentrated Solar Thermoelectric Generators - Energy & Environmental
+Science (RSC Publishing).” n.d. Accessed January 25, 2022.
+<https://pubs.rsc.org/en/content/articlelanding/2012/ee/c2ee22248e>.
+
+</div>
+
+</div>
+
+---
 
 
 ---
