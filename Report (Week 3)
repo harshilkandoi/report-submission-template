@@ -248,18 +248,18 @@ Details of authorisers:-
 
 <font size = "2">
 
-| Document ID | v1.0   |
+| Document ID | v1.1   |
 |----------|----------|
 | Team Name     | TRIBE C    |
 | Contact for correction/clarification | Harshil kandoi(ee1180465@iitd.ac.in) |
 |                                      | Akash Vardhan(ee1180437@iitd.ac.in) |
 | classification level                 | public                             |
 | Submitted to                        | Prof. Subrat Kar, Instructor, ELP305 Design and Systems Lab |
-| Date of creation                    | 18 Jan 2022 at 10:00PM |
+| Date of creation                    | 25 Jan 2022 at 10:00PM |
 
 </font>
 
-- You can go to the github repository named "report-submission-tempalate" to access the original document.
+- Kindly visit the github repository named "report-submission-template" to access the original document.
 
 
 <div style = "page-break-after: always; visibility: hidden">
@@ -845,8 +845,6 @@ The power output of a particular piezoelectric energy harvester depends upon int
 Thus, there are no particular geographical restrictions for building piezoelectric energy harvesters such as piezo-tiles. But in case of piezoelectric windturbines(blade and non-blade), it will have better efficiency in the western part of the country where average windspeed is above 10kmph as well as in hilly areas and near coastal regions.
 
 
-
----
 
 ##### Specifications
 
