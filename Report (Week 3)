@@ -107,7 +107,7 @@ geometry : margin = 2cm
 <font size = "2">
 
 |Name	             |Entry	      |Role             |email                |Participation|
-|------------------|------------|-----------------|---------------------|-------------|
+|:------------------:|:------------:|:-----------------:|:---------------------:|:-------------:|
 |Himanshu Kumar	   |2019EE30572 |Sub-coordinator  |ee3190572@iitd.ac.in |     	1			|
 |Rishi Raj		     |2019MT60758 |Member           |mt6190758@iitd.ac.in |      		1		|
 |Rahul Kain        |2019EE30592 |Member           |ee3190592@iitd.ac.in |  			1		  | 
@@ -121,7 +121,7 @@ geometry : margin = 2cm
 <font size = "2">
 
 |Name	             |Entry	      |Role             |email                |Participation|
-|------------------|------------|-----------------|---------------------|-------------|
+|:------------------:|:------------:|:-----------------:|:---------------------:|:-------------:|
 |Jasmeet Singh	   |2019MT60631 |Sub-coordinator  |mt6190631@iitd.ac.in |     	1			|
 |Bhavya Jain		   |2019EE10622 |Member           |ee1190622@iitd.ac.in |      		1		|
 |Rishabh Bhatnagar |2019EE30594 |Member           |ee3190594@iitd.ac.in |  			1		  | 
@@ -150,7 +150,7 @@ geometry : margin = 2cm
 <font size = "2">
 
 | Name              | Entry       | Role            | Email                | Participation |
-|-------------------|-------------|-----------------|----------------------|---------------|
+|:-------------------:|:-------------:|-----------------:|:----------------------:|:---------------:|
 | Beauty Kumar      | 2019EE10469 | Sub-coordinator | ee1190469@iitd.ac.in | 1             |
 | Anushka Kaliraman | 2019EE10464 | Member          | ee1190464@iitd.ac.in | 1             |
 | Udita Mittal      | 2019MT60766 | Member          | mt6190766@iitd.ac.in | 1             |
@@ -166,7 +166,7 @@ geometry : margin = 2cm
 <font size = "2">
 
 | Name           | Entry       | Role                           | Email                | Participation |
-|----------------|-------------|--------------------------------|----------------------|---------------|
+|:----------------:|:-------------:|:--------------------------------:|:----------------------:|:---------------:|
 | Krishan Bansal | 2018EE30551 | Sub-coordinator and Researcher | ee3180551@iitd.ac.in | 1             |
 | Gaurav Baghel  | 2019EE30566 | Markdown and Researcher        | ee3190566@iitd.ac.in | 1             |
 | Shivam Jaglan  | 2019EE10053 | Markdown                       | ee1190053@iitd.ac.in | 1             |
@@ -193,7 +193,7 @@ geometry : margin = 2cm
 <font size = "2">
 
 |Name	          |Entry	     |Role             |Email                |Participation |
-|-------------- |------------|-----------------|---------------------|--------------|
+|:--------------:|:------------:|:-----------------:|:---------------------:|:--------------:|
 |Jay Moghariya	|2019EE10495 |Sub-coordinator  |ee1190495@iitd.ac.in |  1   				  |
 |Santak Panda		|2019MT60838 |Member           |mt6190838@iitd.ac.in |   1   				|
 |Mrinal Yadav		|2019MT60997 |Member           |mt6190997@iitd.ac.in |  1					  | 
@@ -208,7 +208,7 @@ geometry : margin = 2cm
 <font size = "2">
 
 |Name	            |Entry	       |Role                     |email           |Participation |
-|--------------  |-----------|-----------------|------------|--------------|
+|:--------------:|:-----------:|:-----------------:|:------------:|:--------------:|
 |			S K Vignesh			  |2019EE10513                  |Sub-coordinator| ee1190513@iitd.ac.in                   |  1   				  |
 |	Vishal Meena					  |   2019MT10735               |Member               |  mt1190735@iitd.ac.in                  |  1    				  |
 |		Pradim Siwa			      |      2019MT10712            |Member               |   mt1190712@iitd.ac.in             |  1					  | 
