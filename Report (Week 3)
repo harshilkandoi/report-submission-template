@@ -31,6 +31,7 @@ geometry : margin = 2cm
 </div>
 
 
+
 ###   Table of Contents 
 
 <br>
@@ -44,7 +45,6 @@ geometry : margin = 2cm
 >
 > [[#Abstract]]
 >
-> [[#Workflow structure]]
 >
 > [[#Specifications]]
 > 
