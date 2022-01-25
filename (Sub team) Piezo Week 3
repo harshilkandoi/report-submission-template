@@ -1,4 +1,4 @@
-## Piezoelectricity
+### Piezoelectricity
 
 
 <font size = "2">
@@ -17,7 +17,7 @@
 
 ---
 
-### Requirements
+##### Requirements
 
 - **Geographical Limitations**
 
@@ -29,7 +29,7 @@
 
 ---
 
-### Modified Specifications
+##### Modified Specifications
 
 
 - [ ] **Piezoelectric Tiles:**
@@ -109,7 +109,7 @@
   
   
   
-### Design
+##### Design
 
 
 Below are the CAD models and designs of the proposed piezoelectric energy harvesters with brief desciption of working model:
@@ -195,7 +195,7 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 
 
-### References
+##### References
 
 - Electronics, Embedded, Power Electronics, Analog Electronics, Internet of Things, Audio Electronics, Electric Vehicles, Events, et al. 2018. “Foot Step Power Generation Circuit Using Piezoelectric Sensor.” Circuit Digest.June 22, 2018.
 
