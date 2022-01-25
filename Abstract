@@ -1,10 +1,8 @@
-This project is about designing a system to meet the entire energy needs of a typical household(defined precisely in the requirements report) without drawing commercial electrical power from the utility. 
-We are using various ways of generating electricty like wind,solar,hydro, etc. , we are also presenting a mechanism to capture the heat lost from electrical appliances like laptops,bulb, gas stove etc. and finally the report contains a method of storing that electricity and distributing it for later use. Some notable mentions are :-
-1)Small Wind turbines can be installed in the houses which will generate electricity from wind , it can even be coated with peizoelectric material which will generate electricity when wind compresses the material.
-2)The floors, staircases are fitted with peizoelectric tiles which generate electricity when they contract and expand. 
-3)There is also a bicycle connected by a dynamo, which will not only produce substantial electricity but will also help people in staying fit. 
-4)using rainwater to run turbines
-5)using solar panels
-6)using thermoelectric generation mechanism which is basically generation of voltage due to temperature difference.
-7)using biomass such as cowdung cakes(especially useful in rural areas).
-For more details and specifications refer the report below.    
+We are designing a modular energy generation system, which can be assembled completely or in parts depending on your geographical limitations and cost bearing capabilities.
+We have mentioned the requirements needed (geographical/structural/machinery wise etc..) for each portion of the system to be assembled , and the user can choose the model which fits his/her budget after checking their geographical compatibility. For eg:- a user living in rural areas will benefit a lot from biogas based electricity (since there are lots of cowdung cakes around) while a user in urban area may not benefit so much from it but he/she might have better access to solar panels and can bear heavy one time costs.
+Similarly areas with open spaces and strong gusty winds can use wind turbines, whereas areas which are enclosed like malls/complexes etc. might benefit more from peizoelectric tiles(since they attract loads of crowd and has people walking 24/7.)
+Houses which have lot of people willing to exercise can benefit from bicycle powered generation , since there will be more man-power and so on.
+We have in total provided with 8 different ways of electricity generation and a storage and distribution system, the limitation of this system is for those who can't use any of the 8 ways due to geographical boundations or cost unaffordability , although such conditions will be rare considering the variety of methods presented. Nonetheless, this system will cater to most people in varying amounts of effectiveness and feasibility.
+The main idea is to have a modular system comprising of lots of options which can then be customized according to user's preferences. The following report contains all the information that a user needs to make the right choices for his/her customized version of the system. In fact an interactive app can be made where upon entering the geographical details and budget , it will make a suggestion for a system customized for that particular locale. 
+
+
