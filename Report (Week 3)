@@ -343,27 +343,279 @@ For more details and specifications refer the report below.
 
 ### Specifications 
 	
+	
 #### Wind
 
+
+##### Requirements
+
+**Geographical requirements**
+
+<p align = "center">
+	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Wind Images\Wind Potential Map.jpeg" alt = "Wind  Potential Map"  | width = "500" height = "300" >
+</p>
+
+
+Though wind power is a very clean source of energy, it is not so easy to harness. To generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least more than 5m/s. The above shown wind power potential map explains how the wind power potential is distributed across India? The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states along the western coast. 
+
+**Other basic requirements**
+
+- The wind turbine should be able to generate a power output to meet the basic energy requirements of a regular household like charging mobile phones and lighting small appliances.
+- An inverter should be used to convert the erratic AC produced by the turbine into DC for energy storage and then back to smoother AC for direct use in the household.
+- Energy storage grid should not be far away from the wind turbine to avoid power loss due to wire resistance.
+- Turbine blades to be made of light materials like carbon fiber or fiber glass, or can also be 3D printed.
+- Length of pole should be high enough to avoid any obstacles, such as trees, houses, in the surrounding and provide an uninterrupted stream flow.
+- The mechanical parts of the turbine, for example, the gear box (used for increasing rpm) will be machined from high tensile steel to ensure wear resistance.
+
+
+##### Specifications
+
+**Components**
+
+- Nacelle: 
+ 
+ |  |  |
+ |:------------:|:-----------:|
+ | Body | Fibreglass and Carbon fibre |
+ | Blade Size  | upto 2.2 m |
+ | Usage/Application | Wind turbine system |
+ | Color | White |
+ | Surface finish | Gelcoat |
+    
+   
+   
+ - Rotor:
+ 
+ |  |  |
+ |:------------:|:-----------:|
+ | Size of rotor | 3 m (in diameter) |
+ | Material for formation of blades | Fibre-reinforced plastic |
+ | Radius of blade | 1.4 m |
+ | Area swept | 6.15 m^2 |
+ | Material used for hub | Aluminum alloy |
+     
+     
+     
+- Generator:
+
+     | | |
+     | :---------------: | :--------------: |
+     | Model | ATO-PMG-NE400WM |
+     | Rated Power | 400W |
+     | Max Power | 445W |
+     | Rated Voltage | 12v/24v/48v |
+     | Rated Speed | 600rpm/min |
+     | Net Weight | 4.5kg |
+     | Output Voltage | AC  |
+     | Rated Torque | 6.37Nm |
+     | Max. Starting Torque | 1Nm |
+     | Synchronous Generator Phase | 3 Phase |
+     | Insulation Class | F |
+     | Service Life | More Than 20 years |
+     | Bearing | HRB or for your order |
+     | Shaft Material | Stainless Steel |
+     | Shell Material | Aluminum Alloy |
+     | Permanent Magnet Material | Rare Earth NdFeB |
+     | Protection Grade | IP54 |
+     | Lubrication | Lubrication Grease |
+     | Working Temperature | -40℃ - 80 ℃ |
+     
+     
+     
+- Tower:
+
+   | | |
+   |:------------:|:-----------:|
+   | Length of pole | 10m (may vary depending upon placement setting) |
+   | Material | Mild Steel |
+
+
+
+**Power generation and utilization**
+
+ |                           |                              |
+ |:-----------------------:|:--------------------------:|
+ | Turbine type              | Horizontal-axis wind turbine |
+ | Blade length              | 1.4 m                        |
+ | Wind speed                | < 5 m/s                      |
+ | Density of air            | 1.23 kg/m³                   |
+ | Available wind power (Pw) | ~540 W                       |
+ | Turbine efficiency        | 40%                          |
+ | Output power              | ~210 W                       |
+ 
+
+**Cost Analysis**
+
+ | Part                                     | Cost    |
+ |:----------------------------------------:|:-------:|
+ | Nacelle                                  | ₹1,000  |
+ | Rotor (Blades + Hub)                     | ₹3,000  |
+ | Generator                                | ₹12,000 |
+ | Tower                                    | ₹6,000  |
+ | Other misc items like gearbox, wind vane, bolts, etc. | ₹2,000  |
+ | **Total**                                | ₹24,000 |
+    
+  The above cost just entails the amount to get all the necessary parts to make the wind turbine excluding the labor cost. So, if we include the man-power needed to get it assembled and build the different parts, the turbine's entire prototype cost is projected to be ₹30,000. This is based on the best-case scenario quote, which excludes any remachining or unforeseen failures. Since there is the possibility of human mistake, accommodations must be taken to guarantee that an accurate situation is presented. As a result, some extra financing should be included to the cost estimate to cover for unanticipated losses.  Therefore, the net cost to make the wind turbine up and running will come about ₹34,000.
+
+
+
+##### Diagrams and Working
+
+Wind turbine designs involves looking over a lot of environmental and mechanical aspects for an efficient and sturdy electrical energy generation system. In our design, we have tried to considered a lot of these factors and have tried to keep the as real as possible. The actual construction of the wind turbine is a secondary objective and has been taken into optimum consideration during the design phase. But as the design of the wind turbine discussed below is based on existing technology investigated in the literature review and research process it's a little difficult to get the exact specifications ready for construction just by working on the design remotely, therefore, depending upon the resources available and the feasibility of the model the design discussed below can be altered.
+
+Below is the CAD model of the small wind turbine along with brief description of some components:
+
+- The blades and rotor are the parts of the turbine that interact with the wind and are designed to enhance efficiency. Blades are made of light materials with good wear and tear resistance, in this design we have used fibre-reinforced plastic. And to prevent the material from ageing, a layer of colored gel is applied to the blade and rotor's external surface. 
+
+<p align = "center">
+	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Wind Images\Front View.jpeg" alt = "Front View"  | width = "300" height = "500" >
+</p>
+
+- The horizontal axis small wind turbine (HAWT) is usually placed on a pole, preferably higher than 10 m, to lessen the impact of turbulent, sheared winds forming in close proximity to the ground. But since it is a small wind turbine with relatively less weight and comparably lower power output, the turbine can be put on a variety of existing structures, including roof tops, and rain water tanks, as long as it keeps the turbine's blades clear of the ground and in a continuous stream tube. Still, in our design we have taken a tubular steel pole for placing the wind turbine above obstacles in urban areas. This can be omitted depending on the place where you want to install the turbine and reduce the installation cost.
+
+<p align = "center">
+	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Wind Images\Side View.jpeg" alt = "Side View"  | width = "300" height = "500" >
+</p>
+
+
+<p align = "center">
+	<img src =  "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Wind Images\Back View.jpeg" alt = "TEG"  | width = "300" height = "500" >
+</p>
+
+After the completion of the mechanical design of the wind turbine, the next step is to look after the electrical connections for energy storage and usage. The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage. More details about the connections is taken up in detail by the energy storage team ahead.
+
+<p align = "center">
+	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Wind Images\Grid Connection diagram.jpeg" alt = "TEG"  | width = "500" height = "300" >
+</p>
+
+
+##### References
+
+- “Installing and Maintaining a Small Wind Electric System,” _Energy.gov_. [https://www.energy.gov/energysaver/installing-and-maintaining-small-wind-electric-system](https://www.energy.gov/energysaver/installing-and-maintaining-small-wind-electric-system) (accessed Jan. 11, 2022).
+- “Wind Power for Homes: How To Use Wind Power At Home Today,” _Inspire Clean Energy_. [https://www.inspirecleanenergy.com/blog/sustainable-living/wind-power-for-homes](https://www.inspirecleanenergy.com/blog/sustainable-living/wind-power-for-homes) (accessed Jan. 11, 2022).
+- “Nacelles | How are they manufactured?,” _Windpower Engineering & Development_. https://www.windpowerengineering.com/how-is-a-nacelle-manufactured/ (accessed Jan. 15, 2022).
+- “Frp /grp Wind Turbine Nacelle Cover, Fiberglass Cover,” _indiamart.com_. https://www.indiamart.com/proddetail/frp-grp-wind-turbine-nacelle-cover-fiberglass-cover-23462129073.html (accessed Jan. 15, 2022).
+- “Windmill Blade,” _indiamart.com_. https://www.indiamart.com/proddetail/windmill-blade-17678651497.html (accessed Jan. 17, 2022).
+- LuvSide, “Generators for Wind Turbine Applications - Part 2: How to Pick One | The Windy Blog,” _https://www.luvside.de/en/_. https://www.luvside.de/en/generators-how-to-pick-one/ (accessed Jan. 17, 2022).
+- “400W 12v/24v/48v Alternator, 3 Phase | ATO.com.” https://www.ato.com/400w-alternator (accessed Jan. 17, 2022).
+- “10 Meter Tubular Steel Pole,” _indiamart.com_. https://www.indiamart.com/proddetail/10-meter-tubular-steel-pole-17130969591.html (accessed Jan. 17, 2022).
+- “WINDExchange: Small Wind Guidebook.” https://windexchange.energy.gov/small-wind-guidebook#installation (accessed Jan. 17, 2022).
+- C. J, V. D, and M. Majid, “Wind energy programme in India: Emerging energy alternatives for sustainable growth,” _Energy & Environment_, vol. 30, p. 0958305X1984129, Apr. 2019, doi: [10.1177/0958305X19841297](https://doi.org/10.1177/0958305X19841297).
 
 
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
-
-
 
 
 
 #### Solar
 
+##### Requirements
+
+**Geographical requirements**
+
+The location of that the house should be such that bright sunlight falls on the roof for significant amount of time.
+
+**Requirements from the house**
+
+ The roof top must contain at-least 200 sq. ft area well enough exposed to direct sunlight to generate 2.5kW of power.
+
+--- 
+
+##### Specifications
+
+**Components**
+
+(1) Bluebird 395 Watt Solar Panels 
+-  Solar Panels designed with high efficiency A+ Grade 5BB Cell Technology. 
+-  Only positive power tolerance. Better than conventional mono-crystalline solar panel 
+-  Built with Heavy-duty silver anodized aluminum frame with Pre-drilled holes on the back of the panel for easy & fast Installation 
+-  PID, Salt mist & ammonia corrosion resistant cells and encapsulant 
+- Attached with IP68 rated Junction box with 3 By Pass Diode, 4mm cable and 2 MC4 connectors 
+
+(2) HAVELLS HRFR PVC 4 sq/mm Yellow 90 m Wire 
+- Nominal Area of Conductor: 4 sq/mm 
+-  Current Carrying Capacity: 42 A 
+- Voltage Grade: 1100 V 
+- Length: 90 m 
+- Insulation Thickness: 0.8 mm 
+
+(3) Solar Panel Mounting Structure Set for 2 Solar Panel (6 Channel, 4 End Clamps, 2 Mid Clamps, 6 Spring Nut M8) 
+
+(4) MBATechmeds Solar Sun Tracker (Single Axis) 
+
+**Power generation **
+
+Assuming house will have bright sunlight for 5 hours daily. The Power output of 6 solar panels monthly(30 days) = 6\*5\*395*30/1000 kWh= 355.5 kWh
+
+We can vary number of solar panels and the bright sunlight available as per the given condition.
+
+**Cost Analysis**
+
+*Installation Cost*
+
+ Cost 6 Bluebird 395 Watt Solar Panels = ₹ 6\*14,250 = ₹ 85,500/- 
+ Cost of HAVELLS HRFR PVC 4 sq/mm Yellow 90 m Wire = ₹4,351/- 
+ Cost of 3 Solar Panel Mounting Structure = ₹ 3\*2,261= ₹6,783/- 
+ Cost of Solar Tracker = ₹6000/- 
+ Total Installation cost = ₹85500+₹4,351+₹6783+₹6000 = ₹102634 
+
+*Maintenance Cost*
+
+Negligible Maintenance cost because we have to just clean the solar panels 
+
+---
+
+##### Diagrams and Working
+
+<p align = "center">
+	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Solar team Images\Solar Panel 2.jpg" alt = "Solar Panel 2"  | width = "600" height = "300" >
+</p>
+
+  - So firstly, solar energy falls on the solar panels. We make sure that solar panels are at the best angles for maximum exposure to the sunlight through an \*Active Solar Tracker\*.This device's sensors react with sunlight and angle the solar panels through drivers and motors accordingly. 
+ 
+ - These solar panels are mounted on the roof with the help of mounting structures and they allow them to maintain and change their position according to the position of the sun. 
+- These solar panels are made up of solar (or photovoltaic) cells that can be used to generate power via the photovoltaic effect. On the surface of solar panels, these cells are organised in a grid-like arrangement. As a result, it can alternatively be described as a collection of photovoltaic modules put on a supporting framework. A photovoltaic (PV) module is a 610 solar cell packaged and linked assembly. 
+
+<p align = "center">
+	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Solar team Images\Solar Panel 1.jpg" alt = "Solar Panel 1"  | width = "500" height = "300" >
+</p>
+
+ - After light strikes these photovoltaic cells they convert that kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
+- These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
+- This electric current generated is then transferred to the inverter through cables and wires and then it is stored in the batteries. This energy is then first converted to AC current through inverters and then is distributed in the house for usage. 
+
+
+##### References
+
+-  ‘1 unit of electricity means 40 Watt Tube Light Running for 25 Hours’. https://www.sciencesstudio.com/2019/08/one-unit-of-electricity-saved.html (accessed Jan. 18, 2022). |
+-  ‘Bluebird Solar 395 Watt - 24 Volt Mono PERC Crystalline Solar Panel \| BIS Certified \| High Efficiency \| 5BB A+ Grade Solar Cells \| Junction Box with MC4 Connector \| Home Lighting & Battery Charging : Amazon.in: Garden & Outdoors’. https://www.amazon.in/Bluebird-Solar-395-Watt-Crystalline/dp/B091TV6M9X/ref=asc\_df\_B091TV6M9X/?tag=googleshopdes-21&linkCode=df0&hvadid=396986918571&hvpos=&hvnetw=g&hvrand=14846268478555082580&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1222930393376&ext_vrnc=hi&th=1 (accessed Jan. 18, 2022). |
+-  ‘Cost of solar system \| Cost of Solar Panels \| Maintenance Cost of Solar’, Lets Save Electricity, Mar. 11, 2020. https://letsavelectricity.com/cost-of-solar-system-in-india/ (accessed Jan. 18, 2022). |
+-  ‘Difference between 3 Star Vs 5 Star Air Conditioners \| Bajaj Finserv’, www.bajajfinserv.in. https://www.bajajfinserv.in/insights/3-star-acs-vs-5-star-acs--which-one-should-you-buy-this-summer (accessed Jan. 18, 2022). |
+-  ‘Electricity usage of an Iron - Energy Use Calculator’. https://energyusecalculator.com/electricity_iron.htm (accessed Jan. 18, 2022). |
+-  ‘How Much is The Power Consumption of Refrigerator? - Save Electricity’, Lets Save Electricity, Jan. 15, 2020. https://letsavelectricity.com/power-consumption-of-a-refrigerator/ (accessed Jan. 18, 2022). |
+- ‘How to Calculate Geyser Power Consumption?’, Check out Paytm Blog - One and Only Stop for All Your Financial Needs, Nov. 24, 2021. https://paytm.com/blog/bill-payments/electricity-bills/how-to-calculate-geyser-power-consumption/ (accessed Jan. 18, 2022). |
+-  ‘L&T (Larsen & Toubro Limited) Three Phase Sub Meter LCD Display 10-60A : Amazon.in: Industrial & Scientific’. https://www.amazon.in/Larsen-Toubro-Limited-Display-10-60A/dp/B09GVWXYWP/ref=asc\_df\_B09GVWXYWP/?tag=googleshopdes-21&linkCode=df0&hvadid=545232819554&hvpos=&hvnetw=g&hvrand=4336388963072329755&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1433459938069&psc=1 (accessed Jan. 18, 2022). |
+-  ‘Power Consumption of a Ceiling Fan’, Atomberg, Aug. 03, 2017. https://atomberg.com/power-consumption-of-a-ceiling-fan/ (accessed Jan. 18, 2022). |
+-  ‘Room Heater in India: heating as expensive as cooling’, Bijli Bachao, Dec. 04, 2012. https://www.bijlibachao.com/appliances/room-heater-in-india-heating-as-expensive-as-cooling-in-north.html (accessed Jan. 18, 2022). |
+-  ‘Solar Panel Mounting Structure Set for 2 Solar Panel (6 Channel, 4 End Clamps, 2 Mid Clamps, 6 Spring Nut M8) : Amazon.in: Garden & Outdoors’. https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc\_df\_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=2597849844069982857&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1457440431503&psc=1 (accessed Jan. 18, 2022). |
+-  ‘Solar power system types: equipment needed, costs, pros, and cons’, Solar Reviews. https://www.solarreviews.com/content/blog/what-equipment-do-you-need-for-a-solar-power-system (accessed Jan. 18, 2022). |
+-  ‘TV Power Consumption in A Day? - Calculate Any TV Power Consumption.’, Lets Save Electricity, Oct. 25, 2019. https://letsavelectricity.com/how-much-power-does-a-tv-use-in-an-hour/ (accessed Jan. 18, 2022). |
+-  M. Ayothi, ‘Washing Machine (Wattage) Power Consumption, Power Saving Tips’, Sep. 29, 2020. https://www.electrical4u.net/energy-calculation/washing-machine-wattage-power-consumption-power-saving-tips/ (accessed Jan. 18, 2022). |
+-  ‘What is the Power consumption of a microwave oven? - Save Electricity’, Lets Save Electricity, Jan. 20, 2020. https://letsavelectricity.com/what-is-the-power-consumption-of-a-microwave-oven/ 
+- “Home Solar System: Renewable Energy Solutions for Residential Users.” \_The Economic Times\_, May 28, 2019. \[https://economictimes.indiatimes.com/small-biz/productline/power-generation/home-solar-system-renewable-energy-solutions-for-residential-users/articleshow/69540881.cms?from=mdr\](https://economictimes.indiatimes.com/small-biz/productline/power-generation/home-solar-system-renewable-energy-solutions-for-residential-users/articleshow/69540881.cms?from=mdr). |
+- ELECTRICAL TECHNOLOGY. “What Components Do You Need for Solar Panel System Installation?,” October 20, 2019. \[https://www.electricaltechnology.org/2019/10/components-solar-panel-system-installation.html\](https://www.electricaltechnology.org/2019/10/components-solar-panel-system-installation.html). |
+-  “What Is a Solar Tracker, How Does It Work, and How Many Types Are There?” Accessed January 11, 2022. \[https://www.solarpowerworldonline.com/2020/01/what-is-a-solar-tracker-and-how-does-it-work/\](https://www.solarpowerworldonline.com/2020/01/what-is-a-solar-tracker-and-how-does-it-work/). |
+- “Trends in India’s Residential Electricity Consumption \| Centre for Policy Research.” Accessed January 11, 2022. \[https://cprindia.org/news/6519\](https://cprindia.org/news/6519). |
 
 
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
+
 
 
 
@@ -427,6 +679,95 @@ For more details and specifications refer the report below.
 
 #### Reuse of wated heat
 
+##### Requirements
+
+**Geographical requirements**
+
+The heat renewal system would work well under all weather and geographical conditions. Notably the system depends only on basic needs such as cooking. Therefore although the energy production is pretty less, it is still a reliable and sustainable way of generating electricity.
+
+**Requirements from the house**
+
+Our goal is to derive energy from heat sources within the house, most notably the cooking stove. Apart from the cooking stove (with two or more burners), presence of other heat producing devices such as geysers, A/C's can increase the energy production.
+
+---
+
+##### Specifications
+
+**Components**
+
+Building the heat renewal system involves the following devices:
+
+(1) Thermoelectric Generators : Which is a solid state device that converts heat flux (temperature differences) directly into electrical energy through a phenomenon called the Seebeck effect (a form of thermoelectric effect).
+
+
+<p align = "center">
+	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Heat Renewal Images\TEG Image.jpg" alt = "TEG"  | width = "500" height = "300" >
+</p>
+
+(2) Household devices : Cooking stove (the primary requirement)
+
+
+**Power generation**
+
+The voltage generated as a result of the temperature difference between the two end of the TEG is depicted in the table below:
+
+
+| 	Temperature	 (C)  |Open Circuit Voltage (V)|Current (mA)	|
+|---------------------|------------------------|----------------|
+|20                   | 0.97                   | 225            |
+|40                   | 1.8                    | 368            |
+|60                   | 2.4                    | 469            |
+|80                   | 3.6                    | 558            |
+|100                  | 4.8                    | 669            |
+
+Assuming the temp. difference (between the two plates of the TEG) to be 40˚ C, the power, P = 1.8 x 0.368 = 0.6624 W. This is the power of this single TEG.
+
+Estimation of electricity generated from cooking : When we cook for 90 minutes, we can generate a current of nearly 16 x 0.368 A = 5.888 A throughout. This is enough to charge a 4.5 AH battery in under an hour.
+
+The energy captured by our heat renewal system can be utilized to power small devices (for a reasonable period of time) such as:
+
+-   A Led bulb which consumes around 7W-10W of power.
+-   An average phone charger which consumes around 4W-5W.
+-   An Extractor / Exhaust Fan which uses around 10-12 W of power.
+-   Apart from these things, the power generated from the above waste heat can be used to charge lots of other chargeable devices such as Clock Radio, smart devices such as Amazon Echo and other small chargeable devices.
+
+
+**Cost Analysis**
+
+*Installation cost*
+
+It is around Rs 250 for each piece, so using around 40 TEGs in the house would cost us Rs 10,000. 
+
+*Running and Maintenance Cost*
+
+The device can bear a maximum temp. of 150˚ C, and thus can be used inside the houses, without a danger of damage. The device can up-to work 200,000 hours (around 22-23 years). 
+
+Therefore, the system is a one time installment which will work for years.
+
+---
+
+
+##### Diagrams and Working
+
+<p align = "center">
+	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Heat Renewal Images\Stove Connection (2).jpg" alt = "Stove (2)"  width = "600" height = "400" >
+</p>
+
+**Working Principle** :  The TEG system contains two dissimilar thermoelectric materials joined at ends which acquire temperature gradient at ends upon application of heat and thereby, electrons flow towards cooler side. Thermoelectric genrators generate power directly from converting this temperature difference into electric voltage. 
+
+**Installation** : We will install the TEG's around the burners in the kitchen. The dimensions of a TEG are 40 x 40 x 3.6 mm^3, so we could place 8 TEG's around each burner. So using two burners, we can place 16 TEGs around them. As the TEG has low thermal conductivity this ensures that the one side nearer to the flame becomes very hot, while the other side stays relatively much cooler, this then helps to create a voltage. On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
+
+---
+
+##### References
+
+- _Power generation through Thermoelectric generators_. (n.d.). Retrieved January 18, 2022, from [https://krazytech.com/technical-papers/power-generation-thermoelectric-generators](https://krazytech.com/technical-papers/power-generation-thermoelectric-generators)
+
+- _SP1848-27145 Thermoelectric Power Generator TEG 150°C Peltier Module buy online at Low Price in India—ElectronicsComp.com_. (n.d.). Retrieved January 18, 2022, from [https://www.electronicscomp.com/sp1848-27145-thermoelectric-power-generator-teg-150-degree-c-peltier-module](https://www.electronicscomp.com/sp1848-27145-thermoelectric-power-generator-teg-150-degree-c-peltier-module)
+
+- Thermoelectric generator. (2022). In _Wikipedia_ [https://en.wikipedia.org/w/index.phptitle=Thermoelectric_generator&oldid=1063976547](https://en.wikipedia.org/w/index.php?title=Thermoelectric_generator&oldid=1063976547)
+
+- _Wattage & Power Consumption Of Typical Household Appliances | 106 Appliances in All—Lets Save Electricity_. (n.d.). Retrieved January 18, 2022, from [https://letsavelectricity.com/wattage-power-consumption-of-household-appliances/](https://letsavelectricity.com/wattage-power-consumption-of-household-appliances/)
 
 
 ---
@@ -434,6 +775,8 @@ For more details and specifications refer the report below.
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
+
+
 
 
 
