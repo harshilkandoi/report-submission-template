@@ -1172,6 +1172,10 @@ Therefore, the system is a one time installment which will work for years.
 
 **Working Principle** :  The TEG system contains two dissimilar thermoelectric materials joined at ends which acquire temperature gradient at ends upon application of heat and thereby, electrons flow towards cooler side. Thermoelectric genrators generate power directly from converting this temperature difference into electric voltage. 
 
+<p align = "center">
+	<img src = file:///C:/Users/DELL/Desktop/TEG.svg alt = "Stove (2)"  width = "600" height = "400" >
+</p>
+
 **Installation** : We will install the TEG's around the burners in the kitchen. The dimensions of a TEG are 40 x 40 x 3.6 mm^3, so we could place 8 TEG's around each burner. So using two burners, we can place 16 TEGs around them. As the TEG has low thermal conductivity this ensures that the one side nearer to the flame becomes very hot, while the other side stays relatively much cooler, this then helps to create a voltage. On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
 
 ---
