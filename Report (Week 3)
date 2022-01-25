@@ -1,1 +1,447 @@
+---
+geometry : margin = 2cm
+---
 
+# <center>  ELP305 : Design and Systems Lab </center>  
+## <center>  Think off-grid living : SUNERGY   </center>
+## <center> Tribe C     </center>
+
+<br>
+<br>
+<br>
+<br>
+
+<p align = "center">
+	<img src = "https://upload.wikimedia.org/wikipedia/en/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg" alt = "IITD Logo" >
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+> ##### Motivation
+> Ensuring access to affordable, sustainable and reliable energy is one of the 17 sustainable development goals. In this paper we discuss possible ways of generating electricity, to fulfill the energy needs of houses without drawing commercial electrical power from the utility.
+
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+###   Table of Contents 
+
+<br>
+<br>
+
+> [[#Authors]]
+>
+> [[#documentation]]
+>
+> [[#Readability Indices]]
+>
+> [[#Abstract]]
+>
+> [[#Workflow structure]]
+>
+> [[#Specifications]]
+> 
+>> [[#Wind]]
+>> 
+>> [[#Mechanical]]
+>>
+>> [[#Solar]]
+>> 
+>> [[#Hydroelectricity]]
+>> 
+>> [[#Piezoelectricity]]
+>> 
+>> [[#Thermoelectricity]]
+>> 
+>> [[#Electricity from biogas]]
+>> 
+>> [[#Reuse of wasted heat]]
+>> 
+>> [[#Storage of energy]]
+
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+###  Authors 
+
+<font size = "2">
+
+
+| Name           | Entry       | Role           | Email                | Participation |
+|:--------------:|:-----------:|:--------------:|:--------------------:|:-------------:|
+| Harshil kandoi | 2018EE10465 | Co-Coordinator | ee1180465@iitd.ac.in | 1             |
+| Akash Vardhan  | 2018EE10437 | Co-Coordinator | ee1180437@iitd.ac.in | 1             |
+
+</font>
+
+#### Wind
+<font size = "2">
+
+
+
+| Name         | Entry       | Role            | Email                | Participation |
+|:------------:|:-----------:|:---------------:|:--------------------:|:-------------:|
+| Garv Kumar   | 2019EE10477 | Sub-coordinator | ee1190477@iitd.ac.in |       1       |
+| Ayush        | 2019EE10467 | Member          | ee1190467@iitd.ac.in |       1       |
+| Madhav Saini | 2019EE10492 | Member          | ee1190492@iitd.ac.in |       1       |
+| Naveen Kumar | 2019MT10706 | Member          | mt1190706@iitd.ac.in |       1       |
+| Satvik Dixit | 2019EE30128 | Member          | ee3190128@iitd.ac.in |       1       |
+
+</font>
+
+
+
+#### Mechanical
+
+
+<font size = "2">
+
+|Name	             |Entry	      |Role             |email                |Participation|
+|------------------|------------|-----------------|---------------------|-------------|
+|Himanshu Kumar	   |2019EE30572 |Sub-coordinator  |ee3190572@iitd.ac.in |     	1			|
+|Rishi Raj		     |2019MT60758 |Member           |mt6190758@iitd.ac.in |      		1		|
+|Rahul Kain        |2019EE30592 |Member           |ee3190592@iitd.ac.in |  			1		  | 
+|Ravi Kumar Narnolia      |2019EE10511 |Member           |ee1190511@ee.iitd.ac.in | 					1  |
+
+</font>
+
+
+#### Solar
+
+<font size = "2">
+
+|Name	             |Entry	      |Role             |email                |Participation|
+|------------------|------------|-----------------|---------------------|-------------|
+|Jasmeet Singh	   |2019MT60631 |Sub-coordinator  |mt6190631@iitd.ac.in |     	1			|
+|Bhavya Jain		   |2019EE10622 |Member           |ee1190622@iitd.ac.in |      		1		|
+|Rishabh Bhatnagar |2019EE30594 |Member           |ee3190594@iitd.ac.in |  			1		  | 
+|Sagar Sharma      |2019EE10515 |Member           |ee1190515@iitd.ac.in | 					1  |
+|Leaandro Rodricks |2019MT10702 |Member           |mt1190702@iitd.ac.in |  				1	  |   
+
+</font>
+
+
+#### Hydroelectricity
+
+<font size = "2">
+
+|           Name           |    Entry    |      Role       |        Email         | Participation |
+| :----------------------: | :---------: | :-------------: | :------------------: | :-----------: |
+|       Nikhil Kumar       | 2019EE10498 | Sub-coordinator | ee1190498@iitd.ac.in |       1       |
+|      Sarthak Gupta       | 2019EE30296 |     Member      | ee3190296@iitd.ac.in |       1       |
+| Malpani Suraj Prafulbhai | 2019EE30578 |     Member      | ee3190578@iitd.ac.in |       1       |
+|      Anisha Banthia      | 2019EE10461 |     Member      | ee1190461@iitd.ac.in |       1       |
+
+</font>
+
+
+#### Piezoelectricity
+
+<font size = "2">
+
+| Name              | Entry       | Role            | Email                | Participation |
+|-------------------|-------------|-----------------|----------------------|---------------|
+| Beauty Kumar      | 2019EE10469 | Sub-coordinator | ee1190469@iitd.ac.in | 1             |
+| Anushka Kaliraman | 2019EE10464 | Member          | ee1190464@iitd.ac.in | 1             |
+| Udita Mittal      | 2019MT60766 | Member          | mt6190766@iitd.ac.in | 1             |
+| Rohit Jain        | 2019MT10721 | Member          | mt1190721@iitd.ac.in | 1             |
+| Shruti Jain       | 2019MT10726 | Member          | mt1190726@iitd.ac.in | 1             |
+| Prakriti Agarwal  | 2019EE30589 | Member          | ee3190589@iitd.ac.in | 1             |
+
+
+</font>
+
+#### Thermoelectricity
+
+<font size = "2">
+
+| Name           | Entry       | Role                           | Email                | Participation |
+|----------------|-------------|--------------------------------|----------------------|---------------|
+| Krishan Bansal | 2018EE30551 | Sub-coordinator and Researcher | ee3180551@iitd.ac.in | 1             |
+| Gaurav Baghel  | 2019EE30566 | Markdown and Researcher        | ee3190566@iitd.ac.in | 1             |
+| Shivam Jaglan  | 2019EE10053 | Markdown                       | ee1190053@iitd.ac.in | 1             |
+
+</font>
+
+
+#### Electricity from biogas
+
+<font size = "2">
+
+|            Name            |    Entry    |      Role       |        email         | Participation |
+|:--------------------------:|:-----------:|:---------------:|:--------------------:|:-------------:|
+| Parjanya Prajakta Prashant | 2019EE10501 | Sub-coordinator | ee1190501@iitd.ac.in |       1       |
+|       Vardaan Taneja       | 2019EE10061 |     Member      | ee1190061@iitd.ac.in |       1       |
+|      Mrityunjay Gupta      | 2018EE10478 |     Member      | ee1180478@iitd.ac.in |       1       |
+|        Shuchi Singh        | 2018EE10502 |     Member      | ee1180502@iitd.ac.in |       1       |
+
+</font>
+
+
+#### Reuse of wasted heat
+
+<font size = "2">
+
+|Name	          |Entry	     |Role             |Email                |Participation |
+|-------------- |------------|-----------------|---------------------|--------------|
+|Jay Moghariya	|2019EE10495 |Sub-coordinator  |ee1190495@iitd.ac.in |  1   				  |
+|Santak Panda		|2019MT60838 |Member           |mt6190838@iitd.ac.in |   1   				|
+|Mrinal Yadav		|2019MT60997 |Member           |mt6190997@iitd.ac.in |  1					  | 
+|Harsh Agarwal  |2019EE10482 |Member           |ee1190482@iitd.ac.in | 	1				    |
+|Pankaj Kumar   |2019EE10500 |Member           |ee1190500@iitd.ac.in |  1					  |   
+
+</font>
+
+
+#### Storage of energy
+
+<font size = "2">
+
+|Name	            |Entry	       |Role                     |email           |Participation |
+|--------------  |-----------|-----------------|------------|--------------|
+|			S K Vignesh			  |2019EE10513                  |Sub-coordinator| ee1190513@iitd.ac.in                   |  1   				  |
+|	Vishal Meena					  |   2019MT10735               |Member               |  mt1190735@iitd.ac.in                  |  1    				  |
+|		Pradim Siwa			      |      2019MT10712            |Member               |   mt1190712@iitd.ac.in             |  1					  | 
+|                 Harisam Sharma        |  			2019EE30570	 |Member               |        ee3190570@iitd.ac.in      | 	1				  |
+|                     Vaibhav Soni    |				 2019EE10542	 |Member               |   ee1190542@iitd.ac.in           |  	1				  
+|		Dasaradhi Lokesh				  |  2019MT60751                 |Member               |          mt6190751@iitd.ac.in           |  1    				  |
+|			Deepankar Tiwari			  |          2018EE30536        |Member               |       ee3180536@iitd.ac.in            |      1				  |
+|				Prashant Verma		  |           2018EE30556       |Member               |            ee3180556@iitd.ac.in       |    1  				  |
+|					Abhishek Palway	  |           2019EE10459       |Member               |           ee1190459@iitd.ac.in        |    1  				  |
+|				Lakshika Rathi		  |       2019EE10491           |Member               |   ee1190491@iitd.ac.in                |      		1		  |
+
+
+</font>
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+
+
+### Documentation
+
+
+Details of authorisers:-
+
+<font size = "2">
+
+
+| Name           | Entry       | Role           | Email                | 
+|:--------------:|:-----------:|:--------------:|:--------------------:|
+| Harshil kandoi | 2018EE10465 | Co-Coordinator | ee1180465@iitd.ac.in | 
+| Akash Vardhan  | 2018EE10437 | Co-Coordinator | ee1180437@iitd.ac.in |
+
+</font>
+
+
+<font size = "2">
+
+| Document ID | v1.0   |
+|----------|----------|
+| Team Name     | TRIBE C    |
+| Contact for correction/clarification | Harshil kandoi(ee1180465@iitd.ac.in) |
+|                                      | Akash Vardhan(ee1180437@iitd.ac.in) |
+| classification level                 | public                             |
+| Submitted to                        | Prof. Subrat Kar, Instructor, ELP305 Design and Systems Lab |
+| Date of creation                    | 18 Jan 2022 at 10:00PM |
+
+</font>
+
+- You can go to the github repository named "report-submission-tempalate" to access the original document.
+
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+###  Readability Indices 
+
+#### Document Statistics
+
+- *Total number of sentences*:  
+- *Word count* : 
+- *Total number of complex words*: 
+- *Percent of complex words* : 
+- *Average number of words per sentence*: 
+- *Average syllables per word*: 
+
+---
+
+#### Document readability indices
+
+- *Flesch Kincaid Reading Ease* : 
+- *Flesch Kincaid Grade Level* : 
+- *Gunning Fog Score* : 
+- *SMOG Index* : 
+- *Coleman Liau Index* : 
+- *Automated Readability Index* : 
+
+
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+### Abstract 
+
+This project is about designing a system to meet the entire energy needs of a typical household(defined precisely in the requirements report) without drawing commercial electrical power from the utility. 
+
+We are using various ways of generating electricity like wind,solar,hydro, etc. , we are also presenting a mechanism to capture the heat lost from electrical appliances like laptops,bulb, gas stove etc. and finally the report contains a method of storing that electricity and distributing it for later use. Some notable mentions are :-
+
+-  Small Wind turbines can be installed in the houses which will generate electricity from wind , it can even be coated with peizoelectric material which will generate electricity when wind compresses the material.
+
+-  The floors, staircases are fitted with peizoelectric tiles which generate electricity when they contract and expand. 
+ 
+- There is also a bicycle connected by a dynamo, which will not only produce substantial electricity but will also help people in staying fit.
+
+-  using rainwater to run turbines
+
+-  using solar panels
+
+-  using thermoelectric generation mechanism which is basically generation of voltage due to temperature difference.
+ 
+-  using biomass such as cowdung cakes(especially useful in rural areas).
+
+For more details and specifications refer the report below.  
+
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+
+### Workflow structure
+
+
+
+
+
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+### Specifications 
+	
+#### Wind
+
+
+
+---
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+
+
+#### Solar
+
+
+
+---
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+
+#### Mechanical 
+
+
+
+---
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+
+#### Hydroelectricity
+
+
+
+
+---
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+#### Piezoelectricity
+
+
+---
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+#### Thermoelectricity
+
+
+
+
+---
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+#### Electricity from biogas
+
+
+
+---
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+#### Reuse of wated heat
+
+
+
+---
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
+#### Storage of energy
+
+---
+
+
+
+
+ 
