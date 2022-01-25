@@ -543,18 +543,16 @@ Negligible Maintenance cost because we have to just clean the solar panels
 
 ##### Diagrams and Working
 
-<p align = "center">
-	<img src = "https://imgur.com/1FH0bMG" alt = "Solar Panel 2"  | width = "600" height = "300" >
-</p>
+![](https://imgur.com/1FH0bMG)
+
 
   - So firstly, solar energy falls on the solar panels. We make sure that solar panels are at the best angles for maximum exposure to the sunlight through an \*Active Solar Tracker\*.This device's sensors react with sunlight and angle the solar panels through drivers and motors accordingly. 
  
  - These solar panels are mounted on the roof with the help of mounting structures and they allow them to maintain and change their position according to the position of the sun. 
 - These solar panels are made up of solar (or photovoltaic) cells that can be used to generate power via the photovoltaic effect. On the surface of solar panels, these cells are organised in a grid-like arrangement. As a result, it can alternatively be described as a collection of photovoltaic modules put on a supporting framework. A photovoltaic (PV) module is a 610 solar cell packaged and linked assembly. 
 
-<p align = "center">
-	<img src = "https://imgur.com/hBhp1j9" alt = "Solar Panel 1"  | width = "500" height = "300" >
-</p>
+![](https://imgur.com/hBhp1j9)
+
 
  - After light strikes these photovoltaic cells they convert that kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
