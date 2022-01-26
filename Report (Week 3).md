@@ -39,7 +39,7 @@ geometry : margin = 2cm
 
 > [[#Authors]]
 >
-> [[#documentation]]
+> [[#Documentation]]
 >
 > [[#Readability Indices]]
 >
