@@ -63,7 +63,7 @@ geometry : margin = 2cm
 >> 
 >> [[#Reuse of wasted heat]]
 >> 
->> [[#Storage of energy]]
+>> [[#Energy Storage And Distribution]]
 
 
 <div style = "page-break-after: always; visibility: hidden">
@@ -202,7 +202,7 @@ geometry : margin = 2cm
 </font>
 
 
-#### Storage of energy
+#### Energy Storage And Distribution
 
 <font size = "2">
 
@@ -1422,18 +1422,14 @@ Therefore, the system is a one time installment which will work for years.
 
 
 
-
-#### Storage of energy
-
 ### Energy Storage And Distribution
-
 
 ##### Requirements
 
 
 **House Requirements**
-1. **Ventilation and Temperature:** A shaded, dry place with reasonably free airflow. Operational temperature range 10$C^\circ$ to 40$C^\circ$ , Ideal temperature range of 25-35$C^\circ$
-2. **Space and Area:**
+1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10$C^\circ$ to 40$C^\circ$ , Ideal temperature range of 25-35$C^\circ$
+2. *Space and Area:*
 
 |Tier |Volume (in litres) |Area (cm$\times$cm)|
 |--|--|--|
@@ -1441,28 +1437,32 @@ Therefore, the system is a one time installment which will work for years.
 |*Base*|513|77 $\times$ 60|
 |*Economy*|162|54 $\times$ 40|
 
-##### Specifications
-### Charger Specifications
-  **Chargers** --- *per source*
+--- 
+
+##### Specification
+
+**Charger Specifications**
+  *Chargers* --- *per source*
 The chargers used are of the MPPT (Maximum power point tracking) type are preferred , which allows for networking and better efficiency compared to PWM type.
 	  
-	 
-| **Source** | **Specification** |**Cost** (INR) |
-|--|--|--|
-| **Solar**-*Plus*| 24V/48V 60A *Sparkel* MPPT charge controller | 16500 |
-| **Solar**-*Base*| 24V/48V 50A *Smarten* MPPT charge controller | 11440 |
-| **Solar**-*lite*| 12V/24V 30A *Sparkel* PWM Digital Solar Charge Controller | 1100 |
-| *Wind* |24V 500W *ato* wind turbine MPPT controller  | 8200 (99.82USD) 
-|*combustion*  |*not required*(direct(ac-dc) inverter connection)  |-
+	
+
+| Source | Specification | Cost (INR) |
+|--------|---------------|------------|
+| *Solar*-*Plus* | 24V/48V 60A *Sparkel* MPPT charge controller | 16500|
+| *Solar*-*Base*| 24V/48V 50A *Smarten* MPPT charge controller | 11440 |
+| *Solar*-*lite*| 12V/24V 30A *Sparkel* PWM Digital Solar Charge Controller | 1100 
+| *Wind* |24V 500W *ato* wind turbine MPPT controller  | 8200 (99.82USD)
+| *combustion*  |*not required*(direct(ac-dc) inverter connection)  | -
 | *Hydro* |12V/24V *Ethan* 30A MPPT charge controllers  |5000
-|*Mechanical*|12/24V *sunzter Trak* 10A MPPT controller| 1800
+| *Mechanical*|12/24V *sunzter Trak* 10A MPPT controller| 1800
 
 The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
 
-- --
-### Battery-Inverter Specifications
+##### Battery-Inverter Specifications
 
 ##### *Plus* tier
+
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1556,7 +1556,7 @@ The sources Mentioned above are the major Power sources and other power sources 
 
 
 
-#### *Economy* tier
+##### *Economy* tier
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1601,6 +1601,8 @@ The sources Mentioned above are the major Power sources and other power sources 
  - *Initial Setup Cost:-*  **16000 INR** (including Wiring and labour ) for only battery system
  - *Maintenance And Running cost:-* 700 INR per annum
  - *lifespan:-* *3 Years for the battery* and *10 years for the rest of the system*
+ 
+---
 
 ##### Diagrams and Working
 Unlike living offgrid , offgrid and independent electrical systems are more complicated than normal electrical wiring and must contain the functionalities similar to a national grid like load balancing and maintaining a fairly constant frequency and voltage. The energy Storage and management system essentially does the following functions -
@@ -1650,9 +1652,6 @@ The setup is same across all tiers with the main difference between each tier is
 ***Economy* Tier**
 1. https://www.moglix.com/solar-universe-india-240w-300va-off-grid-solar-inverter-sui-300va-12v-inverter/mp/msn75dqrwmyv92?s_kwcid=AL!10177!3!455163737679
 2. https://www.batteryboss.in/battery/amaron-current-short-tubular-ar165st36-165ah?gclid=CjwKCAiA866PBhAYEiwANkIneBXM18Txykd1zZI6e8ariXiibsEJGPcKpdkfLRhUIXP1jYE3u4_pQRoCE90QAvD_BwE
-
-
----
 
 
 ---
