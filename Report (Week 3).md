@@ -325,9 +325,8 @@ The main idea is to have a modular system comprising of lots of options which ca
 **Geographical requirements**
 
 <p align = "center">
-	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Wind Images\Wind Potential Map.jpeg" alt = "Wind  Potential Map"  | width = "500" height = "300" >
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a>
 </p>
-
 
 Though wind power is a very clean source of energy, it is not so easy to harness. To generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least more than 5m/s. The above shown wind power potential map explains how the wind power potential is distributed across India? The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states along the western coast. 
 
@@ -439,24 +438,24 @@ Below is the CAD model of the small wind turbine along with brief description of
 - The blades and rotor are the parts of the turbine that interact with the wind and are designed to enhance efficiency. Blades are made of light materials with good wear and tear resistance, in this design we have used fibre-reinforced plastic. And to prevent the material from ageing, a layer of colored gel is applied to the blade and rotor's external surface. 
 
 <p align = "center">
-	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Wind Images\Front View.jpeg" alt = "Front View"  | width = "300" height = "500" >
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/DMpd5BC/Front-View.jpg" alt="Front View" border="0"></a>
 </p>
 
 - The horizontal axis small wind turbine (HAWT) is usually placed on a pole, preferably higher than 10 m, to lessen the impact of turbulent, sheared winds forming in close proximity to the ground. But since it is a small wind turbine with relatively less weight and comparably lower power output, the turbine can be put on a variety of existing structures, including roof tops, and rain water tanks, as long as it keeps the turbine's blades clear of the ground and in a continuous stream tube. Still, in our design we have taken a tubular steel pole for placing the wind turbine above obstacles in urban areas. This can be omitted depending on the place where you want to install the turbine and reduce the installation cost.
 
 <p align = "center">
-	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Wind Images\Side View.jpeg" alt = "Side View"  | width = "300" height = "500" >
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/7ghSwyy/Side-View.jpg" alt="Side View" border="0"></a>
 </p>
 
 
 <p align = "center">
-	<img src =  "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Wind Images\Back View.jpeg" alt = "TEG"  | width = "300" height = "500" >
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/Pzd5T69/Back-View.jpg" alt="Back View" border="0"></a>
 </p>
 
 After the completion of the mechanical design of the wind turbine, the next step is to look after the electrical connections for energy storage and usage. The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage. More details about the connections is taken up in detail by the energy storage team ahead.
 
 <p align = "center">
-	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Wind Images\Grid Connection diagram.jpeg" alt = "TEG"  | width = "500" height = "300" >
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/D59H6yC/Grid-Connection-diagram.jpg" alt="Grid Connection diagram" border="0"></a>
 </p>
 
 
@@ -474,6 +473,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 - C. J, V. D, and M. Majid, “Wind energy programme in India: Emerging energy alternatives for sustainable growth,” _Energy & Environment_, vol. 30, p. 0958305X1984129, Apr. 2019, doi: [10.1177/0958305X19841297](https://doi.org/10.1177/0958305X19841297).
 
 ---
+
 
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -1342,9 +1342,8 @@ Building the heat renewal system involves the following devices:
 
 (1) Thermoelectric Generators : Which is a solid state device that converts heat flux (temperature differences) directly into electrical energy through a phenomenon called the Seebeck effect (a form of thermoelectric effect).
 
-
 <p align = "center">
-	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Heat Renewal Images\TEG Image.jpg" alt = "TEG"  | width = "500" height = "300" >
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/93wBzwy/TEG-Image.jpg" alt="TEG-Image" border="0"></a>
 </p>
 
 (2) Household devices : Cooking stove (the primary requirement)
@@ -1393,14 +1392,11 @@ Therefore, the system is a one time installment which will work for years.
 ##### Diagrams and Working
 
 <p align = "center">
-	<img src = "C:\Users\DELL\Desktop\ELP 305\ELP Vault\Heat Renewal Images\Stove Connection (2).jpg" alt = "Stove (2)"  width = "600" height = "400" >
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/hdpxhFL/Stove-Connection-2.jpg" alt="Stove Connection (2)" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a>
 </p>
 
 **Working Principle** :  The TEG system contains two dissimilar thermoelectric materials joined at ends which acquire temperature gradient at ends upon application of heat and thereby, electrons flow towards cooler side. Thermoelectric genrators generate power directly from converting this temperature difference into electric voltage. 
 
-<p align = "center">
-	<img src = file:///C:/Users/DELL/Desktop/TEG.svg alt = "Stove (2)"  width = "600" height = "400" >
-</p>
 
 **Installation** : We will install the TEG's around the burners in the kitchen. The dimensions of a TEG are 40 x 40 x 3.6 mm^3, so we could place 8 TEG's around each burner. So using two burners, we can place 16 TEGs around them. As the TEG has low thermal conductivity this ensures that the one side nearer to the flame becomes very hot, while the other side stays relatively much cooler, this then helps to create a voltage. On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
 
@@ -1418,7 +1414,6 @@ Therefore, the system is a one time installment which will work for years.
 
 
 ---
-
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
