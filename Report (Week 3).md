@@ -45,7 +45,7 @@ geometry : margin = 2cm
 >
 > [[#Abstract]]
 >
-> [[#Specifications]]
+> [[#Designed System]]
 > 
 >> [[#Wind]]
 >> 
@@ -315,7 +315,7 @@ The main idea is to have a modular system comprising of lots of options which ca
 
 
 
-### Specifications 
+### Designed System 
 	
 	
 #### Wind
