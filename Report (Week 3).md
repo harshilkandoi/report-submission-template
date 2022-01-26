@@ -39,12 +39,14 @@ geometry : margin = 2cm
 
 > [[#Authors]]
 >
-> [[#Documentation]]
+> [[#documentation]]
 >
 > [[#Readability Indices]]
 >
 > [[#Abstract]]
 >
+> [[#To Do]]
+> 
 > [[#Designed System]]
 > 
 >> [[#Wind]]
@@ -307,12 +309,19 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 - The main idea is to have a modular system comprising of lots of options which can then be customized according to user's preferences. The following report contains all the information that a user needs to make the right choices for his/her customized version of the system. In fact an interactive app can be made where upon entering the geographical details and budget , it will make a suggestion for a system customized for that particular locale. 
 
-
+- Also in the storage of energy sub section, We have provided with three categories:- **plus tier system**, **base tier system**, **economy tier system**. The user can choose
+  according to his/her preferences.   
 
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
 
+
+### To Do
+- First check the geographical and basic requirements of the system you wish to incorporate in your customized design,
+- Then check out if you can bear the one time installation and maintainence costs
+- After finalizing the selected systems based on the above two points, select the tier system for energy storage and distribution based on the energy generated in your system and the cost affordability.
+- Congratulations! You finally have your own customized system according to your specific needs!!  
 
 
 
