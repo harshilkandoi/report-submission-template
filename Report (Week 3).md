@@ -304,7 +304,8 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 - Similarly areas with open spaces and strong gusty winds can use wind turbines, whereas areas which are enclosed like malls/complexes etc. might benefit more from peizoelectric tiles(since they attract loads of crowd and has people walking 24/7.)
 - Houses which have lot of people willing to exercise can benefit from bicycle powered generation , since there will be more man-power and so on.
 - We have in total provided with 8 different ways of electricity generation and a storage and distribution system, the limitation of this system is for those who can't use any of the 8 ways due to geographical boundations or cost unaffordability , although such conditions will be rare considering the variety of methods presented. Nonetheless, this system will cater to most people in varying amounts of effectiveness and feasibility.
-The main idea is to have a modular system comprising of lots of options which can then be customized according to user's preferences. The following report contains all the information that a user needs to make the right choices for his/her customized version of the system. In fact an interactive app can be made where upon entering the geographical details and budget , it will make a suggestion for a system customized for that particular locale. 
+
+- The main idea is to have a modular system comprising of lots of options which can then be customized according to user's preferences. The following report contains all the information that a user needs to make the right choices for his/her customized version of the system. In fact an interactive app can be made where upon entering the geographical details and budget , it will make a suggestion for a system customized for that particular locale. 
 
 
 
