@@ -13,17 +13,18 @@
    
  3) total size occupied by all the systems so that we can model dimensions of our house 
  4) house needs to be added with proper dimensions 
+ 5) Adjust labour/ intallation costs based on daily wage criteria based on labour info
  
  
  FORMAT BASED CORRECTIONS:-
  1) Avoid <font size="2">, and <center></center> type edits.
- 2) Grammatical and typographical errors exist. 
- 3) vendor info, making sure the availaibilty of vendor in that particular country/area
+ 2) Grammatical and typographical errors exist. #use grammarly 
+ 3) vendor info, making sure the availaibilty of vendor in that particular country/area #discussion for lifepo4
  4) documentation statistics :- should be in tabular form, readibilty indices number should have a describing word in bracket next to it like easy, moderate, difficult etc.
  5) list of abbreviations
     -has the right type of words whose abbreviations are non-obvious unless listed here.
  6) list of tables
- 7) list of figures
+ 7) list of figures (use table format)
     -Figures which are similar are grouped together as sub-figures e.g. 1(a) , 1(b) , 1(c) etc. 
  8) tables,figures should be numbered and captioned
  9) gantt charts(all 4)
