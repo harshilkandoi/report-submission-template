@@ -1,0 +1,39 @@
+
+1) addition of 2 more sections:- 
+   - closure
+   - re-use
+2) geographical requirements:- a world map or some kind of description for the availaibilty of your resource in different landscapes.
+   -solar:- can do it latitude wise, or ...........(fill in the blanks)
+   -wind:- please include a world map too
+   -hydro:- based on rainfall or river locations or ...........(fill in the blanks)
+   -peizo:- suggest places like maybe malls,restaurants, public places or ..........(fill in the blanks)
+   -mechanical:- size that your bikes will occupy in each house 
+   -storage:- size occupied by of stack of batteries 
+   -add any other extra point 
+   
+ 3) total size occupied by all the systems so that we can model dimensions of our house 
+ 4) house needs to be added with proper dimensions 
+ 
+ 
+ FORMAT BASED CORRECTIONS:-
+ 1) Avoid <font size="2">, and <center></center> type edits.
+ 2) Grammatical and typographical errors exist. 
+ 3) vendor info, making sure the availaibilty of vendor in that particular country/area
+ 4) documentation statistics :- should be in tabular form, readibilty indices number should have a describing word in bracket next to it like easy, moderate, difficult etc.
+ 5) list of abbreviations
+    -has the right type of words whose abbreviations are non-obvious unless listed here.
+ 6) list of tables
+ 7) list of figures
+    -Figures which are similar are grouped together as sub-figures e.g. 1(a) , 1(b) , 1(c) etc. 
+ 8) tables,figures should be numbered and captioned
+ 9) gantt charts(all 4)
+ 10) references of images need to be added
+ 11) IEEE citation style with references at the end
+ 12) highlighting low contributing members, add email addresses of each member
+ 13) 
+ 14) Mindmap is not given.
+     -Well-designed mindmap makes it easy to read and appreciate the organisation of the design report.
+ 15) Scope : What is and is not covered in this report should be clearly mentioned
+ 16) Abstract is lengthy !
+ 17) Instead of calling a sub-team as "Reuse of wasted heat" , I suggest "Team for Waste Heat Re-Use"
+ 18) technical content should be without any ambiguity. Correctly stated logical design. Modular design.
