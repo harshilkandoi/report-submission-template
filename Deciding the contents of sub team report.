@@ -3,34 +3,11 @@ It is highly important that we decide what are the things we want to write in su
 We should decide the contents that must be present in the different sections.
 
 
-1. Requirements (This will be the first section in a sub team report)
 
-What all things should be written under this section.
-
--> Geographical requirements
--> what else?
-->
+Geographical requirements
 
 
-
-2. Specifications
-
--> Components
--> Power generation (what all can the system power)
-  -> What is Peak Power
-  -> What is Average Power over energy source duration ?
-  -> What is the amount of units of energy ( units == kWhr) expected to be produced ?
-  -> What is the mode through which your system will output energy ( DONOT INCLUDE STORAGE)
--> Cost analysis
-## Remove chargers from your reports, energy storage team will handle it
-## but send which charger you wawnt to use to the energy storage  team
-
-
-3. Diagrams and Working
-
--> Working principle
--> Actual implementation
-## Add updated geographical specifications too in your reports
-
-
-
+FORMAT BASED CHANGES:- 
+1) CAPTION AND NUMBER ALL THE TABLES , FIGURES. YOU CAN GP SIMILAR FIGURES TOGETHER IN PARTS LIKE 1.a,1.b ETC
+2) REFERENCES OF IMAGES NEED TO BE ADDED
+3) NO GRAMMATICAL/SPELLING ERRORS
