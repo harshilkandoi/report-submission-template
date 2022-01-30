@@ -1,4 +1,4 @@
-cpmmento for markdown team: This document contains the practical expectatuions of each tier. Add this as a seperate section of the report after the motivation 
+comment for markdown team: This document contains the practical expectatuions of each tier. Add this as a seperate section of the report after the motivation 
 
 
 Solar is the cheapest follwed by wind, hydro and mech 
