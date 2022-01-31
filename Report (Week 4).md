@@ -637,7 +637,7 @@ Assuming house will have bright sunlight for 5 hours daily.
 </div>
 
 <p align = "center">
-Table-4 Energy
+Table-4 Energy Consumption
 </p>
 
 
@@ -668,11 +668,11 @@ The life of this solar grid system is approximately 40-50 years (with 25 years i
 |HAVELLS HRFR PVC 4 sq/mm Yellow wire| 1 Year |
 | Solar Panel Mounting Structure Set for 2 Solar Panel | 5 Years |
 | MBATechmeds Solar Sun Tracker | 5 Years |
-
+	
 </div>
 
 <p align = "center">
-Table-5 Warranty
+Table-5 Warranty of Different Devices Used
 </p>
 
 
