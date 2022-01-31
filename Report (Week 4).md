@@ -573,7 +573,7 @@ Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/sola
  | Components      | Quantity | Price per unit(Rs) | Total cost of that component(Rs)| Vendor info|
 | ----------- | ----------- | -----------|-----------|-----------|
 | 395 Watt Solar Panels      | 6       | 16,162|96,972|[Vendor info](https://www.industrybuying.com/solar-panels-bluebird-solar-SOL.SOL.65494482/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_BR_MP_Loss_Leaders&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiXD4B6IBa6vNFGV-CvPqZ23HwJEfBPQqWRVrutoKXzaOUfLBGfVUMaAp5pEALw_wcB)
-| HRFR PVC Wire   | 90 m        | 1 | 5,533 | 5,533 | [Vendor info](https://www.industrybuying.com/flame-retardant-fr-house-wires-havells-ELE.FLA.45171832/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_New_Electrical&gclid=Cj0KCQiArt6PBhCoARIsAMF5wah9yzqfi0mY6yBMMNABb1zo_RMPqRi0x86uN63_7OGVXNHc20_ObQ4aAqS2EALw_wcB)
+| HRFR PVC Wire   | 90 m       | 5,533 | 5,533 | [Vendor info](https://www.industrybuying.com/flame-retardant-fr-house-wires-havells-ELE.FLA.45171832/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_New_Electrical&gclid=Cj0KCQiArt6PBhCoARIsAMF5wah9yzqfi0mY6yBMMNABb1zo_RMPqRi0x86uN63_7OGVXNHc20_ObQ4aAqS2EALw_wcB)
 | Solar Panel Mounting Structure Set for 2 Solar Panels | 3        |4660|13,980|[Vendor info](https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc_df_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=15900523074506464491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075215&hvtargid=pla-1457440431503&psc=1)
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||122485|
