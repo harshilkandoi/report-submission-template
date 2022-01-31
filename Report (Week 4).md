@@ -532,14 +532,15 @@ Different regions on the globe get different amount of sunlight at different ang
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
 </p>
-Fig-1 Sun and Earth
+**Fig-1 Sun and Earth**
 
 India, being partly tropical and sub-tropical, receives sunlight all round the year. But due to it's size and very diverse geograpical features there is also diversity in available solar resources around the country. The below maps shows the distribution of solar resources around different parts of country.
 
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/YkFQCbR/Solar-India.jpg" alt="Solar-India" border="0"></a>
 </p>
-Fig-2 Map
+**Fig-2 Map**
+
 ##### Specifications
 
 **Components**
@@ -623,10 +624,6 @@ Assuming house will have bright sunlight for 5 hours daily.
  
  - These solar panels are mounted on the roof with the help of mounting structures and they allow them to maintain and change their position according to the position of the sun. 
 - These solar panels are made up of solar (or photovoltaic) cells that can be used to generate power via the photovoltaic effect. On the surface of solar panels, these cells are organised in a grid-like arrangement. As a result, it can alternatively be described as a collection of photovoltaic modules put on a supporting framework. A photovoltaic (PV) module is a 610 solar cell packaged and linked assembly. 
-
-![](https://imgur.com/LrbEikd.jpg)
-
-
  - After light strikes these photovoltaic cells they convert that kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
 - This electric current generated is then transferred to the inverter through cables and wires and then it is stored in the batteries. This energy is then first converted to AC current through inverters and then is distributed in the house for usage. 
