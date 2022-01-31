@@ -568,18 +568,25 @@ Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/sola
 
 *Installation Cost*
 
-
- | Components      | Quantity | Price per unit(Rs) | Total cost of that component(Rs)| Vendor info|
+<div align="center">
+	
+| Components      | Quantity | Price per unit(Rs) | Total cost of that component(Rs)| Vendor info|
 | ----------- | ----------- | -----------|-----------|-----------|
 | 395 Watt Solar Panels      | 6       | 16,162|96,972|[Vendor info](https://www.industrybuying.com/solar-panels-bluebird-solar-SOL.SOL.65494482/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_BR_MP_Loss_Leaders&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiXD4B6IBa6vNFGV-CvPqZ23HwJEfBPQqWRVrutoKXzaOUfLBGfVUMaAp5pEALw_wcB)
 | HRFR PVC Wire   | 90 m       | 5,533 | 5,533 | [Vendor info](https://www.industrybuying.com/flame-retardant-fr-house-wires-havells-ELE.FLA.45171832/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_New_Electrical&gclid=Cj0KCQiArt6PBhCoARIsAMF5wah9yzqfi0mY6yBMMNABb1zo_RMPqRi0x86uN63_7OGVXNHc20_ObQ4aAqS2EALw_wcB)
 | Solar Panel Mounting Structure Set for 2 Solar Panels | 3        |4660|13,980|[Vendor info](https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc_df_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=15900523074506464491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075215&hvtargid=pla-1457440431503&psc=1)
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||122485|
+
+</div>
+	
 <p align = "center">
 Table-1 Cost Analysis for Top Tier
 </p>
 
+
+<div align="center">
+	
 | Components      | Quantity | Price per unit(Rs) | Total cost of that component(Rs)| Vendor info|
 | ----------- | ----------- | -----------|-----------|-----------|
 | 395 Watt Solar Panels      | 4       | 16,162|64,648|[Vendor info](https://www.industrybuying.com/solar-panels-bluebird-solar-SOL.SOL.65494482/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_BR_MP_Loss_Leaders&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiXD4B6IBa6vNFGV-CvPqZ23HwJEfBPQqWRVrutoKXzaOUfLBGfVUMaAp5pEALw_wcB)
@@ -588,10 +595,15 @@ Table-1 Cost Analysis for Top Tier
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||85501|
 
+</div>
+
 <p align = "center">
 Table-2 Cost Analysis for Base Tier
 </p>
 
+
+<div align="center">
+	
 | Components      | Quantity | Price per unit(Rs) | Total cost of that component(Rs)| Vendor info|
 | ----------- | ----------- | -----------|-----------|-----------|
 | 395 Watt Solar Panels      | 1       | 16,162|16,162|[Vendor info](https://www.industrybuying.com/solar-panels-bluebird-solar-SOL.SOL.65494482/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_BR_MP_Loss_Leaders&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiXD4B6IBa6vNFGV-CvPqZ23HwJEfBPQqWRVrutoKXzaOUfLBGfVUMaAp5pEALw_wcB)
@@ -600,9 +612,12 @@ Table-2 Cost Analysis for Base Tier
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||37,015|
 
+</div>
+
 <p align = "center">
 Table-3 Cost Analysis for Economy Tier
 </p>
+
 
 **Maintenance Cost**
 
@@ -611,16 +626,20 @@ Negligible Maintenance cost because we have to just clean the solar panels.
 **Energy generation**
 Assuming house will have bright sunlight for 5 hours daily.
 
+<div align="center">
+	
 | Tier   | Power Output(Monthly in kWh)| Total Cost(Rs)
 | ----------- | ----------- | -----------|
 | Top Tier   | 355.5 |1,22,485 
 | Base Tier    | 237| 85,501
 | Economy Tier    | 59.25| 37,015
-
+	
+</div>
 
 <p align = "center">
 Table-4 Energy
 </p>
+
 
 ##### Diagrams and Working
 
@@ -641,6 +660,8 @@ Fig-3 Solar Panel</b></figcaption>
 #####  Closure:
 The life of this solar grid system is approximately 40-50 years (with 25 years in warranty) with minimal maintainance. The parts we used are listed in the following table with their corresponding warranties:
 
+<div align="center">
+	
 |Device |Warranty Period|
 |-------|---------------|
 |Bluebird 395 Watt Solar Panels| 25 Years |
@@ -648,9 +669,12 @@ The life of this solar grid system is approximately 40-50 years (with 25 years i
 | Solar Panel Mounting Structure Set for 2 Solar Panel | 5 Years |
 | MBATechmeds Solar Sun Tracker | 5 Years |
 
+</div>
+
 <p align = "center">
 Table-5 Warranty
 </p>
+
 
 This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
 
