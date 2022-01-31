@@ -63,7 +63,7 @@ geometry : margin = 2cm
 >> 
 >> [7. Electricity from biogas](#7-electricity-from-biogas)
 >> 
->> [8. Waste Heat Re-use](#8-waste-heat-re-use)
+>> [8. Reuse of wasted heat](#8-reuse-of-wasted-heat)
 >> 
 >> [9. Energy Storage And Distribution](#9-energy-storage-and-distribution)
 
@@ -625,6 +625,10 @@ Assuming house will have bright sunlight for 5 hours daily.
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/NYZyhSc/Solar-cell.jpg" alt="Solar cell" border="0"></a>
 </p>
+<p align = "center">
+	<<a href="https://ibb.co/PrMW0nH"><img src="https://i.ibb.co/51kjwyH/elp.png" alt="elp" border="0"></a>
+</p>
+Fig-3 Solar Panel
 
 - After light strikes these photovoltaic cells they convert that kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
@@ -1458,7 +1462,7 @@ black box) through electrical wires.
 
 
 
-#### 8. Waste Heat Re-use
+#### 8. Reuse of wated heat
 
 ##### Requirements
 
