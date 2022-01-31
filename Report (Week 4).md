@@ -624,11 +624,12 @@ Table-3 Cost Analysis for Economy Tier
 Negligible Maintenance cost because we have to just clean the solar panels.
 
 **Energy generation**
+
 Assuming house will have bright sunlight for 5 hours daily.
 
 <div align="center">
 	
-| Tier   | Power Output(Monthly in kWh)| Total Cost(Rs)
+| Tier   | Energy Generated (kWh per Month)| Total Cost(Rs)
 | ----------- | ----------- | -----------|
 | Top Tier   | 355.5 |1,22,485 
 | Base Tier    | 237| 85,501
@@ -637,7 +638,7 @@ Assuming house will have bright sunlight for 5 hours daily.
 </div>
 
 <p align = "center">
-Table-4 Energy Consumption
+Table-4 Energy Generation
 </p>
 
 
