@@ -642,8 +642,8 @@ The life of this solar grid system is approximately 40-50 years (with 25 years i
 | MBATechmeds Solar Sun Tracker | 5 Years |
 
 **Table-5 Warrenty**
-This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative for commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
 
+This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative for commercial power supply as it is generating clean energy with minimal cost. In exchange for a high one-time cost, the system provides continuous energy for many years at negligible cost.
 
 ##### References
 
