@@ -63,7 +63,7 @@ geometry : margin = 2cm
 >> 
 >> [7. Electricity from biogas](#7-electricity-from-biogas)
 >> 
->> [8. Reuse of wasted heat](#8-reuse-of-wasted-heat)
+>> [8. Waste Heat Re-use](#8-waste-heat-re-use)
 >> 
 >> [9. Energy Storage And Distribution](#9-energy-storage-and-distribution)
 
