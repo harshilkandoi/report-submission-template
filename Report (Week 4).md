@@ -580,7 +580,7 @@ India, being partly tropical and sub-tropical, receives sunlight all round the y
 
 
 <p align = "center">
-**Table-1 Cost Analysis for Top Tier**
+Table-1 Cost Analysis for Top Tier
 </p>
 
 
@@ -593,7 +593,11 @@ India, being partly tropical and sub-tropical, receives sunlight all round the y
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||85501|
 
-**Table-2 Cost Analysis for Base Tier**
+<p align = "center">
+Table-2 Cost Analysis for Base Tier
+</p>
+
+
 | Components      | Quantity | Price per unit(Rs) | Total cost of that component(Rs)| Vendor info|
 | ----------- | ----------- | -----------|-----------|-----------|
 | 395 Watt Solar Panels      | 1       | 16,162|16,162|[Vendor info](https://www.industrybuying.com/solar-panels-bluebird-solar-SOL.SOL.65494482/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_BR_MP_Loss_Leaders&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiXD4B6IBa6vNFGV-CvPqZ23HwJEfBPQqWRVrutoKXzaOUfLBGfVUMaAp5pEALw_wcB)
@@ -602,7 +606,10 @@ India, being partly tropical and sub-tropical, receives sunlight all round the y
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||37,015|
 
-**Table-3 Cost Analysis for Economy Tier**
+<p align = "center">
+Table-3 Cost Analysis for Economy Tier
+</p>
+
 
 
 **Maintenance Cost**
@@ -619,7 +626,10 @@ Assuming house will have bright sunlight for 5 hours daily.
 | Base Tier    | 237| 85,501
 | Economy Tier    | 59.25| 37,015
 
-| <b>Image Credits - **Table-4 Energy**</b>|
+<p align = "center">
+Table-4 Energy
+</p>
+
 ##### Diagrams and Working
 
 - When solar radiations fall on the solar panels, we make sure that the solar panels are at their best angles for maximum exposure to the sunlight through an \*Active Solar Tracker\*.This device's sensors react with sunlight and angle the solar panels through drivers and motors accordingly. 
@@ -628,7 +638,9 @@ Assuming house will have bright sunlight for 5 hours daily.
 <p align = "center">
 	<a href="https://ibb.co/PrMW0nH"><img src="https://i.ibb.co/51kjwyH/elp.png" alt="elp" border="0"></a>
 </p>
-
+<p align = "center">
+	Fig-3 Cross Section of Solar Panel
+</p>
 
 - After light strikes these photovoltaic cells, the kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
