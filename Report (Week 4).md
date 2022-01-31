@@ -623,7 +623,7 @@ Assuming house will have bright sunlight for 5 hours daily.
 - These solar panels are made up of solar (or photovoltaic) cells that can be used to generate power via the photovoltaic effect. On the surface of solar panels, these cells are organised in a grid-like arrangement. As a result, it can alternatively be described as a collection of photovoltaic modules put on a supporting framework. A photovoltaic (PV) module is a 610 solar cell packaged and linked assembly. 
 
 <p align = "center">
-	<a href="https://imgbb.com/"><img src="https://i.ibb.co/NYZyhSc/Solar-cell.jpg" alt="Solar cell" border="0"></a>
+	<a href="https://ibb.co/PrMW0nH"><img src="https://i.ibb.co/51kjwyH/elp.png" alt="elp" border="0"></a>
 </p>
 
 Fig-3 Solar Panel
