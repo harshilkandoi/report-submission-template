@@ -569,7 +569,7 @@ Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/sola
 
 *Installation Cost*
 
-*Top Tier*
+
  | Components      | Quantity | Price per unit(Rs) | Total cost of that component(Rs)| Vendor info|
 | ----------- | ----------- | -----------|-----------|-----------|
 | 395 Watt Solar Panels      | 6       | 16,162|96,972|[Vendor info](https://www.industrybuying.com/solar-panels-bluebird-solar-SOL.SOL.65494482/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_BR_MP_Loss_Leaders&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiXD4B6IBa6vNFGV-CvPqZ23HwJEfBPQqWRVrutoKXzaOUfLBGfVUMaAp5pEALw_wcB)
@@ -578,9 +578,9 @@ Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/sola
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||122485|
 
-**Table-1 Cost Analyis for Top Tier**
+**Table-1 Cost Analysis for Top Tier**
 
-*Base Tier*
+
 | Components      | Quantity | Price per unit(Rs) | Total cost of that component(Rs)| Vendor info|
 | ----------- | ----------- | -----------|-----------|-----------|
 | 395 Watt Solar Panels      | 4       | 16,162|64,648|[Vendor info](https://www.industrybuying.com/solar-panels-bluebird-solar-SOL.SOL.65494482/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_BR_MP_Loss_Leaders&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiXD4B6IBa6vNFGV-CvPqZ23HwJEfBPQqWRVrutoKXzaOUfLBGfVUMaAp5pEALw_wcB)
@@ -589,8 +589,7 @@ Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/sola
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||85501|
 
-**Table-2 Cost Analyis for Base Tier**
-*Economy Tier*
+**Table-2 Cost Analysis for Base Tier**
 | Components      | Quantity | Price per unit(Rs) | Total cost of that component(Rs)| Vendor info|
 | ----------- | ----------- | -----------|-----------|-----------|
 | 395 Watt Solar Panels      | 1       | 16,162|16,162|[Vendor info](https://www.industrybuying.com/solar-panels-bluebird-solar-SOL.SOL.65494482/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_BR_MP_Loss_Leaders&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiXD4B6IBa6vNFGV-CvPqZ23HwJEfBPQqWRVrutoKXzaOUfLBGfVUMaAp5pEALw_wcB)
@@ -599,7 +598,7 @@ Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/sola
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||37015|
 
-**Table-3 Cost Analyis for Economy Tier**
+**Table-3 Cost Analysis for Economy Tier**
 
 
 **Maintenance Cost**
