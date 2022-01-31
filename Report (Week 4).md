@@ -539,7 +539,8 @@ India, being partly tropical and sub-tropical, receives sunlight all round the y
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/YkFQCbR/Solar-India.jpg" alt="Solar-India" border="0"></a>
 </p>
-Fig-2 Map([geographyandyou](https://geographyandyou.com/solar-power-in-india/))
+Fig-2 Map
+[geographyandyou](https://geographyandyou.com/solar-power-in-india/)
 ##### Specifications
 
 **Components**
