@@ -625,6 +625,7 @@ Assuming house will have bright sunlight for 5 hours daily.
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/NYZyhSc/Solar-cell.jpg" alt="Solar cell" border="0"></a>
 </p>
+Fig-3 Solar Panel
 
 - After light strikes these photovoltaic cells they convert that kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
