@@ -321,7 +321,7 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 - First check the geographical and basic requirements of the system you wish to incorporate in your customized design,
 - Then check out if you can bear the one time installation and maintainence costs
 - After finalizing the selected systems based on the above two points, select the tier system for energy storage and distribution based on the energy generated in your system and the cost affordability.
-- Congratulations! You finally have your own customized system according to your specific needs!!  
+- Now,You finally have your own customized system according to your specific needs
 
 
 
@@ -344,14 +344,14 @@ Though wind power is a very clean source of energy, it is not so easy to harness
 
 <p align = "center">
 	<a href="https://ibb.co/QCPmHL3"><img src="https://i.ibb.co/P9cCWKv/Wind-Power-Density-Potential.png" alt="Wind-Power-Density-Potential" border="0"></a>
-<figcaption align = "center"><b>Fig.1 - Wind Power Density Potential </b> (Ref. - ![Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png))</figcaption>
+<figcaption align = "center"><b>Fig.1 - Wind Power Density Potential  </b></figcaption>
 </p>
 
 For an Indian household, to generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least more than 5m/s. The wind power potential map shown below explains how the wind power potential is distributed across India? The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states along the western coast. 
 
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a>
-<figcaption align = "center"><b>Fig.2 - Wind Power Potential Map - India </b> (Ref. -![researchgate](https://www.researchgate.net/publication/332702533_Wind_energy_programme_in_India_Emerging_energy_alternatives_for_sustainable_growth/figures?lo=1))</figcaption>
+<figcaption align = "center"><b>Fig.2 - Wind Power Potential Map - India </b></figcaption>
 </p>
 
 
@@ -374,7 +374,6 @@ For an Indian household, to generate a good amount of electricity using wind pow
  
  |  |  |
  |:------------:|:-----------:|
- | Vendor | ![Indiamart](https://www.indiamart.com/proddetail/frp-grp-wind-turbine-nacelle-cover-fiberglass-cover-23462129073.html?pos=2&pla=n)|
  | Body | Fibreglass and Carbon fibre |
  | Blade Size  | upto 2.2 m |
  | Usage/Application | Wind turbine system |
@@ -389,7 +388,6 @@ For an Indian household, to generate a good amount of electricity using wind pow
  
  |  |  |
  |:------------:|:-----------:|
- | Vendor|![Indiamart](https://www.indiamart.com/proddetail/windmill-blade-17678651497.html) |
  | Size of rotor | 3 m (in diameter) |
  | Material for formation of blades | Fibre-reinforced plastic |
  | Radius of blade | 1.4 m |
@@ -402,29 +400,29 @@ For an Indian household, to generate a good amount of electricity using wind pow
 (3) Generator:
 
    | | |
-   | :---------------: | :--------------: |
-   | Vendor | ![Automation Technologies Online(ATO)](https://www.ato.com/400w-alternator) |
-   | Model | ATO-PMG-NE400WM |
-   | Rated Power | 400W |
-   | Max Power | 445W |
-   | Rated Voltage | 12v/24v/48v |
-   | Rated Speed | 600rpm/min |
-   | Net Weight | 4.5kg |
-   | Output Voltage | AC  |
-   | Rated Torque | 6.37Nm |
-   | Max. Starting Torque | 1Nm |
-   | Synchronous Generator Phase | 3 Phase |
-   | Insulation Class | F |
-   | Service Life | More Than 20 years |
-   | Bearing | HRB or for your order |
-   | Shaft Material | Stainless Steel |
-   | Shell Material | Aluminum Alloy |
-   | Permanent Magnet Material | Rare Earth NdFeB |
-   | Protection Grade | IP54 |
-   | Lubrication | Lubrication Grease |
-   | Working Temperature | -40℃ - 80 ℃ |
+     | :---------------: | :--------------: |
+     | Vendor | Automation Technologies Online(ATO) |
+     | Model | ATO-PMG-NE400WM |
+     | Rated Power | 400W |
+     | Max Power | 445W |
+     | Rated Voltage | 12v/24v/48v |
+     | Rated Speed | 600rpm/min |
+     | Net Weight | 4.5kg |
+     | Output Voltage | AC  |
+     | Rated Torque | 6.37Nm |
+     | Max. Starting Torque | 1Nm |
+     | Synchronous Generator Phase | 3 Phase |
+     | Insulation Class | F |
+     | Service Life | More Than 20 years |
+     | Bearing | HRB or for your order |
+     | Shaft Material | Stainless Steel |
+     | Shell Material | Aluminum Alloy |
+     | Permanent Magnet Material | Rare Earth NdFeB |
+     | Protection Grade | IP54 |
+     | Lubrication | Lubrication Grease |
+     | Working Temperature | -40℃ - 80 ℃ |
      
-   Table 1(c): Wind Turbine Components Specifications - Generator
+     Table 1(c): Wind Turbine Components Specifications - Generator
      
 
      
@@ -457,15 +455,15 @@ For an Indian household, to generate a good amount of electricity using wind pow
 
 **Cost Analysis**
 
- | Part                                     | Quantity | Cost    |
- |:----------------------------------------:|:------------:|:-------:|
- | Nacelle                                  | 1 | ₹1,000  |
- | Rotor (Blades + Hub)                     | 3 blades + 1 hub | ₹3,000  |
- | Generator                                | 1 | ₹16,500 |
- | Tower                                    | 1 | ₹6,000  |
- | Other misc items like gearbox, wind vane, bolts, etc. | 1 | ₹2,000  |
- | Wiring cost (from wind turbine generator to energy storage unit) | 40m 1.5sq mm coppper wire| ₹300 |
- | **Total**                                | - | ₹28,800 |
+ | Part                                     | Cost    |
+ |:----------------------------------------:|:-------:|
+ | Nacelle                                  | ₹1,000  |
+ | Rotor (Blades + Hub)                     | ₹3,000  |
+ | Generator                                | ₹12,000 |
+ | Tower                                    | ₹6,000  |
+ | Other misc items like gearbox, wind vane, bolts, etc. | ₹2,000  |
+ | Wiring cost (from wind turbine generator to energy storage unit) | ₹270 |
+ | **Total**                                | ₹24,270 |
     
  Table 3: Bill of Materials for Wind Turbine
 
@@ -530,7 +528,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 
 **Geographical requirements**
 
-Different regions on the globe get different amount of sunlight at different angles. For example, at equator the earth recieves more focused sunlight than on poles where the light spreads over a wide area. The area which receives more focused sunlight also can generate more solar energy. Different geographical features also play a role like forest areas or hilly areas have low solar power avalibilty.
+Different regions on the globe get different amount of sunlight at different angles. For example, at equator the earth recieves more focused sunlight than on poles where the light spreads over a wide area. The area which receives more focused sunlight can generate more solar energy. Different geographical features also play a role like forest areas or hilly areas which have low solar power avalibilty.
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
 </p>
@@ -598,7 +596,7 @@ Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/sola
 | HRFR PVC Wire   | 90 m       | 5,533 | 5,533 | [Vendor info](https://www.industrybuying.com/flame-retardant-fr-house-wires-havells-ELE.FLA.45171832/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_New_Electrical&gclid=Cj0KCQiArt6PBhCoARIsAMF5wah9yzqfi0mY6yBMMNABb1zo_RMPqRi0x86uN63_7OGVXNHc20_ObQ4aAqS2EALw_wcB)
 | Solar Panel Mounting Structure Set for 2 Solar Panels | 1       |4660|4660|[Vendor info](https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc_df_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=15900523074506464491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075215&hvtargid=pla-1457440431503&psc=1)
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
-|Total Costs    |    ||37015|
+|Total Costs    |    ||37,015|
 
 **Table-3 Cost Analysis for Economy Tier**
 
@@ -613,24 +611,24 @@ Assuming house will have bright sunlight for 5 hours daily.
 
 | Tier   | Power Output(Monthly in kWh)| Total Cost(Rs)
 | ----------- | ----------- | -----------|
-| Top Tier   | 355.5 |122485 
-| Base Tier    | 237| 85501
-| Economy Tier    | 59.25| 37015
+| Top Tier   | 355.5 |1,22,485 
+| Base Tier    | 237| 85,501
+| Economy Tier    | 59.25| 37,015
 
 **Table-4 Energy**
 ##### Diagrams and Working
 
-
-
-  - So firstly, solar energy falls on the solar panels. We make sure that solar panels are at the best angles for maximum exposure to the sunlight through an \*Active Solar Tracker\*.This device's sensors react with sunlight and angle the solar panels through drivers and motors accordingly. 
- 
- - These solar panels are mounted on the roof with the help of mounting structures and they allow them to maintain and change their position according to the position of the sun. 
+- When solar radiations fall on the solar panels, we make sure that the solar panels are at their best angles for maximum exposure to the sunlight through an \*Active Solar Tracker\*.This device's sensors react with sunlight and angle the solar panels through drivers and motors accordingly. 
+- These solar panels are mounted on the roof with the help of mounting structures and they allow them to maintain and change their position according to the position of the sun. 
 - These solar panels are made up of solar (or photovoltaic) cells that can be used to generate power via the photovoltaic effect. On the surface of solar panels, these cells are organised in a grid-like arrangement. As a result, it can alternatively be described as a collection of photovoltaic modules put on a supporting framework. A photovoltaic (PV) module is a 610 solar cell packaged and linked assembly. 
 
+<p align = "center">
+	<a href="https://ibb.co/PrMW0nH"><img src="https://i.ibb.co/51kjwyH/elp.png" alt="elp" border="0"></a>
+</p>
 
+Fig-3 Solar Panel
 
-
- - After light strikes these photovoltaic cells they convert that kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
+- After light strikes these photovoltaic cells, the kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
 - This electric current generated is then transferred to the inverter through cables and wires and then it is stored in the batteries. This energy is then first converted to AC current through inverters and then is distributed in the house for usage. 
 #####  Closure:
@@ -644,8 +642,8 @@ The life of this solar grid system is approximately 40-50 years (with 25 years i
 | MBATechmeds Solar Sun Tracker | 5 Years |
 
 **Table-5 Warrenty**
+This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
 
-This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative for commercial power supply as it is generating clean energy with minimal cost. In exchange for a high one-time cost, the system provides continuous energy for many years at negligible cost.
 
 ##### References
 
@@ -783,14 +781,13 @@ https://www.analog.com/media/en/technical-documentation/application-notes/an19fc
 
 #### 4. Hydroelectricity
 
-
 ##### Requirements
 
 **Constructional Requirement**
 
 The following are _constructional requirements_:
 
-- _Raw Materials Availability_: For building the water inlet to the turbine, we need PVC/RCC pipes, for construction mini dam Iron Rebar, Water impenetrable Concrete (Cement, Gravels soil etc.) or wooden boards for holding water.
+- _Raw Materials Availability_: For building the water inlet to the turbine we need PVC/RCC pipes, for construction mini dam Iron Rebar, Water impenetrable Concrete (Cement, Gravels soil etc.) or wooden boards for holding water.
 
 - _Building Equipment_: The basic building tools and maintenance equipment etc. should be easily available.
 
@@ -800,22 +797,21 @@ The following are _constructional requirements_:
 
 The _geographical requirements_ required for the plant are as follows:
 
-- Water Availability: The location should be such that it receives enough rain as for the plant to be feasible, it should get enough water supply each year. The water body should be such that it is either deep like a lake (for increasing ‘height’) or a flowing river to increase (‘Q: flow rate’).
+- Water Availability: The location should be such that it receives enough rain as for the plant to be feasible it should get enough water supply each year. The water body should be such that it is either deep like a lake (for increasing ‘height’) or it should be a flowing river in order to increase (‘Q: flow rate’).
 
-It is advised to use this system in a region that recieves at least 600mm of average annual rainfall or has a river with continuous flow. The annual average rainfall can be checked from the figure below.
+It is advised to use this system in a region that recieves at least 600mm of average annual rainfall or has a rivers with continous flow. Annual average rainfall can be checked from figure below.
 (Image Source: [ResearchGate](https://www.researchgate.net/publication/257155103_Climate_vegetation_and_ecology_during_Harappan_period_Excavations_at_Kanjetar_and_Kaj_mid-Saurashtra_coast_Gujarat))
 
 ![Imgur](https://i.imgur.com/fy0Mk4v.png)
 
 <figcaption align = "center"><b>Fig.1 - Average Rainfall in India </b></figcaption>
 
-Here is the map of India with major rivers. If your house is close to any of these river, then this system will be feasible.
+Here is the map of India with major rivers, if your house is close to any of these river then this system will be feasible.
 (Image Source: [Pinterest](https://in.pinterest.com/pin/619948704924890264/))
 ![Imgur](https://i.imgur.com/9xaje9U.jpg)
 
 <figcaption align = "center"><b>Fig.2 - Major rivers of India</b></figcaption>
-
-Waterfalls are also suitable for the feasibility of this system. Any waterfall close to your house with a head height of at least 2m is ideal for this plant.
+Waterfalls are also suitable for the feasibility of this system. Any waterfall close to your house with head-height of at least 2m is suitable for this plant.
 
 [List of waterfalls in india](https://en.wikipedia.org/wiki/List_of_waterfalls_in_India_by_height)
 
@@ -841,7 +837,7 @@ The following are the _electrical requirements_:
 
 _(1) Turbine_
 
-The water turbine is the heart of any hydropower plant. It consists of a number of metal or plastic blades fitted to a central rotating shaft or plate. Water flowing through the casing strikes the turbine's blades producing torque and making the shaft rotate thus conversing K.E. for water to M.E.
+The water turbine is the heart of any hydro power plant. It consists of a number of metal or plastic blades fitted to a central rotating shaft or plate. Water flowing through the casing strikes the blades of the turbine producing torque and making the shaft rotate thus conversing K.E. for water to M.E.
 
 
 | Details | Specifications |
@@ -891,7 +887,7 @@ _Table 3: Hydro-Electricity AC-DC Converter Specifications_
 The maximum hydropower power output is entirely dependent on how much head and flow is available at the site. The formula for power calculation is derived from the concept of stored potential energy in water at a certain height H(Head Height) and given by the formula:
 
 <p align = "center">
-  
+	
 Power (P) = m * g * H<sub>net</sub> * η
 </p>
 
@@ -925,13 +921,13 @@ _Table 4: Hydro-Electricity output power_
 
 _Table 5: Total Installation Cost_ 
 
-By above mentioned specifications and power output calculations, we can conclude that this system can help us run basic electric home appliances like television, mini-fridge, mobile chargers etc. Also, we can increase the power output by suitably choosing the location to get a high flow rate like Northern Indian water-bodies have a high flow rate. Thus, by suitably choosing the above mentioned devices, we can increase the efficiency and can get higher electricity generation.
+By above mentioned specifications and power output calculations, we can conclude that this system can help us run basic electric home appliances like television, mini-fridge, mobile chargers etc. Also we can increase the power output by suitably choosing the location to get high flow rate like Northern Indian water-bodies have high flow rate. Thus, by suitably choosing the above mentioned devices we can increase the efficiency and can get higher electricity generation.
 
 [^1]:As per Delhi govt guideline ([check here](https://labour.delhi.gov.in/content/current-minimum-wage-rate))
 
 ##### Diagrams and Working
 
-As shown in the figure, water stored at high elevation falls on the turbine of generator i.e. converting the potential energy of water to mechanical energy of turbine by rotating it. Now, this turbine's mechanical energy is converted to electrical energy with the help of drives. Now this pulsating alternating current is passed through transformers for transmitting to distant use places and finally, it passes through ac/dc converters to make it usable at required places.
+As shown in the figure, water stored at high elevation falls on the turbine of generator i.e. converting the potential energy of water to mechanical energy of turbine by rotating it. Now, this mechanical energy of turbine is converted to electrical energy with the help of drives. Now this pulsating alternating current is passed through transformers for transmitting to distant use places and finally it passes through ac/dc converters to make it usable at required places.
 
 This figure shows a typical model for mini hyrdro-electric plant. The height of the dam from the turbine should be more than 2m.
 ![Generator Flow](https://i.imgur.com/UqiqcmE.png)
@@ -939,14 +935,14 @@ This figure shows a typical model for mini hyrdro-electric plant. The height of 
 
 </p>
 
-This figure shows the rough dimension of the gravitational water vortex for the plant. Due to the spiral structure, water starts spinning as it enters the inlet. This type of setup is efficient for the axial hydro plant.
+This figure shows the rough dimention of graviational water vorex for the plant. Due to spiral structure water starts spining as enters from inlet. This type of setup is efficient for axial hydro plant.
 ![Generator Flow](https://i.imgur.com/l2aSLEK.png)
 
 <figcaption align = "center"><b>Fig.4 - Dimenstions of Gravitational Water Vortex</b></figcaption>
 
 </p>
 
-This figure shows connections of the various subsystem of the plant along with wire ratings.
+This figure shows connections of various subsystem of the plant along with wire ratings.
 ![Circuit Diagram](https://i.imgur.com/PhWuSBU.jpg)
 
 <figcaption align = "center"><b>Fig.5 - Circuit Diagram of System</b></figcaption>
