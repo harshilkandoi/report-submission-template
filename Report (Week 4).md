@@ -641,8 +641,7 @@ The life of this solar grid system is approximately 40-50 years (with 25 years i
 | Solar Panel Mounting Structure Set for 2 Solar Panel | 5 Years |
 | MBATechmeds Solar Sun Tracker | 5 Years |
 
-**Table-5 Warranty**
-
+**Table-5 Warrenty**
 This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
 
 
@@ -788,118 +787,175 @@ https://www.analog.com/media/en/technical-documentation/application-notes/an19fc
 
 The following are _constructional requirements_:
 
-- *Raw Materials Availability*: For building the water inlet to the turbine we need PVC/RCC pipes, for construction mini dam Iron Rebar, Water impenetrable Concrete (Cement, Gravels soil etc.) or wooden boards for holding water.
+- _Raw Materials Availability_: For building the water inlet to the turbine we need PVC/RCC pipes, for construction mini dam Iron Rebar, Water impenetrable Concrete (Cement, Gravels soil etc.) or wooden boards for holding water.
 
-- *Building Equipment*: The basic building tools and maintenance equipment  etc. should be easily available.
+- _Building Equipment_: The basic building tools and maintenance equipment etc. should be easily available.
 
-- *Other components*: Turbine blades, turbine casing, transmission wires etc.
+- _Other components_: Turbine blades, turbine casing, transmission wires etc.
 
 **Geographical Requirements**
 
 The _geographical requirements_ required for the plant are as follows:
 
-- *Water Availability: The location should be such that it receives enough rain as for the plant to be feasible it should get enough water supply each year. The water body should be such that it is either deep like a lake (for increasing ‘height’) or it should be a flowing river in order to increase (‘Q: flow rate’).
+- Water Availability: The location should be such that it receives enough rain as for the plant to be feasible it should get enough water supply each year. The water body should be such that it is either deep like a lake (for increasing ‘height’) or it should be a flowing river in order to increase (‘Q: flow rate’).
 
-- *Land*: The land should be rocky enough so that it bears the pressure by the dam and shouldn’t be swampy.
+It is advised to use this system in a region that recieves at least 600mm of average annual rainfall or has a rivers with continous flow. Annual average rainfall can be checked from figure below.
+(Image Source: [ResearchGate](https://www.researchgate.net/publication/257155103_Climate_vegetation_and_ecology_during_Harappan_period_Excavations_at_Kanjetar_and_Kaj_mid-Saurashtra_coast_Gujarat))
+
+![Imgur](https://i.imgur.com/fy0Mk4v.png)
+
+<figcaption align = "center"><b>Fig.1 - Average Rainfall in India </b></figcaption>
+
+Here is the map of India with major rivers, if your house is close to any of these river then this system will be feasible.
+(Image Source: [Pinterest](https://in.pinterest.com/pin/619948704924890264/))
+![Imgur](https://i.imgur.com/9xaje9U.jpg)
+
+<figcaption align = "center"><b>Fig.2 - Major rivers of India</b></figcaption>
+Waterfalls are also suitable for the feasibility of this system. Any waterfall close to your house with head-height of at least 2m is suitable for this plant.
+
+[List of waterfalls in india](https://en.wikipedia.org/wiki/List_of_waterfalls_in_India_by_height)
+
+
+Apart from major rivers or waterfalls, If your house is located near by any flowing water river or stored water at height of more than 2m that receives enough water to keep the water body filled throughout the year then this system will be feasible.
+
+- _Land_: The land should be rocky enough so that it bears the pressure by the dam and shouldn’t be swampy.
 
 **Electrical Requirements**
 
 The following are the _electrical requirements_:
 
-- *Generator*: It should be rated for 1*kW* power generation at 500*rpm* with high efficiency and should be water-resistant.
+- _Generator_: It should be rated for 1*kW* power generation at 500*rpm* with high efficiency and should be water-resistant.
 
-- *Rectifier*: It should be rated for a minimum of 50*V* RMS.
+- _Rectifier_: It should be rated for a minimum of 50*V* RMS.
 
-- *Wires*: It should be rated to carry 30*A* of current and of sufficient length.
-
+- _Wires_: It should be rated to carry 30*A* of current and of sufficient length.
+- _Pipes_: It should be capable to flow 0.03 m<sup>3</sup>/s of water.
 
 ##### Specifications
 
 **Components**
 
-(1) *Turbine*
+_(1) Turbine_
 
-The water turbine is the heart of any hydro power plant. It consists of a number of metal or plastic blades fitted to a central rotating shaft or plate. Water flowing through the casing strikes the blades of the turbine producing torque and making the shaft rotate thus conversing K.E. for water to M.E.\*\*
+The water turbine is the heart of any hydro power plant. It consists of a number of metal or plastic blades fitted to a central rotating shaft or plate. Water flowing through the casing strikes the blades of the turbine producing torque and making the shaft rotate thus conversing K.E. for water to M.E.
 
-   |                     |             |
-    |:-------------------:|:-----------:|
-    | Material of Turbine | Cast Iron   |
-    | Blade Size          | 0.13 m      |
-    | Water Flow Rate     | 0.03 m^3^/s |
-    | Head Height         | 2 m to 4 m  |
-    | Weight              | 10 kg       |
 
-(2) *Generator*
+| Details | Specifications |
+| :-----------------: | :------------: |
+| Material of Turbine | Cast Iron |
+| Blade Size | 0.13 m |
+| Water Flow Rate | 0.03 m<sup>3</sup>/s |
+| Head Height | 2 m to 4 m |
+| Weight | 10 kg |
+
+_Table 1: Hydro-Electricity Turbine Specifications_
+
+_(2) Generator_
 
 Generators are used to convert rotational energy to electrical energy. The type of generator used here is the permanent magnet synchronous generator. This motor generates a single-phase AC output that needs to be converted to DC using a rectifier.
 
-  |               |                    |
-  | :-----------: | :----------------: |
-  |     Model     |     BGWG-500WM     |
-  |     Power     |        500W        |
-  | Rated Voltage |       220 V        |
-  |     Phase     |    Single Phase    |
-  |  Rated Speed  | 500 rpm - 1500 rpm |
-  |  Net Weight   |        15kg        |
 
-(3) *AC-DC Converter*
+| Details | Specifications |
+| :-----------: | :----------------: |
+| Vendor | BEIGOOD |
+| Model | BGWG-500WM |
+| Power | 500W |
+| Rated Voltage | 220 V |
+| Phase | Single Phase |
+| Rated Speed | 500 rpm - 1500 rpm |
+| Net Weight | 15kg |
+
+_Table 2: Hydro-Electricity Generator Specifications_
+
+_(3) AC-DC Converter_
 
 As the generator gives AC output so to convert AC to DC for charging an AC-DC converter is used.
 
-  |          |            |
-      |:--------:|:----------:|
-      | Model    | NPS-500 W |
-      | Rated Power | 500 W |
-      | Output Voltage | 24 V |
-      | Max. Current | 28 A|
 
+| Details | Specifications |
+| :------------: | :------------: |
+| Vendor | NP Solutions |
+| Model | NPS-500 W |
+| Rated Power | 500 W |
+| Output Voltage | 24 V |
+| Max. Current | 28 A |
+
+_Table 3: Hydro-Electricity AC-DC Converter Specifications_
 
 **Power generation**
 
 The maximum hydropower power output is entirely dependent on how much head and flow is available at the site. The formula for power calculation is derived from the concept of stored potential energy in water at a certain height H(Head Height) and given by the formula:
-	 
+
 <p align = "center">
 	
-Power (P) = m * g * H~net~ * η
+Power (P) = m * g * H<sub>net</sub> * η
 </p>
 
-Here: m is the mass flow rate(kg/s), g is 9.81m/s^2^, H~net~ is the effective height of stored water, η is overall efficiency
-	
+Here: m is the mass flow rate(kg/s), g is 9.81m/s<sup>2</sup>, H<sub>net</sub> is the effective height of stored water, η is overall efficiency
 Most of the Hydro-Electric systems used for domestic purposes have η about 75%.
 
 
-  |                           |                              |
-    |:-------------------------:|:----------------------------:|
-    | Turbine type              | Axial Flow |
-    | Water Flow Rate             | 30 kg/s                        |
-    | Head Height               | 2.2 m                      |
-    | Plant Efficiency             | 75 %                  |
-    | Output power              | ~485 W                       |
+| Feature | Value |
+| :--------------: | :--------: |
+| Turbine type | Axial Flow |
+| Water Flow Rate | 30 kg/s |
+| Head Height | 2.2 m |
+| Plant Efficiency | 75 % |
+| Output power | ~485 W |
 
+_Table 4: Hydro-Electricity output power_
 
 **Cost Analysis**
 
-*Total Installation Cost*
+ 
 
-   | Part  |  Cost |
-    | :--------:  | :---------: |
-    |  Generator - Turbine Set | ₹18,500  |
-    | AC-DC Converter  |  ₹3,500  |
-    |  Pipes and Fittings |  ₹2,000  |
-    | Construction Works |₹2,000  |
-    | **Total** | ₹26,000  |
+|         Part          |  Cost   |
+| :-------------------: | :-----: |
+| Generator-Turbine Set | ₹18,500 |
+|         Wires         |  ₹469   |
+|    AC-DC Converter    | ₹3,500  |
+|  Pipe   | ₹895  |
+| Construction Material | ₹2,000  |
+|   3 days Labour Charge[^1]  |  ₹2250  |
+|       **Total**       | ₹27614 |
 
-By above mentioned specifications and power output calculations, we can conclude that this system can help us run basic electric home appliances like television, fridge, mobile chargers etc. Also we can increase the power output by suitably choosing the location to get high flow rate like Northern Indian water-bodies have high flow rate. Thus, by suitably choosing the above mentioned devices we can increase the efficiency and can get higher electricity generation.
+_Table 5: Total Installation Cost_ 
+
+By above mentioned specifications and power output calculations, we can conclude that this system can help us run basic electric home appliances like television, mini-fridge, mobile chargers etc. Also we can increase the power output by suitably choosing the location to get high flow rate like Northern Indian water-bodies have high flow rate. Thus, by suitably choosing the above mentioned devices we can increase the efficiency and can get higher electricity generation.
+
+[^1]:As per Delhi govt guideline ([check here](https://labour.delhi.gov.in/content/current-minimum-wage-rate))
 
 ##### Diagrams and Working
 
 As shown in the figure, water stored at high elevation falls on the turbine of generator i.e. converting the potential energy of water to mechanical energy of turbine by rotating it. Now, this mechanical energy of turbine is converted to electrical energy with the help of drives. Now this pulsating alternating current is passed through transformers for transmitting to distant use places and finally it passes through ac/dc converters to make it usable at required places.
 
-![Generator Flow](https://i.imgur.com/TkWFjd1.jpg)
+This figure shows a typical model for mini hyrdro-electric plant. The height of the dam from the turbine should be more than 2m.
+![Generator Flow](https://i.imgur.com/UqiqcmE.png)
+<figcaption align = "center"><b>Fig.3 - Model of Hydro-Electricity System</b></figcaption>
 
-![Generator Flow](https://i.imgur.com/SrLq3Rb.jpg)
+</p>
 
+This figure shows the rough dimention of graviational water vorex for the plant. Due to spiral structure water starts spining as enters from inlet. This type of setup is efficient for axial hydro plant.
+![Generator Flow](https://i.imgur.com/l2aSLEK.png)
+
+<figcaption align = "center"><b>Fig.4 - Dimenstions of Gravitational Water Vortex</b></figcaption>
+
+</p>
+
+This figure shows connections of various subsystem of the plant along with wire ratings.
 ![Circuit Diagram](https://i.imgur.com/PhWuSBU.jpg)
+
+<figcaption align = "center"><b>Fig.5 - Circuit Diagram of System</b></figcaption>
+
+</p>
+
+#### Vender's Info
+|         Part          |  Link   |
+| :-------------------: | :-----: |
+| Generator-Turbine Set | [Buy Link](https://www.alibaba.com/product-detail/2m-To-4m-Low-Head-500w_1600432599601.html?spm=a2700.galleryofferlist.normal_offer.d_image.45557519SMEriV) |
+|         Wires         |   [Buy Link](https://www.electronicscomp.com/electronic-components/small-electronic-components/wires-cables/silicone-wires/6-to-10-awg/high-quality-ultra-flexible-10awg-silicone-wire-1m-black-1m-red) |
+|    AC-DC Converter    |  [Buy Link](https://www.indiamart.com/proddetail/500w-commercial-battery-charger-22521319248.html)   |
+|  Pipe  |  [Buy Link](https://www.amazon.in/Jal-Pravah-Lapeta-Laminated-Polyethylene/dp/B08DDL56B1/ref=asc_df_B08DDL56B1/?tag=googleshopdes-21&linkCode=df0&hvadid=396984672681&hvpos=&hvnetw=g&hvrand=17875907637404148221&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9302227&hvtargid=pla-965204439826&ext_vrnc=hi&th=1)  |
 
 ### References
 
@@ -909,8 +965,8 @@ As shown in the figure, water stored at high elevation falls on the turbine of g
 4. ‘Water Turbine Design and Different Hydro Turbine Designs’, _Alternative Energy Tutorials_. https://www.alternative-energy-tutorials.com/hydro-energy/water-turbine-design.html (accessed Jan. 18, 2022).
 5. Land to House, _Awesome Low Head High Flow Grid Tie Micro Hydro 530 watts!_, (Sep. 02, 2020). Accessed: Jan. 11, 2022. \[Online Video\]. Available: https://www.youtube.com/watch?v=V82SVeVXKcA
 
-
 ---
+
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
