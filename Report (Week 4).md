@@ -517,11 +517,6 @@ After the completion of the mechanical design of the wind turbine, the next step
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
-
-
-
-
-
 #### 2. Solar
 
 ##### Requirements
@@ -532,11 +527,10 @@ Different regions on the globe get different amount of sunlight at different ang
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
 </p>
-
-
-
 <p align = "center">
-Fig-1 Sun and Earth ([ck-12](https://flexbooks.ck12.org/cbook/ck-12-middle-school-earth-science-flexbook-2.0/section/10.13/primary/lesson/solar-energy-and-latitude-ms-es/))</p>
+Fig-1 Sun and Earth ([ck-12](https://flexbooks.ck12.org/cbook/ck-12-middle-school-earth-science-flexbook-2.0/section/10.13/primary/lesson/solar-energy-and-latitude-ms-es/))
+</p>	
+
 India, being partly tropical and sub-tropical, receives sunlight all round the year. But due to it's size and very diverse geograpical features there is also diversity in available solar resources around the country. The below maps shows the distribution of solar resources around different parts of country.
 
 <p align = "center">
@@ -545,7 +539,6 @@ India, being partly tropical and sub-tropical, receives sunlight all round the y
 <p align = "center">
 Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/solar-power-in-india/))
 </p>
-
 
 ##### Specifications
 
@@ -582,13 +575,9 @@ Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/sola
 | Solar Panel Mounting Structure Set for 2 Solar Panels | 3        |4660|13,980|[Vendor info](https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc_df_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=15900523074506464491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075215&hvtargid=pla-1457440431503&psc=1)
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||122485|
-
-
 <p align = "center">
 Table-1 Cost Analysis for Top Tier
 </p>
-
-
 
 | Components      | Quantity | Price per unit(Rs) | Total cost of that component(Rs)| Vendor info|
 | ----------- | ----------- | -----------|-----------|-----------|
@@ -597,12 +586,9 @@ Table-1 Cost Analysis for Top Tier
 | Solar Panel Mounting Structure Set for 2 Solar Panels | 2       |4660|9320|[Vendor info](https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc_df_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=15900523074506464491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075215&hvtargid=pla-1457440431503&psc=1)
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||85501|
-
 <p align = "center">
 Table-2 Cost Analysis for Base Tier
 </p>
-
-
 | Components      | Quantity | Price per unit(Rs) | Total cost of that component(Rs)| Vendor info|
 | ----------- | ----------- | -----------|-----------|-----------|
 | 395 Watt Solar Panels      | 1       | 16,162|16,162|[Vendor info](https://www.industrybuying.com/solar-panels-bluebird-solar-SOL.SOL.65494482/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_BR_MP_Loss_Leaders&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiXD4B6IBa6vNFGV-CvPqZ23HwJEfBPQqWRVrutoKXzaOUfLBGfVUMaAp5pEALw_wcB)
@@ -610,19 +596,15 @@ Table-2 Cost Analysis for Base Tier
 | Solar Panel Mounting Structure Set for 2 Solar Panels | 1       |4660|4660|[Vendor info](https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc_df_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=15900523074506464491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075215&hvtargid=pla-1457440431503&psc=1)
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||37,015|
-
 <p align = "center">
 Table-3 Cost Analysis for Economy Tier
 </p>
-
-
 
 **Maintenance Cost**
 
 Negligible Maintenance cost because we have to just clean the solar panels.
 
 **Energy generation**
-
 Assuming house will have bright sunlight for 5 hours daily.
 
 | Tier   | Power Output(Monthly in kWh)| Total Cost(Rs)
@@ -631,20 +613,21 @@ Assuming house will have bright sunlight for 5 hours daily.
 | Base Tier    | 237| 85,501
 | Economy Tier    | 59.25| 37,015
 
+
 <p align = "center">
 Table-4 Energy
 </p>
-
 ##### Diagrams and Working
 
 - When solar radiations fall on the solar panels, we make sure that the solar panels are at their best angles for maximum exposure to the sunlight through an \*Active Solar Tracker\*.This device's sensors react with sunlight and angle the solar panels through drivers and motors accordingly. 
 - These solar panels are mounted on the roof with the help of mounting structures and they allow them to maintain and change their position according to the position of the sun. 
 - These solar panels are made up of solar (or photovoltaic) cells that can be used to generate power via the photovoltaic effect. On the surface of solar panels, these cells are organised in a grid-like arrangement. As a result, it can alternatively be described as a collection of photovoltaic modules put on a supporting framework. A photovoltaic (PV) module is a 610 solar cell packaged and linked assembly. 
+<figure>
 <p align = "center">
 	<a href="https://ibb.co/PrMW0nH"><img src="https://i.ibb.co/51kjwyH/elp.png" alt="elp" border="0"></a>
 </p>
 <p align = "center">
-	Fig-3 Cross Section of Solar Panel
+Fig-3 Solar Panel</b></figcaption>
 </p>
 
 - After light strikes these photovoltaic cells, the kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
@@ -660,7 +643,9 @@ The life of this solar grid system is approximately 40-50 years (with 25 years i
 | Solar Panel Mounting Structure Set for 2 Solar Panel | 5 Years |
 | MBATechmeds Solar Sun Tracker | 5 Years |
 
-**Table-5 Warranty** 
+<p align = "center">
+Table-5 Warranty
+</p>
 
 This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
 
@@ -692,6 +677,10 @@ This system is designed to fulfill requirements of a household without consuming
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
+
+
+
+
 
 
 
