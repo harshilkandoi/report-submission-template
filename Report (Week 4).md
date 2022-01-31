@@ -812,6 +812,7 @@ Here is the map of India with major rivers. If your house is close to any of the
 ![Imgur](https://i.imgur.com/9xaje9U.jpg)
 
 <figcaption align = "center"><b>Fig.2 - Major rivers of India</b></figcaption>
+
 Waterfalls are also suitable for the feasibility of this system. Any waterfall close to your house with a head height of at least 2m is ideal for this plant.
 
 [List of waterfalls in india](https://en.wikipedia.org/wiki/List_of_waterfalls_in_India_by_height)
