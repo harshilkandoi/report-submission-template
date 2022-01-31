@@ -37,35 +37,35 @@ geometry : margin = 2cm
 <br>
 <br>
 
-> [[#Authors]]
+> [Authors](#Authors)
 >
-> [[#documentation]]
+> [Documentation](#Documentation)
 >
-> [[#Readability Indices]]
+> [Readability Indices](#readability-indices)
 >
-> [[#Abstract]]
+> [Abstract](#Abstract)
 >
-> [[#To Do]]
+> [To Do](#to-do)
 > 
-> [[#Designed System]]
+> [Designed System](#designed-system)
 > 
->> [[#Wind]]
+>> [1. Wind](#1-wind)
 >> 
->> [[#Mechanical]]
+>> [2. Solar](#2-solar)
 >>
->> [[#Solar]]
+>> [3. Mechanical](#3-mechanical)
 >> 
->> [[#Hydroelectricity]]
+>> [4. Hydroelectricity](#4-hydroelectricity)
 >> 
->> [[#Piezoelectricity]]
+>> [5. Piezoelectricity](#5-piezoelectricity)
 >> 
->> [[#Thermoelectricity]]
+>> [6. Thermoelectricity](#6-thermoelectricity)
 >> 
->> [[#Electricity from biogas]]
+>> [7. Electricity from biogas](#7-electricity-from-biogas)
 >> 
->> [[#Reuse of wasted heat]]
+>> [8. Reuse of wasted heat](#8-reuse-of-wasted-heat)
 >> 
->> [[#Energy Storage And Distribution]]
+>> [9. Energy Storage And Distribution](#9-energy-storage-and-distribution)
 
 
 <div style = "page-break-after: always; visibility: hidden">
@@ -333,7 +333,7 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 ### Designed System 
 	
 	
-#### Wind
+#### 1. Wind
 
 ##### Requirements
 
@@ -522,7 +522,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 
 
 
-#### Solar
+#### 2. Solar
 
 ##### Requirements
 
@@ -532,15 +532,14 @@ Different regions on the globe get different amount of sunlight at different ang
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
 </p>
-**Fig-1 Sun and Earth**
+Fig-1 Sun and Earth
 
 India, being partly tropical and sub-tropical, receives sunlight all round the year. But due to it's size and very diverse geograpical features there is also diversity in available solar resources around the country. The below maps shows the distribution of solar resources around different parts of country.
 
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/YkFQCbR/Solar-India.jpg" alt="Solar-India" border="0"></a>
 </p>
-**Fig-2 Map**
-
+Fig-2 Map
 ##### Specifications
 
 **Components**
@@ -615,7 +614,6 @@ Assuming house will have bright sunlight for 5 hours daily.
 | Economy Tier    | 59.25| 37015
 
 **Table-4 Energy**
-
 ##### Diagrams and Working
 
 
@@ -624,6 +622,10 @@ Assuming house will have bright sunlight for 5 hours daily.
  
  - These solar panels are mounted on the roof with the help of mounting structures and they allow them to maintain and change their position according to the position of the sun. 
 - These solar panels are made up of solar (or photovoltaic) cells that can be used to generate power via the photovoltaic effect. On the surface of solar panels, these cells are organised in a grid-like arrangement. As a result, it can alternatively be described as a collection of photovoltaic modules put on a supporting framework. A photovoltaic (PV) module is a 610 solar cell packaged and linked assembly. 
+
+![](https://imgur.com/LrbEikd.jpg)
+
+
  - After light strikes these photovoltaic cells they convert that kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
 - This electric current generated is then transferred to the inverter through cables and wires and then it is stored in the batteries. This energy is then first converted to AC current through inverters and then is distributed in the house for usage. 
@@ -638,7 +640,6 @@ The life of this solar grid system is approximately 40-50 years (with 25 years i
 | MBATechmeds Solar Sun Tracker | 5 Years |
 
 **Table-5 Warrenty**
-
 This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
 
 
@@ -674,7 +675,7 @@ This system is designed to fulfill requirements of a household without consuming
 
 
 
-#### Mechanical 
+#### 3. Mechanical 
 
 ##### Requirements
 
@@ -776,7 +777,7 @@ https://www.analog.com/media/en/technical-documentation/application-notes/an19fc
 
 
 
-#### Hydroelectricity
+#### 4. Hydroelectricity
 
 ##### Requirements
 
@@ -914,7 +915,7 @@ As shown in the figure, water stored at high elevation falls on the turbine of g
 
 
 
-#### Piezoelectricity
+#### 5. Piezoelectricity
 
 
 ##### Requirements
@@ -1073,7 +1074,7 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 
 
-#### Thermoelectricity
+#### 6. Thermoelectricity
 
 
 ##### Requirements
@@ -1251,10 +1252,7 @@ Science (RSC Publishing).” n.d. Accessed January 25, 2022.
 </div>
 
 
-
-
-
-#### Electricity from biogas
+#### 7. Electricity from biogas
 
 ##### Requirements
 
@@ -1403,7 +1401,7 @@ black box) through electrical wires.
 
 
 
-#### Reuse of wated heat
+#### 8. Reuse of wated heat
 
 ##### Requirements
 
@@ -1504,7 +1502,7 @@ Therefore, the system is a one time installment which will work for years.
 
 
 
-### Energy Storage And Distribution
+### 9. Energy Storage And Distribution
 
 ##### Requirements
 
