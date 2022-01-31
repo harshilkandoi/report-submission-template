@@ -625,8 +625,8 @@ Assuming house will have bright sunlight for 5 hours daily.
 <p align = "center">
 	<a href="https://ibb.co/PrMW0nH"><img src="https://i.ibb.co/51kjwyH/elp.png" alt="elp" border="0"></a>
 </p>
+{% Fig-3 Solar Panel %} 
 
-Fig-3 Solar Panel
 
 - After light strikes these photovoltaic cells, the kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
@@ -640,7 +640,8 @@ The life of this solar grid system is approximately 40-50 years (with 25 years i
 |HAVELLS HRFR PVC 4 sq/mm Yellow wire| 1 Year |
 | Solar Panel Mounting Structure Set for 2 Solar Panel | 5 Years |
 | MBATechmeds Solar Sun Tracker | 5 Years |
-{% **Table-5 Warranty** %} 
+
+**Table-5 Warranty** 
 
 This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
 
