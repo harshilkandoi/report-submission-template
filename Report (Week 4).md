@@ -561,7 +561,7 @@ India, being partly tropical and sub-tropical, receives sunlight all round the y
 
 (4) MBATechmeds Solar Sun Tracker (Single Axis) 
 
-**Power generation **
+*Power generation *
 
 Assuming house will have bright sunlight for 5 hours daily. The Power output of 6 solar panels monthly(30 days) = 6\*5\*395*30/1000 kWh= 355.5 kWh
 
@@ -570,7 +570,8 @@ We can vary number of solar panels and the bright sunlight available as per the 
 **Cost Analysis**
 
 *Installation Cost*
-*Top tier*
+
+*Top Tier*
  | Components      | Quantity | Price per unit | Total cost of that component| Vendor info|
 | ----------- | ----------- | -----------|-----------|-----------|
 | 395 Watt Solar Panels      | 6       | 16,162|96,972|[Vendor info](https://www.industrybuying.com/solar-panels-bluebird-solar-SOL.SOL.65494482/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_BR_MP_Loss_Leaders&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiXD4B6IBa6vNFGV-CvPqZ23HwJEfBPQqWRVrutoKXzaOUfLBGfVUMaAp5pEALw_wcB)
@@ -579,7 +580,7 @@ We can vary number of solar panels and the bright sunlight available as per the 
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||122485|
 
-*Base tier*
+*Base Tier*
 | Components      | Quantity | Price per unit | Total cost of that component| Vendor info|
 | ----------- | ----------- | -----------|-----------|-----------|
 | 395 Watt Solar Panels      | 4       | 16,162|64,648|[Vendor info](https://www.industrybuying.com/solar-panels-bluebird-solar-SOL.SOL.65494482/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_BR_MP_Loss_Leaders&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiXD4B6IBa6vNFGV-CvPqZ23HwJEfBPQqWRVrutoKXzaOUfLBGfVUMaAp5pEALw_wcB)
@@ -601,7 +602,7 @@ We can vary number of solar panels and the bright sunlight available as per the 
 
 
 
-*Maintenance Cost*
+**Maintenance Cost**
 
 Negligible Maintenance cost because we have to just clean the solar panels.
 
@@ -616,7 +617,7 @@ Negligible Maintenance cost because we have to just clean the solar panels.
  - These solar panels are mounted on the roof with the help of mounting structures and they allow them to maintain and change their position according to the position of the sun. 
 - These solar panels are made up of solar (or photovoltaic) cells that can be used to generate power via the photovoltaic effect. On the surface of solar panels, these cells are organised in a grid-like arrangement. As a result, it can alternatively be described as a collection of photovoltaic modules put on a supporting framework. A photovoltaic (PV) module is a 610 solar cell packaged and linked assembly. 
 
-![](https://imgur.com/hBhp1j9.jpg)
+![](https://imgur.com/LrbEikd.jpg)
 
 
  - After light strikes these photovoltaic cells they convert that kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
