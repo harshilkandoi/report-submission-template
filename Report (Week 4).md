@@ -529,14 +529,11 @@ After the completion of the mechanical design of the wind turbine, the next step
 
 **Geographical requirements**
 
-## Geographical Conditions:
 Different regions on the globe get different amount of sunlight at different angles. For example, at equator the earth recieves more focused sunlight than on poles where the light spreads over a wide area. The area which receives more focused sunlight also can generate more solar energy. Different geographical features also play a role like forest areas or hilly areas have low solar power avalibilty. 
 ![Fig 1](https://imgur.com/a/loy8nXd.jpg)
 
 India, being partly tropical and sub-tropical, receives sunlight all round the year. But due to it's size and very diverse geograpical features there is also diversity in available solar resources around the country. The below maps shows the distribution of solar resources around different parts of country.
 ![Fig 2](https://imgur.com/a/QWutZ9S.jpg)
-
---- 
 
 ##### Specifications
 
