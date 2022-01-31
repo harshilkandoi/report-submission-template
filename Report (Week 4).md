@@ -652,7 +652,7 @@ Table-4 Energy
 - This electric current generated is then transferred to the inverter through cables and wires and then it is stored in the batteries. This energy is then first converted to AC current through inverters and then is distributed in the house for usage. 
 #####  Closure:
 The life of this solar grid system is approximately 40-50 years (with 25 years in warranty) with minimal maintainance. The parts we used are listed in the following table with their corresponding warranties:
-<p align = "center">
+
 |Device |Warranty Period|
 |-------|---------------|
 |Bluebird 395 Watt Solar Panels| 25 Years |
@@ -661,7 +661,6 @@ The life of this solar grid system is approximately 40-50 years (with 25 years i
 | MBATechmeds Solar Sun Tracker | 5 Years |
 
 **Table-5 Warranty** 
-</p>
 
 This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
 
