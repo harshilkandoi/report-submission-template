@@ -532,14 +532,19 @@ Different regions on the globe get different amount of sunlight at different ang
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
 </p>
-Fig-1 Sun and Earth ([ck-12](https://flexbooks.ck12.org/cbook/ck-12-middle-school-earth-science-flexbook-2.0/section/10.13/primary/lesson/solar-energy-and-latitude-ms-es/))
 
+
+
+<p align = "center">
+Fig-1 Sun and Earth ([ck-12](https://flexbooks.ck12.org/cbook/ck-12-middle-school-earth-science-flexbook-2.0/section/10.13/primary/lesson/solar-energy-and-latitude-ms-es/))</p>
 India, being partly tropical and sub-tropical, receives sunlight all round the year. But due to it's size and very diverse geograpical features there is also diversity in available solar resources around the country. The below maps shows the distribution of solar resources around different parts of country.
 
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/YkFQCbR/Solar-India.jpg" alt="Solar-India" border="0"></a>
 </p>
-
+<p align = "center">
+Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/solar-power-in-india/))
+</p>
 
 
 ##### Specifications
