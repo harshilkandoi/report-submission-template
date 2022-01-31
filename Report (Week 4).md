@@ -571,21 +571,21 @@ We can vary number of solar panels and the bright sunlight available as per the 
 
 *Installation Cost*
 
- Cost 6 Bluebird 395 Watt Solar Panels = ₹ 6\*14,250 = ₹ 85,500/- 
- Cost of HAVELLS HRFR PVC 4 sq/mm Yellow 90 m Wire = ₹4,351/- 
- Cost of 3 Solar Panel Mounting Structure = ₹ 3\*2,261= ₹6,783/- 
- Cost of Solar Tracker = ₹6000/- 
- Total Installation cost = ₹85500+₹4,351+₹6783+₹6000 = ₹102634 
+ | Components      | Quantity | Price per unit | Total cost of that component| Vendor info|
+| ----------- | ----------- | -----------|-----------|-----------|
+| 395 Watt Solar Panels      | 6       | 16,162|96,972|[Vendor info](https://www.industrybuying.com/solar-panels-bluebird-solar-SOL.SOL.65494482/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_BR_MP_Loss_Leaders&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiXD4B6IBa6vNFGV-CvPqZ23HwJEfBPQqWRVrutoKXzaOUfLBGfVUMaAp5pEALw_wcB)
+| HRFR PVC   | 90 m        |
+| Solar Panel Mounting Structure Set for 2 Solar Panels | 3        |4660|13,980|[Vendor info](https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc_df_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=15900523074506464491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075215&hvtargid=pla-1457440431503&psc=1)
+|Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 
 *Maintenance Cost*
 
-Negligible Maintenance cost because we have to just clean the solar panels 
+Negligible Maintenance cost because we have to just clean the solar panels.
 
 ---
 
 ##### Diagrams and Working
 
-![](https://imgur.com/1FH0bMG.jpg)
 
 
   - So firstly, solar energy falls on the solar panels. We make sure that solar panels are at the best angles for maximum exposure to the sunlight through an \*Active Solar Tracker\*.This device's sensors react with sunlight and angle the solar panels through drivers and motors accordingly. 
@@ -599,6 +599,17 @@ Negligible Maintenance cost because we have to just clean the solar panels
  - After light strikes these photovoltaic cells they convert that kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
 - This electric current generated is then transferred to the inverter through cables and wires and then it is stored in the batteries. This energy is then first converted to AC current through inverters and then is distributed in the house for usage. 
+#####  Closure:
+The life of this solar grid system is approximately 40-50 years (with 25 years in warranty) with minimal maintainance. The parts we used are listed in the following table with their corresponding warranties:
+
+|Device |Warranty Period|
+|-------|---------------|
+|Bluebird 395 Watt Solar Panels| 25 Years |
+|HAVELLS HRFR PVC 4 sq/mm Yellow wire| 1 Year |
+| Solar Panel Mounting Structure Set for 2 Solar Panel | 5 Years |
+| MBATechmeds Solar Sun Tracker | 5 Years |
+
+This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
 
 
 ##### References
