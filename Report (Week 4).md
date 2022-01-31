@@ -631,7 +631,9 @@ Assuming house will have bright sunlight for 5 hours daily.
 | Base Tier    | 237| 85,501
 | Economy Tier    | 59.25| 37,015
 
-**Table-4 Energy**
+<p align = "center">
+Table-4 Energy
+</p>
 
 ##### Diagrams and Working
 
@@ -1478,40 +1480,42 @@ black box) through electrical wires.
 
 
 
-#### 8. Reuse of wated heat
+#### 8. Waste Heat Re-use
 
-##### Requirements
+#### 8.1 Requirements
 
-**Geographical requirements**
+**8.1.1 Geographical requirements**
 
 The heat renewal system would work well under all weather and geographical conditions. Notably the system depends only on basic needs such as cooking. Therefore although the energy production is pretty less, it is still a reliable and sustainable way of generating electricity.
 
-**Requirements from the house**
+**8.1.2 Requirements from the house**
 
 Our goal is to derive energy from heat sources within the house, most notably the cooking stove. Apart from the cooking stove (with two or more burners), presence of other heat producing devices such as geysers, A/C's can increase the energy production.
 
 ---
 
-##### Specifications
+### 8.2 Specifications
 
-**Components**
+**8.2.1 Components**
 
 Building the heat renewal system involves the following devices:
 
 (1) Thermoelectric Generators : Which is a solid state device that converts heat flux (temperature differences) directly into electrical energy through a phenomenon called the Seebeck effect (a form of thermoelectric effect).
 
 <p align = "center">
-	<a href="https://imgbb.com/"><img src="https://i.ibb.co/93wBzwy/TEG-Image.jpg" alt="TEG-Image" border="0"></a>
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/Ssh7JCR/TEG-Image-modified.jpg" alt="TEG Image-modified" border="0"></a>
 </p>
 
-(2) Household devices : Cooking stove (the primary requirement)
+Fig 8.1 Thermo electric generator 
 
 
-**Power generation**
+(2) Household devices : Cooking stove (the primary requirement).
+
+**8.2.2 Power generation**
 
 The voltage generated as a result of the temperature difference between the two end of the TEG is depicted in the table below:
 
-
+                                                                                                               
 | 	Temperature	 (C)  |Open Circuit Voltage (V)|Current (mA)	|
 |---------------------|------------------------|----------------|
 |20                   | 0.97                   | 225            |
@@ -1519,6 +1523,8 @@ The voltage generated as a result of the temperature difference between the two 
 |60                   | 2.4                    | 469            |
 |80                   | 3.6                    | 558            |
 |100                  | 4.8                    | 669            |
+
+##### Table 8.1 (Characteristics of TEG)
 
 Assuming the temp. difference (between the two plates of the TEG) to be 40˚ C, the power, P = 1.8 x 0.368 = 0.6624 W. This is the power of this single TEG.
 
@@ -1531,12 +1537,11 @@ The energy captured by our heat renewal system can be utilized to power small de
 -   An Extractor / Exhaust Fan which uses around 10-12 W of power.
 -   Apart from these things, the power generated from the above waste heat can be used to charge lots of other chargeable devices such as Clock Radio, smart devices such as Amazon Echo and other small chargeable devices.
 
-
-**Cost Analysis**
+**8.2.3 Cost Analysis**
 
 *Installation cost*
 
-It is around Rs 250 for each piece, so using around 40 TEGs in the house would cost us Rs 10,000. 
+It is Rs 250 for each piece, so using around 40 TEGs in the house would cost us Rs 10,000. 
 
 *Running and Maintenance Cost*
 
@@ -1544,23 +1549,66 @@ The device can bear a maximum temp. of 150˚ C, and thus can be used inside the 
 
 Therefore, the system is a one time installment which will work for years.
 
+**8.2.4 Vendor Information**
+
+- TEGs are easily available and can be ordered online from many different electronics e-commerce websites such as [https://www.electronicscomp.com/](https://www.electronicscomp.com/) , [https://robu.in/](https://robu.in/) etc. Model name of TEG easily available in India is SP1848-27145. The approximate cost of this model is around Rs. 250 per unit in India.
+- The other components of the heat renewal system are wires, charge controller and battery. Details for these components can be found in the section on Energy Storage And Distribution.
 ---
 
 
-##### Diagrams and Working
+### 8.3  Diagrams and Working
+
+**8.3.1 Working Principle** 
+
+The TEG system contains two dissimilar thermoelectric materials joined at ends which acquire temperature gradient at ends upon application of heat and thereby, electrons flow towards cooler side. Thermoelectric genrators generate power directly from converting this temperature difference into electric voltage. 
 
 <p align = "center">
-	<a href="https://imgbb.com/"><img src="https://i.ibb.co/hdpxhFL/Stove-Connection-2.jpg" alt="Stove Connection (2)" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a>
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/yhfjVrZ/TEG-Working.png" alt="TEG (Working)" border="0"></a>
 </p>
 
-**Working Principle** :  The TEG system contains two dissimilar thermoelectric materials joined at ends which acquire temperature gradient at ends upon application of heat and thereby, electrons flow towards cooler side. Thermoelectric genrators generate power directly from converting this temperature difference into electric voltage. 
+<center>                              Figure 8.2 Working of a TEG                        </center>
 
+**8.3.2 Installation** 
+	
+We will install the TEG's around the burners in the kitchen. The dimensions of a TEG are 40 x 40 x 3.6 mm^3, so we could place 8 TEG's around each burner. So using two burners, we can place 16 TEGs around them. As the TEG has low thermal conductivity this ensures that the one side nearer to the flame becomes very hot, while the other side stays relatively much cooler, this then helps to create a voltage.
 
-**Installation** : We will install the TEG's around the burners in the kitchen. The dimensions of a TEG are 40 x 40 x 3.6 mm^3, so we could place 8 TEG's around each burner. So using two burners, we can place 16 TEGs around them. As the TEG has low thermal conductivity this ensures that the one side nearer to the flame becomes very hot, while the other side stays relatively much cooler, this then helps to create a voltage. On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
+<p align = "center">
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/KXrFjHX/Stove-Connection.jpg" alt="Stove Connection" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a>
+</p>
 
+Figure 8.3 Installation of TEGs in Kitchen 
+
+ On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
+ 
+ ```mermaid
+ 
+ graph LR;
+ 
+ A[Heat from the Stove];
+ B[TEGs];
+ C[Storage];
+ A --> B;
+ B --> C;
+ ```
 ---
 
-##### References
+### 8.4 Closure
+
+**8.4.1 Availability** 
+-   Production plan for the heat renewal device : The production of the heat renewal device would be 20% more than the sale of the device till the end of sale of the product. This would ensure the availability of components and the device itself in case of replacement, repair and non-availability. 
+-   Buying components from other sellers : All the components can be bought from any other electronic devices manufacturer in the market.
+
+**8.4.2 Easy Maintenance**
+
+- The heat renewal system includes only the TEGs, charge controller and battery. So the maintenance is minimal. 
+
+**8.4.3 Replaceability**
+    
+-  End of life of heat renewal device - The components of heat renewal device (TEG module, battery and charge controller) will be available for repairing and replacement till 10 years (warranty) after the end of sale for the heat renewal device. 
+ 
+-  Upgradability : The quality of the TEGs would improve over the time, thus it will be possible to incorporate more efficient TEGs into the system after say a period of 10 years.
+
+### References
 
 - _Power generation through Thermoelectric generators_. (n.d.). Retrieved January 18, 2022, from [https://krazytech.com/technical-papers/power-generation-thermoelectric-generators](https://krazytech.com/technical-papers/power-generation-thermoelectric-generators)
 
@@ -1569,6 +1617,11 @@ Therefore, the system is a one time installment which will work for years.
 - Thermoelectric generator. (2022). In _Wikipedia_ [https://en.wikipedia.org/w/index.phptitle=Thermoelectric_generator&oldid=1063976547](https://en.wikipedia.org/w/index.php?title=Thermoelectric_generator&oldid=1063976547)
 
 - _Wattage & Power Consumption Of Typical Household Appliances | 106 Appliances in All—Lets Save Electricity_. (n.d.). Retrieved January 18, 2022, from [https://letsavelectricity.com/wattage-power-consumption-of-household-appliances/](https://letsavelectricity.com/wattage-power-consumption-of-household-appliances/)
+
+### Image credits
+
+- (Figure 8.1) https://www.electronicsweekly.com/news/products/power-supplies/thermoelectric-generators-interface-pcbs-2017-04/
+- (Figure 8.2) https://www.researchgate.net/figure/Schematic-of-an-operating-principle-of-TEG-9_fig4_322958833
 
 
 ---
