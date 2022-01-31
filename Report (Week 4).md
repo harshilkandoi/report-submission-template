@@ -631,9 +631,7 @@ Assuming house will have bright sunlight for 5 hours daily.
 | Base Tier    | 237| 85,501
 | Economy Tier    | 59.25| 37,015
 
-<p align = "center">
-Table-4 Energy
-</p>
+**Table-4 Energy**
 
 ##### Diagrams and Working
 
