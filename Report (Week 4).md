@@ -585,6 +585,7 @@ Fig-2 Map
 | Solar Panel Mounting Structure Set for 2 Solar Panels | 2       |4660|9320|[Vendor info](https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc_df_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=15900523074506464491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075215&hvtargid=pla-1457440431503&psc=1)
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||85501|
+
 **Table-2 Cost Analyis for Base Tier**
 *Economy Tier*
 | Components      | Quantity | Price per unit(Rs) | Total cost of that component(Rs)| Vendor info|
@@ -594,6 +595,7 @@ Fig-2 Map
 | Solar Panel Mounting Structure Set for 2 Solar Panels | 1       |4660|4660|[Vendor info](https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc_df_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=15900523074506464491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075215&hvtargid=pla-1457440431503&psc=1)
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||37015|
+
 **Table-3 Cost Analyis for Economy Tier**
 
 
@@ -601,7 +603,7 @@ Fig-2 Map
 
 Negligible Maintenance cost because we have to just clean the solar panels.
 
-**Power generation**
+**Energy generation**
 
 Assuming house will have bright sunlight for 5 hours daily.
 
@@ -611,6 +613,7 @@ Assuming house will have bright sunlight for 5 hours daily.
 | Base Tier    | 237| 85501
 | Economy Tier    | 59.25| 37015
 
+**Table-4 Energy**
 ##### Diagrams and Working
 
 
@@ -636,6 +639,7 @@ The life of this solar grid system is approximately 40-50 years (with 25 years i
 | Solar Panel Mounting Structure Set for 2 Solar Panel | 5 Years |
 | MBATechmeds Solar Sun Tracker | 5 Years |
 
+**Table-5 Warrenty**
 This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
 
 
