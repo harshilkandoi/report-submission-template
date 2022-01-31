@@ -532,13 +532,14 @@ Different regions on the globe get different amount of sunlight at different ang
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
 </p>
+Fig-1 Sun and Earth
 
 India, being partly tropical and sub-tropical, receives sunlight all round the year. But due to it's size and very diverse geograpical features there is also diversity in available solar resources around the country. The below maps shows the distribution of solar resources around different parts of country.
 
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/YkFQCbR/Solar-India.jpg" alt="Solar-India" border="0"></a>
 </p>
-
+Fig-2 Map
 ##### Specifications
 
 **Components**
@@ -594,14 +595,11 @@ India, being partly tropical and sub-tropical, receives sunlight all round the y
 |Total Costs    |    ||37015|
 
 
-
-
-
 **Maintenance Cost**
 
 Negligible Maintenance cost because we have to just clean the solar panels.
 
-**Power generation **
+**Power generation**
 
 Assuming house will have bright sunlight for 5 hours daily.
 
