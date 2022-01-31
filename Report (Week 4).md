@@ -621,12 +621,13 @@ Assuming house will have bright sunlight for 5 hours daily.
 - When solar radiations fall on the solar panels, we make sure that the solar panels are at their best angles for maximum exposure to the sunlight through an \*Active Solar Tracker\*.This device's sensors react with sunlight and angle the solar panels through drivers and motors accordingly. 
 - These solar panels are mounted on the roof with the help of mounting structures and they allow them to maintain and change their position according to the position of the sun. 
 - These solar panels are made up of solar (or photovoltaic) cells that can be used to generate power via the photovoltaic effect. On the surface of solar panels, these cells are organised in a grid-like arrangement. As a result, it can alternatively be described as a collection of photovoltaic modules put on a supporting framework. A photovoltaic (PV) module is a 610 solar cell packaged and linked assembly. 
-
+<figure>
 <p align = "center">
 	<a href="https://ibb.co/PrMW0nH"><img src="https://i.ibb.co/51kjwyH/elp.png" alt="elp" border="0"></a>
 </p>
-{% Fig-3 Solar Panel %} 
+<figcaption align = "center"><b>Fig-3 Solar Panel</b></figcaption>
 
+</figure>
 
 - After light strikes these photovoltaic cells, the kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
