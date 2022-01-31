@@ -339,11 +339,22 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 **Geographical requirements**
 
+Though wind power is a very clean source of energy, it is not so easy to harness. The world map shown below depicts wind energy potential across the world. The regions marked in red have the highest wind power density and the regions marked in blue have the lowest. The measurements have been done in W/m: dark red shows potential over 1300 W/m and light blue shows potential less than 25 W/m. This map can be used to identify ideal regions to harness wind energy across the globe.
+
+
 <p align = "center">
-	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a>
+	<a href="https://ibb.co/QCPmHL3"><img src="https://i.ibb.co/P9cCWKv/Wind-Power-Density-Potential.png" alt="Wind-Power-Density-Potential" border="0"></a>
+<figcaption align = "center"><b>Fig.1 - Wind Power Density Potential  </b></figcaption>
 </p>
 
-Though wind power is a very clean source of energy, it is not so easy to harness. To generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least more than 5m/s. The above shown wind power potential map explains how the wind power potential is distributed across India? The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states along the western coast. 
+For an Indian household, to generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least more than 5m/s. The wind power potential map shown below explains how the wind power potential is distributed across India? The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states along the western coast. 
+
+<p align = "center">
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a>
+<figcaption align = "center"><b>Fig.2 - Wind Power Potential Map - India </b></figcaption>
+</p>
+
+
 
 **Other basic requirements**
 
@@ -369,7 +380,9 @@ Though wind power is a very clean source of energy, it is not so easy to harness
  | Color | White |
  | Surface finish | Gelcoat |
     
+ Table 1(a): Wind Turbine Components Specifications - Nacelle  
    
+
    
 (2) Rotor:
  
@@ -380,12 +393,15 @@ Though wind power is a very clean source of energy, it is not so easy to harness
  | Radius of blade | 1.4 m |
  | Area swept | 6.15 m^2 |
  | Material used for hub | Aluminum alloy |
-     
+ 
+ Table 1(b): Wind Turbine Components Specifications - Rotor
+
      
 (3) Generator:
 
    | | |
      | :---------------: | :--------------: |
+     | Vendor | Automation Technologies Online(ATO) |
      | Model | ATO-PMG-NE400WM |
      | Rated Power | 400W |
      | Max Power | 445W |
@@ -406,6 +422,9 @@ Though wind power is a very clean source of energy, it is not so easy to harness
      | Lubrication | Lubrication Grease |
      | Working Temperature | -40℃ - 80 ℃ |
      
+     Table 1(c): Wind Turbine Components Specifications - Generator
+     
+
      
  (4) Tower:
 
@@ -414,6 +433,7 @@ Though wind power is a very clean source of energy, it is not so easy to harness
    | Length of pole | 10m (may vary depending upon placement setting) |
    | Material | Mild Steel |
 
+   Table 1(d): Wind Turbine Components Specifications - Tower
 
 
 **Power generation **
@@ -428,6 +448,10 @@ Though wind power is a very clean source of energy, it is not so easy to harness
  | Turbine efficiency        | 40%                          |
  | Output power              | ~210 W                       |
  
+ Table 2: Wind Turbine Power Output
+
+
+ 
 
 **Cost Analysis**
 
@@ -438,11 +462,12 @@ Though wind power is a very clean source of energy, it is not so easy to harness
  | Generator                                | ₹12,000 |
  | Tower                                    | ₹6,000  |
  | Other misc items like gearbox, wind vane, bolts, etc. | ₹2,000  |
- | **Total**                                | ₹24,000 |
+ | Wiring cost (from wind turbine generator to energy storage unit) | ₹270 |
+ | **Total**                                | ₹24,270 |
     
-  The above cost just entails the amount to get all the necessary parts to make the wind turbine excluding the labor cost. So, if we include the man-power needed to get it assembled and build the different parts, the turbine's entire prototype cost is projected to be ₹30,000. This is based on the best-case scenario quote, which excludes any remachining or unforeseen failures. Since there is the possibility of human mistake, accommodations must be taken to guarantee that an accurate situation is presented. As a result, some extra financing should be included to the cost estimate to cover for unanticipated losses.  Therefore, the net cost to make the wind turbine up and running will come about ₹34,000.
+ Table 3: Bill of Materials for Wind Turbine
 
-
+ 
 
 ##### Diagrams and Working
 
@@ -452,26 +477,24 @@ Below is the CAD model of the small wind turbine along with brief description of
 
 - The blades and rotor are the parts of the turbine that interact with the wind and are designed to enhance efficiency. Blades are made of light materials with good wear and tear resistance, in this design we have used fibre-reinforced plastic. And to prevent the material from ageing, a layer of colored gel is applied to the blade and rotor's external surface. 
 
-<p align = "center">
-	<a href="https://imgbb.com/"><img src="https://i.ibb.co/DMpd5BC/Front-View.jpg" alt="Front View" border="0"></a>
-</p>
-
 - The horizontal axis small wind turbine (HAWT) is usually placed on a pole, preferably higher than 10 m, to lessen the impact of turbulent, sheared winds forming in close proximity to the ground. But since it is a small wind turbine with relatively less weight and comparably lower power output, the turbine can be put on a variety of existing structures, including roof tops, and rain water tanks, as long as it keeps the turbine's blades clear of the ground and in a continuous stream tube. Still, in our design we have taken a tubular steel pole for placing the wind turbine above obstacles in urban areas. This can be omitted depending on the place where you want to install the turbine and reduce the installation cost.
 
 <p align = "center">
-	<a href="https://imgbb.com/"><img src="https://i.ibb.co/7ghSwyy/Side-View.jpg" alt="Side View" border="0"></a>
+	<a href="https://ibb.co/XSmL5vq"><img src="https://i.ibb.co/bzpmv8k/CAD-Model-of-Wind-Turbine.jpg" alt="CAD-Model-of-Wind-Turbine" border="0"></a>
+<figcaption align = "center"><b>Fig.3 - CAD Model of Wind Turbine</b></figcaption>
+
 </p>
 
 
-<p align = "center">
-	<a href="https://imgbb.com/"><img src="https://i.ibb.co/Pzd5T69/Back-View.jpg" alt="Back View" border="0"></a>
-</p>
 
 After the completion of the mechanical design of the wind turbine, the next step is to look after the electrical connections for energy storage and usage. The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage. More details about the connections is taken up in detail by the energy storage team ahead.
 
 <p align = "center">
-	<a href="https://imgbb.com/"><img src="https://i.ibb.co/D59H6yC/Grid-Connection-diagram.jpg" alt="Grid Connection diagram" border="0"></a>
+	<a href="https://ibb.co/WGxkNVH"><img src="https://i.ibb.co/TYv4DWw/Grid-Connection-Diagram.png" alt="Grid-Connection-Diagram" border="0"></a>
+<figcaption align = "center"><b>Fig.4 - Wind Turbine Grid Connection Diagram</b></figcaption>
+
 </p>
+
 
 
 ##### References
@@ -486,6 +509,8 @@ After the completion of the mechanical design of the wind turbine, the next step
 - “10 Meter Tubular Steel Pole,” _indiamart.com_. https://www.indiamart.com/proddetail/10-meter-tubular-steel-pole-17130969591.html (accessed Jan. 17, 2022).
 - “WINDExchange: Small Wind Guidebook.” https://windexchange.energy.gov/small-wind-guidebook#installation (accessed Jan. 17, 2022).
 - C. J, V. D, and M. Majid, “Wind energy programme in India: Emerging energy alternatives for sustainable growth,” _Energy & Environment_, vol. 30, p. 0958305X1984129, Apr. 2019, doi: [10.1177/0958305X19841297](https://doi.org/10.1177/0958305X19841297).
+- “1.5 Sq Mm Pvc Insulated Copper Wire,” indiamart.com. https://www.indiamart.com/proddetail/1-5-sq-mm-pvc-insulated-copper-wire-16592853897.html (accessed Jan. 31, 2022).
+
 
 ---
 
