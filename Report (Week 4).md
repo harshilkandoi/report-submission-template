@@ -641,7 +641,7 @@ The life of this solar grid system is approximately 40-50 years (with 25 years i
 | Solar Panel Mounting Structure Set for 2 Solar Panel | 5 Years |
 | MBATechmeds Solar Sun Tracker | 5 Years |
 
-**Table-5 Warranty**
+**Table-5 Warrenty**
 This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
 
 
@@ -781,13 +781,14 @@ https://www.analog.com/media/en/technical-documentation/application-notes/an19fc
 
 #### 4. Hydroelectricity
 
+
 ##### Requirements
 
 **Constructional Requirement**
 
 The following are _constructional requirements_:
 
-- _Raw Materials Availability_: For building the water inlet to the turbine we need PVC/RCC pipes, for construction mini dam Iron Rebar, Water impenetrable Concrete (Cement, Gravels soil etc.) or wooden boards for holding water.
+- _Raw Materials Availability_: For building the water inlet to the turbine, we need PVC/RCC pipes, for construction mini dam Iron Rebar, Water impenetrable Concrete (Cement, Gravels soil etc.) or wooden boards for holding water.
 
 - _Building Equipment_: The basic building tools and maintenance equipment etc. should be easily available.
 
@@ -797,21 +798,21 @@ The following are _constructional requirements_:
 
 The _geographical requirements_ required for the plant are as follows:
 
-- Water Availability: The location should be such that it receives enough rain as for the plant to be feasible it should get enough water supply each year. The water body should be such that it is either deep like a lake (for increasing ‘height’) or it should be a flowing river in order to increase (‘Q: flow rate’).
+- Water Availability: The location should be such that it receives enough rain as for the plant to be feasible, it should get enough water supply each year. The water body should be such that it is either deep like a lake (for increasing ‘height’) or a flowing river to increase (‘Q: flow rate’).
 
-It is advised to use this system in a region that recieves at least 600mm of average annual rainfall or has a rivers with continous flow. Annual average rainfall can be checked from figure below.
+It is advised to use this system in a region that recieves at least 600mm of average annual rainfall or has a river with continuous flow. The annual average rainfall can be checked from the figure below.
 (Image Source: [ResearchGate](https://www.researchgate.net/publication/257155103_Climate_vegetation_and_ecology_during_Harappan_period_Excavations_at_Kanjetar_and_Kaj_mid-Saurashtra_coast_Gujarat))
 
 ![Imgur](https://i.imgur.com/fy0Mk4v.png)
 
 <figcaption align = "center"><b>Fig.1 - Average Rainfall in India </b></figcaption>
 
-Here is the map of India with major rivers, if your house is close to any of these river then this system will be feasible.
+Here is the map of India with major rivers. If your house is close to any of these river, then this system will be feasible.
 (Image Source: [Pinterest](https://in.pinterest.com/pin/619948704924890264/))
 ![Imgur](https://i.imgur.com/9xaje9U.jpg)
 
 <figcaption align = "center"><b>Fig.2 - Major rivers of India</b></figcaption>
-Waterfalls are also suitable for the feasibility of this system. Any waterfall close to your house with head-height of at least 2m is suitable for this plant.
+Waterfalls are also suitable for the feasibility of this system. Any waterfall close to your house with a head height of at least 2m is ideal for this plant.
 
 [List of waterfalls in india](https://en.wikipedia.org/wiki/List_of_waterfalls_in_India_by_height)
 
@@ -837,7 +838,7 @@ The following are the _electrical requirements_:
 
 _(1) Turbine_
 
-The water turbine is the heart of any hydro power plant. It consists of a number of metal or plastic blades fitted to a central rotating shaft or plate. Water flowing through the casing strikes the blades of the turbine producing torque and making the shaft rotate thus conversing K.E. for water to M.E.
+The water turbine is the heart of any hydropower plant. It consists of a number of metal or plastic blades fitted to a central rotating shaft or plate. Water flowing through the casing strikes the turbine's blades producing torque and making the shaft rotate thus conversing K.E. for water to M.E.
 
 
 | Details | Specifications |
@@ -887,7 +888,7 @@ _Table 3: Hydro-Electricity AC-DC Converter Specifications_
 The maximum hydropower power output is entirely dependent on how much head and flow is available at the site. The formula for power calculation is derived from the concept of stored potential energy in water at a certain height H(Head Height) and given by the formula:
 
 <p align = "center">
-	
+  
 Power (P) = m * g * H<sub>net</sub> * η
 </p>
 
@@ -921,13 +922,13 @@ _Table 4: Hydro-Electricity output power_
 
 _Table 5: Total Installation Cost_ 
 
-By above mentioned specifications and power output calculations, we can conclude that this system can help us run basic electric home appliances like television, mini-fridge, mobile chargers etc. Also we can increase the power output by suitably choosing the location to get high flow rate like Northern Indian water-bodies have high flow rate. Thus, by suitably choosing the above mentioned devices we can increase the efficiency and can get higher electricity generation.
+By above mentioned specifications and power output calculations, we can conclude that this system can help us run basic electric home appliances like television, mini-fridge, mobile chargers etc. Also, we can increase the power output by suitably choosing the location to get a high flow rate like Northern Indian water-bodies have a high flow rate. Thus, by suitably choosing the above mentioned devices, we can increase the efficiency and can get higher electricity generation.
 
 [^1]:As per Delhi govt guideline ([check here](https://labour.delhi.gov.in/content/current-minimum-wage-rate))
 
 ##### Diagrams and Working
 
-As shown in the figure, water stored at high elevation falls on the turbine of generator i.e. converting the potential energy of water to mechanical energy of turbine by rotating it. Now, this mechanical energy of turbine is converted to electrical energy with the help of drives. Now this pulsating alternating current is passed through transformers for transmitting to distant use places and finally it passes through ac/dc converters to make it usable at required places.
+As shown in the figure, water stored at high elevation falls on the turbine of generator i.e. converting the potential energy of water to mechanical energy of turbine by rotating it. Now, this turbine's mechanical energy is converted to electrical energy with the help of drives. Now this pulsating alternating current is passed through transformers for transmitting to distant use places and finally, it passes through ac/dc converters to make it usable at required places.
 
 This figure shows a typical model for mini hyrdro-electric plant. The height of the dam from the turbine should be more than 2m.
 ![Generator Flow](https://i.imgur.com/UqiqcmE.png)
@@ -935,14 +936,14 @@ This figure shows a typical model for mini hyrdro-electric plant. The height of 
 
 </p>
 
-This figure shows the rough dimention of graviational water vorex for the plant. Due to spiral structure water starts spining as enters from inlet. This type of setup is efficient for axial hydro plant.
+This figure shows the rough dimension of the gravitational water vortex for the plant. Due to the spiral structure, water starts spinning as it enters the inlet. This type of setup is efficient for the axial hydro plant.
 ![Generator Flow](https://i.imgur.com/l2aSLEK.png)
 
 <figcaption align = "center"><b>Fig.4 - Dimenstions of Gravitational Water Vortex</b></figcaption>
 
 </p>
 
-This figure shows connections of various subsystem of the plant along with wire ratings.
+This figure shows connections of the various subsystem of the plant along with wire ratings.
 ![Circuit Diagram](https://i.imgur.com/PhWuSBU.jpg)
 
 <figcaption align = "center"><b>Fig.5 - Circuit Diagram of System</b></figcaption>
