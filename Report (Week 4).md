@@ -561,17 +561,6 @@ India, being partly tropical and sub-tropical, receives sunlight all round the y
 
 (4) MBATechmeds Solar Sun Tracker (Single Axis) 
 
-*Power generation *
-
-Assuming house will have bright sunlight for 5 hours daily.
-The Power output of 6 solar panels monthly(30 days) = 6\*5\*395*30/1000 kWh= 355.5 kWh
-| Tier   | Power Output(Monthly in kWh)| Total Cost(Rs)
-| ----------- | ----------- | -----------|
-| Top Tier   | 355.5 |122485 
-| Base Tier    | 237| 85501
-| Economy Tier    | 59.25| 37015
-
-
 
 **Cost Analysis**
 
@@ -612,7 +601,15 @@ The Power output of 6 solar panels monthly(30 days) = 6\*5\*395*30/1000 kWh= 355
 
 Negligible Maintenance cost because we have to just clean the solar panels.
 
----
+**Power generation **
+
+Assuming house will have bright sunlight for 5 hours daily.
+
+| Tier   | Power Output(Monthly in kWh)| Total Cost(Rs)
+| ----------- | ----------- | -----------|
+| Top Tier   | 355.5 |122485 
+| Base Tier    | 237| 85501
+| Economy Tier    | 59.25| 37015
 
 ##### Diagrams and Working
 
