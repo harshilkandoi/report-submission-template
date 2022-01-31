@@ -491,8 +491,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 
 <p align = "center">
 	<a href="https://ibb.co/WGxkNVH"><img src="https://i.ibb.co/TYv4DWw/Grid-Connection-Diagram.png" alt="Grid-Connection-Diagram" border="0"></a>
-<figcaption align = "center"><b>Fig.4 - Wind Turbine Grid Connection Diagram</b></figcaption>
-
+	<figcaption align = "center"><b>Fig.4 - Wind Turbine Grid Connection Diagram</b></figcaption>
 </p>
 
 
@@ -529,9 +528,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 
 **Geographical requirements**
 
-Different regions on the globe get different amount of sunlight at different angles. For example, at equator the earth recieves more focused sunlight than on poles where the light spreads over a wide area. The area which receives more focused sunlight also can generate more solar energy. Different geographical features also play a role like forest areas or hilly areas have low solar power avalibilty. 
-![Fig 1](https://imgur.com/a/loy8nXd.jpg)
-
+Different regions on the globe get different amount of sunlight at different angles. For example, at equator the earth recieves more focused sunlight than on poles where the light spreads over a wide area. The area which receives more focused sunlight also can generate more solar energy. Different geographical features also play a role like forest areas or hilly areas have low solar power avalibilty.
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
 </p>
