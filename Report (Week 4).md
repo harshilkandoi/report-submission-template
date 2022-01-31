@@ -615,7 +615,7 @@ Assuming house will have bright sunlight for 5 hours daily.
 | Base Tier    | 237| 85,501
 | Economy Tier    | 59.25| 37,015
 
-**Table-4 Energy**
+| <b>Image Credits - **Table-4 Energy**</b>|
 ##### Diagrams and Working
 
 - When solar radiations fall on the solar panels, we make sure that the solar panels are at their best angles for maximum exposure to the sunlight through an \*Active Solar Tracker\*.This device's sensors react with sunlight and angle the solar panels through drivers and motors accordingly. 
