@@ -517,6 +517,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
+
 #### 2. Solar
 
 ##### Requirements
@@ -586,9 +587,11 @@ Table-1 Cost Analysis for Top Tier
 | Solar Panel Mounting Structure Set for 2 Solar Panels | 2       |4660|9320|[Vendor info](https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc_df_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=15900523074506464491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075215&hvtargid=pla-1457440431503&psc=1)
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||85501|
+
 <p align = "center">
 Table-2 Cost Analysis for Base Tier
 </p>
+
 | Components      | Quantity | Price per unit(Rs) | Total cost of that component(Rs)| Vendor info|
 | ----------- | ----------- | -----------|-----------|-----------|
 | 395 Watt Solar Panels      | 1       | 16,162|16,162|[Vendor info](https://www.industrybuying.com/solar-panels-bluebird-solar-SOL.SOL.65494482/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_BR_MP_Loss_Leaders&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiXD4B6IBa6vNFGV-CvPqZ23HwJEfBPQqWRVrutoKXzaOUfLBGfVUMaAp5pEALw_wcB)
@@ -596,6 +599,7 @@ Table-2 Cost Analysis for Base Tier
 | Solar Panel Mounting Structure Set for 2 Solar Panels | 1       |4660|4660|[Vendor info](https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc_df_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=15900523074506464491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075215&hvtargid=pla-1457440431503&psc=1)
 |Solar Sun Tracker (Single Axis)    | 1        |6000|6000|[Vendor info](https://mbatechmeds.com/product/solar-sun-tracker/)
 |Total Costs    |    ||37,015|
+
 <p align = "center">
 Table-3 Cost Analysis for Economy Tier
 </p>
@@ -617,6 +621,7 @@ Assuming house will have bright sunlight for 5 hours daily.
 <p align = "center">
 Table-4 Energy
 </p>
+
 ##### Diagrams and Working
 
 - When solar radiations fall on the solar panels, we make sure that the solar panels are at their best angles for maximum exposure to the sunlight through an \*Active Solar Tracker\*.This device's sensors react with sunlight and angle the solar panels through drivers and motors accordingly. 
