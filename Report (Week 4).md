@@ -76,10 +76,6 @@ geometry : margin = 2cm
 >> [8. Waste Heat Re-use](#8-waste-heat-re-use)
 >> 
 >> [9. Energy Storage And Distribution](#9-energy-storage-and-distribution)
->
-> [Closure](#Closure)
-> 
-> [Image Credits](#image-credits)
 > 
 > [References](#References)
 
