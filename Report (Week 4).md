@@ -1899,7 +1899,7 @@ On connecting the joined ends to a battery through charge controller, we can cha
 
 ### [9. Energy Storage And Distribution](#table-of-contents)
 
-**9.1 Requirements
+**9.1 Requirements**
 
 **9.1.1 House Requirements**
 1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10$C^\circ$ to 40$C^\circ$ , Ideal temperature range of 25-35$C^\circ$
