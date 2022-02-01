@@ -1153,6 +1153,30 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 ---
 
 
+
+##### COST ANALYSIS 
+
+  
+
+Below is the cost analysis for a standard 2BHK house. For maximum efficiency and keeping in mind the feasibility of the system, we suggest the homeowner to install piezo tiles only in areas with maximum mobility. We assume it to be the living area in this case.
+
+  
+  
+
+| System         | Installation cost                                                                                                                                                                                              | Wiring Cost                                                                                                                                            | Labour Cost                                 |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| Piezo Tiles    | Total tiles in the hall= 8*12 ,Cost 1 PZT tile = Rs. 500 ,   Total cost of tile floor = 96*500=Rs.48,000                                                                                                       | Total Wire length(including wires to storage system)= 100m , <br><br>  <br><br>Cost of wire/m = Rs. 20 , <br><br>  <br><br>Total cost= 100*20=Rs. 2000 | About 30%<br><br>of total installation cost |
+| Piezo Windmill | The home-based Vortex Bladeless windmill has an installation cost of about 17,000 INR <br><br>  <br><br>(Source: [<ins>Bridgestone</ins>](https://www.bridgestone.com/bwsc/stories/article/2019/11/13-2.html)) | 40% less cost than a normal wind turbine                                                                                                               | 30% of total installation cost              |
+| Piezo Shoes    | Piezo device installation= Rs900                                                                                                                                                                               | Negligible                                                                                                                                             | None<br><br>(can be done by self)           |
+
+Table 2: Cost Analysis
+
+
+
+---
+
+
+
 ##### 5.4 Bill of Materials
 
 
