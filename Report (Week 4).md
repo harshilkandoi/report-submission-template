@@ -375,7 +375,7 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 	
 #### [1. Wind](#table-of-contents)
 
-##### 1.1 Requirements
+**1.1 Requirements**
 
 **1.1.1 Geographical requirements**
 
@@ -406,11 +406,13 @@ For an Indian household, to generate a good amount of electricity using wind pow
 - The mechanical parts of the turbine, for example, the gear box (used for increasing rpm) will be machined from high tensile steel to ensure wear resistance.
 
 
-##### 1.2 Specifications
+**1.2 Specifications**
 
 **1.2.1 Components**
 
 (1) Nacelle: 
+
+<div align = "center">
  
  |  |  |
  |:------------:|:-----------:|
@@ -420,6 +422,8 @@ For an Indian household, to generate a good amount of electricity using wind pow
  | Usage/Application | Wind turbine system |
  | Color | White |
  | Surface finish | Gelcoat |
+
+</div>
     
  Table 1(a): Wind Turbine Components Specifications - Nacelle  
    
@@ -427,6 +431,8 @@ For an Indian household, to generate a good amount of electricity using wind pow
    
 (2) Rotor:
  
+ <div align = "center">
+	
  |  |  |
  |:------------:|:-----------:|
  | Vendor | [Indiamart](https://www.indiamart.com/proddetail/windmill-blade-17678651497.html) |
@@ -435,11 +441,15 @@ For an Indian household, to generate a good amount of electricity using wind pow
  | Radius of blade | 1.4 m |
  | Area swept | 6.15 m^2 |
  | Material used for hub | Aluminum alloy |
+
+</div>
  
  Table 1(b): Wind Turbine Components Specifications - Rotor
 
      
 (3) Generator:
+
+<div align = "center">
 
 | | |
 | :---------------: | :--------------: |
@@ -463,23 +473,31 @@ For an Indian household, to generate a good amount of electricity using wind pow
 | Protection Grade | IP54 |
 | Lubrication | Lubrication Grease |
 | Working Temperature | -40℃ - 80 ℃ |
+	
+</div>
      
 Table 1(c): Wind Turbine Components Specifications - Generator
      
 
      
- (4) Tower:
+(4) Tower:
 
-   | | |
-   |:------------:|:-----------:|
-   | Length of pole | 10m (may vary depending upon placement setting) |
-   | Material | Mild Steel |
+<div align = "center">
 
-   Table 1(d): Wind Turbine Components Specifications - Tower
+| | |
+|:------------:|:-----------:|
+| Length of pole | 10m (may vary depending upon placement setting) |
+| Material | Mild Steel |
+
+</div>
+
+Table 1(d): Wind Turbine Components Specifications - Tower
 
 
 **1.2.2 Power generation**
 
+<div align = "center">
+	
  |                           |                              |
  |:-----------------------:|:--------------------------:|
  | Turbine type              | Horizontal-axis wind turbine |
@@ -489,13 +507,15 @@ Table 1(c): Wind Turbine Components Specifications - Generator
  | Available wind power (Pw) | ~540 W                       |
  | Turbine efficiency        | 40%                          |
  | Output power              | ~210 W                       |
+				  
+</div>
  
  Table 1(e): Wind Turbine Power Output
 
 
- 
-
 **1.2.3 Cost Analysis**
+	
+<div align = "center">
 
  | Part                                     | Quantity | Cost    |
  |:----------------------------------------:|:--------:| :-------:|
@@ -506,6 +526,8 @@ Table 1(c): Wind Turbine Components Specifications - Generator
  | Other misc items like gearbox, wind vane, bolts, etc. | 1 | ₹2,000  |
  | Wiring cost (from wind turbine generator to energy storage unit) | 40m 1.5sq/mm copper wire | ₹900 |
  | **Total**                                | - | ₹29,400 |
+
+</div>
     
  Table 1(f): Bill of Materials for Wind Turbine
 
@@ -513,7 +535,7 @@ Table 1(c): Wind Turbine Components Specifications - Generator
 All practitioners recommend annual maintenance for the small wind turbine, which involves applying grease to bearings, maintaining the leading edge of wind turbine blades and providing a general inspection.  Therefore, a provision of one skilled mechanic at a daily wage of ₹784 is considered for the maintenance of the system.
 
 
-##### 1.3 Diagrams and Working
+**1.3 Diagrams and Working**
 
 Wind turbine designs involves looking over a lot of environmental and mechanical aspects for an efficient and sturdy electrical energy generation system. In our design, we have tried to considered a lot of these factors and have tried to keep the as real as possible. The actual construction of the wind turbine is a secondary objective and has been taken into optimum consideration during the design phase. But as the design of the wind turbine discussed below is based on existing technology investigated in the literature review and research process it's a little difficult to get the exact specifications ready for construction just by working on the design remotely, therefore, depending upon the resources available and the feasibility of the model the design discussed below can be altered.
 
@@ -1096,12 +1118,6 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
  <figcaption align = "center"><b>Fig.1d - Piezo Tiles Circuit Diagram</b></figcaption>
 
  </p>
- 
- ![Fig.1e-Piezo Tiles Floorplan](https://i.imgur.com/wBacle8.png)
- <figcaption align = "center"><b>Fig.1e - Piezo Tiles Circuit Floorplan</b></figcaption>
-
- </p>
- 
 
 
 **Piezoelectric Wind Turbine**
@@ -1151,30 +1167,6 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 </p>
 
 ---
-
-
-
-##### COST ANALYSIS 
-
-  
-
-Below is the cost analysis for a standard 2BHK house. For maximum efficiency and keeping in mind the feasibility of the system, we suggest the homeowner to install piezo tiles only in areas with maximum mobility. We assume it to be the living area in this case.
-
-  
-  
-
-| System         | Installation cost                                                                                                                                                                                              | Wiring Cost                                                                                                                                            | Labour Cost                                 |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| Piezo Tiles    | Total tiles in the hall= 8*12 ,Cost 1 PZT tile = Rs. 500 ,   Total cost of tile floor = 96*500=Rs.48,000                                                                                                       | Total Wire length(including wires to storage system)= 100m , <br><br>  <br><br>Cost of wire/m = Rs. 20 , <br><br>  <br><br>Total cost= 100*20=Rs. 2000 | About 30%<br><br>of total installation cost |
-| Piezo Windmill | The home-based Vortex Bladeless windmill has an installation cost of about 17,000 INR <br><br>  <br><br>(Source: [<ins>Bridgestone</ins>](https://www.bridgestone.com/bwsc/stories/article/2019/11/13-2.html)) | 40% less cost than a normal wind turbine                                                                                                               | 30% of total installation cost              |
-| Piezo Shoes    | Piezo device installation= Rs900                                                                                                                                                                               | Negligible                                                                                                                                             | None<br><br>(can be done by self)           |
-
-Table 2: Cost Analysis
-
-
-
----
-
 
 
 ##### 5.4 Bill of Materials
