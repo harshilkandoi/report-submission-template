@@ -929,13 +929,20 @@ It is advised to use this system in a region that recieves at least 600mm of ave
 
 <p align = "center"><img src="https://i.imgur.com/fy0Mk4v.png" width="90%"></p>
 
-<p align = "center">Fig.4.1 - Average Rainfall in India </p>
+<p align = "center">
+<b>Fig 4.1 - Average Rainfall in India </b></figcaption>
+</p>
+
 
 Here is the map of India with major rivers, if your house is close to any of these river then this system will be feasible.
 (Image Source: [Pinterest](https://in.pinterest.com/pin/619948704924890264/))
+
 <p align = "center"><img src="https://i.imgur.com/9xaje9U.jpg" width="90%"></p>
 
-<p align = "center">Fig.4.2 - Major rivers of India</b></figcaption>
+<p align = "center">
+<b>Fig 4.2 - Major rivers of India </b></figcaption>
+</p>
+
 Waterfalls are also suitable for the feasibility of this system. Any waterfall close to your house with head-height of at least 2m is suitable for this plant.
 
 [List of waterfalls in india](https://en.wikipedia.org/wiki/List_of_waterfalls_in_India_by_height)
@@ -976,7 +983,10 @@ The water turbine is the heart of any hydro power plant. It consists of a number
 
 </div>
 
-_Table 4.1: Hydro-Electricity Turbine Specifications_
+<p align = "center">
+<b>Table 4.1 Hydro-Electricity Turbine Specifications  </b></figcaption>
+</p>
+
 
 _(2) Generator_
 
@@ -996,7 +1006,9 @@ Generators are used to convert rotational energy to electrical energy. The type 
 
 </div>
 
-_Table 4.2: Hydro-Electricity Generator Specifications_
+<p align = "center">
+<b>Table 4.2 Hydro-Electricity Generator Specifications  </b></figcaption>
+</p>
 
 _(3) AC-DC Converter_
 
@@ -1014,7 +1026,10 @@ As the generator gives AC output so to convert AC to DC for charging an AC-DC co
 	
 </div>
 
-_Table 4.3: Hydro-Electricity AC-DC Converter Specifications_
+<p align = "center">
+<b>Table 4.3 Hydro-Electricity AC-DC Converter Specifications </b></figcaption>
+</p>
+
 
 **4.2.2 Power generation**
 
@@ -1040,7 +1055,10 @@ Most of the Hydro-Electric systems used for domestic purposes have η about 75%.
 	
 </div>
 
-_Table 4.4: Hydro-Electricity output power_
+<p align = "center">
+<b>Table 4.4 Hydro-Electricity output power</b></figcaption>
+</p>
+
 
 **4.2.3 Cost Analysis**
 
@@ -1058,7 +1076,10 @@ _Table 4.4: Hydro-Electricity output power_
 	
 </div>
 
-_Table 4.5: Total Installation Cost_ 
+<p align = "center">
+<b>Table 4.5 Total Installation Cost</b></figcaption>
+</p>
+
 
 By above mentioned specifications and power output calculations, we can conclude that this system can help us run basic electric home appliances like television, mini-fridge, mobile chargers etc. Also we can increase the power output by suitably choosing the location to get high flow rate like Northern Indian water-bodies have high flow rate. Thus, by suitably choosing the above mentioned devices we can increase the efficiency and can get higher electricity generation.
 
@@ -1071,23 +1092,29 @@ As shown in the figure, water stored at high elevation falls on the turbine of g
 
 This figure shows a typical model for mini hyrdro-electric plant. The height of the dam from the turbine should be more than 2m.
 <p align = "center"><img src= "https://i.imgur.com/UqiqcmE.png" width="90%"></p>
-<p align = "center">Fig.4.3 - Model of Hydro-Electricity System
 
+<p align = "center">
+<b>Fig 4.3 Model of Hydro-Electricity System </b></figcaption>
 </p>
+
 
 This figure shows the rough dimention of graviational water vorex for the plant. Due to spiral structure water starts spining as enters from inlet. This type of setup is efficient for axial hydro plant.
+
+
 <p align = "center"><img src="https://i.imgur.com/l2aSLEK.png" width="90%"></p>
 
-<p align = "center">Fig.4.4 - Dimenstions of Gravitational Water Vortex
-
+<p align = "center">
+<b>Fig 4.4 Dimenstions of Gravitational Water Vortex </b></figcaption>
 </p>
+
 
 This figure shows connections of various subsystem of the plant along with wire ratings.
 <p align = "center"><img src="https://i.imgur.com/PhWuSBU.jpg" width="90%"></p>
 
-<p align = "center">Fig.4.5 - Circuit Diagram of System
-
+<p align = "center">
+<b>Fig 4.5 Circuit Diagram of System </b></figcaption>
 </p>
+
 
 #### 4.4 Vender's Info
 
@@ -1102,7 +1129,9 @@ This figure shows connections of various subsystem of the plant along with wire 
 	
 </div>
 
-_Table 4.6: Vendor's Info_ 
+<p align = "center">
+<b>Table 4.6 Vendor's Info  </b></figcaption>
+</p>
 
 ---
 
@@ -1196,26 +1225,30 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 - <ins>_Working Model:_</ins> When a load is applied to the tile surface it moves in the downward direction. The projections on the tile surface come in contact with the piezo material. The applied force produces stresses inside piezo material which will produce electricity. There is clearance in between the springs and tile surface in order to provide free deflection. The spring is provided for stability as well as protecting the piezo material from getting damaged by an excess load applied. The base plate is fitted inside the frame firmly to provide support to the piezo material while compression. This kinetic energy is converted into electricity. This generated electricity is stored in the form of batteries, to which the rectifier is connected to get a pure dc supply.
 
- <p align = "center"><img src ="https://i.imgur.com/A1OzQbT.jpg" width= "90%"> </p>
- <p align = "center">Fig.1a - Piezo Tiles Block Diagram
-
- </p>
+<p align = "center"><img src ="https://i.imgur.com/A1OzQbT.jpg" width= "90%"> </p>
+ 
+<p align = "center">
+<b>Fig 5.1(a) Piezo Tiles Block Diagram</b></figcaption>
+</p>
   
- <p align = "center"><img src = "https://i.imgur.com/t2J9EYh.jp" width= "90%"> </p>
- <p align = "center">>Fig.1b - Piezo Tiles CAD Model-1
-
- </p>
-  
-  
+<p align = "center"><img src = "https://i.imgur.com/t2J9EYh.jp" width= "90%"> </p>
+ 
+<p align = "center">
+<b>Fig 5.1(b) Piezo Tiles CAD Model-1</b></figcaption>
+</p>
+   
 <p align = "center"><img src = "https://i.imgur.com/65Au284.jpg" width= "90%"> </p>
- <p align = "center">Fig.1c - Piezo Tiles CAD Model-2
 
- </p>
+<p align = "center">
+<b>Fig 5.1(c) Piezo Tiles CAD Model-2</b></figcaption>
+</p>
   
   
- <p align = "center"><img src ="https://i.imgur.com/6w4iz5z.jpg" width= "90%"> </p>
- <p align = "center">Fig.1d - Piezo Tiles Circuit Diagram
- </p>
+<p align = "center"><img src ="https://i.imgur.com/6w4iz5z.jpg" width= "90%"> </p>
+
+<p align = "center">
+<b>Fig 5.1(d) Piezo Tiles Circuit Diagram</b></figcaption>
+</p>
 
 
 **Piezoelectric Wind Turbine**
@@ -1223,24 +1256,27 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 - <ins>_Working Model:_</ins> The fundamental principle here is to convert the kinetic energy of air into physical-mechanical stress. After this, with the help of a piezoelectric sensor we covert that mechanical pressure into the alternating impulse of charge flow i.e. current. To saddle the active vitality of air, we use a vertical structure which is called the mast. The mast vibrations are converted into vertical stress on the piezoelectric sensors through a metal plate called Disc which is welded at fixed support of the mast. This vertical stress is transferred to another plate on which our whole piezoelectric circuit is placed. Now we have successfully converted the air kinetic energy into the normal stress on piezoelectric sensors. When stress is applied on the piezoelectric sensor i.e. piezoelectric chips they produce a charge which on connecting through wires produces current.
 
-
-
 <p align = "center"><img src = "https://i.imgur.com/hHSUNwC.jpg" width= "90%"> </p>
- <p align = "center">Fig.2a - Bladelss Windmill Block Diagram
 
- </p>
-  
-  <p align = "center"><img src = "https://i.imgur.com/z92AzlI.jpg" width= "90%"> </p>
- <<p align = "center">Fig.2b - Working of Bladeless Turbine
+<p align = "center">
+<b>Fig 5.2(a) Bladelss Windmill Block Diagram</b></figcaption>
+</p>
 
- </p>
   
-  
-  
- <p align = "center"><img src = "https://i.imgur.com/bf7MmlZ.jpg" width= "90%"> </p>
-<p align = "center">Fig.2c - Bladeless Windmill CAD Model
+<p align = "center"><img src = "https://i.imgur.com/z92AzlI.jpg" width= "90%"> </p>
 
- </p>
+<p align = "center">
+<b>Fig 5.2(b) Working of Bladeless Turbine</b></figcaption>
+</p>
+
+ 
+<p align = "center"><img src = "https://i.imgur.com/bf7MmlZ.jpg" width= "90%"> </p>
+
+<p align = "center">
+<b>Fig 5.2(c) Bladeless Windmill CAD Model</b></figcaption>
+</p>
+
+
   
 
 **Piezoelectric Shoes**
@@ -1249,19 +1285,26 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 
 <p align = "center"><img src = "https://i.imgur.com/M8p35vN.png" width= "90%"> </p>
-<p align = "center">Fig.3a - Piezo Shoes Circuit Diagram
 
+
+<p align = "center">
+<b>Fig 5.3(a) Piezo Shoes Circuit Diagram</b></figcaption>
 </p>
+
 
 <p align = "center"><img src = "https://i.imgur.com/x659k5J.jpg" width= "90%"> </p>
-<p align = "center">Fig.3b - Piezo Shoe Sole CAD model
 
+<p align = "center">
+<b>Fig 5.3(b) Piezo Shoe Sole CAD model</b></figcaption>
 </p>
+
 
 <p align = "center"><img src = "https://i.imgur.com/e7ja7fB.png" width= "90%"> </p>
-<p align = "center">Fig.3c - Working Prototype(Source: Instructables)
 
+<p align = "center">
+<b>Fig 5.3(c) Working Prototype </b></figcaption>
 </p>
+
 
 ---
 
@@ -1281,7 +1324,10 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 	
 </div>
 
-Table 1: Bill of Materials
+
+<p align = "center">
+<b>Table 5.1 Bill of Materials  </b></figcaption>
+</p>
 
 ---
 
@@ -1294,12 +1340,10 @@ Table 1: Bill of Materials
       Unfortunately the amount of energy stored during a charging cycle (which took around 4000 steps) was very small and it would take an unrealistic amount of charging cycles to charge a cell phone just by walking alone.  By our calculations, it will take approximately 564,971.78 charging cycles, which amounts to 2,118,644,250 steps, in a best case scenario(when all the piezo plates are contributing). This also means it would take 706,214.75 hours to charge the cell phone.
 
 ---
+
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
-
-
-
 
 
 #### [6. Thermoelectricity](#table-of-contents)
@@ -1309,31 +1353,31 @@ Table 1: Bill of Materials
 
 **6.1.1 Geographical requirements**
 
-The Solar TEG works well under weather and geographical conditions having high sunlight access and hot temperatures, this is characteristic of regions near the equator. India receives  sunlight all round the year. Map attached below shows the Heat map of India.
+The Solar TEG would work well under weather and geographical conditions having high sunlight access and hot temperatures.  Therefore regions near equator having lesser number of cloudy days is preferred.
 
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/DLn6GSB/Heat-Map.jpg" alt="Heat Map" border="0"></a>
 </p>
 
-Thermoelectric system needs to achieve higher temperatures to produce electricity. For our system we consider the Hot regions of states Rajasthan, Haryana, Madhya Pradesh and Delhi. Particularly we are developing the system situated in IIT Delhi, Hauz Khas. It must be ensured that the system receives sunlight without any obstruction. 
+**6.1.2 Requirements from the house**
+
+Roof of the house must be horizontal plane in order to place the device. House shall use energy for basic needs only, no refrigerators or AC's are installed in the house. 
 
 
 ##### 6.2 Specifications
      
 **6.2.1 Components**
     
-(1)  TEG
-
-A thermoelectric generator (TEG), also called a Seebeck generator, is a solid state device that converts heat flux (temperature differences) directly into electrical energy through a phenomenon called the Seebeck effect.
+(1)  *TEG*
      
-   Device Info
+   *Device Info*
      
-   | Details | Specifications  |
+   |  |  |
      |:------------:|:-----------:|
      | Type | TGM2871.41.5 |
      | Price | $11.5 = Rs.855 |
      | No. of Pieces | 6 |
-     | Size | 55mm55mm4.2mm |
+     | Size | 55mm*55mm*4.2mm |
      | Resistance | 3.8ohm |
      | RAC22C Resistor | 2.6ohm |
      | Coefficient | 0.85 |
@@ -1341,13 +1385,10 @@ A thermoelectric generator (TEG), also called a Seebeck generator, is a solid st
      | Current | 1.65A |
      | Power | 20.13W |
      | Efficiency | 5.1 |
-
-_Table 1: Thermoelectricity TEG _
-
      
-   With a battery System
+   *With a battery System*
      
-   | Details  | Specifications |
+   |  |  |
      |:------------:|:-----------:|
      | Temperature cold side | 30C |
      | Temperature hot side | 200C |
@@ -1355,94 +1396,55 @@ _Table 1: Thermoelectricity TEG _
      | I load | 0.96 amps |
      | U load | 7.5 volts |
      | Rac (at 200C) | 7.8 ohm |
-
-_Table 2: Thermoelectricity TEG (with a battery system) _
      
-(2) Aluminum Sheet
-
-This piece is sheared from a large sheet .We will attach hot side of the TEG module to the aluminum plate.
+(2) *Aluminum Sheet*
      
-   | Details | Specifications |
+   |  |  |
      |:------------:|:-----------:|
      | Size | 22cm x 15cm x 4mm |
      | Price | Rs. 35 |
      | Thermal Conductivity | 237 W·m−1·K−1 |
-
-_Table 3: Thermoelectricity Aluminum Sheet _
      
-(3) Heat Sink
-
-A heat sink is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device, thereby allowing regulation of the device's temperature at optimal levels.
+(3) *Heat Sink*
      
-   | Details | Specifications |
+   |  |  |
      |:------------:|:-----------:|
-     | Model | HEAVY DUTY ALUMINUM HEAT SINK (Manufacturer : GTX , ASIN(Amazon)  :  B08WLBGPP8 , Item part number  : ALU-250) |
+     | Model | HEAVY DUTY ALUMINIUM HEAT SINK (Manufacturer : GTX , ASIN(Amazon)  :  B08WLBGPP8 , Item part number  : ALU-250) |
      | Price | Rs. 1240 |
      | Size | 250mm x 97mm x 33mm |
      | No. of Pieces | 2 |
-
-_Table 4: Thermoelectricity Heat Sink _
      
-  (4) Fresnel Lens
-
-Fresnel lens takes a large area of sunlight and direct it towards a specific spot by bending the rays of light and focusing them.
+  (4) *Fresnel Lens*
      
-    | Details | Specifications |
+   |  |  |
      |:------------:|:-----------:|
      | Model | MW-F1000-5 (Chengdu Micromu Technology Co.,Ltd.) |
      | Price | Rs. 13000 |
      | Size | 1100mm (Diameter) |
      | Material | PMMA |
      | No. of Pieces | 1 |
-
-_Table 5: Thermoelectricity Fresnal Lens _
      
-  (5) Water Bucket
-
-Water Bucket is used to store water. The heat sink is partially submerged in water. This keeps the heat sink cool, which in turn keeps the cool side of the TEG module cold .
+  (5) *Water Bucket*
      
-    | Details | Specifications |
+   |  |  |
      |:------------:|:-----------:|
-     | Size | 30cm  30cm  29cm |
+     | Size | 30cm * 30cm * 29cm |
      | Price | Rs. 200 |
-
-_Table 6: Thermoelectricity Water Bucket _
      
-**6.2.2 Vendor Links**
-  - https://www.alibaba.com/product-detail/Taidacent-15V-1-65A-24W-TGM_60188745791.html?spm=a2700.galleryofferlist.normal_offer.d_title.4e9d2ea0WfEpoy
-  - https://www.indiamart.com/proddetail/aluminum-acp-sheet-14388396791.html#:\~:text=Alstrong%20Aluminum%20ACP%20Sheet%2C%204mm,ID%3A%2014388396791
-  - https://www.amazon.in/HEAVY-DUTY-ALUMINIUM-HEAT-SINK/dp/B08WLBGPP8/ref=asc_df_B08WLBGPP8/?tag=googleshopdes-21&linkCode=df0&hvadid=397082386760&hvpos=&hvnetw=g&hvrand=4752245275962126521&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9040183&hvtargid=pla-1185439391936&psc=1&ext_vrnc=hi
-  - https://www.diytrade.com/china/pd/20665336/Micromu_1000_1000mm_large_fresnel_lens_solar_concentrator.html
-  - https://www.amazon.in/Kuber-Industries-Unbreakable-Bathroom-CTKTC042952/dp/B084HY6NHT/ref=sr_1\_16?keywords=bucket&qid=1642504451&sr=8-16
      
-**6.2.3 Power generation**
+**6.2.2 Power generation**
      
-- Power production depends on many factors such as sun, sun's direction, water temperature. Power transferred to load depends can't be computed as it depends heavily on several parameters of the battery system.
-- We assume the water temperature is fixed at 30 degrees and the aluminum plate retains a temperature of 200+ degrees during sunlight hours. Each TEG produces 20W according to device ratings from the supplier. 
-- Generated power in a day assuming 4 hours of good sunlight is = Time of Operation x Energy generated by Each TEG x Number of TEG = 5hr  20W  6 = 600 Whr/day = 0.6 Units/day. 
-- Peak Power attained during peak temperature of the day is 35 W, average power during sunlight hours is 20W.
-- This electricity is enough to power basic necessities in a remote place such as heat, charging, fan etc.
-
+- Power production depends on many factors such as sun, sun's direction, water temperature. Power transferred to load depends can't be computed as it depends heavily on several parameters of battery system.
+- Generated power in a day assuming 4 hours of good sunlight is = Time of Operation x Energy generated by Each TEG x Number of TEG = 5hr * 20W * 6 = 600 Whr/day = 0.6 Units/day .
+- Peak Power 35 W, average power during sunlight hours is 20W 
      
-**6.2.3 Bill of Materials**
+**6.2.3 Cost Analysis**
     
-
-| Part | Cost |
-| :-------------------: | :-----: |
-| TEGs | ₹5,130 |
-| Wires | ₹200 | 
-| Aluminum Sheet | ₹35 |
-| Heat Sinks | ₹2480 |
-| Fresnel Lens | ₹13,000 |
-| Water Bucket | ₹200 |
-| Plastic (Mounting Frame) | ₹300 |
-| Semi Skilled Labor (1 day) | ₹681 |  
-| Miscellaneous (grease, coating) | ₹400 |
-|       Total       | ₹ 22426 |
-
-_Table 7: Thermoelectricity components cost _
-    
-Maintenance cost is near to zero as we only need to ensure the sink is in contact with water. This system is capable of running for more than 12 Years. 
+- Cost to procure the products mentioned = Rs. 20,845
+- Cost to build a wooden frame to support the device ~ Rs. 2500
+- Miscellaneous Cost including screws, paint etc. = Rs. 600
+- Maintenance cost is near to zero as we only need to ensure sink is in contact with water
+- Total Cost = Rs. 23,945 ~ Rs. 24,000
 
 
 ##### 6.3 Diagrams and Working  
@@ -1453,81 +1455,30 @@ Maintenance cost is near to zero as we only need to ensure the sink is in contac
 	<img src = "https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C2EE22248E&imageInfo.ImageIdentifier.Year=2012"  alt = "Thermo"  | width = "400" height = "300" >
 </p>
 
-- The topside of the aluminum plate placed horizontally is painted black paint to improve heat absorption.
-- Fresnel lens placed horizontally is used for concentrating more sunlight on aluminum sheet. 
-- Fresnel lens is mounted above the Aluminum Plate. Below the Aluminum plate, the hot side of TEG is in direct contact with plate by using thermal grease between the aluminum plate and TEG module.
-- The heat sink is secured to the cold sides of the TEG modules, ensuring physical contact between them. Since we have two large aluminum heat sinks, we attach each heat sink to the cold side of 3 TEGs in our model.  
-- Heat sinks are partially submerged in the cold ocean water. This keeps the heat sink cool, which in turn keeps the cool side of the TEG module cold through heat conduction. It is ensured that TEG is not in contact with water. 
-- Float the whole device in a water bucket and the top aluminum plate to get hot in the sunlight.
-
+- The topside of the aluminum plate is painted black paint to improve heat absorption.
+- Fresnel lens is used for concentrating more sunlight on aluminum sheet.
+- Next attach the hot sides of the TEG modules to the aluminum plate. Use thermal grease between the aluminum plate and TEG module.
+- Next secure the heat sinks to the cold sides of the TEG modules. Since we have two large aluminum heat sinks, we attach each heat sink to cold side of 3 TEGs  . 
+- Heat sinks are partially submerged in the cold ocean water. This keeps the heat sink cool, which in turn keeps the cool side of the TEG module cold.
+- Now , Float the whole device in water and allow the top aluminum plate to get hot in the sunlight. Within a few minutes the TEG will begin to
+  generate electric power.
   
- 
-
-
-**6.3.2 Working Principle**
-
+  
   <p align = "center">
 	<img src = "https://content.instructables.com/ORIG/F93/ZNQ3/J7MFSOVQ/F93ZNQ3J7MFSOVQ.jpg?auto=webp&frame=1&width=590&height=1024&fit=bounds&md=5d4d6abad4cf0be2298356cfaddbc183"  alt = "Thermo2"  | width = "600" height = "500" >
 </p>
 
-Heat from solar radiation heats the Aluminum surface which in turns heats the hot side of TEG. Cold side of TEG is attached to heatsink which in turn is in contact with Water source  as seen in the above figure, this keeps one side of TEG at Cool Temperatures through heat conduction. 
 
-A Fresnel lens concentrates the solar radiation to the aluminum plate in order to achieve higher temperatures by procuring heat from a larger surface area. The heat is Concentrated on the aluminum plate and high temperature is obtained on the hot side of TEGs. Difference in the temperature between two faces of TEGs results in electricity generation in accordance with the Seebeck Effect.  
+**6.3.2 Working Principle**
 
+Heat from solar radiation heats the Aluminum surface which in turns heats the hot side of TEG. Cold side of TEG being attached to heat sink which in turn is in contact with Water source  as seen in above figure keeps the Cold side of TEG at cool temperature. 
 
-##### 6.4 References
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-http://zotero.org/groups/4560418/items/N6L28KUS"
-class="csl-entry">
-
-“Solar Thermoelectric Generator - Sunflower : 5 Steps (with Pictures) -
-Instructables.” n.d. Accessed January 18, 2022.
-<https://www.instructables.com/Solar-Thermoelectric-Generator-Sunflower/>.
-
-</div>
-
-<div id="ref-http://zotero.org/groups/4560418/items/XYGGT97E"
-class="csl-entry">
-
-Sun, Dongfang, Limei Shen, Yu Yao, Huanxin Chen, Shiping Jin, and Hong
-He. 2017. “The Real-Time Study of Solar Thermoelectric Generator.”
-Applied Thermal Engineering 119 (June): 347–59.
-<https://doi.org/10.1016/j.applthermaleng.2017.03.075>.
-
-</div>
-
-<div id="ref-http://zotero.org/groups/4560418/items/W7JJGGGI"
-class="csl-entry">
-
-Zhu, Ning, Takeru Matsuura, Ryutaro Suzuki, and Takashi Tsuchiya. 2014.
-“Development of a Small Solar Power Generation System Based on
-Thermoelectric Generator.” Energy Procedia, 2013 International
-Conference on Alternative Energy in Developing Countries and Emerging
-Economies (2013 AEDCEE), 52 (January): 651–58.
-<https://doi.org/10.1016/j.egypro.2014.07.121>.
-
-</div>
-
-<div id="ref-http://zotero.org/groups/4560418/items/5DDN285P"
-class="csl-entry">
-
-“Concentrated Solar Thermoelectric Generators - Energy & Environmental
-Science (RSC Publishing).” n.d. Accessed January 25, 2022.
-<https://pubs.rsc.org/en/content/articlelanding/2012/ee/c2ee22248e>.
-
-</div>
-
-</div>
+A Fresnel lens concentrates the solar radiation to the the aluminum plate to achieve higher temperatures than otherwise possible. The difference in the temperature between two faces of TEG results in electricity generation in accordance with Seebeck Effect.  
 
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
-
-
-
 
 
 #### [7. Electricity from biogas](#table-of-contents)
