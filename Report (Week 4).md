@@ -45,8 +45,6 @@ geometry : margin = 2cm
 >
 > [Abstract](#Abstract)
 >
-> [scope](#scope)
-> 
 > [Workflow Structure](#workflow-structure)
 > 
 > [List of Abbreviations](#list-of-abbreviations)
@@ -333,11 +331,6 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 \pagebreak
 </div>
 
-
-
-### scope
-
-This report aims to provide a complete description of an off-the-grid system , which includes the requirements, specifications, designing, cost, and vendor info. Although this report is pretty comprehensive , it is in no way should be used as a hard guide for actual practical implementation. The costs mentioned are estimates and real prices might vary from region to region (although they will roughly be in the ballpark region mentioned in the report) . Similarly Vendor info is region specific and is dependent on the date of creation too, which means that 10 years from now, the system used here might become obsolete.
 
 
 ### Workflow Structure
@@ -650,6 +643,11 @@ Different regions on the globe get different amount of sunlight at different ang
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
 </p>
 <p align = "center">
+	
+<p align = "center">
+<b>Fig 2.1 Sun and Earth</b></figcaption>
+</p>
+
 Fig-1 Sun and Earth ([ck-12](https://flexbooks.ck12.org/cbook/ck-12-middle-school-earth-science-flexbook-2.0/section/10.13/primary/lesson/solar-energy-and-latitude-ms-es/))
 </p>	
 
@@ -658,6 +656,11 @@ India, being partly tropical and sub-tropical, receives sunlight all round the y
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/YkFQCbR/Solar-India.jpg" alt="Solar-India" border="0"></a>
 </p>
+
+<p align = "center">
+<b>Fig 2.2 Solar Energy Map India </b></figcaption>
+</p>
+
 <p align = "center">
 Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/solar-power-in-india/))
 </p>
@@ -699,7 +702,7 @@ Assuming house will have bright sunlight for 5 hours daily.
 </div>
 
 <p align = "center">
-Table-4 Energy Generation
+Table 2.1 Energy Generation
 </p>
 
 **2.2.3 Cost Analysis**
@@ -719,7 +722,7 @@ Table-4 Energy Generation
 </div>
 	
 <p align = "center">
-Table-1 Cost Analysis for Top Tier
+Table 2.2 Cost Analysis for Top Tier
 </p>
 
 
@@ -736,7 +739,7 @@ Table-1 Cost Analysis for Top Tier
 </div>
 
 <p align = "center">
-Table-2 Cost Analysis for Base Tier
+Table 2.3 Cost Analysis for Base Tier
 </p>
 
 
@@ -753,7 +756,7 @@ Table-2 Cost Analysis for Base Tier
 </div>
 
 <p align = "center">
-Table-3 Cost Analysis for Economy Tier
+Table 2.4 Cost Analysis for Economy Tier
 </p>
 
 
@@ -773,8 +776,9 @@ Negligible Maintenance cost because we have to just clean the solar panels.
 </p>
 	
 <p align = "center">
-Fig-3 Solar Panel</b></figcaption>
+<b>Fig 2.3 Solar Panel</b></figcaption>
 </p>
+	
 
 - After light strikes these photovoltaic cells, the kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
@@ -796,12 +800,10 @@ The life of this solar grid system is approximately 40-50 years (with 25 years i
 </div>
 
 <p align = "center">
-Table-5 Warranty of Different Devices Used
+Table 2.5 Warranty of Different Devices Used
 </p>
 
-
 This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
-
 
 ---
 <div style = "page-break-after: always; visibility: hidden">
