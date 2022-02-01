@@ -874,13 +874,13 @@ It is advised to use this system in a region that recieves at least 600mm of ave
 
 ![Imgur](https://i.imgur.com/fy0Mk4v.png)
 
-<figcaption align = "center"><b>Fig.1 - Average Rainfall in India </b></figcaption>
+<figcaption align = "center"><b>Fig.4.1 - Average Rainfall in India </b></figcaption>
 
 Here is the map of India with major rivers, if your house is close to any of these river then this system will be feasible.
 (Image Source: [Pinterest](https://in.pinterest.com/pin/619948704924890264/))
 ![Imgur](https://i.imgur.com/9xaje9U.jpg)
 
-<figcaption align = "center"><b>Fig.2 - Major rivers of India</b></figcaption>
+<figcaption align = "center"><b>Fig.4.2 - Major rivers of India</b></figcaption>
 Waterfalls are also suitable for the feasibility of this system. Any waterfall close to your house with head-height of at least 2m is suitable for this plant.
 
 [List of waterfalls in india](https://en.wikipedia.org/wiki/List_of_waterfalls_in_India_by_height)
@@ -918,7 +918,7 @@ The water turbine is the heart of any hydro power plant. It consists of a number
 | Head Height | 2 m to 4 m |
 | Weight | 10 kg |
 
-_Table 1: Hydro-Electricity Turbine Specifications_
+_Table 4.1: Hydro-Electricity Turbine Specifications_
 
 _(2) Generator_
 
@@ -935,7 +935,7 @@ Generators are used to convert rotational energy to electrical energy. The type 
 | Rated Speed | 500 rpm - 1500 rpm |
 | Net Weight | 15kg |
 
-_Table 2: Hydro-Electricity Generator Specifications_
+_Table 4.2: Hydro-Electricity Generator Specifications_
 
 _(3) AC-DC Converter_
 
@@ -950,7 +950,7 @@ As the generator gives AC output so to convert AC to DC for charging an AC-DC co
 | Output Voltage | 24 V |
 | Max. Current | 28 A |
 
-_Table 3: Hydro-Electricity AC-DC Converter Specifications_
+_Table 4.3: Hydro-Electricity AC-DC Converter Specifications_
 
 **Power generation**
 
@@ -973,7 +973,7 @@ Most of the Hydro-Electric systems used for domestic purposes have η about 75%.
 | Plant Efficiency | 75 % |
 | Output power | ~485 W |
 
-_Table 4: Hydro-Electricity output power_
+_Table 4.4: Hydro-Electricity output power_
 
 **Cost Analysis**
 
@@ -989,7 +989,7 @@ _Table 4: Hydro-Electricity output power_
 |   3 days Labour Charge[^1]  |  ₹2250  |
 |       **Total**       | ₹27614 |
 
-_Table 5: Total Installation Cost_ 
+_Table 4.5: Total Installation Cost_ 
 
 By above mentioned specifications and power output calculations, we can conclude that this system can help us run basic electric home appliances like television, mini-fridge, mobile chargers etc. Also we can increase the power output by suitably choosing the location to get high flow rate like Northern Indian water-bodies have high flow rate. Thus, by suitably choosing the above mentioned devices we can increase the efficiency and can get higher electricity generation.
 
@@ -1001,21 +1001,21 @@ As shown in the figure, water stored at high elevation falls on the turbine of g
 
 This figure shows a typical model for mini hyrdro-electric plant. The height of the dam from the turbine should be more than 2m.
 ![Generator Flow](https://i.imgur.com/UqiqcmE.png)
-<figcaption align = "center"><b>Fig.3 - Model of Hydro-Electricity System</b></figcaption>
+<figcaption align = "center"><b>Fig.4.3 - Model of Hydro-Electricity System</b></figcaption>
 
 </p>
 
 This figure shows the rough dimention of graviational water vorex for the plant. Due to spiral structure water starts spining as enters from inlet. This type of setup is efficient for axial hydro plant.
 ![Generator Flow](https://i.imgur.com/l2aSLEK.png)
 
-<figcaption align = "center"><b>Fig.4 - Dimenstions of Gravitational Water Vortex</b></figcaption>
+<figcaption align = "center"><b>Fig.4.4 - Dimenstions of Gravitational Water Vortex</b></figcaption>
 
 </p>
 
 This figure shows connections of various subsystem of the plant along with wire ratings.
 ![Circuit Diagram](https://i.imgur.com/PhWuSBU.jpg)
 
-<figcaption align = "center"><b>Fig.5 - Circuit Diagram of System</b></figcaption>
+<figcaption align = "center"><b>Fig.4.5 - Circuit Diagram of System</b></figcaption>
 
 </p>
 
@@ -1026,6 +1026,8 @@ This figure shows connections of various subsystem of the plant along with wire 
 |         Wires         |   [Buy Link](https://www.electronicscomp.com/electronic-components/small-electronic-components/wires-cables/silicone-wires/6-to-10-awg/high-quality-ultra-flexible-10awg-silicone-wire-1m-black-1m-red) |
 |    AC-DC Converter    |  [Buy Link](https://www.indiamart.com/proddetail/500w-commercial-battery-charger-22521319248.html)   |
 |  Pipe  |  [Buy Link](https://www.amazon.in/Jal-Pravah-Lapeta-Laminated-Polyethylene/dp/B08DDL56B1/ref=asc_df_B08DDL56B1/?tag=googleshopdes-21&linkCode=df0&hvadid=396984672681&hvpos=&hvnetw=g&hvrand=17875907637404148221&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9302227&hvtargid=pla-965204439826&ext_vrnc=hi&th=1)  |
+
+_Table 4.6: Vendor's Info_ 
 
 ### References
 
