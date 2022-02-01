@@ -423,14 +423,6 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 
 
-| Table  | Cost Analysis                                      |
-| [Table 2](#Electricity from biogas table) | Appendix                                           |
-| [Table 3](#Electricity from biogas table) | Generator                                          |
-| [Table 8.1](#Waste Heat Re-use table)     | (Characteristics of TEG)                           |
-|                                           |                                                    |
-
-
-
 ### [List of figures](#table-of-contents)
 
 
@@ -439,7 +431,7 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 | Fig 1.1                    | Wind Power Density Potential ([Ref. wikimedia common](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png))|
 | Fig 1.2                    | Wind Power Potential Map - India ([Ref. researchgate](https://www.researchgate.net/publication/332702533_Wind_energy_programme_in_India_Emerging_energy_alternatives_for_sustainable_growth/figures?lo=1&utm_source=google&utm_medium=organic)) |
 | Fig 1.3                    | CAD Model of Wind Turbine |                                                                                                                   | Fig 1.4                    | Wind Turbine Grid Connection Diagram |                                                                                                          | Fig 2.1                   |  Sun and Earth ([Ref. ck-12](https://flexbooks.ck12.org/cbook/ck-12-middle-school-earth-science-flexbook-2.0/section/10.13/primary/lesson/solar-energy-and-latitude-ms-es/)) |
-| Fig 2.2                   | Solar Energy Map India ([geographyandyou](https://geographyandyou.com/solar-power-in-india/))|
+| Fig 2.2                   | Solar Energy Map India ([Ref. geographyandyou](https://geographyandyou.com/solar-power-in-india/))|
 | Fig 2.3                   | Solar Panel      |                                                                                                           
 | Fig 3.1              | CAD Model Of Bicycle Electricity Generator |                                                                                                          | Fig 4.1      | Average Rainfall in India   |                                                                                                                                | |Fig 4.2      | Major rivers of India                                                                                                                                      | Fig 4.3      | Model of Hydro-Electricity System    |                                                                                                                       | Fig 4.4      | Dimensions of Gravitational Water Vortex|                                                                                                                   | Fig 4.5      | Circuit Diagram of System |     
 | Fig 5.1.a       | Piezo Tiles Block Diagram |                                                                                                                               | Fig 5.1.b       | Piezo Tiles CAD Model-1    |                                                                        
@@ -451,7 +443,7 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 | Fig 6.3        | Working principle of thermoelectric system |
 | Fig 7.1        | Diagram of working of digester and biogas generator |
 | Fig 8.1        | Thermoelectric generator ([Ref. electronicsweekly](https://www.electronicsweekly.com/news/products/power-supplies/thermoelectric-generators-interface-pcbs-2017-04/))                            |
-| Fig 8.2        | Working of a TEG  [Ref. researchgate](https://www.researchgate.net/figure/Schematic-of-an-operating-principle-of-TEG-9_fig4_322958833)  |
+| Fig 8.2        | Working of a TEG  ([Ref. researchgate](https://www.researchgate.net/figure/Schematic-of-an-operating-principle-of-TEG-9_fig4_322958833)) |
 | Fig 8.3        | Installation of TEG in Kitchen | 
 | Fig 9.1        |                                |
 
