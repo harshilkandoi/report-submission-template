@@ -375,9 +375,9 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 	
 #### 1. Wind
 
-##### Requirements
+##### 1.1 Requirements
 
-**Geographical requirements**
+**1.1.1 Geographical requirements**
 
 Though wind power is a very clean source of energy, it is not so easy to harness. The world map shown below depicts wind energy potential across the world. The regions marked in red have the highest wind power density and the regions marked in blue have the lowest. The measurements have been done in W/m: dark red shows potential over 1300 W/m and light blue shows potential less than 25 W/m. This map can be used to identify ideal regions to harness wind energy across the globe.
 
@@ -396,7 +396,7 @@ For an Indian household, to generate a good amount of electricity using wind pow
 
 
 
-**Other basic requirements**
+**1.1.2 Other basic requirements**
 
 - The wind turbine should be able to generate a power output to meet the basic energy requirements of a regular household like charging mobile phones and lighting small appliances.
 - An inverter should be used to convert the erratic AC produced by the turbine into DC for energy storage and then back to smoother AC for direct use in the household.
@@ -406,9 +406,9 @@ For an Indian household, to generate a good amount of electricity using wind pow
 - The mechanical parts of the turbine, for example, the gear box (used for increasing rpm) will be machined from high tensile steel to ensure wear resistance.
 
 
-##### Specifications
+##### 1.2 Specifications
 
-**Components**
+**1.2.1 Components**
 
 (1) Nacelle: 
  
@@ -478,7 +478,7 @@ Table 1(c): Wind Turbine Components Specifications - Generator
    Table 1(d): Wind Turbine Components Specifications - Tower
 
 
-**Power generation **
+**1.2.2 Power generation **
 
  |                           |                              |
  |:-----------------------:|:--------------------------:|
@@ -490,12 +490,12 @@ Table 1(c): Wind Turbine Components Specifications - Generator
  | Turbine efficiency        | 40%                          |
  | Output power              | ~210 W                       |
  
- Table 2: Wind Turbine Power Output
+ Table 1(e): Wind Turbine Power Output
 
 
  
 
-**Cost Analysis**
+**1.2.3 Cost Analysis**
 
  | Part                                     | Quantity | Cost    |
  |:----------------------------------------:|:--------:| :-------:|
@@ -507,11 +507,11 @@ Table 1(c): Wind Turbine Components Specifications - Generator
  | Wiring cost (from wind turbine generator to energy storage unit) | 40m 1.5sq/mm copper wire | ₹900 |
  | **Total**                                | - | ₹29,400 |
     
- Table 3: Bill of Materials for Wind Turbine
+ Table 1(f): Bill of Materials for Wind Turbine
 
  
 
-##### Diagrams and Working
+##### 1.3 Diagrams and Working
 
 Wind turbine designs involves looking over a lot of environmental and mechanical aspects for an efficient and sturdy electrical energy generation system. In our design, we have tried to considered a lot of these factors and have tried to keep the as real as possible. The actual construction of the wind turbine is a secondary objective and has been taken into optimum consideration during the design phase. But as the design of the wind turbine discussed below is based on existing technology investigated in the literature review and research process it's a little difficult to get the exact specifications ready for construction just by working on the design remotely, therefore, depending upon the resources available and the feasibility of the model the design discussed below can be altered.
 
