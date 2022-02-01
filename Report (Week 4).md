@@ -1412,6 +1412,7 @@ power is then transferred to the storage system (as depicted by the
 black box) through electrical wires.
 
 ![biogasplant](https://i.imgur.com/fmSXrVx.jpg "biogasplant")
+<figcaption align = "center"><b>Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png))  </b></figcaption>
 
 ##### Appendix
 
