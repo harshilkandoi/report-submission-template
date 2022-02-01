@@ -344,14 +344,14 @@ Though wind power is a very clean source of energy, it is not so easy to harness
 
 <p align = "center">
 	<a href="https://ibb.co/QCPmHL3"><img src="https://i.ibb.co/P9cCWKv/Wind-Power-Density-Potential.png" alt="Wind-Power-Density-Potential" border="0"></a>
-<figcaption align = "center"><b>Fig.1 - Wind Power Density Potential  </b></figcaption>
+<figcaption align = "center"><b>Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png))  </b></figcaption>
 </p>
 
 For an Indian household, to generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least more than 5m/s. The wind power potential map shown below explains how the wind power potential is distributed across India? The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states along the western coast. 
 
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a>
-<figcaption align = "center"><b>Fig.2 - Wind Power Potential Map - India </b></figcaption>
+<figcaption align = "center"><b>Fig.2 - Wind Power Potential Map - India ([Ref. - researchgate](https://www.researchgate.net/publication/332702533_Wind_energy_programme_in_India_Emerging_energy_alternatives_for_sustainable_growth/figures?lo=1&utm_source=google&utm_medium=organic))</b></figcaption>
 </p>
 
 
@@ -374,6 +374,7 @@ For an Indian household, to generate a good amount of electricity using wind pow
  
  |  |  |
  |:------------:|:-----------:|
+ | Vendor | [Indiamart](https://www.indiamart.com/proddetail/frp-grp-wind-turbine-nacelle-cover-fiberglass-cover-23462129073.html?pos=4&pla=n) |
  | Body | Fibreglass and Carbon fibre |
  | Blade Size  | upto 2.2 m |
  | Usage/Application | Wind turbine system |
@@ -388,6 +389,7 @@ For an Indian household, to generate a good amount of electricity using wind pow
  
  |  |  |
  |:------------:|:-----------:|
+ | Vendor | [Indiamart](https://www.indiamart.com/proddetail/windmill-blade-17678651497.html) |
  | Size of rotor | 3 m (in diameter) |
  | Material for formation of blades | Fibre-reinforced plastic |
  | Radius of blade | 1.4 m |
@@ -399,30 +401,30 @@ For an Indian household, to generate a good amount of electricity using wind pow
      
 (3) Generator:
 
-   | | |
-     | :---------------: | :--------------: |
-     | Vendor | Automation Technologies Online(ATO) |
-     | Model | ATO-PMG-NE400WM |
-     | Rated Power | 400W |
-     | Max Power | 445W |
-     | Rated Voltage | 12v/24v/48v |
-     | Rated Speed | 600rpm/min |
-     | Net Weight | 4.5kg |
-     | Output Voltage | AC  |
-     | Rated Torque | 6.37Nm |
-     | Max. Starting Torque | 1Nm |
-     | Synchronous Generator Phase | 3 Phase |
-     | Insulation Class | F |
-     | Service Life | More Than 20 years |
-     | Bearing | HRB or for your order |
-     | Shaft Material | Stainless Steel |
-     | Shell Material | Aluminum Alloy |
-     | Permanent Magnet Material | Rare Earth NdFeB |
-     | Protection Grade | IP54 |
-     | Lubrication | Lubrication Grease |
-     | Working Temperature | -40℃ - 80 ℃ |
+| | |
+| :---------------: | :--------------: |
+| Vendor | [Automation Technologies Online(ATO)](https://www.ato.com/400w-alternator) |
+| Model | ATO-PMG-NE400WM |
+| Rated Power | 400W |
+| Max Power | 445W |
+| Rated Voltage | 12v/24v/48v |
+| Rated Speed | 600rpm/min |
+| Net Weight | 4.5kg |
+| Output Voltage | AC  |
+| Rated Torque | 6.37Nm |
+| Max. Starting Torque | 1Nm |
+| Synchronous Generator Phase | 3 Phase |
+| Insulation Class | F |
+| Service Life | More Than 20 years |
+| Bearing | HRB or for your order |
+| Shaft Material | Stainless Steel |
+| Shell Material | Aluminum Alloy |
+| Permanent Magnet Material | Rare Earth NdFeB |
+| Protection Grade | IP54 |
+| Lubrication | Lubrication Grease |
+| Working Temperature | -40℃ - 80 ℃ |
      
-     Table 1(c): Wind Turbine Components Specifications - Generator
+Table 1(c): Wind Turbine Components Specifications - Generator
      
 
      
@@ -455,15 +457,15 @@ For an Indian household, to generate a good amount of electricity using wind pow
 
 **Cost Analysis**
 
- | Part                                     | Cost    |
- |:----------------------------------------:|:-------:|
- | Nacelle                                  | ₹1,000  |
- | Rotor (Blades + Hub)                     | ₹3,000  |
- | Generator                                | ₹12,000 |
- | Tower                                    | ₹6,000  |
- | Other misc items like gearbox, wind vane, bolts, etc. | ₹2,000  |
- | Wiring cost (from wind turbine generator to energy storage unit) | ₹270 |
- | **Total**                                | ₹24,270 |
+ | Part                                     | Quantity | Cost    |
+ |:----------------------------------------:|:--------:| :-------:|
+ | Nacelle                                  |     1    | ₹1,000  |
+ | Rotor (Blades + Hub)                     | 3 blades + 1 hub | ₹3,000  |
+ | Generator                                |     1    | ₹16,500 |
+ | Tower                                    |     1    | ₹6,000  |
+ | Other misc items like gearbox, wind vane, bolts, etc. | 1 | ₹2,000  |
+ | Wiring cost (from wind turbine generator to energy storage unit) | 40m 1.5sq/mm copper wire | ₹900 |
+ | **Total**                                | - | ₹29,400 |
     
  Table 3: Bill of Materials for Wind Turbine
 
@@ -487,10 +489,10 @@ Below is the CAD model of the small wind turbine along with brief description of
 
 
 
-After the completion of the mechanical design of the wind turbine, the next step is to look after the electrical connections for energy storage and usage. The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage. More details about the connections is taken up in detail by the energy storage team ahead.
+After the completion of the mechanical design of the wind turbine, the next step is to look after the electrical connections for energy storage and usage. The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage. Refer to [energy storage section](#9-energy-storage-and-distribution) for more details.
 
 <p align = "center">
-	<a href="https://ibb.co/WGxkNVH"><img src="https://i.ibb.co/TYv4DWw/Grid-Connection-Diagram.png" alt="Grid-Connection-Diagram" border="0"></a>
+	<a href="https://ibb.co/kQ1RPC9"><img src="https://i.ibb.co/GcTKrSt/Grid-connection-diagram.png" alt="Grid-connection-diagram" border="0"></a>
 	<figcaption align = "center"><b>Fig.4 - Wind Turbine Grid Connection Diagram</b></figcaption>
 </p>
 
@@ -508,7 +510,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 - “10 Meter Tubular Steel Pole,” _indiamart.com_. https://www.indiamart.com/proddetail/10-meter-tubular-steel-pole-17130969591.html (accessed Jan. 17, 2022).
 - “WINDExchange: Small Wind Guidebook.” https://windexchange.energy.gov/small-wind-guidebook#installation (accessed Jan. 17, 2022).
 - C. J, V. D, and M. Majid, “Wind energy programme in India: Emerging energy alternatives for sustainable growth,” _Energy & Environment_, vol. 30, p. 0958305X1984129, Apr. 2019, doi: [10.1177/0958305X19841297](https://doi.org/10.1177/0958305X19841297).
-- “1.5 Sq Mm Pvc Insulated Copper Wire,” indiamart.com. https://www.indiamart.com/proddetail/1-5-sq-mm-pvc-insulated-copper-wire-16592853897.html (accessed Jan. 31, 2022).
+- “HAVELLS HRFR PVC 1.5 sq/mm Red 90 m Wire Price in India - Buy HAVELLS HRFR PVC 1.5 sq/mm Red 90 m Wire online at Flipkart.com,” Flipkart.com. https://www.flipkart.com/havells-hrfr-pvc-1-5-sq-mm-red-90-m-wire/p/itmfhws5hzytghze (accessed Feb. 01, 2022).
 
 
 ---
