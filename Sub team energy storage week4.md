@@ -69,7 +69,7 @@ The sources Mentioned above are the major Power sources and other power sources 
   |   Nominal Voltage (Charge - Discharge)  | 24V  ( 29.2V - 20V )|
   |       Max Working Current        |    100 A    |
   |       Nominal capacity       |    100Ah    |
-  |       Operating Temperature      |  0$^\circ$C to 50$^\circ$C    |
+  |       Operating Temperature      |  0&deg;C to 50&deg;C    |
   |     *Cost* per piece| USD 550 (INR 43000 incl. customs)  |
   	
 </div>
