@@ -1103,15 +1103,26 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 - <ins>_Working Model:_</ins> When a load is applied to the tile surface it moves in the downward direction. The projections on the tile surface come in contact with the piezo material. The applied force produces stresses inside piezo material which will produce electricity. There is clearance in between the springs and tile surface in order to provide free deflection. The spring is provided for stability as well as protecting the piezo material from getting damaged by an excess load applied. The base plate is fitted inside the frame firmly to provide support to the piezo material while compression. This kinetic energy is converted into electricity. This generated electricity is stored in the form of batteries, to which the rectifier is connected to get a pure dc supply.
 
  ![Fig.1a-Piezo Tiles Block Diagram](https://i.imgur.com/A1OzQbT.jpg)
-  
+ <figcaption align = "center"><b>Fig.1a - Piezo Tiles Block Diagram</b></figcaption>
+
+ </p>
   
  ![Fig.1b-Piezo Tiles CAD Model-1](https://i.imgur.com/t2J9EYh.jpg)
+ <figcaption align = "center"><b>Fig.1b - Piezo Tiles CAD Model-1</b></figcaption>
+
+ </p>
   
   
  ![Fig.1c-Piezo Tiles CAD Model-2](https://i.imgur.com/65Au284.jpg)
+ <figcaption align = "center"><b>Fig.1c - Piezo Tiles CAD Model-2</b></figcaption>
+
+ </p>
   
   
  ![Fig.1d-Piezo Tiles Circuit Diagram](https://i.imgur.com/6w4iz5z.jpg)
+ <figcaption align = "center"><b>Fig.1d - Piezo Tiles Circuit Diagram</b></figcaption>
+
+ </p>
   
 
   
@@ -1125,13 +1136,23 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 
  ![Fig.2a-Bladelss Windmill Block Diagram](https://i.imgur.com/hHSUNwC.jpg)
+ <figcaption align = "center"><b>Fig.2a - Bladelss Windmill Block Diagram</b></figcaption>
+
+ </p>
   
   
  ![Fig.2b-Working of Bladeless Turbine](https://i.imgur.com/z92AzlI.jpg)
+ <figcaption align = "center"><b>Fig.2b - Working of Bladeless Turbine</b></figcaption>
+
+ </p>
   
   
   
  ![Fig.2c-Bladeless Windmill CAD Model](https://i.imgur.com/bf7MmlZ.jpg)
+ <figcaption align = "center"><b>Fig.2c - Bladeless Windmill CAD Model</b></figcaption>
+
+ </p>
+  
 
   
 
@@ -1141,10 +1162,19 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 
 ![Fig.3a-Piezo Shoes Circuit Diagram](https://i.imgur.com/M8p35vN.png)
+<figcaption align = "center"><b>Fig.3a - Piezo Shoes Circuit Diagram</b></figcaption>
+
+</p>
 
 ![Fig.3b-Piezo Shoe Sole CAD model](https://i.imgur.com/x659k5J.jpg)
+<figcaption align = "center"><b>Fig.3b - Piezo Shoe Sole CAD model</b></figcaption>
+
+</p>
 
 ![Fig.3c-Working Prototype(Source: Instructables)](https://i.imgur.com/e7ja7fB.png)
+<figcaption align = "center"><b>Fig.3c - Working Prototype(Source: Instructables)</b></figcaption>
+
+</p>
 
 ---
 
