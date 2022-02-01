@@ -692,7 +692,7 @@ Assuming house will have bright sunlight for 5 hours daily.
 </div>
 
 <p align = "center">
-Table-4 Energy Generation
+Table-1 Energy Generation
 </p>
 
 **2.2.3 Cost Analysis**
@@ -712,7 +712,7 @@ Table-4 Energy Generation
 </div>
 	
 <p align = "center">
-Table-1 Cost Analysis for Top Tier
+Table-2 Cost Analysis for Top Tier
 </p>
 
 
@@ -729,7 +729,7 @@ Table-1 Cost Analysis for Top Tier
 </div>
 
 <p align = "center">
-Table-2 Cost Analysis for Base Tier
+Table-3 Cost Analysis for Base Tier
 </p>
 
 
@@ -746,7 +746,7 @@ Table-2 Cost Analysis for Base Tier
 </div>
 
 <p align = "center">
-Table-3 Cost Analysis for Economy Tier
+Table-4 Cost Analysis for Economy Tier
 </p>
 
 
