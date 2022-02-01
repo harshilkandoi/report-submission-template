@@ -32,7 +32,7 @@ geometry : margin = 2cm
 
 
 
-###   Table of Contents 
+### Table of Contents 
 
 <br>
 <br>
@@ -334,43 +334,7 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 
 ### Workflow Structure
-<p>&nbsp;</p>
 
-<p align = "center">
-	<a href="https://ibb.co/JssLmBn"><img src="https://i.ibb.co/YLL9PR2/GANTT.png" alt="GANTT" border="0"></a>
-</p>
-<p align = "center"><b> Gantt Chart </b>
-</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p align = "center">
-	<a href="https://ibb.co/LpGFNCZ"><img src="https://i.ibb.co/ys3948Q/NETWORK.png" alt="NETWORK" border="0"></a>
-</p>
-<p align = "center"><b> Network Diagram </b>
-</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p align = "center">
-	<a href="https://ibb.co/D4SQC0d"><img src="https://i.ibb.co/Zdkx8q9/WBS.png" alt="WBS" border="0"></a>
-</p>
-<p align = "center"><b> WBS Chart </b>
-</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p align = "center">
-	<a href="https://ibb.co/0jm55rz"><img src="https://i.ibb.co/kg5ZZXP/Resource-Allocation.png" alt="Resource-Allocation" border="0"></a>
-</p>
-<p align = "center"><b> Resource Allocation </b>
-</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ### List of Abbreviations
 
@@ -406,10 +370,10 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 
 
-### Designed System 
+### [Designed System](#table-of-contents) 
 	
 	
-#### 1. Wind
+#### [1. Wind](#table-of-contents)
 
 ##### 1.1 Requirements
 
@@ -584,13 +548,14 @@ After the completion of the mechanical design of the wind turbine, the next step
 \pagebreak
 </div>
 
-#### 2. Solar
+#### [2. Solar](#table-of-contents)
 
-##### Requirements
+##### 2.1 Requirements
 
-**Geographical requirements**
+**2.1.1 Geographical requirements**
 
 Different regions on the globe get different amount of sunlight at different angles. For example, at equator the earth recieves more focused sunlight than on poles where the light spreads over a wide area. The area which receives more focused sunlight can generate more solar energy. Different geographical features also play a role like forest areas or hilly areas which have low solar power avalibilty.
+
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
 </p>
@@ -607,9 +572,9 @@ India, being partly tropical and sub-tropical, receives sunlight all round the y
 Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/solar-power-in-india/))
 </p>
 
-##### Specifications
+##### 2.2 Specifications
 
-**Components**
+**2.2.1 Components**
 
 (1) Bluebird 395 Watt Solar Panels 
 -  Solar Panels designed with high efficiency A+ Grade 5BB Cell Technology. 
@@ -629,8 +594,25 @@ Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/sola
 
 (4) MBATechmeds Solar Sun Tracker (Single Axis) 
 
+**2.2.2 Energy generation**
 
-**Cost Analysis**
+Assuming house will have bright sunlight for 5 hours daily.
+
+<div align="center">
+	
+| Tier   | Energy Generated (kWh per Month)| Total Cost(Rs)
+| ----------- | ----------- | -----------|
+| Top Tier   | 355.5 |1,22,485 
+| Base Tier    | 237| 85,501
+| Economy Tier    | 59.25| 37,015
+	
+</div>
+
+<p align = "center">
+Table-4 Energy Generation
+</p>
+
+**2.2.3 Cost Analysis**
 
 *Installation Cost*
 
@@ -685,30 +667,12 @@ Table-3 Cost Analysis for Economy Tier
 </p>
 
 
-**Maintenance Cost**
+*Maintenance Cost*
 
 Negligible Maintenance cost because we have to just clean the solar panels.
 
-**Energy generation**
 
-Assuming house will have bright sunlight for 5 hours daily.
-
-<div align="center">
-	
-| Tier   | Energy Generated (kWh per Month)| Total Cost(Rs)
-| ----------- | ----------- | -----------|
-| Top Tier   | 355.5 |1,22,485 
-| Base Tier    | 237| 85,501
-| Economy Tier    | 59.25| 37,015
-	
-</div>
-
-<p align = "center">
-Table-4 Energy Generation
-</p>
-
-
-##### Diagrams and Working
+##### 2.3 Diagrams and Working
 
 - When solar radiations fall on the solar panels, we make sure that the solar panels are at their best angles for maximum exposure to the sunlight through an \*Active Solar Tracker\*.This device's sensors react with sunlight and angle the solar panels through drivers and motors accordingly. 
 - These solar panels are mounted on the roof with the help of mounting structures and they allow them to maintain and change their position according to the position of the sun. 
@@ -725,6 +689,28 @@ Fig-3 Solar Panel</b></figcaption>
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
 - This electric current generated is then transferred to the inverter through cables and wires and then it is stored in the batteries. This energy is then first converted to AC current through inverters and then is distributed in the house for usage. 
 
+##### 2.4 Closure:
+The life of this solar grid system is approximately 40-50 years (with 25 years in warranty) with minimal maintainance. The parts we used are listed in the following table with their corresponding warranties:
+
+<div align="center">
+	
+|Device |Warranty Period|
+|-------|---------------|
+|Bluebird 395 Watt Solar Panels| 25 Years |
+|HAVELLS HRFR PVC 4 sq/mm Yellow wire| 1 Year |
+| Solar Panel Mounting Structure Set for 2 Solar Panel | 5 Years |
+| MBATechmeds Solar Sun Tracker | 5 Years |
+	
+</div>
+
+<p align = "center">
+Table-5 Warranty of Different Devices Used
+</p>
+
+
+This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
+
+
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -732,29 +718,23 @@ Fig-3 Solar Panel</b></figcaption>
 
 
 
+#### [3. Mechanical](#table-of-contents) 
 
+##### 3.1 Requirements
 
-
-
-
-
-#### 3. Mechanical 
-
-##### Requirements
-
-**Geographical requirements**
+**3.1.1 Geographical requirements**
 
 System can work under all geographical conditions.
 
-**Basic Requirements**
+**3.1.2 Basic Requirements**
 1. An average fit person (in the age range of 18 years - 45 years) can generate 115W of electricity from pedalling a cycle connected with a dynamo which means we can generate around 460w power for a household with four adults and 230w power for a household with two adults, an elite cyclist can generate upto 300W.
 2. Geared DC Motor should be brushless as brushes make the efficiency of motors down to less than 40%,  which is miserable.
     
 3. To operate the speed controller, we have to use a servo tester. The servo tester offers a physical dial, dialing which we can increase the speed of rotation of the motor. 
 
-##### Specifications
+##### 3.2 Specifications
 
-**Components**
+**3.2.1 Components**
 
 (1)  *Bicycle*:Here, it is used to rotate the motor using mechanical power, thus producing electricity.
 
@@ -768,13 +748,13 @@ System can work under all geographical conditions.
 
 (6) *Buck-Boost converter*:The buck–boost converter is a type of DC-to-DC converter (also known as a chopper) that has an output voltage magnitude that is either greater than or less than the input voltage magnitude. It is used to “step up” the DC voltage.
 
-**Power generation**
+**3.2.2 Power generation**
 
 Our project has 4 stationary bicycles as we are assuming a household of 4 members.Each stationary cycle when pedaled by an average fit person can generate 115watts of electricity and up to 300 watts when driven by an elite cyclist.
 Let us assume that each cycle is rode for 2 hours a day.
 Energy generated by all 4 bicycles on an average=115watts* 2hours* 4cycles=920wh=0.92Kwh=0.92units.
 
-**Cost Analysis**
+**3.2.3 Cost Analysis**
 Installation Cost for 1 bicycle
 | Part  |  Cost |
 | :--------:  | :---------: |
@@ -792,7 +772,7 @@ So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
 
 *Maintenance Cost* :Negligible maintenance cost
 
-##### Diagrams and Working
+##### 3.3 Diagrams and Working
 
 - Here DC motor works as DC generator. It has a flywheel attached to it which increases its moment of inertia meaning even if you stop cycling for a moment, the generator will spin by itself for a couple of seconds.
 - The output of the generator is connected to a buck-boost converter, whose output is then fed to a power inverter which is finally driving the load. This is done to regulate the generated voltage to get its full use.
@@ -806,7 +786,7 @@ So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
 
 <figcaption align = "center"><b>Fig.1 - CAD Model Of Bicycle Electricity Generator </b></figcaption>
 
-#### Vender's Info
+#### 3.4 Vender's Info
 
 |         Part          |  Link   |
 | :-------------------: | :-----: |
@@ -821,11 +801,13 @@ So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
 \pagebreak
 </div>
 
-#### 4. Hydroelectricity
 
-##### Requirements
 
-**Constructional Requirement**
+#### [4. Hydroelectricity](#table-of-contents)
+
+##### 4.1 Requirements
+
+**4.1.1 Constructional Requirement**
 
 The following are _constructional requirements_:
 
@@ -835,7 +817,7 @@ The following are _constructional requirements_:
 
 - _Other components_: Turbine blades, turbine casing, transmission wires etc.
 
-**Geographical Requirements**
+**4.1.2 Geographical Requirements**
 
 The _geographical requirements_ required for the plant are as follows:
 
@@ -862,7 +844,7 @@ Apart from major rivers or waterfalls, If your house is located near by any flow
 
 - _Land_: The land should be rocky enough so that it bears the pressure by the dam and shouldn’t be swampy.
 
-**Electrical Requirements**
+**4.1.3 Electrical Requirements**
 
 The following are the _electrical requirements_:
 
@@ -873,9 +855,9 @@ The following are the _electrical requirements_:
 - _Wires_: It should be rated to carry 30*A* of current and of sufficient length.
 - _Pipes_: It should be capable to flow 0.03 m<sup>3</sup>/s of water.
 
-##### Specifications
+##### 4.2 Specifications
 
-**Components**
+**4.2.1 Components**
 
 _(1) Turbine_
 
@@ -924,7 +906,7 @@ As the generator gives AC output so to convert AC to DC for charging an AC-DC co
 
 _Table 4.3: Hydro-Electricity AC-DC Converter Specifications_
 
-**Power generation**
+**4.2.2 Power generation**
 
 The maximum hydropower power output is entirely dependent on how much head and flow is available at the site. The formula for power calculation is derived from the concept of stored potential energy in water at a certain height H(Head Height) and given by the formula:
 
@@ -947,7 +929,7 @@ Most of the Hydro-Electric systems used for domestic purposes have η about 75%.
 
 _Table 4.4: Hydro-Electricity output power_
 
-**Cost Analysis**
+**4.2.3 Cost Analysis**
 
  
 
@@ -967,7 +949,7 @@ By above mentioned specifications and power output calculations, we can conclude
 
 [^1]:As per Delhi govt guideline ([check here](https://labour.delhi.gov.in/content/current-minimum-wage-rate))
 
-##### Diagrams and Working
+##### 4.3 Diagrams and Working
 
 As shown in the figure, water stored at high elevation falls on the turbine of generator i.e. converting the potential energy of water to mechanical energy of turbine by rotating it. Now, this mechanical energy of turbine is converted to electrical energy with the help of drives. Now this pulsating alternating current is passed through transformers for transmitting to distant use places and finally it passes through ac/dc converters to make it usable at required places.
 
@@ -991,7 +973,7 @@ This figure shows connections of various subsystem of the plant along with wire 
 
 </p>
 
-#### Vender's Info
+#### 4.4 Vender's Info
 |         Part          |  Link   |
 | :-------------------: | :-----: |
 | Generator-Turbine Set | [Buy Link](https://www.alibaba.com/product-detail/2m-To-4m-Low-Head-500w_1600432599601.html?spm=a2700.galleryofferlist.normal_offer.d_image.45557519SMEriV) |
@@ -1010,12 +992,12 @@ _Table 4.6: Vendor's Info_
 
 
 
-#### 5. Piezoelectricity
+#### [5. Piezoelectricity](#table-of-contents)
 
 
-##### Requirements
+##### 5.1 Requirements
 
-**Geographical Limitations**
+**5.1.1 Geographical Limitations**
 
 The power output of a particular piezoelectric energy harvester depends upon intrinsic and extrinsic factors. Intrinsic factors include the frequency constant of the piezoelectric element, piezoelectric and mechanical properties of the material, and the temperature and stress dependence of the physical properties. Extrinsic factors comprise of the input vibration frequency, acceleration of the base/host structure, and the amplitude of the excitation. By choosing the right material for piezoelectric devices we can significantly reduce the effects of temperature on the performance. 
   
@@ -1023,9 +1005,9 @@ Thus, there are no particular geographical restrictions for building piezoelectr
 
 
 
-##### Specifications
+##### 5.2 Specifications
 
-**Components**
+**5.2.1 Components**
 
 (1) **Piezoelectric Tiles**
 
@@ -1084,7 +1066,7 @@ Thus, there are no particular geographical restrictions for building piezoelectr
 
 ---
   
-#####  Diagrams and Working
+##### 5.3 Diagrams and Working
 
 
 Below are the CAD models and designs of the proposed piezoelectric energy harvesters with brief description of working model:
@@ -1114,9 +1096,6 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
  <figcaption align = "center"><b>Fig.1d - Piezo Tiles Circuit Diagram</b></figcaption>
 
  </p>
-  
-
-  
 
 
 **Piezoelectric Wind Turbine**
@@ -1145,8 +1124,6 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
  </p>
   
 
-  
-
 **Piezoelectric Shoes**
 
 - <ins>_Working Model:_</ins> When a person walks, pressure is exerted on the ground and this pressure can be converted into electrical energy and it can be used to power electronic devices. A piezoelectric sensor pad is placed in the shoe. The power that is generated by piezoelectric sensors when a person walks is transferred to the battery using a full-wave bridge rectifier. A diode was soldered to each piezo pad, and a rectifier was soldered to the system before it was connected to the battery.
@@ -1170,7 +1147,7 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 ---
 
 
-##### Bill of Materials
+##### 5.4 Bill of Materials
 
 
 
@@ -1185,6 +1162,16 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 Table 1: Bill of Materials
 
 ---
+
+##### 5.5 Closure
+
+1. _Piezoelectric tiles:_ Piezo tiles are usually made of volcanic dust, kaolin, feldspar and PZT and hence are very crystalline in nature.The brittle nature of lead zirconium titanate (PZT) can cause the formation of cracks over time when operating under cyclic loading conditions. Such cracks in the bulk material can reduce performance due to a complex combination of factors. Tiles will work properly for a long time if not broken by any external force without needing any servicing. 
+
+2. _Piezoelectric shoes:_ Piezoelectric materials, whether natural or synthetic, are crystalline in nature. They should last forever, but being very brittle can be damaged if dropped or even if driven at too high power. Such crystals used in electronics should last at least until the contacts touching the crystal faces wear out. Hence it will depend on the durability of shoes. 
+
+      Unfortunately the amount of energy stored during a charging cycle (which took around 4000 steps) was very small and it would take an unrealistic amount of charging cycles to charge a cell phone just by walking alone.  By our calculations, it will take approximately 564,971.78 charging cycles, which amounts to 2,118,644,250 steps, in a best case scenario(when all the piezo plates are contributing). This also means it would take 706,214.75 hours to charge the cell phone.
+
+---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
@@ -1193,23 +1180,27 @@ Table 1: Bill of Materials
 
 
 
-#### 6. Thermoelectricity
+#### [6. Thermoelectricity](#table-of-contents)
 
 
-##### Requirements
+##### 6.1 Requirements
 
-**Geographical requirements**
+**6.1.1 Geographical requirements**
 
 The Solar TEG would work well under weather and geographical conditions having high sunlight access and hot temperatures.  Therefore regions near equator having lesser number of cloudy days is preferred.
 
-**Requirements from the house**
+<p align = "center">
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/DLn6GSB/Heat-Map.jpg" alt="Heat Map" border="0"></a>
+</p>
+
+**6.1.2 Requirements from the house**
 
 Roof of the house must be horizontal plane in order to place the device. House shall use energy for basic needs only, no refrigerators or AC's are installed in the house. 
 
 
-##### Specifications
+##### 6.2 Specifications
      
-**Components**
+**6.2.1 Components**
     
 (1)  *TEG*
      
@@ -1275,13 +1266,13 @@ Roof of the house must be horizontal plane in order to place the device. House s
      | Price | Rs. 200 |
      
      
-**Power generation**
+**6.2.2 Power generation**
      
 - Power production depends on many factors such as sun, sun's direction, water temperature. Power transferred to load depends can't be computed as it depends heavily on several parameters of battery system.
 - Generated power in a day assuming 4 hours of good sunlight is = Time of Operation x Energy generated by Each TEG x Number of TEG = 5hr * 20W * 6 = 600 Whr/day = 0.6 Units/day .
 - Peak Power 35 W, average power during sunlight hours is 20W 
      
-**Cost Analysis**
+**6.2.3 Cost Analysis**
     
 - Cost to procure the products mentioned = Rs. 20,845
 - Cost to build a wooden frame to support the device ~ Rs. 2500
@@ -1290,9 +1281,9 @@ Roof of the house must be horizontal plane in order to place the device. House s
 - Total Cost = Rs. 23,945 ~ Rs. 24,000
 
 
-##### Diagrams and Working  
+##### 6.3 Diagrams and Working  
 
-**Construction**
+**6.3.1 Construction**
 
 <p align = "center">
 	<img src = "https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C2EE22248E&imageInfo.ImageIdentifier.Year=2012"  alt = "Thermo"  | width = "400" height = "300" >
@@ -1312,7 +1303,7 @@ Roof of the house must be horizontal plane in order to place the device. House s
 </p>
 
 
-**Working Principle**
+**6.3.2 Working Principle**
 
 Heat from solar radiation heats the Aluminum surface which in turns heats the hot side of TEG. Cold side of TEG being attached to heat sink which in turn is in contact with Water source  as seen in above figure keeps the Cold side of TEG at cool temperature. 
 
@@ -1324,17 +1315,17 @@ A Fresnel lens concentrates the solar radiation to the the aluminum plate to ach
 </div>
 
 
-#### 7. Electricity from biogas
+#### [7. Electricity from biogas](#table-of-contents)
 
-##### Requirements
+##### 7.1 Requirements
 
-**Geographical requirements**
+**7.1.1 Geographical requirements**
 
 The system works under all weather conditions.
 
-##### Specifications
+##### 7.2 Specifications
 
-**Components**
+**7.2.1 Components**
 
 (1)  Fixed domestic biogas plant :
 
@@ -1344,6 +1335,7 @@ The system works under all weather conditions.
 | Area To Be Covered | 4 sq.feet       |
 | Storage Holer Size | 0.6 cubic metre |
 
+<b>Table 7.1 - Values of important measures</b>
 (2) BISON CHINA 5KW Easy-Moving Biogas Electric Generator:
 
 -   *Characteristics*:
@@ -1375,7 +1367,7 @@ The system works under all weather conditions.
 12. Generator Type: Household Electric Power Silent Portable Gas
     Generator
 
-**Power generation**
+**7.2.2 Power generation**
 
 > 16kg cow dung → 1.6m3 biogas/day with 1m3 usable biogas Using 1 m3
 > biogas → 4.9kWh electricity 
@@ -1384,7 +1376,7 @@ At 35% efficiency we have 1.715 kWh/m3 biogas/day.
 So at 1m3 biogas/day we can produce about 51 units of electricity in a
 month.
 
-**Cost Analysis**
+**7.2.3 Cost Analysis**
 
 | Part                                                  | Cost(Rs) |
 |-------------------------------------------------------|----------|
@@ -1396,8 +1388,11 @@ pipes.
 *Maintenance costs*: 2% of capital cost per annum \~ 1000 rupees per
 annum .
 
+<b>Table 7.2 - Costs</b>
 
-**Vendor Information**:
+
+
+**7.2.4 Vendor Information**:
 
 -   Fixed domestic biogas plant :  
     link: https://www.indiamart.com/atmosbioenergy/enquiry.html  
@@ -1407,7 +1402,7 @@ annum .
     https://www.alibaba.com/product-detail/BISON-CHINA-5KW-Easy-Moving-Lpg_60423755030.html?spm=a2700.7724857.normal_offer.d_title.5b2d59d44KeAi6  
     Contact: Edward Tang
 
-##### Diagrams and Working
+##### 7.3 Diagrams and Working
 
 In the digester, the wastes are treated and biogas is produced. An
 engine followed by an electricity generator then produces power. The
@@ -1415,8 +1410,9 @@ power is then transferred to the storage system (as depicted by the
 black box) through electrical wires.
 
 ![biogasplant](https://i.imgur.com/fmSXrVx.jpg "biogasplant")
+<figcaption align = "center"><b>Diagram of working of digester and biogas generator</b></figcaption>
 
-##### Appendix
+##### 7.4 Appendix
 
 | Engine               |                |
 |----------------------|----------------|
@@ -1447,6 +1443,8 @@ black box) through electrical wires.
 | 20GP               | 136set                     |
 | 40HQ               | 292set                     |
 
+
+<b>Table 7.3 - Description and values of required items</b>
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -1454,7 +1452,7 @@ black box) through electrical wires.
 
 
 
-#### 8. Waste Heat Re-use
+#### [8. Waste Heat Re-use](#table-of-contents)
 
 #### 8.1 Requirements
 
@@ -1566,6 +1564,21 @@ Figure 8.3 Installation of TEGs in Kitchen
  ```
 ---
 
+### 8.4 Closure
+
+**8.4.1 Availability** 
+-   Production plan for the heat renewal device : The production of the heat renewal device would be 20% more than the sale of the device till the end of sale of the product. This would ensure the availability of components and the device itself in case of replacement, repair and non-availability. 
+-   Buying components from other sellers : All the components can be bought from any other electronic devices manufacturer in the market.
+
+**8.4.2 Easy Maintenance**
+
+- The heat renewal system includes only the TEGs, charge controller and battery. So the maintenance is minimal. 
+
+**8.4.3 Replaceability**
+    
+-  End of life of heat renewal device - The components of heat renewal device (TEG module, battery and charge controller) will be available for repairing and replacement till 10 years (warranty) after the end of sale for the heat renewal device. 
+ 
+-  Upgradability : The quality of the TEGs would improve over the time, thus it will be possible to incorporate more efficient TEGs into the system after say a period of 10 years.
 
 ### Image credits
 
@@ -1581,12 +1594,12 @@ Figure 8.3 Installation of TEGs in Kitchen
 
 
 
-### 9. Energy Storage And Distribution
+### [9. Energy Storage And Distribution](#table-of-contents)
 
-##### Requirements
+##### 9.1 Requirements
 
 
-**House Requirements**
+**9.1.1 House Requirements**
 1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10$C^\circ$ to 40$C^\circ$ , Ideal temperature range of 25-35$C^\circ$
 2. *Space and Area:*
 
@@ -1598,9 +1611,9 @@ Figure 8.3 Installation of TEGs in Kitchen
 
 --- 
 
-##### Specification
+##### 9.2 Specification
 
-**Charger Specifications**
+**9.2.1 Charger Specifications**
   *Chargers* --- *per source*
 The chargers used are of the MPPT (Maximum power point tracking) type are preferred , which allows for networking and better efficiency compared to PWM type.
 	  
@@ -1618,9 +1631,9 @@ The chargers used are of the MPPT (Maximum power point tracking) type are prefer
 
 The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
 
-##### Battery-Inverter Specifications
+##### 9.2.2 Battery-Inverter Specifications
 
-##### *Plus* tier
+##### 9.2.2.1 *Plus* tier
 
  **Components** 
 
@@ -1655,6 +1668,8 @@ The sources Mentioned above are the major Power sources and other power sources 
   |Weight |31.9Kg|
   |Size|28$\times$ 30.5 $\times$ 38 cm|
   **Cost :-** 22500 INR
+  
+ 
 **Power And Energy**
 
  - **11 KWh** amount of *Energy can be stored* (roughly energy required for one days use)
@@ -1669,7 +1684,7 @@ The sources Mentioned above are the major Power sources and other power sources 
 
 
 
-##### *Base* tier
+##### 9.2.2.2 *Base* tier
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1715,7 +1730,7 @@ The sources Mentioned above are the major Power sources and other power sources 
 
 
 
-##### *Economy* tier
+##### 9.2.2.3 *Economy* tier
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1763,7 +1778,7 @@ The sources Mentioned above are the major Power sources and other power sources 
  
 ---
 
-##### Diagrams and Working
+##### 9.3 Diagrams and Working
 Unlike living offgrid , offgrid and independent electrical systems are more complicated than normal electrical wiring and must contain the functionalities similar to a national grid like load balancing and maintaining a fairly constant frequency and voltage. The energy Storage and management system essentially does the following functions -
 1.  Fills the gap between electricity generation and usage
 2.  Combines multiple sources into one coherent output
@@ -1777,7 +1792,8 @@ The system has been designed to be modular, allowing for: *easy installation, fl
 
 The setup is same across all tiers with the main difference between each tier is in the capacity of power and storage.
 
-##### Appendix : Product links And Product Detail/Specifications
+##### 9.4 Appendix : Product links And Product Detail/Specifications
+
 ***Chargers***
 
  1. https://www.amazon.in/Sparkel-Smart-Charge-Controller-SPSCC-6048LiMPPT/dp/B094CS2P7V/ref=sr_1_3?crid=LYRI2T533096&keywords=MPPT+60A&qid=1642532993&sprefix=mppt+60a%2Caps%2C259&sr=8-3
@@ -1820,248 +1836,116 @@ According to different studies and data shared by the manufacturers of small hor
  
 However, a turbine's lifespan can be increased by regular monitoring and maintenance. This can be done by assessing the asset's state and comparing it to the turbine's predicted lifespan based on expected loads and fatigue, and environmental considerations for the wind energy location. By such regular assessments, one can know whether the continued operation of the turbine is possible or any components need replacing to extend its lifespan. However, the maintenance costs will increase as the structure ages.
 	    
-	    
-**Solar**
-
-The life of this solar grid system is approximately 40-50 years (with 25 years in warranty) with minimal maintainance. The parts we used are listed in the following table with their corresponding warranties:
-
-<div align="center">
-	
-|Device |Warranty Period|
-|-------|---------------|
-|Bluebird 395 Watt Solar Panels| 25 Years |
-|HAVELLS HRFR PVC 4 sq/mm Yellow wire| 1 Year |
-| Solar Panel Mounting Structure Set for 2 Solar Panel | 5 Years |
-| MBATechmeds Solar Sun Tracker | 5 Years |
-	
-</div>
-
-<p align = "center">
-Table-5 Warranty of Different Devices Used
-</p>
-
-
-This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
-
-**Piezoelectricity**
-
-1. _Piezoelectric tiles:_ Piezo tiles are usually made of volcanic dust, kaolin, feldspar and PZT and hence are very crystalline in nature.The brittle nature of lead zirconium titanate (PZT) can cause the formation of cracks over time when operating under cyclic loading conditions. Such cracks in the bulk material can reduce performance due to a complex combination of factors. Tiles will work properly for a long time if not broken by any external force without needing any servicing. 
-
-2. _Piezoelectric shoes:_ Piezoelectric materials, whether natural or synthetic, are crystalline in nature. They should last forever, but being very brittle can be damaged if dropped or even if driven at too high power. Such crystals used in electronics should last at least until the contacts touching the crystal faces wear out. Hence it will depend on the durability of shoes. 
-
-      Unfortunately the amount of energy stored during a charging cycle (which took around 4000 steps) was very small and it would take an unrealistic amount of charging cycles to charge a cell phone just by walking alone.  By our calculations, it will take approximately 564,971.78 charging cycles, which amounts to 2,118,644,250 steps, in a best case scenario(when all the piezo plates are contributing). This also means it would take 706,214.75 hours to charge the cell phone.
-
-
-**Waste Heat Re-use**
-
-**8.4.1 Availability** 
--   Production plan for the heat renewal device : The production of the heat renewal device would be 20% more than the sale of the device till the end of sale of the product. This would ensure the availability of components and the device itself in case of replacement, repair and non-availability. 
--   Buying components from other sellers : All the components can be bought from any other electronic devices manufacturer in the market.
-
-**8.4.2 Easy Maintenance**
-
-- The heat renewal system includes only the TEGs, charge controller and battery. So the maintenance is minimal. 
-
-**8.4.3 Replaceability**
-    
--  End of life of heat renewal device - The components of heat renewal device (TEG module, battery and charge controller) will be available for repairing and replacement till 10 years (warranty) after the end of sale for the heat renewal device. 
- 
--  Upgradability : The quality of the TEGs would improve over the time, thus it will be possible to incorporate more efficient TEGs into the system after say a period of 10 years.
-
-
 	   
 ### Image Credits
 	    
 
 ### References
 	    
-
-
 **Wind**
 	    
-
 [1] “Installing and Maintaining a Small Wind Electric System,” _Energy.gov_. https://www.energy.gov/energysaver/installing-and-maintaining-small-wind-electric-system (accessed Jan. 11, 2022).
-
 [2] “Wind Power for Homes: How To Use Wind Power At Home Today,” _Inspire Clean Energy_. https://www.inspirecleanenergy.com/blog/sustainable-living/wind-power-for-homes (accessed Jan. 11, 2022).
-
 [3] “Nacelles | How are they manufactured?,” _Windpower Engineering & Development_. https://www.windpowerengineering.com/how-is-a-nacelle-manufactured/ (accessed Jan. 15, 2022).
-
 [4] “Frp /grp Wind Turbine Nacelle Cover, Fiberglass Cover,” _indiamart.com_. https://www.indiamart.com/proddetail/frp-grp-wind-turbine-nacelle-cover-fiberglass-cover-23462129073.html (accessed Jan. 15, 2022).
-
 [5] “Windmill Blade,” _indiamart.com_. https://www.indiamart.com/proddetail/windmill-blade-17678651497.html (accessed Jan. 17, 2022).
-
 [6] LuvSide, “Generators for Wind Turbine Applications - Part 2: How to Pick One | The Windy Blog,” _https://www.luvside.de/en/_. https://www.luvside.de/en/generators-how-to-pick-one/ (accessed Jan. 17, 2022).
-
 [7] “400W 12v/24v/48v Alternator, 3 Phase | ATO.com.” https://www.ato.com/400w-alternator (accessed Jan. 17, 2022).
-
 [8] “10 Meter Tubular Steel Pole,” _indiamart.com_. https://www.indiamart.com/proddetail/10-meter-tubular-steel-pole-17130969591.html (accessed Jan. 17, 2022).
-
 [9] “WINDExchange: Small Wind Guidebook.” https://windexchange.energy.gov/small-wind-guidebook#installation (accessed Jan. 17, 2022).
-
 [10] C. J, V. D, and M. Majid, “Wind energy programme in India: Emerging energy alternatives for sustainable growth,” _Energy & Environment_, vol. 30, p. 0958305X1984129, Apr. 2019, doi: [10.1177/0958305X19841297](https://doi.org/10.1177/0958305X19841297).
-
 [11] “HAVELLS HRFR PVC 1.5 sq/mm Red 90 m Wire Price in India - Buy HAVELLS HRFR PVC 1.5 sq/mm Red 90 m Wire online at Flipkart.com,” Flipkart.com. https://www.flipkart.com/havells-hrfr-pvc-1-5-sq-mm-red-90-m-wire/p/itmfhws5hzytghze (accessed Feb. 01, 2022).
 	    
-	
-	
-
+	    
 **Solar**
 	    
 
-
 [1] ‘1 unit of electricity means 40 Watt Tube Light Running for 25 Hours’. https://www.sciencesstudio.com/2019/08/one-unit-of-electricity-saved.html (accessed Jan. 18, 2022). 
-
 [2] ‘Bluebird Solar 395 Watt - 24 Volt Mono PERC Crystalline Solar Panel \| BIS Certified \| High Efficiency \| 5BB A+ Grade Solar Cells \| Junction Box with MC4 Connector \| Home Lighting & Battery Charging : Amazon.in: Garden & Outdoors’. https://www.amazon.in/Bluebird-Solar-395-Watt-Crystalline/dp/B091TV6M9X/ref=asc\_df\_B091TV6M9X/?tag=googleshopdes-21&linkCode=df0&hvadid=396986918571&hvpos=&hvnetw=g&hvrand=14846268478555082580&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1222930393376&ext_vrnc=hi&th=1 (accessed Jan. 18, 2022). 
-
 [3] ‘Cost of solar system \| Cost of Solar Panels \| Maintenance Cost of Solar’, Lets Save Electricity, Mar. 11, 2020. https://letsavelectricity.com/cost-of-solar-system-in-india/ (accessed Jan. 18, 2022). 
-
 [4] ‘Difference between 3 Star Vs 5 Star Air Conditioners \| Bajaj Finserv’, www.bajajfinserv.in. https://www.bajajfinserv.in/insights/3-star-acs-vs-5-star-acs--which-one-should-you-buy-this-summer (accessed Jan. 18, 2022). 
-
 [5] ‘Electricity usage of an Iron - Energy Use Calculator’. https://energyusecalculator.com/electricity_iron.htm (accessed Jan. 18, 2022). 
-
 [6] ‘How Much is The Power Consumption of Refrigerator? - Save Electricity’, Lets Save Electricity, Jan. 15, 2020. https://letsavelectricity.com/power-consumption-of-a-refrigerator/ (accessed Jan. 18, 2022). 
-
 [7] ‘How to Calculate Geyser Power Consumption?’, Check out Paytm Blog - One and Only Stop for All Your Financial Needs, Nov. 24, 2021. https://paytm.com/blog/bill-payments/electricity-bills/how-to-calculate-geyser-power-consumption/ (accessed Jan. 18, 2022). 
-
 [8] ‘L&T (Larsen & Toubro Limited) Three Phase Sub Meter LCD Display 10-60A : Amazon.in: Industrial & Scientific’. https://www.amazon.in/Larsen-Toubro-Limited-Display-10-60A/dp/B09GVWXYWP/ref=asc\_df\_B09GVWXYWP/?tag=googleshopdes-21&linkCode=df0&hvadid=545232819554&hvpos=&hvnetw=g&hvrand=4336388963072329755&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1433459938069&psc=1 (accessed Jan. 18, 2022). 
-
 [9]  ‘Power Consumption of a Ceiling Fan’, Atomberg, Aug. 03, 2017. https://atomberg.com/power-consumption-of-a-ceiling-fan/ (accessed Jan. 18, 2022). 
-
 [10]  ‘Room Heater in India: heating as expensive as cooling’, Bijli Bachao, Dec. 04, 2012. https://www.bijlibachao.com/appliances/room-heater-in-india-heating-as-expensive-as-cooling-in-north.html (accessed Jan. 18, 2022). 
-
 [11] ‘Solar Panel Mounting Structure Set for 2 Solar Panel (6 Channel, 4 End Clamps, 2 Mid Clamps, 6 Spring Nut M8) : Amazon.in: Garden & Outdoors’. https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc\_df\_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=2597849844069982857&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1457440431503&psc=1 (accessed Jan. 18, 2022). 
-
 [12] ‘Solar power system types: equipment needed, costs, pros, and cons’, Solar Reviews. https://www.solarreviews.com/content/blog/what-equipment-do-you-need-for-a-solar-power-system (accessed Jan. 18, 2022). 
-
 [13] ‘TV Power Consumption in A Day? - Calculate Any TV Power Consumption.’, Lets Save Electricity, Oct. 25, 2019. https://letsavelectricity.com/how-much-power-does-a-tv-use-in-an-hour/ (accessed Jan. 18, 2022). 
-
 [14] M. Ayothi, ‘Washing Machine (Wattage) Power Consumption, Power Saving Tips’, Sep. 29, 2020. https://www.electrical4u.net/energy-calculation/washing-machine-wattage-power-consumption-power-saving-tips/ (accessed Jan. 18, 2022). 
-
 [15] ‘What is the Power consumption of a microwave oven? - Save Electricity’, Lets Save Electricity, Jan. 20, 2020. https://letsavelectricity.com/what-is-the-power-consumption-of-a-microwave-oven/ 
-
 [16] “Home Solar System: Renewable Energy Solutions for Residential Users.” \_The Economic Times\_, May 28, 2019. \[https://economictimes.indiatimes.com/small-biz/productline/power-generation/home-solar-system-renewable-energy-solutions-for-residential-users/articleshow/69540881.cms?from=mdr\](https://economictimes.indiatimes.com/small-biz/productline/power-generation/home-solar-system-renewable-energy-solutions-for-residential-users/articleshow/69540881.cms?from=mdr). 
-
 [17] ELECTRICAL TECHNOLOGY. “What Components Do You Need for Solar Panel System Installation?,” October 20, 2019. \[https://www.electricaltechnology.org/2019/10/components-solar-panel-system-installation.html\](https://www.electricaltechnology.org/2019/10/components-solar-panel-system-installation.html). 
-
 [18] “What Is a Solar Tracker, How Does It Work, and How Many Types Are There?” Accessed January 11, 2022. \[https://www.solarpowerworldonline.com/2020/01/what-is-a-solar-tracker-and-how-does-it-work/\](https://www.solarpowerworldonline.com/2020/01/what-is-a-solar-tracker-and-how-does-it-work/). |
-
 [19] “Trends in India’s Residential Electricity Consumption \| Centre for Policy Research.” Accessed January 11, 2022. \[https://cprindia.org/news/6519\](https://cprindia.org/news/6519). 
-
 
 
 **Mechanical**
 	    
-
 [1] ‘Bike powered electricity generators are not sustainable - LOW-TECH MAGAZINE’. https://www.lowtechmagazine.com/2011/05/bike-powered-electricity-generators.html (accessed Jan. 18, 2022).
-
 [2] D. King 00, ‘DIY Electric Bicycle Conversion (Using a Brushless Motor)’, Instructables. https://www.instructables.com/DIY-Electric-Bicycle-Conversion-Using-a-Brushless-/ (accessed Jan. 18, 2022).
-
 [3] R. Suhalka, M. C. Khandelwal, K. K. Sharma, and A. Sanghi, ‘Generation of Electrical Power using Bicycle Pedal’, . Flux, p. 5.
-
 [4] ‘Main Page’, Wikipedia, the free encyclopedia. Feb. 03, 2021. Accessed: Jan. 18, 2022. Available: https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1004593520
-
 [5] ‘Pedal Power! How to Build a Bike Generator’. https://www.popularmechanics.com/technology/gadgets/how-to/a10245/pedal-power-how-to-build-a-bike-generator-16627209/ (accessed Jan. 18, 2022).
-
 [6] 'Linear technology design manual'  https://www.analog.com/media/en/technical-documentation/application-notes/an19fc.pdf (accessed Jan. 18, 2022).
 	    
-
 **Hydro Electricity**
 	    
 
-
 [1] “500w Commercial Battery Charger,” indiamart.com. https://www.indiamart.com/proddetail/500w-commercial-battery-charger-22521319248.html (accessed Jan. 18, 2022).
-
 [2] ‘2m To 4m Low Head 500w 600w 800w 1000w Hydro Generator 220v Ac Single Phase Direct Use Water Turbines Hydroelectric Power - Buy 2-4m Head Hydro Generator,Hydro Turbine Low Head2m To 4m Hydro Generator,1000w Hydro Generator Product on Alibaba.com’. https://www.alibaba.com/product-detail/2m-To-4m-Low-Head-500w_1600432599601.html?spm=a2700.galleryofferlist.normal_offer.d_image.45557519SMEriV (accessed Jan. 18, 2022).
-
 [3] ‘How much hydropower power can I get - Renewables First’, _Renewables First - The Hydro and Wind Company_. https://www.renewablesfirst.co.uk/hydropower/hydropower-learning-centre/how-much-power-could-i-generate-from-a-hydro-turbine/ (accessed Jan. 18, 2022).
-
 [4] ‘Water Turbine Design and Different Hydro Turbine Designs’, _Alternative Energy Tutorials_. https://www.alternative-energy-tutorials.com/hydro-energy/water-turbine-design.html (accessed Jan. 18, 2022).
-
 [5] Land to House, _Awesome Low Head High Flow Grid Tie Micro Hydro 530 watts!_, (Sep. 02, 2020). Accessed: Jan. 11, 2022. \[Online Video\]. Available: https://www.youtube.com/watch?v=V82SVeVXKcA
 
 	    
-
 **Piezoelectricity**
 	    
-
 [1] Electronics, Embedded, Power Electronics, Analog Electronics, Internet of Things, Audio Electronics, Electric Vehicles, Events, et al. 2018. “Foot Step Power Generation Circuit Using Piezoelectric Sensor.” Circuit Digest.June 22, 2018.
-
 [2] “Foot Step Power Generation Circuit Using Piezoelectric Sensor”. https://circuitdigest.com/electronic-circuits/foot-steppower-generation-circuit-using-piezoelectric-sensor (accessed Jan. 24, 2022).
-
 [3] A. Haynes, ‘Piezoelectric Shoes: Charge Your Mobile Device by Walking!’, Instructables. https://www.instructables.com/Piezoelectric-Shoes-Charge-Your-Mobile-Device-by-W/ (accessed Feb. 01, 2022).
-
 [4]P. J. Paul, R. S. D. Tutu, W. K. Richards, and V. M. Jerome, ‘Project power shoe: Piezoelectric wireless power transfer — A mobile charging technique’, in 2015 IEEE Global Humanitarian Technology Conference (GHTC), Oct. 2015, pp. 334–339. doi: 10.1109/GHTC.2015.7343993.
-
 [5]‘Piezoelectric Energy Harvesting Shoe’. https://www.appropedia.org/Piezoelectric_Energy_Harvesting_Shoe (accessed Feb. 01, 2022).
-
 [6] Shah, Neel, Laxit Kamdar, Drashti Gokalgandhi, and Ninad Mehendale. n.d.“Walking Pattern Analysis Using Deep Learning for Energy Harvesting Smart Shoes with IoT,” 16
-
 [7]H. Anand and B. K. Singh, ‘Piezoelectric energy generation in India: an empirical investigation’, Energy Harvesting and Systems, vol. 6, no. 3–4, pp. 69–76, Jul. 2019, doi: 10.1515/ehs-2020-0002.
-
 [8]‘Building a Piezoelectric Generator - Activity’, TeachEngineering.org. https://www.teachengineering.org/activities/view/uoh_piezo_lesson01_activity1 (accessed Feb. 01, 2022).  
-
 [9] Upadhyaya, Sumit, Radhika Agrawal, Nishant Baish, Adarsh Shivhare, and Subash Chand Pal. 2020. “PIEZOELECTRIC BLADELESS WIND TURBINE”07 (05): 6.
-
 
 **Thermoelectricity**
 	    
-
 [1] jiovine, ‘Solar Thermoelectric Generator - Sunflower’, Instructables. https://www.instructables.com/Solar-Thermoelectric-Generator-Sunflower/ (accessed Feb. 01, 2022).
-
 [2] D. Sun, L. Shen, Y. Yao, H. Chen, S. Jin, and H. He, ‘The real-time study of solar thermoelectric generator’, Applied Thermal Engineering, vol. 119, pp. 347–359, Jun. 2017, doi: 10.1016/j.applthermaleng.2017.03.075.
-
 [3] N. Zhu, T. Matsuura, R. Suzuki, and T. Tsuchiya, ‘Development of a Small Solar Power Generation System based on Thermoelectric Generator’, Energy Procedia, vol. 52, pp. 651–658, Jan. 2014, doi: 10.1016/j.egypro.2014.07.121.
-
 [4]L. L. Baranowski, G. J. Snyder, and E. S. Toberer, ‘Concentrated solar thermoelectric generators’, Energy Environ. Sci., vol. 5, no. 10, pp. 9055–9067, Sep. 2012, doi: 10.1039/C2EE22248E.
 
 
 	
-
 **Electricity from biogas**
 	
-
 [1] R. Kaushal and A. singh, “Design of Small Scale Anaerobic Digester for Application in Indian Village: A Review,” *Journal of Engineering and Applied Sciences*, vol. 3, pp. 11–16, Sep. 2016.
-
 [2]‘Bison China 5kw Easy-moving Lpg Natural Generator Biogas Electric Generator - Buy Lpg Natural Generator Biogas Electric Generator,4.5kva Electric Gasoline Generator,China Natural Gas Generator Product on Alibaba.com’. https://www.alibaba.com/product-detail/BISON-CHINA-5KW-Easy-Moving-Lpg_60423755030.html?spm=a2700.7724857.normal_offer.d_title.5b2d59d44KeAi6 (accessed Feb. 01, 2022).
-
 [3]‘Serials Publications’. https://www.serialsjournals.com/ (accessed Feb. 01, 2022).
-
 [4]‘Manufacturer of Biogas Plant & Portable Bio Gas Plant by Atmos Bio Energy, Ballabhgarh’, IndiaMART.com. https://www.indiamart.com/atmosbioenergy/ (accessed Feb. 01, 2022).
-
 [5]‘vikaspedia Domains’. https://vikaspedia.in/energy/energy-production/bio-energy/biogas (accessed Feb. 01, 2022).
 	    
 	    
-
 **Waste Heat Re-use**
-
-
+	    
 [1]R. Bandakkanavar, ‘Power generation through Thermoelectric generators’, Krazytech, Jan. 17, 2015. https://krazytech.com/technical-papers/power-generation-thermoelectric-generators (accessed Feb. 01, 2022).
-
 [2]‘SP1848-27145 Thermoelectric Power Generator TEG 150°C Peltier Module buy online at Low Price in India - ElectronicsComp.com’. https://www.electronicscomp.com/sp1848-27145-thermoelectric-power-generator-teg-150-degree-c-peltier-module (accessed Feb. 01, 2022).
-
 [3]‘Thermoelectric generator’, Wikipedia. Jan. 05, 2022. Accessed: Feb. 01, 2022. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Thermoelectric_generator&oldid=1063976547
-
 [4]‘Wattage & Power Consumption Of Typical Household Appliances | 106 Appliances in All’, Lets Save Electricity, Apr. 08, 2020. https://letsavelectricity.com/wattage-power-consumption-of-household-appliances/ (accessed Feb. 01, 2022).
 
 	    
-
 **Energy Storage And Distribution**
 	    
-
 [1] ‘EASIEST Off Grid Solar Power System Battery Bank - YouTube’. https://www.youtube.com/watch?v=lGs0VPKM1jU&ab_channel=MartinJohnson-OffGridLiving (accessed Feb. 01, 2022).
-
 [2] D. A. Mse and L. P. Mse, _The Ultimate Solar Power Design Guide: Less Theory More Practice_. Digital Publishing Limited, 2015.
-
 [3] D. A. Mse and L. P. Mse, _The Truth About Solar Panels: The Book That Solar Manufacturers, Vendors, Installers And DIY Scammers Don’t Want You To Read_. Digital Publishing Limited, 2015.
-
 [4] O. E. Olabode, T. O. Ajewole, I. K. Okakwu, A. S. Alayande, and D. O. Akinyele, ‘Hybrid power systems for off-grid locations: A comprehensive review of design technologies, applications and future trends’, Scientific African, vol. 13, p. e00884, Sep. 2021, doi: 10.1016/j.sciaf.2021.e00884.
-
 [5] ‘Solar Charge Controller Types, Working Functionality and Applications’, ElProCus - Electronic Projects for Engineering Students, Nov. 06, 2013. https://www.elprocus.com/solar-charge-controller/ (accessed Feb. 01, 2022).
-
 [6] ‘MULTIPLE INPUT CHARGE CONTROLLER FOR RENEWABLE ENERGY’. https://microcontrollerslab.com/multiple-input-charge-controller-renewable-energy-sources/ (accessed Feb. 01, 2022).
-
 [7] ‘Mixing solar panels – Dos and Don’ts • SOLAR POWER SECRETS’. https://solarpanelsvenue.com/mixing-solar-panels/ (accessed Feb. 01, 2022).
-
 [8] ‘Solar Charge Controller Sizing and How to Choose One - Renogy United States’. https://www.renogy.com/blog/solar-charge-controller-sizing-and-how-to-choose-one-/ (accessed Feb. 01, 2022).
-
 [9] ‘Customer Question: What Cables Do I Need For My Power Inverter?’, Wagan Corporation. https://wagan.com/blogs/news/customer-question-what-cables-do-i-need-for-my-power-inverter (accessed Feb. 01, 2022).
