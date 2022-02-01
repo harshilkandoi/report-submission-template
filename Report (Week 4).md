@@ -855,8 +855,9 @@ Installation Cost for 1 bicycle
 	
 </div>
 
-<figcaption align = "center"><b>Table1 - Total Installation Cost </b></figcaption>  
-
+<p align = "center">
+<b>Table 3.1 Total Installation Cost </b></figcaption>
+</p>
 
 So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
 
@@ -872,8 +873,11 @@ So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
 - Below is the model for our bicycle electricity generator
 
 <p align = "center"><img src = "https://i.ibb.co/zRDYTMS/bike-side-view.png" width="50%")</p>
+	
+<p align = "center">
+<b>Fig 3.1 CAD Model Of Bicycle Electricity  </b></figcaption>
+</p>
 
-<p align = "center"> Fig.1 - CAD Model Of Bicycle Electricity Generator</p>
 
 **3.4 Vender's Info**
 
@@ -888,6 +892,10 @@ So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
 |  Brushless DC Motor  |  [Buy Link](https://www.alibaba.com/product-detail/Putian-Vibration-Motor-DC-Brushless-Miniature_62093981315.html?spm=a2700.galleryofferlist.normal_offer.d_title.42743b75ARHtO8&s=p)  |
 	
 </div>
+
+<p align = "center">
+<b>Table 3.2 Vendor Information </b></figcaption>
+</p>
 
 ---
 <div style = "page-break-after: always; visibility: hidden">
