@@ -1039,10 +1039,10 @@ Thus, there are no particular geographical restrictions for building piezoelectr
 (1) Piezoelectric Tiles
 
    - <ins>_General description:_</ins> Piezo-electric tiles have piezo-electric crystal converting mechanical power (stresses and strains of walking)into electric energy.They are built from Lead Zirconate Titanate (PZT), with all the electronic components placed in the box, it acts as carpet on the floor.
-    - <ins>_Materials Used:_ </ins> Piezoelectric tile is built from Lead Zirconate Titanate (PZT). Each tile consists of 4 piezo elements and a capacitor used to store the electricity generated.
-    - <ins>_Power Output:_</ins>  Different tiles produce different outputs depending on their costs and sizes. The more expensive Waynergy Floor tiles can produce 10 W per step, while the Pavegen tiles give 5 W continuous power from footsteps. There are also the PZT ceramic tiles, giving an output of 8.4mW.
-    - <ins>_Size of the titles:_</ins>  The  Waynergy Floor has a size of 40 x 40 cm, while the Pavegen Tiles offers a 50 x 50 cm variant. The PZT tiles are manufactured in small sizes.
-    - <ins>_Cost:_</ins>  The Waynergy Floor costs 451.5 USD while the Pavegen Tiles are slightly cheaper at 395 USD. The PZT tiles, whose power output is significantly less, cost about 36.1 USD
+   - <ins>_Materials Used:_ </ins> Piezoelectric tile is built from Lead Zirconate Titanate (PZT). Each tile consists of 4 piezo elements and a capacitor used to store the electricity generated.
+   - <ins>_Power Output:_</ins>  Different tiles produce different outputs depending on their costs and sizes. The more expensive Waynergy Floor tiles can produce 10 W per step, while the Pavegen tiles give 5 W continuous power from footsteps. There are also the PZT ceramic tiles, giving an output of 8.4mW.
+   - <ins>_Size of the titles:_</ins>  The  Waynergy Floor has a size of 40 x 40 cm, while the Pavegen Tiles offers a 50 x 50 cm variant. The PZT tiles are manufactured in small sizes.
+   - <ins>_Cost:_</ins>  The Waynergy Floor(commercial use) costs 451.5 USD while the Pavegen Tiles are slightly cheaper at 395 USD. The PZT tiles, whose power output is significantly less, cost about 7 USD
   
   (2) Piezoelectric Sensors
   
@@ -1055,7 +1055,7 @@ Thus, there are no particular geographical restrictions for building piezoelectr
      4. Operating Temperature -20...+70 C
      5. Storage Temperature -30...+80 C
   -  <ins>_Size of the sensors:_</ins> Usually 12 PZT discs, 6.9 mm in diameter and 0.5 mm in thickness, are circuited by a printed circuit (on a thin [<ins>polyimide</ins>](https://www.sciencedirect.com/topics/materials-science/polyimide) film), to enclose a square area of 330 mm × 330 mm.
-  - <ins>_Cost:_</ins> Piezoelectric Ceramic Plates of diameter 27mm costs Rs 11.50. Piezoelectric Ceramic Plates of diameter 35mm costs Rs 14.50
+  - <ins>_Cost:_</ins> Piezoelectric Ceramic Plates of diameter 27mm costs Rs 3.75/piece. 
 
 
 (3) Piezoelectric energy harvesting shoes
@@ -1070,8 +1070,8 @@ Thus, there are no particular geographical restrictions for building piezoelectr
     6. Foam/cardboard
     7. 3d printer
     8. 1n4001-1N4007 Diodes (x4) for rectifier
- - <ins>_Power Output:_</ins> Total energy capable to charge the battery of a phone
- - <ins>_Cost:_</ins>  The installation cost of this system is about 30 USD
+- <ins>_Power Output:_</ins> Total energy capable to charge the battery of a phone
+- <ins>_Cost:_</ins>  The installation cost of this system is about 30 USD
 
 
 (4) Piezoelectric bladeless windturbine
@@ -1088,7 +1088,7 @@ Thus, there are no particular geographical restrictions for building piezoelectr
  - <ins>_Power Output:_</ins> 
  	1. _Vortex Nano_ – 1 metre (3.3 ft) high and 3 W nominal power output. Designed mainly to bring energy to off-grid locations for low-power systems.
  	2.  _Vortex Tacoma_ – 2.75 metres (9.0 ft) high and 100 W nominal power output. Designed mainly for small-scale residential and rural autonomous operation.
- - <ins>_Cost:_</ins>  Implement cost of this windmill is 48% less than the normal windmill and requires very less maintenance due to less moving parts.
+ - <ins>_Cost:_</ins>  Implement cost of this windmill is 48% less than the normal windmill and requires very less maintenance due to less moving parts.The home-based Vortex Bladeless windmill has an installation cost of about 17,000 INR
 
 
 ---
@@ -1102,16 +1102,18 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 - <ins>_Working Model:_</ins> When a load is applied to the tile surface it moves in the downward direction. The projections on the tile surface come in contact with the piezo material. The applied force produces stresses inside piezo material which will produce electricity. There is clearance in between the springs and tile surface in order to provide free deflection. The spring is provided for stability as well as protecting the piezo material from getting damaged by an excess load applied. The base plate is fitted inside the frame firmly to provide support to the piezo material while compression. This kinetic energy is converted into electricity. This generated electricity is stored in the form of batteries, to which the rectifier is connected to get a pure dc supply.
 
-  ![Block Diagram](https://i.imgur.com/VAIdDJ3.png)
+ ![Fig.1a-Piezo Tiles Block Diagram](https://i.imgur.com/A1OzQbT.jpg)
   
   
-  ![CAD Model-1](https://i.imgur.com/yApSSzs.png)
+ ![Fig.1b-Piezo Tiles CAD Model-1](https://i.imgur.com/t2J9EYh.jpg)
   
   
-  ![CAD Model-2](https://i.imgur.com/LHPzt27.png)
+ ![Fig.1c-Piezo Tiles CAD Model-2](https://i.imgur.com/65Au284.jpg)
   
   
-  ![Circuit Diagram](https://i.imgur.com/6w4iz5z.jpg)
+ ![Fig.1d-Piezo Tiles Circuit Diagram](https://i.imgur.com/6w4iz5z.jpg)
+  
+
   
 
 
@@ -1121,14 +1123,16 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 - <ins>_Working Model:_</ins> The fundamental principle here is to convert the kinetic energy of air into physical-mechanical stress. After this, with the help of a piezoelectric sensor we covert that mechanical pressure into the alternating impulse of charge flow i.e. current. To saddle the active vitality of air, we use a vertical structure which is called the mast. The mast vibrations are converted into vertical stress on the piezoelectric sensors through a metal plate called Disc which is welded at fixed support of the mast. This vertical stress is transferred to another plate on which our whole piezoelectric circuit is placed. Now we have successfully converted the air kinetic energy into the normal stress on piezoelectric sensors. When stress is applied on the piezoelectric sensor i.e. piezoelectric chips they produce a charge which on connecting through wires produces current.
 
 
-  ![Block Diagram](https://i.imgur.com/pEsCs8q.png) 
+
+ ![Fig.2a-Bladelss Windmill Block Diagram](https://i.imgur.com/hHSUNwC.jpg)
   
   
-  ![Working of Bladeless Turbine](https://i.imgur.com/UahVGWh.png)
+ ![Fig.2b-Working of Bladeless Turbine](https://i.imgur.com/z92AzlI.jpg)
   
   
   
-  ![CAD Model](https://i.imgur.com/mrhRmjL.png)
+ ![Fig.2c-Bladeless Windmill CAD Model](https://i.imgur.com/bf7MmlZ.jpg)
+
   
 
 **Piezoelectric Shoes**
@@ -1136,13 +1140,31 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 - <ins>_Working Model:_</ins> When a person walks, pressure is exerted on the ground and this pressure can be converted into electrical energy and it can be used to power electronic devices. A piezoelectric sensor pad is placed in the shoe. The power that is generated by piezoelectric sensors when a person walks is transferred to the battery using a full-wave bridge rectifier. A diode was soldered to each piezo pad, and a rectifier was soldered to the system before it was connected to the battery.
 
 
-![Circuit Diagram](https://i.imgur.com/M8p35vN.png)
+![Fig.3a-Piezo Shoes Circuit Diagram](https://i.imgur.com/M8p35vN.png)
 
-![Piezo Shoe Sole](https://i.imgur.com/ISKNfyX.png)
+![Fig.3b-Piezo Shoe Sole CAD model](https://i.imgur.com/x659k5J.jpg)
 
-![Working Prototype](https://i.imgur.com/e7ja7fB.png)
+![Fig.3c-Working Prototype(Source: Instructables)](https://i.imgur.com/e7ja7fB.png)
 
 ---
+
+
+##### Bill of Materials
+
+
+
+| Product                                   | <ins>Vendors</ins>                                                        | <ins>Cost in INR(per Piece)</ins> |
+|-------------------------------------------|---------------------------------------------------------------------------|-----------------------------------|
+| PTZ ceramic Tiles                         | Shandong Xinming Electronics Co., Ltd.<br><br>(Through alibaba.com)       | 520.66-231.15                     |
+| PiezoElectric Plate Circle Shape 27mm     | EngeniusLab <br><br>(Through IndiaMart)                                   | 3.75                              |
+| 1n4007 Diode                              | Electroarc Engineering Solution <br><br>(Through IndiaMart)               | 1                                 |
+| Bimorph actuators                         | Zhejiang Jiakang Electronics Co.,Ltd<br><br>(Imported through TradeIndia) | 97.53- 187.55                     |
+| Multilayer Actuators(PZT stack actuators) | Ceram Tec (Through IndiaMart)                                             | 2000(Price may vary)              |
+| 3.579MHZ CRYSTAL(Quartz Resonators)       | Diode House(Through IndiaMart)                                            | 10                                |
+Table 1: Bill of Materials
+
+---
+
 
 ##### References
 
