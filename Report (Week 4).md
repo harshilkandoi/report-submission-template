@@ -517,8 +517,6 @@ Though wind power is a very clean source of energy, it is not so easy to harness
 <b>Fig 1.1 Wind Power Density Potential </b></figcaption>
 </p>
 
-<p align = "center">Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png))
-
 For an Indian household, to generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least more than 5m/s. The wind power potential map shown below explains how the wind power potential is distributed across India? The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states along the western coast. 
 
 <p align = "center">
@@ -528,9 +526,6 @@ For an Indian household, to generate a good amount of electricity using wind pow
 <p align = "center">
 <b>Fig 1.2 Wind Power Potential Map - India </b></figcaption>
 </p>
-
-<p align = "center">Fig.2 - Wind Power Potential Map - India ([Ref. - researchgate](https://www.researchgate.net/publication/332702533_Wind_energy_programme_in_India_Emerging_energy_alternatives_for_sustainable_growth/figures?lo=1&utm_source=google&utm_medium=organic))</p>
-
 
 
 **1.1.2 Other basic requirements**
@@ -1365,7 +1360,7 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 </p>
 
   
-<p align = "center"><img src = "https://i.imgur.com/t2J9EYh.jp" width= "90%"> </p>
+<p align = "center"><img src = "https://i.imgur.com/t2J9EYh.jpg" width= "90%"> </p>
  
 <p align = "center">
 <b>Fig 5.1.b Piezo Tiles CAD Model-1 </b></figcaption>
