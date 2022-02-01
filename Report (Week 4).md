@@ -1998,14 +1998,6 @@ On connecting the joined ends to a battery through charge controller, we can cha
  
 -  Upgradability : The quality of the TEGs would improve over the time, thus it will be possible to incorporate more efficient TEGs into the system after say a period of 10 years.
 
-
-
-### Image credits
-
-- (Figure 8.1) https://www.electronicsweekly.com/news/products/power-supplies/thermoelectric-generators-interface-pcbs-2017-04/
-- (Figure 8.2) https://www.researchgate.net/figure/Schematic-of-an-operating-principle-of-TEG-9_fig4_322958833
-
-
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
