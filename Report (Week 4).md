@@ -335,6 +335,45 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 ### Workflow Structure
 
+### Workflow Structure
+<p>&nbsp;</p>
+
+<p align = "center">
+	<a href="https://ibb.co/JssLmBn"><img src="https://i.ibb.co/YLL9PR2/GANTT.png" alt="GANTT" border="0"></a>
+</p>
+<p align = "center"><b> Gantt Chart </b>
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p align = "center">
+	<a href="https://ibb.co/LpGFNCZ"><img src="https://i.ibb.co/ys3948Q/NETWORK.png" alt="NETWORK" border="0"></a>
+</p>
+<p align = "center"><b> Network Diagram </b>
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p align = "center">
+	<a href="https://ibb.co/D4SQC0d"><img src="https://i.ibb.co/Zdkx8q9/WBS.png" alt="WBS" border="0"></a>
+</p>
+<p align = "center"><b> WBS Chart </b>
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p align = "center">
+	<a href="https://ibb.co/0jm55rz"><img src="https://i.ibb.co/kg5ZZXP/Resource-Allocation.png" alt="Resource-Allocation" border="0"></a>
+</p>
+<p align = "center"><b> Resource Allocation </b>
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 ### List of Abbreviations
 
@@ -383,16 +422,15 @@ Though wind power is a very clean source of energy, it is not so easy to harness
 
 
 <p align = "center">
-	<a href="https://ibb.co/QCPmHL3"><img src="https://i.ibb.co/P9cCWKv/Wind-Power-Density-Potential.png" alt="Wind-Power-Density-Potential" border="0"></a>
-<figcaption align = "center"><b>Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png))  </b></figcaption>
+	<a href="https://ibb.co/QCPmHL3"><img src="https://i.ibb.co/P9cCWKv/Wind-Power-Density-Potential.png" alt="Wind-Power-Density-Potential" border="0"></a></p>
+<p align = "center">Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png)) 
 </p>
 
 For an Indian household, to generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least more than 5m/s. The wind power potential map shown below explains how the wind power potential is distributed across India? The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states along the western coast. 
 
 <p align = "center">
-	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a>
-<figcaption align = "center"><b>Fig.2 - Wind Power Potential Map - India ([Ref. - researchgate](https://www.researchgate.net/publication/332702533_Wind_energy_programme_in_India_Emerging_energy_alternatives_for_sustainable_growth/figures?lo=1&utm_source=google&utm_medium=organic))</b></figcaption>
-</p>
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a></p>
+<p align = "center">Fig.2 - Wind Power Potential Map - India ([Ref. - researchgate](https://www.researchgate.net/publication/332702533_Wind_energy_programme_in_India_Emerging_energy_alternatives_for_sustainable_growth/figures?lo=1&utm_source=google&utm_medium=organic))</p>
 
 
 
@@ -546,18 +584,16 @@ Below is the CAD model of the small wind turbine along with brief description of
 - The horizontal axis small wind turbine (HAWT) is usually placed on a pole, preferably higher than 10 m, to lessen the impact of turbulent, sheared winds forming in close proximity to the ground. But since it is a small wind turbine with relatively less weight and comparably lower power output, the turbine can be put on a variety of existing structures, including roof tops, and rain water tanks, as long as it keeps the turbine's blades clear of the ground and in a continuous stream tube. Still, in our design we have taken a tubular steel pole for placing the wind turbine above obstacles in urban areas. This can be omitted depending on the place where you want to install the turbine and reduce the installation cost.
 
 <p align = "center">
-	<a href="https://ibb.co/XSmL5vq"><img src="https://i.ibb.co/bzpmv8k/CAD-Model-of-Wind-Turbine.jpg" alt="CAD-Model-of-Wind-Turbine" border="0"></a>
-<figcaption align = "center"><b>Fig.3 - CAD Model of Wind Turbine</b></figcaption>
-
-</p>
+	<a href="https://ibb.co/XSmL5vq"><img src="https://i.ibb.co/bzpmv8k/CAD-Model-of-Wind-Turbine.jpg" alt="CAD-Model-of-Wind-Turbine" border="0"></a></p>
+<p align = "center">Fig.3 - CAD Model of Wind Turbine</p>
 
 
 
 After the completion of the mechanical design of the wind turbine, the next step is to look after the electrical connections for energy storage and usage. The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage. Refer to [energy storage section](#9-energy-storage-and-distribution) for more details.
 
 <p align = "center">
-	<a href="https://ibb.co/kQ1RPC9"><img src="https://i.ibb.co/GcTKrSt/Grid-connection-diagram.png" alt="Grid-connection-diagram" border="0"></a>
-	<figcaption align = "center"><b>Fig.4 - Wind Turbine Grid Connection Diagram</b></figcaption>
+	<a href="https://ibb.co/kQ1RPC9"><img src="https://i.ibb.co/GcTKrSt/Grid-connection-diagram.png" alt="Grid-connection-diagram" border="0"></a></p>
+	<p align = "center">Fig.4 - Wind Turbine Grid Connection Diagram
 </p>
 
 
@@ -809,9 +845,9 @@ So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
 - After charging the batteries, the inverter is removed and the output of the buck boost converter is directly attached to the two 11.1v batteries connected in series.
 - Below is the model for our bicycle electricity generator
 
-![Side view](https://i.ibb.co/zRDYTMS/bike-side-view.png)
+<p align = "center"><img src = "https://i.ibb.co/zRDYTMS/bike-side-view.png" width="50%")</p>
 
-<figcaption align = "center"><b>Fig.1 - CAD Model Of Bicycle Electricity Generator </b></figcaption>
+<p align = "center"> Fig.1 - CAD Model Of Bicycle Electricity Generator</p>
 
 **3.4 Vender's Info**
 
@@ -857,15 +893,15 @@ The _geographical requirements_ required for the plant are as follows:
 It is advised to use this system in a region that recieves at least 600mm of average annual rainfall or has a rivers with continous flow. Annual average rainfall can be checked from figure below.
 (Image Source: [ResearchGate](https://www.researchgate.net/publication/257155103_Climate_vegetation_and_ecology_during_Harappan_period_Excavations_at_Kanjetar_and_Kaj_mid-Saurashtra_coast_Gujarat))
 
-![Imgur](https://i.imgur.com/fy0Mk4v.png)
+<p align = "center"><img src="https://i.imgur.com/fy0Mk4v.png" width="90%"></p>
 
-<figcaption align = "center"><b>Fig.4.1 - Average Rainfall in India </b></figcaption>
+<p align = "center">Fig.4.1 - Average Rainfall in India </p>
 
 Here is the map of India with major rivers, if your house is close to any of these river then this system will be feasible.
 (Image Source: [Pinterest](https://in.pinterest.com/pin/619948704924890264/))
-![Imgur](https://i.imgur.com/9xaje9U.jpg)
+<p align = "center"><img src="https://i.imgur.com/9xaje9U.jpg" width="90%"></p>
 
-<figcaption align = "center"><b>Fig.4.2 - Major rivers of India</b></figcaption>
+<p align = "center">Fig.4.2 - Major rivers of India</b></figcaption>
 Waterfalls are also suitable for the feasibility of this system. Any waterfall close to your house with head-height of at least 2m is suitable for this plant.
 
 [List of waterfalls in india](https://en.wikipedia.org/wiki/List_of_waterfalls_in_India_by_height)
@@ -1000,22 +1036,22 @@ By above mentioned specifications and power output calculations, we can conclude
 As shown in the figure, water stored at high elevation falls on the turbine of generator i.e. converting the potential energy of water to mechanical energy of turbine by rotating it. Now, this mechanical energy of turbine is converted to electrical energy with the help of drives. Now this pulsating alternating current is passed through transformers for transmitting to distant use places and finally it passes through ac/dc converters to make it usable at required places.
 
 This figure shows a typical model for mini hyrdro-electric plant. The height of the dam from the turbine should be more than 2m.
-![Generator Flow](https://i.imgur.com/UqiqcmE.png)
-<figcaption align = "center"><b>Fig.4.3 - Model of Hydro-Electricity System</b></figcaption>
+<p align = "center"><img src= "https://i.imgur.com/UqiqcmE.png" width="90%"></p>
+<p align = "center">Fig.4.3 - Model of Hydro-Electricity System
 
 </p>
 
 This figure shows the rough dimention of graviational water vorex for the plant. Due to spiral structure water starts spining as enters from inlet. This type of setup is efficient for axial hydro plant.
-![Generator Flow](https://i.imgur.com/l2aSLEK.png)
+<p align = "center"><img src="https://i.imgur.com/l2aSLEK.png" width="90%"></p>
 
-<figcaption align = "center"><b>Fig.4.4 - Dimenstions of Gravitational Water Vortex</b></figcaption>
+<p align = "center">Fig.4.4 - Dimenstions of Gravitational Water Vortex
 
 </p>
 
 This figure shows connections of various subsystem of the plant along with wire ratings.
-![Circuit Diagram](https://i.imgur.com/PhWuSBU.jpg)
+<p align = "center"><img src="https://i.imgur.com/PhWuSBU.jpg" width="90%"></p>
 
-<figcaption align = "center"><b>Fig.4.5 - Circuit Diagram of System</b></figcaption>
+<p align = "center">Fig.4.5 - Circuit Diagram of System
 
 </p>
 
@@ -1237,7 +1273,7 @@ Table 1: Bill of Materials
 #### [6. Thermoelectricity](#table-of-contents)
 
 
-**6.1 Requirements**
+##### 6.1 Requirements
 
 **6.1.1 Geographical requirements**
 
@@ -1252,96 +1288,73 @@ The Solar TEG would work well under weather and geographical conditions having h
 Roof of the house must be horizontal plane in order to place the device. House shall use energy for basic needs only, no refrigerators or AC's are installed in the house. 
 
 
-**6.2 Specifications**
+##### 6.2 Specifications
      
 **6.2.1 Components**
     
-(1) *TEG*
+(1)  *TEG*
      
-*Device Info*
-
-<div align = "center">
-   
- |  |  |
- |:------------:|:-----------:|
- | Type | TGM2871.41.5 |
- | Price | $11.5 = Rs.855 |
- | No. of Pieces | 6 |
- | Size | 55mm*55mm*4.2mm |
- | Resistance | 3.8ohm |
- | RAC22C Resistor | 2.6ohm |
- | Coefficient | 0.85 |
- | Voltage | 12.2V |
- | Current | 1.65A |
- | Power | 20.13W |
- | Efficiency | 5.1 |
-	
-</div>
+   *Device Info*
      
-*With a battery System*
- 
-<div align = "center">
+   |  |  |
+     |:------------:|:-----------:|
+     | Type | TGM2871.41.5 |
+     | Price | $11.5 = Rs.855 |
+     | No. of Pieces | 6 |
+     | Size | 55mm*55mm*4.2mm |
+     | Resistance | 3.8ohm |
+     | RAC22C Resistor | 2.6ohm |
+     | Coefficient | 0.85 |
+     | Voltage | 12.2V |
+     | Current | 1.65A |
+     | Power | 20.13W |
+     | Efficiency | 5.1 |
      
- |  |  |
- |:------------:|:-----------:|
- | Temperature cold side | 30C |
- | Temperature hot side | 200C |
- | Output Power | 7.2 W |
- | I load | 0.96 amps |
- | U load | 7.5 volts |
- | Rac (at 200C) | 7.8 ohm |
-	
-</div>
+   *With a battery System*
+     
+   |  |  |
+     |:------------:|:-----------:|
+     | Temperature cold side | 30C |
+     | Temperature hot side | 200C |
+     | Output Power | 7.2 W |
+     | I load | 0.96 amps |
+     | U load | 7.5 volts |
+     | Rac (at 200C) | 7.8 ohm |
      
 (2) *Aluminum Sheet*
      
-<div align = "center">
-	
- |  |  |
- |:------------:|:-----------:|
- | Size | 22cm x 15cm x 4mm |
- | Price | Rs. 35 |
- | Thermal Conductivity | 237 W·m−1·K−1 |
-	
-</div>
+   |  |  |
+     |:------------:|:-----------:|
+     | Size | 22cm x 15cm x 4mm |
+     | Price | Rs. 35 |
+     | Thermal Conductivity | 237 W·m−1·K−1 |
      
 (3) *Heat Sink*
      
-<div align = "center">
-	
- |  |  |
- |:------------:|:-----------:|
- | Model | HEAVY DUTY ALUMINIUM HEAT SINK (Manufacturer : GTX , ASIN(Amazon)  :  B08WLBGPP8 , Item part number  : ALU-250) |
- | Price | Rs. 1240 |
- | Size | 250mm x 97mm x 33mm |
- | No. of Pieces | 2 |
-	
-</div>
+   |  |  |
+     |:------------:|:-----------:|
+     | Model | HEAVY DUTY ALUMINIUM HEAT SINK (Manufacturer : GTX , ASIN(Amazon)  :  B08WLBGPP8 , Item part number  : ALU-250) |
+     | Price | Rs. 1240 |
+     | Size | 250mm x 97mm x 33mm |
+     | No. of Pieces | 2 |
      
-(4) *Fresnel Lens*
- 
-<div align = "center">
-	
- |  |  |
- |:------------:|:-----------:|
- | Model | MW-F1000-5 (Chengdu Micromu Technology Co.,Ltd.) |
- | Price | Rs. 13000 |
- | Size | 1100mm (Diameter) |
- | Material | PMMA |
- | No. of Pieces | 1 |
-
-</div>
+  (4) *Fresnel Lens*
      
-(5) *Water Bucket*
+   |  |  |
+     |:------------:|:-----------:|
+     | Model | MW-F1000-5 (Chengdu Micromu Technology Co.,Ltd.) |
+     | Price | Rs. 13000 |
+     | Size | 1100mm (Diameter) |
+     | Material | PMMA |
+     | No. of Pieces | 1 |
      
-<div align = "center">
-	
- |  |  |
- |:------------:|:-----------:|
- | Size | 30cm * 30cm * 29cm |
- | Price | Rs. 200 |
-	
-</div>
+  (5) *Water Bucket*
+     
+   |  |  |
+     |:------------:|:-----------:|
+     | Size | 30cm * 30cm * 29cm |
+     | Price | Rs. 200 |
+     
      
 **6.2.2 Power generation**
      
@@ -1358,7 +1371,7 @@ Roof of the house must be horizontal plane in order to place the device. House s
 - Total Cost = Rs. 23,945 ~ Rs. 24,000
 
 
-**6.3 Diagrams and Working**  
+##### 6.3 Diagrams and Working  
 
 **6.3.1 Construction**
 
@@ -1375,7 +1388,7 @@ Roof of the house must be horizontal plane in order to place the device. House s
   generate electric power.
   
   
-<p align = "center">
+  <p align = "center">
 	<img src = "https://content.instructables.com/ORIG/F93/ZNQ3/J7MFSOVQ/F93ZNQ3J7MFSOVQ.jpg?auto=webp&frame=1&width=590&height=1024&fit=bounds&md=5d4d6abad4cf0be2298356cfaddbc183"  alt = "Thermo2"  | width = "600" height = "500" >
 </p>
 
@@ -1387,7 +1400,6 @@ Heat from solar radiation heats the Aluminum surface which in turns heats the ho
 A Fresnel lens concentrates the solar radiation to the the aluminum plate to achieve higher temperatures than otherwise possible. The difference in the temperature between two faces of TEG results in electricity generation in accordance with Seebeck Effect.  
 
 ---
-
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
@@ -1395,30 +1407,25 @@ A Fresnel lens concentrates the solar radiation to the the aluminum plate to ach
 
 #### [7. Electricity from biogas](#table-of-contents)
 
-**7.1 Requirements**
+##### 7.1 Requirements
 
 **7.1.1 Geographical requirements**
 
 The system works under all weather conditions.
 
-**7.2 Specifications**
+##### 7.2 Specifications
 
 **7.2.1 Components**
 
 (1)  Fixed domestic biogas plant :
-
-<div align = "center">
 
 |                    |                 |
 |--------------------|-----------------|
 | Plant Capacity     | 1 cubic meter   |
 | Area To Be Covered | 4 sq.feet       |
 | Storage Holer Size | 0.6 cubic metre |
-	
-</div>
 
 <b>Table 7.1 - Values of important measures</b>
-
 (2) BISON CHINA 5KW Easy-Moving Biogas Electric Generator:
 
 -   *Characteristics*:
@@ -1461,17 +1468,15 @@ month.
 
 **7.2.3 Cost Analysis**
 
-<div align = "center">
-
 | Part                                                  | Cost(Rs) |
 |-------------------------------------------------------|----------|
 | Fixed domestic biogas plant                           | 22800    |
 | BISON CHINA 5KW Easy-Moving Biogas Electric Generator | 14900    |
-	
-</div>
 
-*Installation costs*: 14900+22800= 33700 + minor costs like inlet/outlet pipes.  
-*Maintenance costs*: 2% of capital cost per annum \~ 1000 rupees per annum .
+*Installation costs*: 14900+22800= 33700 + minor costs like inlet/outlet
+pipes.  
+*Maintenance costs*: 2% of capital cost per annum \~ 1000 rupees per
+annum .
 
 <b>Table 7.2 - Costs</b>
 
@@ -1487,16 +1492,17 @@ month.
     https://www.alibaba.com/product-detail/BISON-CHINA-5KW-Easy-Moving-Lpg_60423755030.html?spm=a2700.7724857.normal_offer.d_title.5b2d59d44KeAi6  
     Contact: Edward Tang
 
-**7.3 Diagrams and Working**
+##### 7.3 Diagrams and Working
 
-In the digester, the wastes are treated and biogas is produced. An engine followed by an electricity generator then produces power. The power is then transferred to the storage system (as depicted by the black box) through electrical wires.
+In the digester, the wastes are treated and biogas is produced. An
+engine followed by an electricity generator then produces power. The
+power is then transferred to the storage system (as depicted by the
+black box) through electrical wires.
 
 ![biogasplant](https://i.imgur.com/fmSXrVx.jpg "biogasplant")
 <figcaption align = "center"><b>Diagram of working of digester and biogas generator</b></figcaption>
 
-**7.4 Appendix**
-
-<div align = "center">
+##### 7.4 Appendix
 
 | Engine               |                |
 |----------------------|----------------|
@@ -1527,10 +1533,8 @@ In the digester, the wastes are treated and biogas is produced. An engine follow
 | 20GP               | 136set                     |
 | 40HQ               | 292set                     |
 
-</div>
 
 <b>Table 7.3 - Description and values of required items</b>
-
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -1573,7 +1577,6 @@ Fig 8.1 Thermo electric generator
 
 The voltage generated as a result of the temperature difference between the two end of the TEG is depicted in the table below:
 
-<div align = "center">
                                                                                                                
 | 	Temperature	 (C)  |Open Circuit Voltage (V)|Current (mA)	|
 |---------------------|------------------------|----------------|
@@ -1582,8 +1585,6 @@ The voltage generated as a result of the temperature difference between the two 
 |60                   | 2.4                    | 469            |
 |80                   | 3.6                    | 558            |
 |100                  | 4.8                    | 669            |
-	
-</div>
 
 ##### Table 8.1 (Characteristics of TEG)
 
@@ -1641,6 +1642,17 @@ Figure 8.3 Installation of TEGs in Kitchen
 
  On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
  
+ ```mermaid
+ 
+ graph LR;
+ 
+ A[Heat from the Stove];
+ B[TEGs];
+ C[Storage];
+ A --> B;
+ B --> C;
+ ```
+---
 
 ### 8.4 Closure
 
@@ -1674,7 +1686,8 @@ Figure 8.3 Installation of TEGs in Kitchen
 
 ### [9. Energy Storage And Distribution](#table-of-contents)
 
-**9.1 Requirements**
+##### 9.1 Requirements
+
 
 **9.1.1 House Requirements**
 1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10$C^\circ$ to 40$C^\circ$ , Ideal temperature range of 25-35$C^\circ$
@@ -1688,7 +1701,7 @@ Figure 8.3 Installation of TEGs in Kitchen
 
 --- 
 
-**9.2 Specification**
+##### 9.2 Specification
 
 **9.2.1 Charger Specifications**
   *Chargers* --- *per source*
@@ -1708,9 +1721,10 @@ The chargers used are of the MPPT (Maximum power point tracking) type are prefer
 
 The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
 
-**9.2.2 Battery-Inverter Specifications**
+##### 9.2.2 Battery-Inverter Specifications
 
-**9.2.2.1 Plus tier**
+##### 9.2.2.1 *Plus* tier
+
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1760,7 +1774,7 @@ The sources Mentioned above are the major Power sources and other power sources 
 
 
 
-**9.2.2.2 Base tier**
+##### 9.2.2.2 *Base* tier
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1792,7 +1806,6 @@ The sources Mentioned above are the major Power sources and other power sources 
   |Weight |11.9Kg|
   |Dimensions|35 $\times$ 30 $\times$ 25|
   **Cost :-** 5500 INR
-  
 **Power And Energy**
 
  - **10.2 KWh** amount of *Energy can be stored* (roughly energy required for one days use)
@@ -1805,7 +1818,9 @@ The sources Mentioned above are the major Power sources and other power sources 
  - *lifespan:-* *3 Years for the battery* and *10 years for the rest of the system*
 
 
-**9.2.2.3 Economy tier**
+
+
+##### 9.2.2.3 *Economy* tier
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1853,8 +1868,7 @@ The sources Mentioned above are the major Power sources and other power sources 
  
 ---
 
-**9.3 Diagrams and Working**
-
+##### 9.3 Diagrams and Working
 Unlike living offgrid , offgrid and independent electrical systems are more complicated than normal electrical wiring and must contain the functionalities similar to a national grid like load balancing and maintaining a fairly constant frequency and voltage. The energy Storage and management system essentially does the following functions -
 1.  Fills the gap between electricity generation and usage
 2.  Combines multiple sources into one coherent output
@@ -1868,7 +1882,7 @@ The system has been designed to be modular, allowing for: *easy installation, fl
 
 The setup is same across all tiers with the main difference between each tier is in the capacity of power and storage.
 
-**9.4 Appendix : Product links And Product Detail/Specifications**
+##### 9.4 Appendix : Product links And Product Detail/Specifications
 
 ***Chargers***
 
@@ -1893,7 +1907,7 @@ The setup is same across all tiers with the main difference between each tier is
 2. https://www.batteryboss.in/battery/amaron-current-short-tubular-ar165st36-165ah?gclid=CjwKCAiA866PBhAYEiwANkIneBXM18Txykd1zZI6e8ariXiibsEJGPcKpdkfLRhUIXP1jYE3u4_pQRoCE90QAvD_BwE
 
 	    
----
+	    
 	    
 ### Closure
 
@@ -1912,11 +1926,9 @@ According to different studies and data shared by the manufacturers of small hor
  
 However, a turbine's lifespan can be increased by regular monitoring and maintenance. This can be done by assessing the asset's state and comparing it to the turbine's predicted lifespan based on expected loads and fatigue, and environmental considerations for the wind energy location. By such regular assessments, one can know whether the continued operation of the turbine is possible or any components need replacing to extend its lifespan. However, the maintenance costs will increase as the structure ages.
 	    
----
-
+	   
 ### Image Credits
 	    
----
 
 ### References
 	    
