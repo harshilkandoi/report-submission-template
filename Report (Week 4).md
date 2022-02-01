@@ -1166,7 +1166,7 @@ Thus, there are no particular geographical restrictions for building piezoelectr
 
 
 
-##### 5.2 Specifications
+**5.2 Specifications**
 
 **5.2.1 Components**
 
@@ -1355,7 +1355,7 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 #### [6. Thermoelectricity](#table-of-contents)
 
 
-##### 6.1 Requirements
+**6.1 Requirements**
 
 **6.1.1 Geographical requirements**
 
@@ -1372,7 +1372,7 @@ The Solar TEG works well under weather and geographical conditions having high s
 
 Thermoelectric system needs to achieve higher temperatures to produce electricity. For our system we consider the Hot regions of states Rajasthan, Haryana, Madhya Pradesh and Delhi. Particularly we are developing the system situated in IIT Delhi, Hauz Khas. It must be ensured that the system receives sunlight without any obstruction. 
 
-##### 6.2 Specifications
+**6.2 Specifications**
      
 **6.2.1 Components**
    
@@ -1546,7 +1546,7 @@ Water Bucket is used to store water. The heat sink is partially submerged in wat
 Maintenance cost is near to zero as we only need to ensure the sink is in contact with water. This system is capable of running for more than 12 Years. 
 
 
-##### 6.3 Diagrams and Working  
+**6.3 Diagrams and Working** 
 
 **6.3.1 Construction**
 
@@ -1591,13 +1591,13 @@ A Fresnel lens concentrates the solar radiation to the aluminum plate in order t
 
 #### [7. Electricity from biogas](#table-of-contents)
 
-##### 7.1 Requirements
+**7.1 Requirements**
 
 **7.1.1 Geographical requirements**
 
 The system works under all weather conditions.
 
-##### 7.2 Specifications
+**7.2 Specifications**
 
 **7.2.1 Components**
 
@@ -1689,7 +1689,7 @@ annum .
     https://www.alibaba.com/product-detail/BISON-CHINA-5KW-Easy-Moving-Lpg_60423755030.html?spm=a2700.7724857.normal_offer.d_title.5b2d59d44KeAi6  
     Contact: Edward Tang
 
-##### 7.3 Diagrams and Working
+**7.3 Diagrams and Working**
 
 In the digester, the wastes are treated and biogas is produced. An
 engine followed by an electricity generator then produces power. The
@@ -1704,7 +1704,7 @@ black box) through electrical wires.
 </p>
 
 
-##### 7.4 Appendix
+**7.4 Appendix**
 
 <div align = "center">
 
