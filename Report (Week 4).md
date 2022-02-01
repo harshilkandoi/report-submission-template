@@ -45,6 +45,8 @@ geometry : margin = 2cm
 >
 > [Abstract](#Abstract)
 >
+> [scope](#scope)
+> 
 > [Workflow Structure](#workflow-structure)
 > 
 > [List of Abbreviations](#list-of-abbreviations)
@@ -331,6 +333,11 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 \pagebreak
 </div>
 
+
+
+### scope
+
+This report aims to provide a complete description of an off-the-grid system , which includes the requirements, specifications, designing, cost, and vendor info. Although this report is pretty comprehensive , it is in no way should be used as a hard guide for actual practical implementation. The costs mentioned are estimates and real prices might vary from region to region (although they will roughly be in the ballpark region mentioned in the report) . Similarly Vendor info is region specific and is dependent on the date of creation too, which means that 10 years from now, the system used here might become obsolete.
 
 
 ### Workflow Structure
