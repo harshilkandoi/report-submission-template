@@ -334,8 +334,6 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 
 ### Workflow Structure
-
-### Workflow Structure
 <p>&nbsp;</p>
 
 <p align = "center">
@@ -422,26 +420,25 @@ Though wind power is a very clean source of energy, it is not so easy to harness
 
 
 <p align = "center">
-	<a href="https://ibb.co/QCPmHL3"><img src="https://i.ibb.co/P9cCWKv/Wind-Power-Density-Potential.png" alt="Wind-Power-Density-Potential" border="0"></a></p>
-<p align = "center">Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png)) 
+	<a href="https://ibb.co/QCPmHL3"><img src="https://i.ibb.co/P9cCWKv/Wind-Power-Density-Potential.png" alt="Wind-Power-Density-Potential" border="0"></a>
+<figcaption align = "center"><b>Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png))  </b></figcaption>
 </p>
 
-For an Indian household, to generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least more than 5m/s. The wind power potential map shown below explains how the wind power potential is distributed across India? The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states along the western coast. 
+For an Indian household to generate a good amount of electricity using wind power, an average annual wind speed of more than 5m/s is needed. The wind power potential map shown below explains how the wind power potential is distributed across India. The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that the potential is a lot higher in states along the western coast. 
 
 <p align = "center">
-	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a></p>
-<p align = "center">Fig.2 - Wind Power Potential Map - India ([Ref. - researchgate](https://www.researchgate.net/publication/332702533_Wind_energy_programme_in_India_Emerging_energy_alternatives_for_sustainable_growth/figures?lo=1&utm_source=google&utm_medium=organic))</p>
-
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a>
+<figcaption align = "center"><b>Fig.2 - Wind Power Potential Map - India ([Ref. - researchgate](https://www.researchgate.net/publication/332702533_Wind_energy_programme_in_India_Emerging_energy_alternatives_for_sustainable_growth/figures?lo=1&utm_source=google&utm_medium=organic))</b></figcaption>
+</p>
 
 
 **1.1.2 Other basic requirements**
 
-- The wind turbine should be able to generate a power output to meet the basic energy requirements of a regular household like charging mobile phones and lighting small appliances.
-- An inverter should be used to convert the erratic AC produced by the turbine into DC for energy storage and then back to smoother AC for direct use in the household.
 - Energy storage grid should not be far away from the wind turbine to avoid power loss due to wire resistance.
 - Turbine blades to be made of light materials like carbon fiber or fiber glass, or can also be 3D printed.
 - Length of pole should be high enough to avoid any obstacles, such as trees, houses, in the surrounding and provide an uninterrupted stream flow.
 - The mechanical parts of the turbine, for example, the gear box (used for increasing rpm) will be machined from high tensile steel to ensure wear resistance.
+
 
 
 **1.2 Specifications**
@@ -575,13 +572,13 @@ All practitioners recommend annual maintenance for the small wind turbine, which
 
 **1.3 Diagrams and Working**
 
-Wind turbine designs involves looking over a lot of environmental and mechanical aspects for an efficient and sturdy electrical energy generation system. In our design, we have tried to considered a lot of these factors and have tried to keep the as real as possible. The actual construction of the wind turbine is a secondary objective and has been taken into optimum consideration during the design phase. But as the design of the wind turbine discussed below is based on existing technology investigated in the literature review and research process it's a little difficult to get the exact specifications ready for construction just by working on the design remotely, therefore, depending upon the resources available and the feasibility of the model the design discussed below can be altered.
+Wind turbine designs involve looking over many environmental and mechanical aspects for an efficient and sturdy electrical energy generation system. In our design, we have tried to consider a lot of these factors and kept the design as real as possible. 
 
-Below is the CAD model of the small wind turbine along with brief description of some components:
+Below is the CAD model of the small wind turbine, along with a brief description of some components:
 
-- The blades and rotor are the parts of the turbine that interact with the wind and are designed to enhance efficiency. Blades are made of light materials with good wear and tear resistance, in this design we have used fibre-reinforced plastic. And to prevent the material from ageing, a layer of colored gel is applied to the blade and rotor's external surface. 
+- The blades and rotor are the turbine parts that interact with the wind and are designed to enhance efficiency. Blades are made of light materials with good wear and tear resistance. In this design, we have used fibre-reinforced plastic. And to prevent the material from ageing, a layer of coloured gel is applied to the blade and rotor's external surface. 
 
-- The horizontal axis small wind turbine (HAWT) is usually placed on a pole, preferably higher than 10 m, to lessen the impact of turbulent, sheared winds forming in close proximity to the ground. But since it is a small wind turbine with relatively less weight and comparably lower power output, the turbine can be put on a variety of existing structures, including roof tops, and rain water tanks, as long as it keeps the turbine's blades clear of the ground and in a continuous stream tube. Still, in our design we have taken a tubular steel pole for placing the wind turbine above obstacles in urban areas. This can be omitted depending on the place where you want to install the turbine and reduce the installation cost.
+- The horizontal axis small wind turbine (HAWT) is usually placed on a pole, preferably higher than 10 m, to lessen the impact of turbulent, sheared winds forming close to the ground. But since it is a small wind turbine with relatively less weight and comparably lower power output, the turbine can be put on a variety of existing structures, including roof tops, and rain water tanks, as long as it keeps the turbine's blades clear of the ground and in a continuous stream tube. Still, in our design, we have taken a tubular steel pole for placing the wind turbine above obstacles in urban areas. This can be omitted depending on where you want to install the turbine and reduce the installation cost.
 
 <p align = "center">
 	<a href="https://ibb.co/XSmL5vq"><img src="https://i.ibb.co/bzpmv8k/CAD-Model-of-Wind-Turbine.jpg" alt="CAD-Model-of-Wind-Turbine" border="0"></a>
@@ -591,7 +588,7 @@ Below is the CAD model of the small wind turbine along with brief description of
 
 
 
-After the completion of the mechanical design of the wind turbine, the next step is to look after the electrical connections for energy storage and usage. The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage. Refer to [energy storage section](#9-energy-storage-and-distribution) for more details.
+The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage. Refer to [energy storage section](#9-energy-storage-and-distribution) for more details.
 
 <p align = "center">
 	<a href="https://ibb.co/kQ1RPC9"><img src="https://i.ibb.co/GcTKrSt/Grid-connection-diagram.png" alt="Grid-connection-diagram" border="0"></a>
@@ -599,8 +596,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 </p>
 
 
-
-
+	
 ---
 
 
