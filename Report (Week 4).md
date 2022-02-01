@@ -334,7 +334,43 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 
 ### Workflow Structure
+<p>&nbsp;</p>
 
+<p align = "center">
+	<a href="https://ibb.co/JssLmBn"><img src="https://i.ibb.co/YLL9PR2/GANTT.png" alt="GANTT" border="0"></a>
+</p>
+<p align = "center"><b> Gantt Chart </b>
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p align = "center">
+	<a href="https://ibb.co/LpGFNCZ"><img src="https://i.ibb.co/ys3948Q/NETWORK.png" alt="NETWORK" border="0"></a>
+</p>
+<p align = "center"><b> Network Diagram </b>
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p align = "center">
+	<a href="https://ibb.co/D4SQC0d"><img src="https://i.ibb.co/Zdkx8q9/WBS.png" alt="WBS" border="0"></a>
+</p>
+<p align = "center"><b> WBS Chart </b>
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p align = "center">
+	<a href="https://ibb.co/0jm55rz"><img src="https://i.ibb.co/kg5ZZXP/Resource-Allocation.png" alt="Resource-Allocation" border="0"></a>
+</p>
+<p align = "center"><b> Resource Allocation </b>
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ### List of Abbreviations
 
@@ -555,7 +591,6 @@ After the completion of the mechanical design of the wind turbine, the next step
 **Geographical requirements**
 
 Different regions on the globe get different amount of sunlight at different angles. For example, at equator the earth recieves more focused sunlight than on poles where the light spreads over a wide area. The area which receives more focused sunlight can generate more solar energy. Different geographical features also play a role like forest areas or hilly areas which have low solar power avalibilty.
-
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
 </p>
@@ -1200,10 +1235,6 @@ Table 1: Bill of Materials
 
 The Solar TEG would work well under weather and geographical conditions having high sunlight access and hot temperatures.  Therefore regions near equator having lesser number of cloudy days is preferred.
 
-<p align = "center">
-	<a href="https://imgbb.com/"><img src="https://i.ibb.co/DLn6GSB/Heat-Map.jpg" alt="Heat Map" border="0"></a>
-</p>
-
 **Requirements from the house**
 
 Roof of the house must be horizontal plane in order to place the device. House shall use energy for basic needs only, no refrigerators or AC's are installed in the house. 
@@ -1346,7 +1377,6 @@ The system works under all weather conditions.
 | Area To Be Covered | 4 sq.feet       |
 | Storage Holer Size | 0.6 cubic metre |
 
-<b>Table 7.1 - Values of important measures</b>
 (2) BISON CHINA 5KW Easy-Moving Biogas Electric Generator:
 
 -   *Characteristics*:
@@ -1399,9 +1429,6 @@ pipes.
 *Maintenance costs*: 2% of capital cost per annum \~ 1000 rupees per
 annum .
 
-<b>Table 7.2 - Costs</b>
-
-
 
 **Vendor Information**:
 
@@ -1421,7 +1448,7 @@ power is then transferred to the storage system (as depicted by the
 black box) through electrical wires.
 
 ![biogasplant](https://i.imgur.com/fmSXrVx.jpg "biogasplant")
-<figcaption align = "center"><b>Diagram of working of digester and biogas generator</b></figcaption>
+<figcaption align = "center"><b>Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png))  </b></figcaption>
 
 ##### Appendix
 
@@ -1454,8 +1481,6 @@ black box) through electrical wires.
 | 20GP               | 136set                     |
 | 40HQ               | 292set                     |
 
-
-<b>Table 7.3 - Description and values of required items</b>
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
