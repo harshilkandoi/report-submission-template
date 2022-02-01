@@ -4,15 +4,15 @@
 
 
 **House Requirements**
-1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10$C^\circ$ to 40$C^\circ$ , Ideal temperature range of 25-35$C^\circ$
-2. *Space and Area:*
+1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10&deg;C to 40&deg;C , Ideal temperature range of 25-35&deg;C
+2. *Space and Area:* &deg;
 <div align="center">
 
-|Tier |Volume (in litres) |Area (cm$\times$cm)|
+|Tier |Volume (in litres) |Area (cm x cm)|
 |--|--|--|
-|*Plus* |480  | 80 $\times$ 50|
-|*Base*|513|77 $\times$ 60|
-|*Economy*|162|54 $\times$ 40|
+|*Plus* |480  | 80  x  50|
+|*Base*|513|77  x  60|
+|*Economy*|162|54  x  40|
 	
 </div>
 <p align = "center">
@@ -57,15 +57,15 @@ The sources Mentioned above are the major Power sources and other power sources 
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
-	 - $LiFePO_4$ based batteries are used as they are a perfect combination of Energy density, Life Span, Weight and Safety. Even though, there are more cheaper alternatives (Lead-Acid Batteries) but the advantages are worth the extra cost.
+	 - LiFePO<sub>4</sub> based batteries are used as they are a perfect combination of Energy density, Life Span, Weight and Safety. Even though, there are more cheaper alternatives (Lead-Acid Batteries) but the advantages are worth the extra cost.
 	 - The Number of batteries used is the minimum number required, but the number can be increased based on requirement and backup time required
 <div align="center">
 
  |                     |             |
   | :-----------------: | :---------: |
   |       Manufacturer       |   Grenergy     |
-  | Combination  |  8S5P : 3.2V : 20AH : $LiFePO_4$ Cells  |
-  |     Dimension ( h$\times$b$\times$d ) |  52.5 $\times$ 24.0 $\times$ 21.8 cm     |
+  | Combination  |  8S5P : 3.2V : 20AH : LiFePO<sub>4</sub> Cells  |
+  |     Dimension ( h x b x d ) |  52.5  x  24.0  x  21.8 cm     |
   |   Nominal Voltage (Charge - Discharge)  | 24V  ( 29.2V - 20V )|
   |       Max Working Current        |    100 A    |
   |       Nominal capacity       |    100Ah    |
@@ -92,7 +92,7 @@ Table-3.1a<span  class="emphasized"> Plus</span> tier Battery specification
   |Battery Volatge|48V|
   |VA rating |4KVA|
   |Weight |31.9Kg|
-  |Size|28$\times$ 30.5 $\times$ 38 cm|
+  |Size|28 x  30.5  x  38 cm|
   	
 </div>
 <p align = "center">
@@ -150,7 +150,7 @@ Table-3.1c <span  class="emphasized"> Plus</span> tier Wires specification
  |                     |             |
   | :-----------------: | :---------: |
   |       Manufacturer       |   LUMINOUS     |
-  |     Dimension ( h$\times$b$\times$d ) |  50.2 $\times$ 19.1 $\times$ 44 cm     |
+  |     Dimension ( h x b x d ) |  50.2  x  19.1  x  44 cm     |
    |       Nominal capacity       |    100Ah    |
   |   Nominal Voltage (Charge - Discharge)  | 12V  ( 12.7V - 10.8V )|
   |Weight|52Kg|
@@ -176,7 +176,7 @@ Table-3.2a <span  class="emphasized"> Base</span> tier Battery specification
   |Battery Volatge|24V|
   |VA rating |1.015VA|
   |Weight |11.9Kg|
-  |Dimensions|35 $\times$ 30 $\times$ 25|
+  |Dimensions|35  x  30  x  25|
   	
 </div>
   <p align = "center">
@@ -231,7 +231,7 @@ Table-3.2c <span  class="emphasized"> Base</span> tier Wiring specification
  |                     |             |
   | :-----------------: | :---------: |
   |       Manufacturer       |   AMARON    |
-  |     Dimension ( h$\times$b$\times$d ) |  50.2 $\times$ 19.1 $\times$ 44 cm     |
+  |     Dimension ( h x b x d ) |  50.2 19.1  x  44 cm     |
    |       Nominal capacity       |    165Ah    |
   |   Nominal Voltage (Charge - Discharge)  | 12V  ( 12.7V - 10.8V )|
   |Weight|59Kg|
