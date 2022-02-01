@@ -373,7 +373,7 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 ### [Designed System](#table-of-contents) 
 	
 	
-#### 1. Wind
+#### [1. Wind](#table-of-contents)
 
 ##### 1.1 Requirements
 
@@ -548,7 +548,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 \pagebreak
 </div>
 
-#### 2. Solar
+#### [2. Solar](#table-of-contents)
 
 ##### Requirements
 
