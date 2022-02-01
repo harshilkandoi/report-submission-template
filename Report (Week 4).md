@@ -675,8 +675,30 @@ After the completion of the mechanical design of the wind turbine, the next step
 </p>
 
 <p align = "center">
-<b>Fig 1.4 Wind Turbine Grid Connection Diagram  </b></figcaption>
+<b>Table 1.7 Wind Turbine Grid Connection Diagram  </b></figcaption>
 </p>
+
+
+**1.4 Closure**
+	    
+According to different studies and data shared by the manufacturers of small horizontal-axis wind turbines, the average life span of a small wind turbine is nearly 20 years (with regular maintenance). The individual lifetime of the components specified above is given below to give a more thorough idea. It should be noted that the assigned lifetimes are those expected by the practitioners who manufactured the systems and can vary in the real world.
+
+<div align = "center">
+	
+ | Parts                      | Lifetime |
+ | :----------------: | :---------------: |
+ | Blades | 20-25 years|
+ | Gearbox | 8-10 years|
+ | Generator | 15-20 years |
+ | Tubular-steel tower | More than 25 years|
+	
+</div>
+
+<p align = "center">
+<b>Table 1.7 Lifespan of Wind Turbine Parts </b></figcaption>
+</p>
+ 
+However, a turbine's lifespan can be increased by regular monitoring and maintenance. This can be done by assessing the asset's state and comparing it to the turbine's predicted lifespan based on expected loads and fatigue, and environmental considerations for the wind energy location. By such regular assessments, one can know whether the continued operation of the turbine is possible or any components need replacing to extend its lifespan. However, the maintenance costs will increase as the structure ages.
 
 ---
 
@@ -1180,7 +1202,7 @@ This figure shows connections of various subsystem of the plant along with wire 
 </p>
 
 
-#### 4.4 Vender's Info
+**4.4 Vender's Info**
 
 <div align = "center">
 	
@@ -1197,6 +1219,25 @@ This figure shows connections of various subsystem of the plant along with wire 
 <b>Table 4.6 Vendor's Info  </b></figcaption>
 </p>
 
+
+**4.5 Closure**
+
+The average life of the power plant is assumed to be 30 years(except generator). Most of its components are non-electrical like pipe, dam, and gravitational water vortex. So, the life span of these parts depends on the quality of material used during construction. The generator comes with a one-year warranty and has an expected life span of 15 - 20 years with minimal maintenance like oiling. But, It requires more protection, particularly from rain and should be covered with a waterproof container for a better life span.
+
+<div align = "center">
+
+ | Parts | Lifetime |
+ | :----------------: | :---------------: |
+ | Dam | 30-40 years|
+ | Vortex | 30-40 years|
+ | Generator | 15-20 years |
+ | Electrical Wiring | 50-70 years |
+
+</div>
+	 
+<p align = "center">
+<b>Table 4.7 Lifespan of Hydro-Electricty Plant  </b></figcaption>
+</p>
 
 ---
 
