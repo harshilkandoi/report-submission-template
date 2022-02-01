@@ -1096,6 +1096,12 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
  <figcaption align = "center"><b>Fig.1d - Piezo Tiles Circuit Diagram</b></figcaption>
 
  </p>
+ 
+ ![Fig.1e-Piezo Tiles Floorplan](https://i.imgur.com/wBacle8.png)
+ <figcaption align = "center"><b>Fig.1e - Piezo Tiles Circuit Floorplan</b></figcaption>
+
+ </p>
+ 
 
 
 **Piezoelectric Wind Turbine**
