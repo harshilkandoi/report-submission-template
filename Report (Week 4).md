@@ -1341,6 +1341,7 @@ The system works under all weather conditions.
 | Area To Be Covered | 4 sq.feet       |
 | Storage Holer Size | 0.6 cubic metre |
 
+<b>Table 7.1 - Values of important measures</b>
 (2) BISON CHINA 5KW Easy-Moving Biogas Electric Generator:
 
 -   *Characteristics*:
@@ -1393,6 +1394,9 @@ pipes.
 *Maintenance costs*: 2% of capital cost per annum \~ 1000 rupees per
 annum .
 
+<b>Table 7.2 - Costs</b>
+
+
 
 **Vendor Information**:
 
@@ -1412,7 +1416,7 @@ power is then transferred to the storage system (as depicted by the
 black box) through electrical wires.
 
 ![biogasplant](https://i.imgur.com/fmSXrVx.jpg "biogasplant")
-<figcaption align = "center"><b>Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png))  </b></figcaption>
+<figcaption align = "center"><b>Diagram of working of digester and biogas generator</b></figcaption>
 
 ##### Appendix
 
@@ -1444,7 +1448,7 @@ black box) through electrical wires.
 | Overall dimension  | 710 x 530 x 550mm          |
 | 20GP               | 136set                     |
 | 40HQ               | 292set                     |
-
+<b>Table 7.3 - Description and values of required items</b>
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
