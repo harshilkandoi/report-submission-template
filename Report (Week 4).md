@@ -731,7 +731,8 @@ Table-5 Warranty of Different Devices Used
 </p>
 
 
-This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative for commercial power supply as it is generating clean energy with minimal cost. In exchange for a high one-time cost, the system provides continuous energy for many years at negligible cost
+This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
+
 
 ---
 <div style = "page-break-after: always; visibility: hidden">
@@ -1394,25 +1395,30 @@ A Fresnel lens concentrates the solar radiation to the the aluminum plate to ach
 
 #### [7. Electricity from biogas](#table-of-contents)
 
-##### 7.1 Requirements
+**7.1 Requirements**
 
 **7.1.1 Geographical requirements**
 
 The system works under all weather conditions.
 
-##### 7.2 Specifications
+**7.2 Specifications**
 
 **7.2.1 Components**
 
 (1)  Fixed domestic biogas plant :
+
+<div align = "center">
 
 |                    |                 |
 |--------------------|-----------------|
 | Plant Capacity     | 1 cubic meter   |
 | Area To Be Covered | 4 sq.feet       |
 | Storage Holer Size | 0.6 cubic metre |
+	
+</div>
 
 <b>Table 7.1 - Values of important measures</b>
+
 (2) BISON CHINA 5KW Easy-Moving Biogas Electric Generator:
 
 -   *Characteristics*:
@@ -1455,15 +1461,17 @@ month.
 
 **7.2.3 Cost Analysis**
 
+<div align = "center">
+
 | Part                                                  | Cost(Rs) |
 |-------------------------------------------------------|----------|
 | Fixed domestic biogas plant                           | 22800    |
 | BISON CHINA 5KW Easy-Moving Biogas Electric Generator | 14900    |
+	
+</div>
 
-*Installation costs*: 14900+22800= 33700 + minor costs like inlet/outlet
-pipes.  
-*Maintenance costs*: 2% of capital cost per annum \~ 1000 rupees per
-annum .
+*Installation costs*: 14900+22800= 33700 + minor costs like inlet/outlet pipes.  
+*Maintenance costs*: 2% of capital cost per annum \~ 1000 rupees per annum .
 
 <b>Table 7.2 - Costs</b>
 
@@ -1479,17 +1487,16 @@ annum .
     https://www.alibaba.com/product-detail/BISON-CHINA-5KW-Easy-Moving-Lpg_60423755030.html?spm=a2700.7724857.normal_offer.d_title.5b2d59d44KeAi6  
     Contact: Edward Tang
 
-##### 7.3 Diagrams and Working
+**7.3 Diagrams and Working**
 
-In the digester, the wastes are treated and biogas is produced. An
-engine followed by an electricity generator then produces power. The
-power is then transferred to the storage system (as depicted by the
-black box) through electrical wires.
+In the digester, the wastes are treated and biogas is produced. An engine followed by an electricity generator then produces power. The power is then transferred to the storage system (as depicted by the black box) through electrical wires.
 
 ![biogasplant](https://i.imgur.com/fmSXrVx.jpg "biogasplant")
 <figcaption align = "center"><b>Diagram of working of digester and biogas generator</b></figcaption>
 
-##### 7.4 Appendix
+**7.4 Appendix**
+
+<div align = "center">
 
 | Engine               |                |
 |----------------------|----------------|
@@ -1520,8 +1527,10 @@ black box) through electrical wires.
 | 20GP               | 136set                     |
 | 40HQ               | 292set                     |
 
+</div>
 
 <b>Table 7.3 - Description and values of required items</b>
+
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -1564,6 +1573,7 @@ Fig 8.1 Thermo electric generator
 
 The voltage generated as a result of the temperature difference between the two end of the TEG is depicted in the table below:
 
+<div align = "center">
                                                                                                                
 | 	Temperature	 (C)  |Open Circuit Voltage (V)|Current (mA)	|
 |---------------------|------------------------|----------------|
@@ -1572,6 +1582,8 @@ The voltage generated as a result of the temperature difference between the two 
 |60                   | 2.4                    | 469            |
 |80                   | 3.6                    | 558            |
 |100                  | 4.8                    | 669            |
+	
+</div>
 
 ##### Table 8.1 (Characteristics of TEG)
 
@@ -1629,17 +1641,6 @@ Figure 8.3 Installation of TEGs in Kitchen
 
  On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
  
- ```mermaid
- 
- graph LR;
- 
- A[Heat from the Stove];
- B[TEGs];
- C[Storage];
- A --> B;
- B --> C;
- ```
----
 
 ### 8.4 Closure
 
@@ -1673,8 +1674,7 @@ Figure 8.3 Installation of TEGs in Kitchen
 
 ### [9. Energy Storage And Distribution](#table-of-contents)
 
-##### 9.1 Requirements
-
+**9.1 Requirements**
 
 **9.1.1 House Requirements**
 1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10$C^\circ$ to 40$C^\circ$ , Ideal temperature range of 25-35$C^\circ$
@@ -1688,7 +1688,7 @@ Figure 8.3 Installation of TEGs in Kitchen
 
 --- 
 
-##### 9.2 Specification
+**9.2 Specification**
 
 **9.2.1 Charger Specifications**
   *Chargers* --- *per source*
@@ -1708,10 +1708,9 @@ The chargers used are of the MPPT (Maximum power point tracking) type are prefer
 
 The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
 
-##### 9.2.2 Battery-Inverter Specifications
+**9.2.2 Battery-Inverter Specifications**
 
-##### 9.2.2.1 *Plus* tier
-
+**9.2.2.1 Plus tier**
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1761,7 +1760,7 @@ The sources Mentioned above are the major Power sources and other power sources 
 
 
 
-##### 9.2.2.2 *Base* tier
+**9.2.2.2 Base tier**
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1793,6 +1792,7 @@ The sources Mentioned above are the major Power sources and other power sources 
   |Weight |11.9Kg|
   |Dimensions|35 $\times$ 30 $\times$ 25|
   **Cost :-** 5500 INR
+  
 **Power And Energy**
 
  - **10.2 KWh** amount of *Energy can be stored* (roughly energy required for one days use)
@@ -1805,9 +1805,7 @@ The sources Mentioned above are the major Power sources and other power sources 
  - *lifespan:-* *3 Years for the battery* and *10 years for the rest of the system*
 
 
-
-
-##### 9.2.2.3 *Economy* tier
+**9.2.2.3 Economy tier**
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1855,7 +1853,8 @@ The sources Mentioned above are the major Power sources and other power sources 
  
 ---
 
-##### 9.3 Diagrams and Working
+**9.3 Diagrams and Working**
+
 Unlike living offgrid , offgrid and independent electrical systems are more complicated than normal electrical wiring and must contain the functionalities similar to a national grid like load balancing and maintaining a fairly constant frequency and voltage. The energy Storage and management system essentially does the following functions -
 1.  Fills the gap between electricity generation and usage
 2.  Combines multiple sources into one coherent output
@@ -1869,7 +1868,7 @@ The system has been designed to be modular, allowing for: *easy installation, fl
 
 The setup is same across all tiers with the main difference between each tier is in the capacity of power and storage.
 
-##### 9.4 Appendix : Product links And Product Detail/Specifications
+**9.4 Appendix : Product links And Product Detail/Specifications**
 
 ***Chargers***
 
@@ -1894,7 +1893,7 @@ The setup is same across all tiers with the main difference between each tier is
 2. https://www.batteryboss.in/battery/amaron-current-short-tubular-ar165st36-165ah?gclid=CjwKCAiA866PBhAYEiwANkIneBXM18Txykd1zZI6e8ariXiibsEJGPcKpdkfLRhUIXP1jYE3u4_pQRoCE90QAvD_BwE
 
 	    
-	    
+---
 	    
 ### Closure
 
@@ -1913,9 +1912,11 @@ According to different studies and data shared by the manufacturers of small hor
  
 However, a turbine's lifespan can be increased by regular monitoring and maintenance. This can be done by assessing the asset's state and comparing it to the turbine's predicted lifespan based on expected loads and fatigue, and environmental considerations for the wind energy location. By such regular assessments, one can know whether the continued operation of the turbine is possible or any components need replacing to extend its lifespan. However, the maintenance costs will increase as the structure ages.
 	    
-	   
+---
+
 ### Image Credits
 	    
+---
 
 ### References
 	    
