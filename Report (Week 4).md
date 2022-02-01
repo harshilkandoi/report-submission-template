@@ -335,45 +335,6 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 ### Workflow Structure
 
-### Workflow Structure
-<p>&nbsp;</p>
-
-<p align = "center">
-	<a href="https://ibb.co/JssLmBn"><img src="https://i.ibb.co/YLL9PR2/GANTT.png" alt="GANTT" border="0"></a>
-</p>
-<p align = "center"><b> Gantt Chart </b>
-</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p align = "center">
-	<a href="https://ibb.co/LpGFNCZ"><img src="https://i.ibb.co/ys3948Q/NETWORK.png" alt="NETWORK" border="0"></a>
-</p>
-<p align = "center"><b> Network Diagram </b>
-</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p align = "center">
-	<a href="https://ibb.co/D4SQC0d"><img src="https://i.ibb.co/Zdkx8q9/WBS.png" alt="WBS" border="0"></a>
-</p>
-<p align = "center"><b> WBS Chart </b>
-</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p align = "center">
-	<a href="https://ibb.co/0jm55rz"><img src="https://i.ibb.co/kg5ZZXP/Resource-Allocation.png" alt="Resource-Allocation" border="0"></a>
-</p>
-<p align = "center"><b> Resource Allocation </b>
-</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 
 ### List of Abbreviations
 
@@ -422,15 +383,16 @@ Though wind power is a very clean source of energy, it is not so easy to harness
 
 
 <p align = "center">
-	<a href="https://ibb.co/QCPmHL3"><img src="https://i.ibb.co/P9cCWKv/Wind-Power-Density-Potential.png" alt="Wind-Power-Density-Potential" border="0"></a></p>
-<p align = "center">Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png)) 
+	<a href="https://ibb.co/QCPmHL3"><img src="https://i.ibb.co/P9cCWKv/Wind-Power-Density-Potential.png" alt="Wind-Power-Density-Potential" border="0"></a>
+<figcaption align = "center"><b>Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png))  </b></figcaption>
 </p>
 
 For an Indian household, to generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least more than 5m/s. The wind power potential map shown below explains how the wind power potential is distributed across India? The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states along the western coast. 
 
 <p align = "center">
-	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a></p>
-<p align = "center">Fig.2 - Wind Power Potential Map - India ([Ref. - researchgate](https://www.researchgate.net/publication/332702533_Wind_energy_programme_in_India_Emerging_energy_alternatives_for_sustainable_growth/figures?lo=1&utm_source=google&utm_medium=organic))</p>
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a>
+<figcaption align = "center"><b>Fig.2 - Wind Power Potential Map - India ([Ref. - researchgate](https://www.researchgate.net/publication/332702533_Wind_energy_programme_in_India_Emerging_energy_alternatives_for_sustainable_growth/figures?lo=1&utm_source=google&utm_medium=organic))</b></figcaption>
+</p>
 
 
 
@@ -584,16 +546,18 @@ Below is the CAD model of the small wind turbine along with brief description of
 - The horizontal axis small wind turbine (HAWT) is usually placed on a pole, preferably higher than 10 m, to lessen the impact of turbulent, sheared winds forming in close proximity to the ground. But since it is a small wind turbine with relatively less weight and comparably lower power output, the turbine can be put on a variety of existing structures, including roof tops, and rain water tanks, as long as it keeps the turbine's blades clear of the ground and in a continuous stream tube. Still, in our design we have taken a tubular steel pole for placing the wind turbine above obstacles in urban areas. This can be omitted depending on the place where you want to install the turbine and reduce the installation cost.
 
 <p align = "center">
-	<a href="https://ibb.co/XSmL5vq"><img src="https://i.ibb.co/bzpmv8k/CAD-Model-of-Wind-Turbine.jpg" alt="CAD-Model-of-Wind-Turbine" border="0"></a></p>
-<p align = "center">Fig.3 - CAD Model of Wind Turbine</p>
+	<a href="https://ibb.co/XSmL5vq"><img src="https://i.ibb.co/bzpmv8k/CAD-Model-of-Wind-Turbine.jpg" alt="CAD-Model-of-Wind-Turbine" border="0"></a>
+<figcaption align = "center"><b>Fig.3 - CAD Model of Wind Turbine</b></figcaption>
+
+</p>
 
 
 
 After the completion of the mechanical design of the wind turbine, the next step is to look after the electrical connections for energy storage and usage. The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage. Refer to [energy storage section](#9-energy-storage-and-distribution) for more details.
 
 <p align = "center">
-	<a href="https://ibb.co/kQ1RPC9"><img src="https://i.ibb.co/GcTKrSt/Grid-connection-diagram.png" alt="Grid-connection-diagram" border="0"></a></p>
-	<p align = "center">Fig.4 - Wind Turbine Grid Connection Diagram
+	<a href="https://ibb.co/kQ1RPC9"><img src="https://i.ibb.co/GcTKrSt/Grid-connection-diagram.png" alt="Grid-connection-diagram" border="0"></a>
+	<figcaption align = "center"><b>Fig.4 - Wind Turbine Grid Connection Diagram</b></figcaption>
 </p>
 
 
@@ -845,9 +809,9 @@ So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
 - After charging the batteries, the inverter is removed and the output of the buck boost converter is directly attached to the two 11.1v batteries connected in series.
 - Below is the model for our bicycle electricity generator
 
-<p align = "center"><img src = "https://i.ibb.co/zRDYTMS/bike-side-view.png" width="50%")</p>
+![Side view](https://i.ibb.co/zRDYTMS/bike-side-view.png)
 
-<p align = "center"> Fig.1 - CAD Model Of Bicycle Electricity Generator</p>
+<figcaption align = "center"><b>Fig.1 - CAD Model Of Bicycle Electricity Generator </b></figcaption>
 
 **3.4 Vender's Info**
 
@@ -893,15 +857,15 @@ The _geographical requirements_ required for the plant are as follows:
 It is advised to use this system in a region that recieves at least 600mm of average annual rainfall or has a rivers with continous flow. Annual average rainfall can be checked from figure below.
 (Image Source: [ResearchGate](https://www.researchgate.net/publication/257155103_Climate_vegetation_and_ecology_during_Harappan_period_Excavations_at_Kanjetar_and_Kaj_mid-Saurashtra_coast_Gujarat))
 
-<p align = "center"><img src="https://i.imgur.com/fy0Mk4v.png" width="90%"></p>
+![Imgur](https://i.imgur.com/fy0Mk4v.png)
 
-<p align = "center">Fig.4.1 - Average Rainfall in India </p>
+<figcaption align = "center"><b>Fig.4.1 - Average Rainfall in India </b></figcaption>
 
 Here is the map of India with major rivers, if your house is close to any of these river then this system will be feasible.
 (Image Source: [Pinterest](https://in.pinterest.com/pin/619948704924890264/))
-<p align = "center"><img src="https://i.imgur.com/9xaje9U.jpg" width="90%"></p>
+![Imgur](https://i.imgur.com/9xaje9U.jpg)
 
-<p align = "center">Fig.4.2 - Major rivers of India</b></figcaption>
+<figcaption align = "center"><b>Fig.4.2 - Major rivers of India</b></figcaption>
 Waterfalls are also suitable for the feasibility of this system. Any waterfall close to your house with head-height of at least 2m is suitable for this plant.
 
 [List of waterfalls in india](https://en.wikipedia.org/wiki/List_of_waterfalls_in_India_by_height)
@@ -1036,22 +1000,22 @@ By above mentioned specifications and power output calculations, we can conclude
 As shown in the figure, water stored at high elevation falls on the turbine of generator i.e. converting the potential energy of water to mechanical energy of turbine by rotating it. Now, this mechanical energy of turbine is converted to electrical energy with the help of drives. Now this pulsating alternating current is passed through transformers for transmitting to distant use places and finally it passes through ac/dc converters to make it usable at required places.
 
 This figure shows a typical model for mini hyrdro-electric plant. The height of the dam from the turbine should be more than 2m.
-<p align = "center"><img src= "https://i.imgur.com/UqiqcmE.png" width="90%"></p>
-<p align = "center">Fig.4.3 - Model of Hydro-Electricity System
+![Generator Flow](https://i.imgur.com/UqiqcmE.png)
+<figcaption align = "center"><b>Fig.4.3 - Model of Hydro-Electricity System</b></figcaption>
 
 </p>
 
 This figure shows the rough dimention of graviational water vorex for the plant. Due to spiral structure water starts spining as enters from inlet. This type of setup is efficient for axial hydro plant.
-<p align = "center"><img src="https://i.imgur.com/l2aSLEK.png" width="90%"></p>
+![Generator Flow](https://i.imgur.com/l2aSLEK.png)
 
-<p align = "center">Fig.4.4 - Dimenstions of Gravitational Water Vortex
+<figcaption align = "center"><b>Fig.4.4 - Dimenstions of Gravitational Water Vortex</b></figcaption>
 
 </p>
 
 This figure shows connections of various subsystem of the plant along with wire ratings.
-<p align = "center"><img src="https://i.imgur.com/PhWuSBU.jpg" width="90%"></p>
+![Circuit Diagram](https://i.imgur.com/PhWuSBU.jpg)
 
-<p align = "center">Fig.4.5 - Circuit Diagram of System
+<figcaption align = "center"><b>Fig.4.5 - Circuit Diagram of System</b></figcaption>
 
 </p>
 
@@ -1273,7 +1237,7 @@ Table 1: Bill of Materials
 #### [6. Thermoelectricity](#table-of-contents)
 
 
-##### 6.1 Requirements
+**6.1 Requirements**
 
 **6.1.1 Geographical requirements**
 
@@ -1288,73 +1252,96 @@ The Solar TEG would work well under weather and geographical conditions having h
 Roof of the house must be horizontal plane in order to place the device. House shall use energy for basic needs only, no refrigerators or AC's are installed in the house. 
 
 
-##### 6.2 Specifications
+**6.2 Specifications**
      
 **6.2.1 Components**
     
-(1)  *TEG*
+(1) *TEG*
      
-   *Device Info*
+*Device Info*
+
+<div align = "center">
+   
+ |  |  |
+ |:------------:|:-----------:|
+ | Type | TGM2871.41.5 |
+ | Price | $11.5 = Rs.855 |
+ | No. of Pieces | 6 |
+ | Size | 55mm*55mm*4.2mm |
+ | Resistance | 3.8ohm |
+ | RAC22C Resistor | 2.6ohm |
+ | Coefficient | 0.85 |
+ | Voltage | 12.2V |
+ | Current | 1.65A |
+ | Power | 20.13W |
+ | Efficiency | 5.1 |
+	
+</div>
      
-   |  |  |
-     |:------------:|:-----------:|
-     | Type | TGM2871.41.5 |
-     | Price | $11.5 = Rs.855 |
-     | No. of Pieces | 6 |
-     | Size | 55mm*55mm*4.2mm |
-     | Resistance | 3.8ohm |
-     | RAC22C Resistor | 2.6ohm |
-     | Coefficient | 0.85 |
-     | Voltage | 12.2V |
-     | Current | 1.65A |
-     | Power | 20.13W |
-     | Efficiency | 5.1 |
+*With a battery System*
+ 
+<div align = "center">
      
-   *With a battery System*
-     
-   |  |  |
-     |:------------:|:-----------:|
-     | Temperature cold side | 30C |
-     | Temperature hot side | 200C |
-     | Output Power | 7.2 W |
-     | I load | 0.96 amps |
-     | U load | 7.5 volts |
-     | Rac (at 200C) | 7.8 ohm |
+ |  |  |
+ |:------------:|:-----------:|
+ | Temperature cold side | 30C |
+ | Temperature hot side | 200C |
+ | Output Power | 7.2 W |
+ | I load | 0.96 amps |
+ | U load | 7.5 volts |
+ | Rac (at 200C) | 7.8 ohm |
+	
+</div>
      
 (2) *Aluminum Sheet*
      
-   |  |  |
-     |:------------:|:-----------:|
-     | Size | 22cm x 15cm x 4mm |
-     | Price | Rs. 35 |
-     | Thermal Conductivity | 237 W·m−1·K−1 |
+<div align = "center">
+	
+ |  |  |
+ |:------------:|:-----------:|
+ | Size | 22cm x 15cm x 4mm |
+ | Price | Rs. 35 |
+ | Thermal Conductivity | 237 W·m−1·K−1 |
+	
+</div>
      
 (3) *Heat Sink*
      
-   |  |  |
-     |:------------:|:-----------:|
-     | Model | HEAVY DUTY ALUMINIUM HEAT SINK (Manufacturer : GTX , ASIN(Amazon)  :  B08WLBGPP8 , Item part number  : ALU-250) |
-     | Price | Rs. 1240 |
-     | Size | 250mm x 97mm x 33mm |
-     | No. of Pieces | 2 |
+<div align = "center">
+	
+ |  |  |
+ |:------------:|:-----------:|
+ | Model | HEAVY DUTY ALUMINIUM HEAT SINK (Manufacturer : GTX , ASIN(Amazon)  :  B08WLBGPP8 , Item part number  : ALU-250) |
+ | Price | Rs. 1240 |
+ | Size | 250mm x 97mm x 33mm |
+ | No. of Pieces | 2 |
+	
+</div>
      
-  (4) *Fresnel Lens*
+(4) *Fresnel Lens*
+ 
+<div align = "center">
+	
+ |  |  |
+ |:------------:|:-----------:|
+ | Model | MW-F1000-5 (Chengdu Micromu Technology Co.,Ltd.) |
+ | Price | Rs. 13000 |
+ | Size | 1100mm (Diameter) |
+ | Material | PMMA |
+ | No. of Pieces | 1 |
+
+</div>
      
-   |  |  |
-     |:------------:|:-----------:|
-     | Model | MW-F1000-5 (Chengdu Micromu Technology Co.,Ltd.) |
-     | Price | Rs. 13000 |
-     | Size | 1100mm (Diameter) |
-     | Material | PMMA |
-     | No. of Pieces | 1 |
+(5) *Water Bucket*
      
-  (5) *Water Bucket*
-     
-   |  |  |
-     |:------------:|:-----------:|
-     | Size | 30cm * 30cm * 29cm |
-     | Price | Rs. 200 |
-     
+<div align = "center">
+	
+ |  |  |
+ |:------------:|:-----------:|
+ | Size | 30cm * 30cm * 29cm |
+ | Price | Rs. 200 |
+	
+</div>
      
 **6.2.2 Power generation**
      
@@ -1371,7 +1358,7 @@ Roof of the house must be horizontal plane in order to place the device. House s
 - Total Cost = Rs. 23,945 ~ Rs. 24,000
 
 
-##### 6.3 Diagrams and Working  
+**6.3 Diagrams and Working**  
 
 **6.3.1 Construction**
 
@@ -1388,7 +1375,7 @@ Roof of the house must be horizontal plane in order to place the device. House s
   generate electric power.
   
   
-  <p align = "center">
+<p align = "center">
 	<img src = "https://content.instructables.com/ORIG/F93/ZNQ3/J7MFSOVQ/F93ZNQ3J7MFSOVQ.jpg?auto=webp&frame=1&width=590&height=1024&fit=bounds&md=5d4d6abad4cf0be2298356cfaddbc183"  alt = "Thermo2"  | width = "600" height = "500" >
 </p>
 
@@ -1400,6 +1387,7 @@ Heat from solar radiation heats the Aluminum surface which in turns heats the ho
 A Fresnel lens concentrates the solar radiation to the the aluminum plate to achieve higher temperatures than otherwise possible. The difference in the temperature between two faces of TEG results in electricity generation in accordance with Seebeck Effect.  
 
 ---
+
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
@@ -1407,25 +1395,30 @@ A Fresnel lens concentrates the solar radiation to the the aluminum plate to ach
 
 #### [7. Electricity from biogas](#table-of-contents)
 
-##### 7.1 Requirements
+**7.1 Requirements**
 
 **7.1.1 Geographical requirements**
 
 The system works under all weather conditions.
 
-##### 7.2 Specifications
+**7.2 Specifications**
 
 **7.2.1 Components**
 
 (1)  Fixed domestic biogas plant :
+
+<div align = "center">
 
 |                    |                 |
 |--------------------|-----------------|
 | Plant Capacity     | 1 cubic meter   |
 | Area To Be Covered | 4 sq.feet       |
 | Storage Holer Size | 0.6 cubic metre |
+	
+</div>
 
 <b>Table 7.1 - Values of important measures</b>
+
 (2) BISON CHINA 5KW Easy-Moving Biogas Electric Generator:
 
 -   *Characteristics*:
@@ -1468,15 +1461,17 @@ month.
 
 **7.2.3 Cost Analysis**
 
+<div align = "center">
+
 | Part                                                  | Cost(Rs) |
 |-------------------------------------------------------|----------|
 | Fixed domestic biogas plant                           | 22800    |
 | BISON CHINA 5KW Easy-Moving Biogas Electric Generator | 14900    |
+	
+</div>
 
-*Installation costs*: 14900+22800= 33700 + minor costs like inlet/outlet
-pipes.  
-*Maintenance costs*: 2% of capital cost per annum \~ 1000 rupees per
-annum .
+*Installation costs*: 14900+22800= 33700 + minor costs like inlet/outlet pipes.  
+*Maintenance costs*: 2% of capital cost per annum \~ 1000 rupees per annum .
 
 <b>Table 7.2 - Costs</b>
 
@@ -1492,17 +1487,16 @@ annum .
     https://www.alibaba.com/product-detail/BISON-CHINA-5KW-Easy-Moving-Lpg_60423755030.html?spm=a2700.7724857.normal_offer.d_title.5b2d59d44KeAi6  
     Contact: Edward Tang
 
-##### 7.3 Diagrams and Working
+**7.3 Diagrams and Working**
 
-In the digester, the wastes are treated and biogas is produced. An
-engine followed by an electricity generator then produces power. The
-power is then transferred to the storage system (as depicted by the
-black box) through electrical wires.
+In the digester, the wastes are treated and biogas is produced. An engine followed by an electricity generator then produces power. The power is then transferred to the storage system (as depicted by the black box) through electrical wires.
 
 ![biogasplant](https://i.imgur.com/fmSXrVx.jpg "biogasplant")
 <figcaption align = "center"><b>Diagram of working of digester and biogas generator</b></figcaption>
 
-##### 7.4 Appendix
+**7.4 Appendix**
+
+<div align = "center">
 
 | Engine               |                |
 |----------------------|----------------|
@@ -1533,8 +1527,10 @@ black box) through electrical wires.
 | 20GP               | 136set                     |
 | 40HQ               | 292set                     |
 
+</div>
 
 <b>Table 7.3 - Description and values of required items</b>
+
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -1577,6 +1573,7 @@ Fig 8.1 Thermo electric generator
 
 The voltage generated as a result of the temperature difference between the two end of the TEG is depicted in the table below:
 
+<div align = "center">
                                                                                                                
 | 	Temperature	 (C)  |Open Circuit Voltage (V)|Current (mA)	|
 |---------------------|------------------------|----------------|
@@ -1585,6 +1582,8 @@ The voltage generated as a result of the temperature difference between the two 
 |60                   | 2.4                    | 469            |
 |80                   | 3.6                    | 558            |
 |100                  | 4.8                    | 669            |
+	
+</div>
 
 ##### Table 8.1 (Characteristics of TEG)
 
@@ -1642,17 +1641,6 @@ Figure 8.3 Installation of TEGs in Kitchen
 
  On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
  
- ```mermaid
- 
- graph LR;
- 
- A[Heat from the Stove];
- B[TEGs];
- C[Storage];
- A --> B;
- B --> C;
- ```
----
 
 ### 8.4 Closure
 
@@ -1686,8 +1674,7 @@ Figure 8.3 Installation of TEGs in Kitchen
 
 ### [9. Energy Storage And Distribution](#table-of-contents)
 
-##### 9.1 Requirements
-
+**9.1 Requirements**
 
 **9.1.1 House Requirements**
 1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10$C^\circ$ to 40$C^\circ$ , Ideal temperature range of 25-35$C^\circ$
@@ -1701,7 +1688,7 @@ Figure 8.3 Installation of TEGs in Kitchen
 
 --- 
 
-##### 9.2 Specification
+**9.2 Specification**
 
 **9.2.1 Charger Specifications**
   *Chargers* --- *per source*
@@ -1721,10 +1708,9 @@ The chargers used are of the MPPT (Maximum power point tracking) type are prefer
 
 The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
 
-##### 9.2.2 Battery-Inverter Specifications
+**9.2.2 Battery-Inverter Specifications**
 
-##### 9.2.2.1 *Plus* tier
-
+**9.2.2.1 Plus tier**
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1774,7 +1760,7 @@ The sources Mentioned above are the major Power sources and other power sources 
 
 
 
-##### 9.2.2.2 *Base* tier
+**9.2.2.2 Base tier**
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1806,6 +1792,7 @@ The sources Mentioned above are the major Power sources and other power sources 
   |Weight |11.9Kg|
   |Dimensions|35 $\times$ 30 $\times$ 25|
   **Cost :-** 5500 INR
+  
 **Power And Energy**
 
  - **10.2 KWh** amount of *Energy can be stored* (roughly energy required for one days use)
@@ -1818,9 +1805,7 @@ The sources Mentioned above are the major Power sources and other power sources 
  - *lifespan:-* *3 Years for the battery* and *10 years for the rest of the system*
 
 
-
-
-##### 9.2.2.3 *Economy* tier
+**9.2.2.3 Economy tier**
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1868,7 +1853,8 @@ The sources Mentioned above are the major Power sources and other power sources 
  
 ---
 
-##### 9.3 Diagrams and Working
+**9.3 Diagrams and Working**
+
 Unlike living offgrid , offgrid and independent electrical systems are more complicated than normal electrical wiring and must contain the functionalities similar to a national grid like load balancing and maintaining a fairly constant frequency and voltage. The energy Storage and management system essentially does the following functions -
 1.  Fills the gap between electricity generation and usage
 2.  Combines multiple sources into one coherent output
@@ -1882,7 +1868,7 @@ The system has been designed to be modular, allowing for: *easy installation, fl
 
 The setup is same across all tiers with the main difference between each tier is in the capacity of power and storage.
 
-##### 9.4 Appendix : Product links And Product Detail/Specifications
+**9.4 Appendix : Product links And Product Detail/Specifications**
 
 ***Chargers***
 
@@ -1907,7 +1893,7 @@ The setup is same across all tiers with the main difference between each tier is
 2. https://www.batteryboss.in/battery/amaron-current-short-tubular-ar165st36-165ah?gclid=CjwKCAiA866PBhAYEiwANkIneBXM18Txykd1zZI6e8ariXiibsEJGPcKpdkfLRhUIXP1jYE3u4_pQRoCE90QAvD_BwE
 
 	    
-	    
+---
 	    
 ### Closure
 
@@ -1926,24 +1912,36 @@ According to different studies and data shared by the manufacturers of small hor
  
 However, a turbine's lifespan can be increased by regular monitoring and maintenance. This can be done by assessing the asset's state and comparing it to the turbine's predicted lifespan based on expected loads and fatigue, and environmental considerations for the wind energy location. By such regular assessments, one can know whether the continued operation of the turbine is possible or any components need replacing to extend its lifespan. However, the maintenance costs will increase as the structure ages.
 	    
-	   
+---
+
 ### Image Credits
 	    
+---
 
 ### References
 	    
 **Wind**
 	    
 [1] “Installing and Maintaining a Small Wind Electric System,” _Energy.gov_. https://www.energy.gov/energysaver/installing-and-maintaining-small-wind-electric-system (accessed Jan. 11, 2022).
+
 [2] “Wind Power for Homes: How To Use Wind Power At Home Today,” _Inspire Clean Energy_. https://www.inspirecleanenergy.com/blog/sustainable-living/wind-power-for-homes (accessed Jan. 11, 2022).
+
 [3] “Nacelles | How are they manufactured?,” _Windpower Engineering & Development_. https://www.windpowerengineering.com/how-is-a-nacelle-manufactured/ (accessed Jan. 15, 2022).
+
 [4] “Frp /grp Wind Turbine Nacelle Cover, Fiberglass Cover,” _indiamart.com_. https://www.indiamart.com/proddetail/frp-grp-wind-turbine-nacelle-cover-fiberglass-cover-23462129073.html (accessed Jan. 15, 2022).
+
 [5] “Windmill Blade,” _indiamart.com_. https://www.indiamart.com/proddetail/windmill-blade-17678651497.html (accessed Jan. 17, 2022).
+
 [6] LuvSide, “Generators for Wind Turbine Applications - Part 2: How to Pick One | The Windy Blog,” _https://www.luvside.de/en/_. https://www.luvside.de/en/generators-how-to-pick-one/ (accessed Jan. 17, 2022).
+
 [7] “400W 12v/24v/48v Alternator, 3 Phase | ATO.com.” https://www.ato.com/400w-alternator (accessed Jan. 17, 2022).
+
 [8] “10 Meter Tubular Steel Pole,” _indiamart.com_. https://www.indiamart.com/proddetail/10-meter-tubular-steel-pole-17130969591.html (accessed Jan. 17, 2022).
+
 [9] “WINDExchange: Small Wind Guidebook.” https://windexchange.energy.gov/small-wind-guidebook#installation (accessed Jan. 17, 2022).
+
 [10] C. J, V. D, and M. Majid, “Wind energy programme in India: Emerging energy alternatives for sustainable growth,” _Energy & Environment_, vol. 30, p. 0958305X1984129, Apr. 2019, doi: [10.1177/0958305X19841297](https://doi.org/10.1177/0958305X19841297).
+
 [11] “HAVELLS HRFR PVC 1.5 sq/mm Red 90 m Wire Price in India - Buy HAVELLS HRFR PVC 1.5 sq/mm Red 90 m Wire online at Flipkart.com,” Flipkart.com. https://www.flipkart.com/havells-hrfr-pvc-1-5-sq-mm-red-90-m-wire/p/itmfhws5hzytghze (accessed Feb. 01, 2022).
 	    
 	    
@@ -1951,62 +1949,100 @@ However, a turbine's lifespan can be increased by regular monitoring and mainten
 	    
 
 [1] ‘1 unit of electricity means 40 Watt Tube Light Running for 25 Hours’. https://www.sciencesstudio.com/2019/08/one-unit-of-electricity-saved.html (accessed Jan. 18, 2022). 
+
 [2] ‘Bluebird Solar 395 Watt - 24 Volt Mono PERC Crystalline Solar Panel \| BIS Certified \| High Efficiency \| 5BB A+ Grade Solar Cells \| Junction Box with MC4 Connector \| Home Lighting & Battery Charging : Amazon.in: Garden & Outdoors’. https://www.amazon.in/Bluebird-Solar-395-Watt-Crystalline/dp/B091TV6M9X/ref=asc\_df\_B091TV6M9X/?tag=googleshopdes-21&linkCode=df0&hvadid=396986918571&hvpos=&hvnetw=g&hvrand=14846268478555082580&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1222930393376&ext_vrnc=hi&th=1 (accessed Jan. 18, 2022). 
+
 [3] ‘Cost of solar system \| Cost of Solar Panels \| Maintenance Cost of Solar’, Lets Save Electricity, Mar. 11, 2020. https://letsavelectricity.com/cost-of-solar-system-in-india/ (accessed Jan. 18, 2022). 
+
 [4] ‘Difference between 3 Star Vs 5 Star Air Conditioners \| Bajaj Finserv’, www.bajajfinserv.in. https://www.bajajfinserv.in/insights/3-star-acs-vs-5-star-acs--which-one-should-you-buy-this-summer (accessed Jan. 18, 2022). 
+
 [5] ‘Electricity usage of an Iron - Energy Use Calculator’. https://energyusecalculator.com/electricity_iron.htm (accessed Jan. 18, 2022). 
+
 [6] ‘How Much is The Power Consumption of Refrigerator? - Save Electricity’, Lets Save Electricity, Jan. 15, 2020. https://letsavelectricity.com/power-consumption-of-a-refrigerator/ (accessed Jan. 18, 2022). 
-[7] ‘How to Calculate Geyser Power Consumption?’, Check out Paytm Blog - One and Only Stop for All Your Financial Needs, Nov. 24, 2021. https://paytm.com/blog/bill-payments/electricity-bills/how-to-calculate-geyser-power-consumption/ (accessed Jan. 18, 2022). 
+
+[7] ‘How to Calculate Geyser Power Consumption?’, Check out Paytm Blog - One and Only Stop for All Your Financial Needs, Nov. 24, 2021. https://paytm.com/blog/bill-payments/electricity-bills/how-to-calculate-geyser-power-consumption/ (accessed Jan. 18, 2022).
+
 [8] ‘L&T (Larsen & Toubro Limited) Three Phase Sub Meter LCD Display 10-60A : Amazon.in: Industrial & Scientific’. https://www.amazon.in/Larsen-Toubro-Limited-Display-10-60A/dp/B09GVWXYWP/ref=asc\_df\_B09GVWXYWP/?tag=googleshopdes-21&linkCode=df0&hvadid=545232819554&hvpos=&hvnetw=g&hvrand=4336388963072329755&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1433459938069&psc=1 (accessed Jan. 18, 2022). 
+
 [9]  ‘Power Consumption of a Ceiling Fan’, Atomberg, Aug. 03, 2017. https://atomberg.com/power-consumption-of-a-ceiling-fan/ (accessed Jan. 18, 2022). 
+
 [10]  ‘Room Heater in India: heating as expensive as cooling’, Bijli Bachao, Dec. 04, 2012. https://www.bijlibachao.com/appliances/room-heater-in-india-heating-as-expensive-as-cooling-in-north.html (accessed Jan. 18, 2022). 
+
 [11] ‘Solar Panel Mounting Structure Set for 2 Solar Panel (6 Channel, 4 End Clamps, 2 Mid Clamps, 6 Spring Nut M8) : Amazon.in: Garden & Outdoors’. https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc\_df\_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=2597849844069982857&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1457440431503&psc=1 (accessed Jan. 18, 2022). 
+
 [12] ‘Solar power system types: equipment needed, costs, pros, and cons’, Solar Reviews. https://www.solarreviews.com/content/blog/what-equipment-do-you-need-for-a-solar-power-system (accessed Jan. 18, 2022). 
+
 [13] ‘TV Power Consumption in A Day? - Calculate Any TV Power Consumption.’, Lets Save Electricity, Oct. 25, 2019. https://letsavelectricity.com/how-much-power-does-a-tv-use-in-an-hour/ (accessed Jan. 18, 2022). 
+
 [14] M. Ayothi, ‘Washing Machine (Wattage) Power Consumption, Power Saving Tips’, Sep. 29, 2020. https://www.electrical4u.net/energy-calculation/washing-machine-wattage-power-consumption-power-saving-tips/ (accessed Jan. 18, 2022). 
+
 [15] ‘What is the Power consumption of a microwave oven? - Save Electricity’, Lets Save Electricity, Jan. 20, 2020. https://letsavelectricity.com/what-is-the-power-consumption-of-a-microwave-oven/ 
+
 [16] “Home Solar System: Renewable Energy Solutions for Residential Users.” \_The Economic Times\_, May 28, 2019. \[https://economictimes.indiatimes.com/small-biz/productline/power-generation/home-solar-system-renewable-energy-solutions-for-residential-users/articleshow/69540881.cms?from=mdr\](https://economictimes.indiatimes.com/small-biz/productline/power-generation/home-solar-system-renewable-energy-solutions-for-residential-users/articleshow/69540881.cms?from=mdr). 
+
 [17] ELECTRICAL TECHNOLOGY. “What Components Do You Need for Solar Panel System Installation?,” October 20, 2019. \[https://www.electricaltechnology.org/2019/10/components-solar-panel-system-installation.html\](https://www.electricaltechnology.org/2019/10/components-solar-panel-system-installation.html). 
+
 [18] “What Is a Solar Tracker, How Does It Work, and How Many Types Are There?” Accessed January 11, 2022. \[https://www.solarpowerworldonline.com/2020/01/what-is-a-solar-tracker-and-how-does-it-work/\](https://www.solarpowerworldonline.com/2020/01/what-is-a-solar-tracker-and-how-does-it-work/). |
+
 [19] “Trends in India’s Residential Electricity Consumption \| Centre for Policy Research.” Accessed January 11, 2022. \[https://cprindia.org/news/6519\](https://cprindia.org/news/6519). 
 
 
 **Mechanical**
 	    
 [1] ‘Bike powered electricity generators are not sustainable - LOW-TECH MAGAZINE’. https://www.lowtechmagazine.com/2011/05/bike-powered-electricity-generators.html (accessed Jan. 18, 2022).
+
 [2] D. King 00, ‘DIY Electric Bicycle Conversion (Using a Brushless Motor)’, Instructables. https://www.instructables.com/DIY-Electric-Bicycle-Conversion-Using-a-Brushless-/ (accessed Jan. 18, 2022).
+
 [3] R. Suhalka, M. C. Khandelwal, K. K. Sharma, and A. Sanghi, ‘Generation of Electrical Power using Bicycle Pedal’, . Flux, p. 5.
+
 [4] ‘Main Page’, Wikipedia, the free encyclopedia. Feb. 03, 2021. Accessed: Jan. 18, 2022. Available: https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1004593520
+
 [5] ‘Pedal Power! How to Build a Bike Generator’. https://www.popularmechanics.com/technology/gadgets/how-to/a10245/pedal-power-how-to-build-a-bike-generator-16627209/ (accessed Jan. 18, 2022).
+
 [6] 'Linear technology design manual'  https://www.analog.com/media/en/technical-documentation/application-notes/an19fc.pdf (accessed Jan. 18, 2022).
 	    
 **Hydro Electricity**
 	    
 
 [1] “500w Commercial Battery Charger,” indiamart.com. https://www.indiamart.com/proddetail/500w-commercial-battery-charger-22521319248.html (accessed Jan. 18, 2022).
+
 [2] ‘2m To 4m Low Head 500w 600w 800w 1000w Hydro Generator 220v Ac Single Phase Direct Use Water Turbines Hydroelectric Power - Buy 2-4m Head Hydro Generator,Hydro Turbine Low Head2m To 4m Hydro Generator,1000w Hydro Generator Product on Alibaba.com’. https://www.alibaba.com/product-detail/2m-To-4m-Low-Head-500w_1600432599601.html?spm=a2700.galleryofferlist.normal_offer.d_image.45557519SMEriV (accessed Jan. 18, 2022).
+
 [3] ‘How much hydropower power can I get - Renewables First’, _Renewables First - The Hydro and Wind Company_. https://www.renewablesfirst.co.uk/hydropower/hydropower-learning-centre/how-much-power-could-i-generate-from-a-hydro-turbine/ (accessed Jan. 18, 2022).
+
 [4] ‘Water Turbine Design and Different Hydro Turbine Designs’, _Alternative Energy Tutorials_. https://www.alternative-energy-tutorials.com/hydro-energy/water-turbine-design.html (accessed Jan. 18, 2022).
+
 [5] Land to House, _Awesome Low Head High Flow Grid Tie Micro Hydro 530 watts!_, (Sep. 02, 2020). Accessed: Jan. 11, 2022. \[Online Video\]. Available: https://www.youtube.com/watch?v=V82SVeVXKcA
 
 	    
 **Piezoelectricity**
 	    
 [1] Electronics, Embedded, Power Electronics, Analog Electronics, Internet of Things, Audio Electronics, Electric Vehicles, Events, et al. 2018. “Foot Step Power Generation Circuit Using Piezoelectric Sensor.” Circuit Digest.June 22, 2018.
+
 [2] “Foot Step Power Generation Circuit Using Piezoelectric Sensor”. https://circuitdigest.com/electronic-circuits/foot-steppower-generation-circuit-using-piezoelectric-sensor (accessed Jan. 24, 2022).
+
 [3] A. Haynes, ‘Piezoelectric Shoes: Charge Your Mobile Device by Walking!’, Instructables. https://www.instructables.com/Piezoelectric-Shoes-Charge-Your-Mobile-Device-by-W/ (accessed Feb. 01, 2022).
+
 [4]P. J. Paul, R. S. D. Tutu, W. K. Richards, and V. M. Jerome, ‘Project power shoe: Piezoelectric wireless power transfer — A mobile charging technique’, in 2015 IEEE Global Humanitarian Technology Conference (GHTC), Oct. 2015, pp. 334–339. doi: 10.1109/GHTC.2015.7343993.
+
 [5]‘Piezoelectric Energy Harvesting Shoe’. https://www.appropedia.org/Piezoelectric_Energy_Harvesting_Shoe (accessed Feb. 01, 2022).
+
 [6] Shah, Neel, Laxit Kamdar, Drashti Gokalgandhi, and Ninad Mehendale. n.d.“Walking Pattern Analysis Using Deep Learning for Energy Harvesting Smart Shoes with IoT,” 16
+
 [7]H. Anand and B. K. Singh, ‘Piezoelectric energy generation in India: an empirical investigation’, Energy Harvesting and Systems, vol. 6, no. 3–4, pp. 69–76, Jul. 2019, doi: 10.1515/ehs-2020-0002.
+
 [8]‘Building a Piezoelectric Generator - Activity’, TeachEngineering.org. https://www.teachengineering.org/activities/view/uoh_piezo_lesson01_activity1 (accessed Feb. 01, 2022).  
+
 [9] Upadhyaya, Sumit, Radhika Agrawal, Nishant Baish, Adarsh Shivhare, and Subash Chand Pal. 2020. “PIEZOELECTRIC BLADELESS WIND TURBINE”07 (05): 6.
 
 **Thermoelectricity**
 	    
 [1] jiovine, ‘Solar Thermoelectric Generator - Sunflower’, Instructables. https://www.instructables.com/Solar-Thermoelectric-Generator-Sunflower/ (accessed Feb. 01, 2022).
+
 [2] D. Sun, L. Shen, Y. Yao, H. Chen, S. Jin, and H. He, ‘The real-time study of solar thermoelectric generator’, Applied Thermal Engineering, vol. 119, pp. 347–359, Jun. 2017, doi: 10.1016/j.applthermaleng.2017.03.075.
+
 [3] N. Zhu, T. Matsuura, R. Suzuki, and T. Tsuchiya, ‘Development of a Small Solar Power Generation System based on Thermoelectric Generator’, Energy Procedia, vol. 52, pp. 651–658, Jan. 2014, doi: 10.1016/j.egypro.2014.07.121.
+
 [4]L. L. Baranowski, G. J. Snyder, and E. S. Toberer, ‘Concentrated solar thermoelectric generators’, Energy Environ. Sci., vol. 5, no. 10, pp. 9055–9067, Sep. 2012, doi: 10.1039/C2EE22248E.
 
 
@@ -2014,28 +2050,43 @@ However, a turbine's lifespan can be increased by regular monitoring and mainten
 **Electricity from biogas**
 	
 [1] R. Kaushal and A. singh, “Design of Small Scale Anaerobic Digester for Application in Indian Village: A Review,” *Journal of Engineering and Applied Sciences*, vol. 3, pp. 11–16, Sep. 2016.
+
 [2]‘Bison China 5kw Easy-moving Lpg Natural Generator Biogas Electric Generator - Buy Lpg Natural Generator Biogas Electric Generator,4.5kva Electric Gasoline Generator,China Natural Gas Generator Product on Alibaba.com’. https://www.alibaba.com/product-detail/BISON-CHINA-5KW-Easy-Moving-Lpg_60423755030.html?spm=a2700.7724857.normal_offer.d_title.5b2d59d44KeAi6 (accessed Feb. 01, 2022).
+
 [3]‘Serials Publications’. https://www.serialsjournals.com/ (accessed Feb. 01, 2022).
+
 [4]‘Manufacturer of Biogas Plant & Portable Bio Gas Plant by Atmos Bio Energy, Ballabhgarh’, IndiaMART.com. https://www.indiamart.com/atmosbioenergy/ (accessed Feb. 01, 2022).
+
 [5]‘vikaspedia Domains’. https://vikaspedia.in/energy/energy-production/bio-energy/biogas (accessed Feb. 01, 2022).
 	    
 	    
 **Waste Heat Re-use**
 	    
 [1]R. Bandakkanavar, ‘Power generation through Thermoelectric generators’, Krazytech, Jan. 17, 2015. https://krazytech.com/technical-papers/power-generation-thermoelectric-generators (accessed Feb. 01, 2022).
+
 [2]‘SP1848-27145 Thermoelectric Power Generator TEG 150°C Peltier Module buy online at Low Price in India - ElectronicsComp.com’. https://www.electronicscomp.com/sp1848-27145-thermoelectric-power-generator-teg-150-degree-c-peltier-module (accessed Feb. 01, 2022).
+
 [3]‘Thermoelectric generator’, Wikipedia. Jan. 05, 2022. Accessed: Feb. 01, 2022. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Thermoelectric_generator&oldid=1063976547
+
 [4]‘Wattage & Power Consumption Of Typical Household Appliances | 106 Appliances in All’, Lets Save Electricity, Apr. 08, 2020. https://letsavelectricity.com/wattage-power-consumption-of-household-appliances/ (accessed Feb. 01, 2022).
 
 	    
 **Energy Storage And Distribution**
 	    
 [1] ‘EASIEST Off Grid Solar Power System Battery Bank - YouTube’. https://www.youtube.com/watch?v=lGs0VPKM1jU&ab_channel=MartinJohnson-OffGridLiving (accessed Feb. 01, 2022).
+
 [2] D. A. Mse and L. P. Mse, _The Ultimate Solar Power Design Guide: Less Theory More Practice_. Digital Publishing Limited, 2015.
+
 [3] D. A. Mse and L. P. Mse, _The Truth About Solar Panels: The Book That Solar Manufacturers, Vendors, Installers And DIY Scammers Don’t Want You To Read_. Digital Publishing Limited, 2015.
+
 [4] O. E. Olabode, T. O. Ajewole, I. K. Okakwu, A. S. Alayande, and D. O. Akinyele, ‘Hybrid power systems for off-grid locations: A comprehensive review of design technologies, applications and future trends’, Scientific African, vol. 13, p. e00884, Sep. 2021, doi: 10.1016/j.sciaf.2021.e00884.
+
 [5] ‘Solar Charge Controller Types, Working Functionality and Applications’, ElProCus - Electronic Projects for Engineering Students, Nov. 06, 2013. https://www.elprocus.com/solar-charge-controller/ (accessed Feb. 01, 2022).
+
 [6] ‘MULTIPLE INPUT CHARGE CONTROLLER FOR RENEWABLE ENERGY’. https://microcontrollerslab.com/multiple-input-charge-controller-renewable-energy-sources/ (accessed Feb. 01, 2022).
+
 [7] ‘Mixing solar panels – Dos and Don’ts • SOLAR POWER SECRETS’. https://solarpanelsvenue.com/mixing-solar-panels/ (accessed Feb. 01, 2022).
+
 [8] ‘Solar Charge Controller Sizing and How to Choose One - Renogy United States’. https://www.renogy.com/blog/solar-charge-controller-sizing-and-how-to-choose-one-/ (accessed Feb. 01, 2022).
+
 [9] ‘Customer Question: What Cables Do I Need For My Power Inverter?’, Wagan Corporation. https://wagan.com/blogs/news/customer-question-what-cables-do-i-need-for-my-power-inverter (accessed Feb. 01, 2022).
