@@ -555,6 +555,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 **Geographical requirements**
 
 Different regions on the globe get different amount of sunlight at different angles. For example, at equator the earth recieves more focused sunlight than on poles where the light spreads over a wide area. The area which receives more focused sunlight can generate more solar energy. Different geographical features also play a role like forest areas or hilly areas which have low solar power avalibilty.
+
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
 </p>
@@ -1102,10 +1103,7 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
  </p>
   
- ![Fig.1d-Piezo Tiles Floorplan](https://i.imgur.com/neLuWXA.png)
- <figcaption align = "center"><b>Fig.1d - Piezo Tiles Floorplan</b></figcaption>
 
- </p>
   
 
 
@@ -1159,18 +1157,6 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 ---
 
-##### Cost Analysis
-
-| System         | Installation  cost                                                                                                                        | Wiring Cost                                                                                                     | Labour Cost                          |   |
-   |----------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------|---|
-    | Piezo Tiles    | Tile size = 40x60cm , Tile gap size = 1mm, Total tiles in the hall= 8*12 , Cost of 1 PZT tile = Rs. 500, Total cost of floor=96*500=Rs.48,000 | Total Wire length(including wires  to storage system)= 100m Cost of wire/m = Rs. 20 Total cost= 100*20=Rs. 2000 | About 30%of total  installation cost |   |
-    | Piezo Windmill | The home-based Vortex Bladeless windmill has an  installation cost of about 17,000 INR  (Source: Bridgestone)                             | 40% less cost than a  normal wind turbine                                                                       | 30% of total  installation cost      |   |
-    | Piezo Shoes    | Piezo device installation= Rs900                                                                                                          | Negligible                                                                                                      | None(can be self-installed)          |   |
-
-Table 2: Cost Analysis
-
----
-
 
 ##### Bill of Materials
 
@@ -1213,6 +1199,10 @@ Table 1: Bill of Materials
 **Geographical requirements**
 
 The Solar TEG would work well under weather and geographical conditions having high sunlight access and hot temperatures.  Therefore regions near equator having lesser number of cloudy days is preferred.
+
+<p align = "center">
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/DLn6GSB/Heat-Map.jpg" alt="Heat Map" border="0"></a>
+</p>
 
 **Requirements from the house**
 
