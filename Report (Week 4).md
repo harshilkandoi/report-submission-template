@@ -478,7 +478,7 @@ Table 1(c): Wind Turbine Components Specifications - Generator
    Table 1(d): Wind Turbine Components Specifications - Tower
 
 
-**1.2.2 Power generation **
+**1.2.2 Power generation**
 
  |                           |                              |
  |:-----------------------:|:--------------------------:|
