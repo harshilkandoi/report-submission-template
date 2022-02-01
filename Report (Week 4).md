@@ -45,8 +45,18 @@ geometry : margin = 2cm
 >
 > [Abstract](#Abstract)
 >
-> [To Do](#to-do)
+> [Workflow Structure](#Workflow Structure)
 > 
+> [List of Abbreviations](#List of Abbreviations)
+>
+> [List of Tables](#List of Tables)
+> 
+> [List of Figures](#List of Figures)
+> 
+> [To Do](#to-do)
+>
+> [Mindmap](#Mindmap)
+>
 > [Designed System](#designed-system)
 > 
 >> [1. Wind](#1-wind)
@@ -66,7 +76,12 @@ geometry : margin = 2cm
 >> [8. Waste Heat Re-use](#8-waste-heat-re-use)
 >> 
 >> [9. Energy Storage And Distribution](#9-energy-storage-and-distribution)
-
+>
+> [closure](#closure)
+> 
+> [image credits](#image credits)
+> 
+> [references](#references)
 
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
