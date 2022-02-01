@@ -45,13 +45,13 @@ geometry : margin = 2cm
 >
 > [Abstract](#Abstract)
 >
-> [Workflow Structure](#Workflow Structure)
+> [Workflow Structure](#workflow-structure)
 > 
-> [List of Abbreviations](#List of Abbreviations)
+> [List of Abbreviations](#list-of-abbreviations)
 >
-> [List of Tables](#List of Tables)
+> [List of Tables](#list-of-tables)
 > 
-> [List of Figures](#List of Figures)
+> [List of Figures](#list-of-figures)
 > 
 > [To Do](#to-do)
 >
