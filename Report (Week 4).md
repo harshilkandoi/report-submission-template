@@ -572,7 +572,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 
 #### [2. Solar](#table-of-contents)
 
-##### 2.1 Requirements
+**2.1 Requirements**
 
 **2.1.1 Geographical requirements**
 
@@ -594,7 +594,7 @@ India, being partly tropical and sub-tropical, receives sunlight all round the y
 Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/solar-power-in-india/))
 </p>
 
-##### 2.2 Specifications
+**2.2 Specifications**
 
 **2.2.1 Components**
 
@@ -694,7 +694,7 @@ Table-3 Cost Analysis for Economy Tier
 Negligible Maintenance cost because we have to just clean the solar panels.
 
 
-##### 2.3 Diagrams and Working
+**2.3 Diagrams and Working**
 
 - When solar radiations fall on the solar panels, we make sure that the solar panels are at their best angles for maximum exposure to the sunlight through an \*Active Solar Tracker\*.This device's sensors react with sunlight and angle the solar panels through drivers and motors accordingly. 
 - These solar panels are mounted on the roof with the help of mounting structures and they allow them to maintain and change their position according to the position of the sun. 
@@ -711,7 +711,8 @@ Fig-3 Solar Panel</b></figcaption>
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
 - This electric current generated is then transferred to the inverter through cables and wires and then it is stored in the batteries. This energy is then first converted to AC current through inverters and then is distributed in the house for usage. 
 
-##### 2.4 Closure:
+**2.4 Closure**
+
 The life of this solar grid system is approximately 40-50 years (with 25 years in warranty) with minimal maintainance. The parts we used are listed in the following table with their corresponding warranties:
 
 <div align="center">
@@ -742,7 +743,7 @@ This system is designed to fulfill requirements of a household without consuming
 
 #### [3. Mechanical](#table-of-contents) 
 
-##### 3.1 Requirements
+**3.1 Requirements**
 
 **3.1.1 Geographical requirements**
 
@@ -754,7 +755,7 @@ System can work under all geographical conditions.
     
 3. To operate the speed controller, we have to use a servo tester. The servo tester offers a physical dial, dialing which we can increase the speed of rotation of the motor. 
 
-##### 3.2 Specifications
+**3.2 Specifications**
 
 **3.2.1 Components**
 
@@ -799,7 +800,7 @@ So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
 
 *Maintenance Cost* :Negligible maintenance cost
 
-##### 3.3 Diagrams and Working
+**3.3 Diagrams and Working**
 
 - Here DC motor works as DC generator. It has a flywheel attached to it which increases its moment of inertia meaning even if you stop cycling for a moment, the generator will spin by itself for a couple of seconds.
 - The output of the generator is connected to a buck-boost converter, whose output is then fed to a power inverter which is finally driving the load. This is done to regulate the generated voltage to get its full use.
@@ -812,7 +813,7 @@ So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
 
 <figcaption align = "center"><b>Fig.1 - CAD Model Of Bicycle Electricity Generator </b></figcaption>
 
-#### 3.4 Vender's Info
+**3.4 Vender's Info**
 
 <div align = "center">
 	
@@ -835,7 +836,7 @@ So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
 
 #### [4. Hydroelectricity](#table-of-contents)
 
-##### 4.1 Requirements
+**4.1 Requirements**
 
 **4.1.1 Constructional Requirement**
 
@@ -885,7 +886,7 @@ The following are the _electrical requirements_:
 - _Wires_: It should be rated to carry 30*A* of current and of sufficient length.
 - _Pipes_: It should be capable to flow 0.03 m<sup>3</sup>/s of water.
 
-##### 4.2 Specifications
+**4.2 Specifications**
 
 **4.2.1 Components**
 
@@ -893,7 +894,8 @@ _(1) Turbine_
 
 The water turbine is the heart of any hydro power plant. It consists of a number of metal or plastic blades fitted to a central rotating shaft or plate. Water flowing through the casing strikes the blades of the turbine producing torque and making the shaft rotate thus conversing K.E. for water to M.E.
 
-
+<div align = "center">
+	
 | Details | Specifications |
 | :-----------------: | :------------: |
 | Material of Turbine | Cast Iron |
@@ -902,13 +904,16 @@ The water turbine is the heart of any hydro power plant. It consists of a number
 | Head Height | 2 m to 4 m |
 | Weight | 10 kg |
 
+</div>
+
 _Table 4.1: Hydro-Electricity Turbine Specifications_
 
 _(2) Generator_
 
 Generators are used to convert rotational energy to electrical energy. The type of generator used here is the permanent magnet synchronous generator. This motor generates a single-phase AC output that needs to be converted to DC using a rectifier.
 
-
+<div align = "center">
+	
 | Details | Specifications |
 | :-----------: | :----------------: |
 | Vendor | BEIGOOD |
@@ -919,13 +924,16 @@ Generators are used to convert rotational energy to electrical energy. The type 
 | Rated Speed | 500 rpm - 1500 rpm |
 | Net Weight | 15kg |
 
+</div>
+
 _Table 4.2: Hydro-Electricity Generator Specifications_
 
 _(3) AC-DC Converter_
 
 As the generator gives AC output so to convert AC to DC for charging an AC-DC converter is used.
 
-
+<div align = "center">
+	
 | Details | Specifications |
 | :------------: | :------------: |
 | Vendor | NP Solutions |
@@ -933,6 +941,8 @@ As the generator gives AC output so to convert AC to DC for charging an AC-DC co
 | Rated Power | 500 W |
 | Output Voltage | 24 V |
 | Max. Current | 28 A |
+	
+</div>
 
 _Table 4.3: Hydro-Electricity AC-DC Converter Specifications_
 
@@ -948,6 +958,7 @@ Power (P) = m * g * H<sub>net</sub> * η
 Here: m is the mass flow rate(kg/s), g is 9.81m/s<sup>2</sup>, H<sub>net</sub> is the effective height of stored water, η is overall efficiency
 Most of the Hydro-Electric systems used for domestic purposes have η about 75%.
 
+<div align = "center">
 
 | Feature | Value |
 | :--------------: | :--------: |
@@ -956,12 +967,14 @@ Most of the Hydro-Electric systems used for domestic purposes have η about 75%.
 | Head Height | 2.2 m |
 | Plant Efficiency | 75 % |
 | Output power | ~485 W |
+	
+</div>
 
 _Table 4.4: Hydro-Electricity output power_
 
 **4.2.3 Cost Analysis**
 
- 
+<div align = "center">
 
 |         Part          |  Cost   |
 | :-------------------: | :-----: |
@@ -972,6 +985,8 @@ _Table 4.4: Hydro-Electricity output power_
 | Construction Material | ₹2,000  |
 |   3 days Labour Charge[^1]  |  ₹2250  |
 |       **Total**       | ₹27614 |
+	
+</div>
 
 _Table 4.5: Total Installation Cost_ 
 
@@ -979,7 +994,8 @@ By above mentioned specifications and power output calculations, we can conclude
 
 [^1]:As per Delhi govt guideline ([check here](https://labour.delhi.gov.in/content/current-minimum-wage-rate))
 
-##### 4.3 Diagrams and Working
+
+**4.3 Diagrams and Working**
 
 As shown in the figure, water stored at high elevation falls on the turbine of generator i.e. converting the potential energy of water to mechanical energy of turbine by rotating it. Now, this mechanical energy of turbine is converted to electrical energy with the help of drives. Now this pulsating alternating current is passed through transformers for transmitting to distant use places and finally it passes through ac/dc converters to make it usable at required places.
 
@@ -1004,12 +1020,17 @@ This figure shows connections of various subsystem of the plant along with wire 
 </p>
 
 #### 4.4 Vender's Info
+
+<div align = "center">
+	
 |         Part          |  Link   |
 | :-------------------: | :-----: |
 | Generator-Turbine Set | [Buy Link](https://www.alibaba.com/product-detail/2m-To-4m-Low-Head-500w_1600432599601.html?spm=a2700.galleryofferlist.normal_offer.d_image.45557519SMEriV) |
 |         Wires         |   [Buy Link](https://www.electronicscomp.com/electronic-components/small-electronic-components/wires-cables/silicone-wires/6-to-10-awg/high-quality-ultra-flexible-10awg-silicone-wire-1m-black-1m-red) |
 |    AC-DC Converter    |  [Buy Link](https://www.indiamart.com/proddetail/500w-commercial-battery-charger-22521319248.html)   |
 |  Pipe  |  [Buy Link](https://www.amazon.in/Jal-Pravah-Lapeta-Laminated-Polyethylene/dp/B08DDL56B1/ref=asc_df_B08DDL56B1/?tag=googleshopdes-21&linkCode=df0&hvadid=396984672681&hvpos=&hvnetw=g&hvrand=17875907637404148221&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9302227&hvtargid=pla-965204439826&ext_vrnc=hi&th=1)  |
+	
+</div>
 
 _Table 4.6: Vendor's Info_ 
 
@@ -1025,7 +1046,7 @@ _Table 4.6: Vendor's Info_
 #### [5. Piezoelectricity](#table-of-contents)
 
 
-##### 5.1 Requirements
+**5.1 Requirements**
 
 **5.1.1 Geographical Limitations**
 
@@ -1096,7 +1117,7 @@ Thus, there are no particular geographical restrictions for building piezoelectr
 
 ---
   
-##### 5.3 Diagrams and Working
+**5.3 Diagrams and Working**
 
 
 Below are the CAD models and designs of the proposed piezoelectric energy harvesters with brief description of working model:
@@ -1177,9 +1198,9 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 ---
 
 
-##### 5.4 Bill of Materials
+**5.4 Bill of Materials**
 
-
+<div align = "center">
 
 | Product                                   | <ins>Vendors</ins>                                                        | <ins>Cost in INR(per Piece)</ins> |
 |-------------------------------------------|---------------------------------------------------------------------------|-----------------------------------|
@@ -1189,11 +1210,14 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 | Bimorph actuators                         | Zhejiang Jiakang Electronics Co.,Ltd<br><br>(Imported through TradeIndia) | 100-200                     |
 | Multilayer Actuators(PZT stack actuators) | Ceram Tec (Through IndiaMart)                                             | 2000(Price may vary)              |
 | 3.579MHZ CRYSTAL(Quartz Resonators)       | Diode House(Through IndiaMart)                                            | 10                                |
+	
+</div>
+
 Table 1: Bill of Materials
 
 ---
 
-##### 5.5 Closure
+**5.5 Closure**
 
 1. _Piezoelectric tiles:_ Piezo tiles are usually made of volcanic dust, kaolin, feldspar and PZT and hence are very crystalline in nature.The brittle nature of lead zirconium titanate (PZT) can cause the formation of cracks over time when operating under cyclic loading conditions. Such cracks in the bulk material can reduce performance due to a complex combination of factors. Tiles will work properly for a long time if not broken by any external force without needing any servicing. 
 
