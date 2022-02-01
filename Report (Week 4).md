@@ -422,14 +422,25 @@ Though wind power is a very clean source of energy, it is not so easy to harness
 
 
 <p align = "center">
-	<a href="https://ibb.co/QCPmHL3"><img src="https://i.ibb.co/P9cCWKv/Wind-Power-Density-Potential.png" alt="Wind-Power-Density-Potential" border="0"></a></p>
-<p align = "center">Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png)) 
+	<a href="https://ibb.co/QCPmHL3"><img src="https://i.ibb.co/P9cCWKv/Wind-Power-Density-Potential.png" alt="Wind-Power-Density-Potential" border="0"></a></p> 
 </p>
+
+<p align = "center">
+<b>Fig 1.1 Wind Power Density Potential </b></figcaption>
+</p>
+
+<p align = "center">Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png))
 
 For an Indian household, to generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least more than 5m/s. The wind power potential map shown below explains how the wind power potential is distributed across India? The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states along the western coast. 
 
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a></p>
+</p>
+
+<p align = "center">
+<b>Fig 1.2 Wind Power Potential Map - India </b></figcaption>
+</p>
+
 <p align = "center">Fig.2 - Wind Power Potential Map - India ([Ref. - researchgate](https://www.researchgate.net/publication/332702533_Wind_energy_programme_in_India_Emerging_energy_alternatives_for_sustainable_growth/figures?lo=1&utm_source=google&utm_medium=organic))</p>
 
 
@@ -462,11 +473,12 @@ For an Indian household, to generate a good amount of electricity using wind pow
  | Surface finish | Gelcoat |
 
 </div>
-    
- Table 1(a): Wind Turbine Components Specifications - Nacelle  
-   
+ 
+<p align = "center">
+<b>Table 1.1 Wind Turbine Components Specifications - Nacelle </b></figcaption>
+</p>
 
-   
+
 (2) Rotor:
  
  <div align = "center">
@@ -481,8 +493,10 @@ For an Indian household, to generate a good amount of electricity using wind pow
  | Material used for hub | Aluminum alloy |
 
 </div>
- 
- Table 1(b): Wind Turbine Components Specifications - Rotor
+
+<p align = "center">
+<b>Table 1.2 Wind Turbine Components Specifications - Rotor </b></figcaption>
+</p>
 
      
 (3) Generator:
@@ -513,10 +527,11 @@ For an Indian household, to generate a good amount of electricity using wind pow
 | Working Temperature | -40℃ - 80 ℃ |
 	
 </div>
+      
+<p align = "center">
+<b>Table 1.3 Wind Turbine Components Specifications - Generator </b></figcaption>
+</p>
      
-Table 1(c): Wind Turbine Components Specifications - Generator
-     
-
      
 (4) Tower:
 
@@ -529,7 +544,9 @@ Table 1(c): Wind Turbine Components Specifications - Generator
 
 </div>
 
-Table 1(d): Wind Turbine Components Specifications - Tower
+<p align = "center">
+<b>Table 1.4 Wind Turbine Components Specifications - Tower </b></figcaption>
+</p>
 
 
 **1.2.2 Power generation**
@@ -547,8 +564,10 @@ Table 1(d): Wind Turbine Components Specifications - Tower
  | Output power              | ~210 W                       |
 				  
 </div>
- 
- Table 1(e): Wind Turbine Power Output
+
+<p align = "center">
+<b>Table 1.5 Wind Turbine Power Output </b></figcaption>
+</p>
 
 
 **1.2.3 Cost Analysis**
@@ -566,8 +585,11 @@ Table 1(d): Wind Turbine Components Specifications - Tower
  | **Total**                                | - | ₹29,400 |
 
 </div>
+
+<p align = "center">
+<b>Table 1.6 Bill of Materials for Wind Turbine </b></figcaption>
+</p>
     
- Table 1(f): Bill of Materials for Wind Turbine
 
 **Maintenance cost** 
 All practitioners recommend annual maintenance for the small wind turbine, which involves applying grease to bearings, maintaining the leading edge of wind turbine blades and providing a general inspection.  Therefore, a provision of one skilled mechanic at a daily wage of ₹784 is considered for the maintenance of the system.
@@ -584,20 +606,23 @@ Below is the CAD model of the small wind turbine along with brief description of
 - The horizontal axis small wind turbine (HAWT) is usually placed on a pole, preferably higher than 10 m, to lessen the impact of turbulent, sheared winds forming in close proximity to the ground. But since it is a small wind turbine with relatively less weight and comparably lower power output, the turbine can be put on a variety of existing structures, including roof tops, and rain water tanks, as long as it keeps the turbine's blades clear of the ground and in a continuous stream tube. Still, in our design we have taken a tubular steel pole for placing the wind turbine above obstacles in urban areas. This can be omitted depending on the place where you want to install the turbine and reduce the installation cost.
 
 <p align = "center">
-	<a href="https://ibb.co/XSmL5vq"><img src="https://i.ibb.co/bzpmv8k/CAD-Model-of-Wind-Turbine.jpg" alt="CAD-Model-of-Wind-Turbine" border="0"></a></p>
-<p align = "center">Fig.3 - CAD Model of Wind Turbine</p>
+	<a href="https://ibb.co/XSmL5vq"><img src="https://i.ibb.co/bzpmv8k/CAD-Model-of-Wind-Turbine.jpg" alt="CAD-Model-of-Wind-Turbine" border="0"></a>
+</p>
 
+<p align = "center">
+<b>Fig 1.3 CAD Model of Wind Turbine </b></figcaption>
+</p>
 
 
 After the completion of the mechanical design of the wind turbine, the next step is to look after the electrical connections for energy storage and usage. The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage. Refer to [energy storage section](#9-energy-storage-and-distribution) for more details.
 
 <p align = "center">
-	<a href="https://ibb.co/kQ1RPC9"><img src="https://i.ibb.co/GcTKrSt/Grid-connection-diagram.png" alt="Grid-connection-diagram" border="0"></a></p>
-	<p align = "center">Fig.4 - Wind Turbine Grid Connection Diagram
+	<a href="https://ibb.co/kQ1RPC9"><img src="https://i.ibb.co/GcTKrSt/Grid-connection-diagram.png" alt="Grid-connection-diagram" border="0"></a>
 </p>
 
-
-
+<p align = "center">
+<b>Fig 1.4 Wind Turbine Grid Connection Diagram  </b></figcaption>
+</p>
 
 ---
 
@@ -739,6 +764,7 @@ Negligible Maintenance cost because we have to just clean the solar panels.
 <p align = "center">
 	<a href="https://ibb.co/PrMW0nH"><img src="https://i.ibb.co/51kjwyH/elp.png" alt="elp" border="0"></a>
 </p>
+	
 <p align = "center">
 Fig-3 Solar Panel</b></figcaption>
 </p>
@@ -1497,8 +1523,8 @@ engine followed by an electricity generator then produces power. The
 power is then transferred to the storage system (as depicted by the
 black box) through electrical wires.
 
-<p align = "center"> <img src= "https://i.imgur.com/fmSXrVx.jpg" width= "90%"> </p>
-<p align = "center">Diagram of working of digester and biogas generator</p>
+![biogasplant](https://i.imgur.com/fmSXrVx.jpg "biogasplant")
+<figcaption align = "center"><b>Diagram of working of digester and biogas generator</b></figcaption>
 
 ##### 7.4 Appendix
 
@@ -1566,7 +1592,7 @@ Building the heat renewal system involves the following devices:
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/Ssh7JCR/TEG-Image-modified.jpg" alt="TEG Image-modified" border="0"></a>
 </p>
 
-<p align = "center">Fig 8.1 Thermo electric generator</p>
+Fig 8.1 Thermo electric generator 
 
 
 (2) Household devices : Cooking stove (the primary requirement).
@@ -1625,7 +1651,8 @@ The TEG system contains two dissimilar thermoelectric materials joined at ends w
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/yhfjVrZ/TEG-Working.png" alt="TEG (Working)" border="0"></a>
 </p>
-<p align = "center"> Figure 8.2 Working of a TEG </p>
+
+<center>                              Figure 8.2 Working of a TEG                        </center>
 
 **8.3.2 Installation** 
 	
@@ -1635,7 +1662,7 @@ We will install the TEG's around the burners in the kitchen. The dimensions of a
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/KXrFjHX/Stove-Connection.jpg" alt="Stove Connection" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a>
 </p>
 
-<p align = "center">Figure 8.3 Installation of TEGs in Kitchen</p>
+Figure 8.3 Installation of TEGs in Kitchen 
 
  On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
  
@@ -1874,8 +1901,7 @@ Solar photovoltaic power, being the most contributing in terms of energy product
 
 The following diagram gives us a brief description of the system.
 
-<p align = "center">
-<img src = "https://i.ibb.co/nbvfFqb/week3jpg.jpg" width="90%"></p>
+![enter image description here](https://i.ibb.co/nbvfFqb/week3jpg.jpg)
 The system has been designed to be modular, allowing for: *easy installation, flexibility and user customization*  . Every energy source is paired with its own charge controller which is synchronized with other charge controllers for balanced charging. The chargers are then connected in parallel to both the battery and the inverter allowing for direct pass through of energy. The Inverter is then chosen in accordance with the overall expected system power usage.
 
 The setup is same across all tiers with the main difference between each tier is in the capacity of power and storage.
