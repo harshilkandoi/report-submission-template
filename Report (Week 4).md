@@ -540,20 +540,6 @@ After the completion of the mechanical design of the wind turbine, the next step
 
 
 
-##### References
-
-- “Installing and Maintaining a Small Wind Electric System,” _Energy.gov_. [https://www.energy.gov/energysaver/installing-and-maintaining-small-wind-electric-system](https://www.energy.gov/energysaver/installing-and-maintaining-small-wind-electric-system) (accessed Jan. 11, 2022).
-- “Wind Power for Homes: How To Use Wind Power At Home Today,” _Inspire Clean Energy_. [https://www.inspirecleanenergy.com/blog/sustainable-living/wind-power-for-homes](https://www.inspirecleanenergy.com/blog/sustainable-living/wind-power-for-homes) (accessed Jan. 11, 2022).
-- “Nacelles | How are they manufactured?,” _Windpower Engineering & Development_. https://www.windpowerengineering.com/how-is-a-nacelle-manufactured/ (accessed Jan. 15, 2022).
-- “Frp /grp Wind Turbine Nacelle Cover, Fiberglass Cover,” _indiamart.com_. https://www.indiamart.com/proddetail/frp-grp-wind-turbine-nacelle-cover-fiberglass-cover-23462129073.html (accessed Jan. 15, 2022).
-- “Windmill Blade,” _indiamart.com_. https://www.indiamart.com/proddetail/windmill-blade-17678651497.html (accessed Jan. 17, 2022).
-- LuvSide, “Generators for Wind Turbine Applications - Part 2: How to Pick One | The Windy Blog,” _https://www.luvside.de/en/_. https://www.luvside.de/en/generators-how-to-pick-one/ (accessed Jan. 17, 2022).
-- “400W 12v/24v/48v Alternator, 3 Phase | ATO.com.” https://www.ato.com/400w-alternator (accessed Jan. 17, 2022).
-- “10 Meter Tubular Steel Pole,” _indiamart.com_. https://www.indiamart.com/proddetail/10-meter-tubular-steel-pole-17130969591.html (accessed Jan. 17, 2022).
-- “WINDExchange: Small Wind Guidebook.” https://windexchange.energy.gov/small-wind-guidebook#installation (accessed Jan. 17, 2022).
-- C. J, V. D, and M. Majid, “Wind energy programme in India: Emerging energy alternatives for sustainable growth,” _Energy & Environment_, vol. 30, p. 0958305X1984129, Apr. 2019, doi: [10.1177/0958305X19841297](https://doi.org/10.1177/0958305X19841297).
-- “HAVELLS HRFR PVC 1.5 sq/mm Red 90 m Wire Price in India - Buy HAVELLS HRFR PVC 1.5 sq/mm Red 90 m Wire online at Flipkart.com,” Flipkart.com. https://www.flipkart.com/havells-hrfr-pvc-1-5-sq-mm-red-90-m-wire/p/itmfhws5hzytghze (accessed Feb. 01, 2022).
-
 
 ---
 
@@ -724,29 +710,6 @@ Table-5 Warranty of Different Devices Used
 This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
 
 
-##### References
-
--  ‘1 unit of electricity means 40 Watt Tube Light Running for 25 Hours’. https://www.sciencesstudio.com/2019/08/one-unit-of-electricity-saved.html (accessed Jan. 18, 2022). |
--  ‘Bluebird Solar 395 Watt - 24 Volt Mono PERC Crystalline Solar Panel \| BIS Certified \| High Efficiency \| 5BB A+ Grade Solar Cells \| Junction Box with MC4 Connector \| Home Lighting & Battery Charging : Amazon.in: Garden & Outdoors’. https://www.amazon.in/Bluebird-Solar-395-Watt-Crystalline/dp/B091TV6M9X/ref=asc\_df\_B091TV6M9X/?tag=googleshopdes-21&linkCode=df0&hvadid=396986918571&hvpos=&hvnetw=g&hvrand=14846268478555082580&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1222930393376&ext_vrnc=hi&th=1 (accessed Jan. 18, 2022). |
--  ‘Cost of solar system \| Cost of Solar Panels \| Maintenance Cost of Solar’, Lets Save Electricity, Mar. 11, 2020. https://letsavelectricity.com/cost-of-solar-system-in-india/ (accessed Jan. 18, 2022). |
--  ‘Difference between 3 Star Vs 5 Star Air Conditioners \| Bajaj Finserv’, www.bajajfinserv.in. https://www.bajajfinserv.in/insights/3-star-acs-vs-5-star-acs--which-one-should-you-buy-this-summer (accessed Jan. 18, 2022). |
--  ‘Electricity usage of an Iron - Energy Use Calculator’. https://energyusecalculator.com/electricity_iron.htm (accessed Jan. 18, 2022). |
--  ‘How Much is The Power Consumption of Refrigerator? - Save Electricity’, Lets Save Electricity, Jan. 15, 2020. https://letsavelectricity.com/power-consumption-of-a-refrigerator/ (accessed Jan. 18, 2022). |
-- ‘How to Calculate Geyser Power Consumption?’, Check out Paytm Blog - One and Only Stop for All Your Financial Needs, Nov. 24, 2021. https://paytm.com/blog/bill-payments/electricity-bills/how-to-calculate-geyser-power-consumption/ (accessed Jan. 18, 2022). |
--  ‘L&T (Larsen & Toubro Limited) Three Phase Sub Meter LCD Display 10-60A : Amazon.in: Industrial & Scientific’. https://www.amazon.in/Larsen-Toubro-Limited-Display-10-60A/dp/B09GVWXYWP/ref=asc\_df\_B09GVWXYWP/?tag=googleshopdes-21&linkCode=df0&hvadid=545232819554&hvpos=&hvnetw=g&hvrand=4336388963072329755&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1433459938069&psc=1 (accessed Jan. 18, 2022). |
--  ‘Power Consumption of a Ceiling Fan’, Atomberg, Aug. 03, 2017. https://atomberg.com/power-consumption-of-a-ceiling-fan/ (accessed Jan. 18, 2022). |
--  ‘Room Heater in India: heating as expensive as cooling’, Bijli Bachao, Dec. 04, 2012. https://www.bijlibachao.com/appliances/room-heater-in-india-heating-as-expensive-as-cooling-in-north.html (accessed Jan. 18, 2022). |
--  ‘Solar Panel Mounting Structure Set for 2 Solar Panel (6 Channel, 4 End Clamps, 2 Mid Clamps, 6 Spring Nut M8) : Amazon.in: Garden & Outdoors’. https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc\_df\_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=2597849844069982857&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1457440431503&psc=1 (accessed Jan. 18, 2022). |
--  ‘Solar power system types: equipment needed, costs, pros, and cons’, Solar Reviews. https://www.solarreviews.com/content/blog/what-equipment-do-you-need-for-a-solar-power-system (accessed Jan. 18, 2022). |
--  ‘TV Power Consumption in A Day? - Calculate Any TV Power Consumption.’, Lets Save Electricity, Oct. 25, 2019. https://letsavelectricity.com/how-much-power-does-a-tv-use-in-an-hour/ (accessed Jan. 18, 2022). |
--  M. Ayothi, ‘Washing Machine (Wattage) Power Consumption, Power Saving Tips’, Sep. 29, 2020. https://www.electrical4u.net/energy-calculation/washing-machine-wattage-power-consumption-power-saving-tips/ (accessed Jan. 18, 2022). |
--  ‘What is the Power consumption of a microwave oven? - Save Electricity’, Lets Save Electricity, Jan. 20, 2020. https://letsavelectricity.com/what-is-the-power-consumption-of-a-microwave-oven/ 
-- “Home Solar System: Renewable Energy Solutions for Residential Users.” \_The Economic Times\_, May 28, 2019. \[https://economictimes.indiatimes.com/small-biz/productline/power-generation/home-solar-system-renewable-energy-solutions-for-residential-users/articleshow/69540881.cms?from=mdr\](https://economictimes.indiatimes.com/small-biz/productline/power-generation/home-solar-system-renewable-energy-solutions-for-residential-users/articleshow/69540881.cms?from=mdr). |
-- ELECTRICAL TECHNOLOGY. “What Components Do You Need for Solar Panel System Installation?,” October 20, 2019. \[https://www.electricaltechnology.org/2019/10/components-solar-panel-system-installation.html\](https://www.electricaltechnology.org/2019/10/components-solar-panel-system-installation.html). |
--  “What Is a Solar Tracker, How Does It Work, and How Many Types Are There?” Accessed January 11, 2022. \[https://www.solarpowerworldonline.com/2020/01/what-is-a-solar-tracker-and-how-does-it-work/\](https://www.solarpowerworldonline.com/2020/01/what-is-a-solar-tracker-and-how-does-it-work/). |
-- “Trends in India’s Residential Electricity Consumption \| Centre for Policy Research.” Accessed January 11, 2022. \[https://cprindia.org/news/6519\](https://cprindia.org/news/6519). |
-
-
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -838,14 +801,6 @@ So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
 |  Buck-Boost Converter  |  [Buy Link](https://www.alibaba.com/product-detail/dc-to-dc-buck-boost-converter_62314759637.html?spm=a2700.galleryofferlist.normal_offer.d_title.16847ea0AlKV3x)  |
 |  Brushless DC Motor  |  [Buy Link](https://www.alibaba.com/product-detail/Putian-Vibration-Motor-DC-Brushless-Miniature_62093981315.html?spm=a2700.galleryofferlist.normal_offer.d_title.42743b75ARHtO8&s=p)  |
 
-##### References
-1. ‘Bike powered electricity generators are not sustainable - LOW-TECH MAGAZINE’. https://www.lowtechmagazine.com/2011/05/bike-powered-electricity-generators.html (accessed Jan. 18, 2022).
-2. D. King 00, ‘DIY Electric Bicycle Conversion (Using a Brushless Motor)’, Instructables. https://www.instructables.com/DIY-Electric-Bicycle-Conversion-Using-a-Brushless-/ (accessed Jan. 18, 2022).
-3. R. Suhalka, M. C. Khandelwal, K. K. Sharma, and A. Sanghi, ‘Generation of Electrical Power using Bicycle Pedal’, . Flux, p. 5.
-4. ‘Main Page’, Wikipedia, the free encyclopedia. Feb. 03, 2021. Accessed: Jan. 18, 2022. Available: https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1004593520
-5. ‘Pedal Power! How to Build a Bike Generator’. https://www.popularmechanics.com/technology/gadgets/how-to/a10245/pedal-power-how-to-build-a-bike-generator-16627209/ (accessed Jan. 18, 2022).
-6. 'Linear technology design manual'  
-https://www.analog.com/media/en/technical-documentation/application-notes/an19fc.pdf
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -1030,14 +985,6 @@ This figure shows connections of various subsystem of the plant along with wire 
 |  Pipe  |  [Buy Link](https://www.amazon.in/Jal-Pravah-Lapeta-Laminated-Polyethylene/dp/B08DDL56B1/ref=asc_df_B08DDL56B1/?tag=googleshopdes-21&linkCode=df0&hvadid=396984672681&hvpos=&hvnetw=g&hvrand=17875907637404148221&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9302227&hvtargid=pla-965204439826&ext_vrnc=hi&th=1)  |
 
 _Table 4.6: Vendor's Info_ 
-
-### References
-
-1. “500w Commercial Battery Charger,” indiamart.com. https://www.indiamart.com/proddetail/500w-commercial-battery-charger-22521319248.html (accessed Jan. 18, 2022).
-2. ‘2m To 4m Low Head 500w 600w 800w 1000w Hydro Generator 220v Ac Single Phase Direct Use Water Turbines Hydroelectric Power - Buy 2-4m Head Hydro Generator,Hydro Turbine Low Head2m To 4m Hydro Generator,1000w Hydro Generator Product on Alibaba.com’. [https://www.alibaba.com/product-detail/2m-To-4m-Low-Head-500w_1600432599601.html?spm=a2700.galleryofferlist.normal_offer.d_image.45557519SMEriV](https://www.alibaba.com/product-detail/2m-To-4m-Low-Head-500w_1600432599601.html?spm=a2700.galleryofferlist.normal_offer.d_image.45557519SMEriV) (accessed Jan. 18, 2022).
-3. ‘How much hydropower power can I get - Renewables First’, _Renewables First - The Hydro and Wind Company_. https://www.renewablesfirst.co.uk/hydropower/hydropower-learning-centre/how-much-power-could-i-generate-from-a-hydro-turbine/ (accessed Jan. 18, 2022).
-4. ‘Water Turbine Design and Different Hydro Turbine Designs’, _Alternative Energy Tutorials_. https://www.alternative-energy-tutorials.com/hydro-energy/water-turbine-design.html (accessed Jan. 18, 2022).
-5. Land to House, _Awesome Low Head High Flow Grid Tie Micro Hydro 530 watts!_, (Sep. 02, 2020). Accessed: Jan. 11, 2022. \[Online Video\]. Available: https://www.youtube.com/watch?v=V82SVeVXKcA
 
 ---
 
@@ -1233,33 +1180,6 @@ Table 1: Bill of Materials
       Unfortunately the amount of energy stored during a charging cycle (which took around 4000 steps) was very small and it would take an unrealistic amount of charging cycles to charge a cell phone just by walking alone.  By our calculations, it will take approximately 564,971.78 charging cycles, which amounts to 2,118,644,250 steps, in a best case scenario(when all the piezo plates are contributing). This also means it would take 706,214.75 hours to charge the cell phone.
 
 ---
-
-##### References
-
-- Electronics, Embedded, Power Electronics, Analog Electronics, Internet of Things, Audio Electronics, Electric Vehicles, Events, et al. 2018. “Foot Step Power Generation Circuit Using Piezoelectric Sensor.” Circuit Digest.June 22, 2018.
-
-- “Foot Step Power Generation Circuit Using Piezoelectric Sensor.” n.d. Accessed January 24, 2022. https://circuitdigest.com/electronic-circuits/foot-steppower-generation-circuit-using-piezoelectric-sensor.
-
-- Haynes, Abel. n.d. “Piezoelectric Shoes: Charge Your Mobile Device by Walking!”Instructables. Accessed January 24, 2022. https://www.instructables.com/Piezoelectric-Shoes-Charge-Your-Mobile-Device-by-W/.
-
-- Paul, P Joses, R Samuel Desmond Tutu, W Kevin Richards, and V Maria Jerome. 2015. “Project Power Shoe: Piezoelectric Wireless Power Transfer — A Mobile Charging Technique.” In 2015 IEEE Global Humanitarian Technology Conference (GHTC), 334–39. https://doi.org/10.1109/GHTC.2015.7343993.
-
-- “Piezoelectric Energy Harvesting Shoe.” n.d. Accessed January 24, 2022. https://www.appropedia.org/Piezoelectric_Energy_Harvesting_Shoe.
-
-- Shah, Neel, Laxit Kamdar, Drashti Gokalgandhi, and Ninad Mehendale. n.d.“Walking Pattern Analysis Using Deep Learning for Energy Harvesting Smart Shoes with IoT,” 16
-
-- Anand, Hari, and Binod Kumar Singh. 2019. “Piezoelectric Energy Generation in India: An Empirical Investigation.” Energy Harvesting and Systems 6 (3-4):69–76. https://doi.org/10.1515/ehs-2020-0002.
-
-- “Building a Piezoelectric Generator - Activity.” n.d. TeachEngineering.org. Accessed January 25, 2022.
-     https://www.teachengineering.org/activities/view/uoh_piezo_lesson01_activity1
-     
-- “Building a Piezoelectric Generator - Activity.” n.d. TeachEngineering.org. Accessed January 25, 2022.
-     https://www.teachengineering.org/activities/view/uoh_piezo_lesson01_activity1
-     
-- Upadhyaya, Sumit, Radhika Agrawal, Nishant Baish, Adarsh Shivhare, and Subash Chand Pal. 2020. “PIEZOELECTRIC BLADELESS WIND TURBINE”07 (05): 6.
-
-
----
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
@@ -1393,53 +1313,6 @@ Heat from solar radiation heats the Aluminum surface which in turns heats the ho
 
 A Fresnel lens concentrates the solar radiation to the the aluminum plate to achieve higher temperatures than otherwise possible. The difference in the temperature between two faces of TEG results in electricity generation in accordance with Seebeck Effect.  
 
-
-##### References
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-http://zotero.org/groups/4560418/items/N6L28KUS"
-class="csl-entry">
-
-“Solar Thermoelectric Generator - Sunflower : 5 Steps (with Pictures) -
-Instructables.” n.d. Accessed January 18, 2022.
-<https://www.instructables.com/Solar-Thermoelectric-Generator-Sunflower/>.
-
-</div>
-
-<div id="ref-http://zotero.org/groups/4560418/items/XYGGT97E"
-class="csl-entry">
-
-Sun, Dongfang, Limei Shen, Yu Yao, Huanxin Chen, Shiping Jin, and Hong
-He. 2017. “The Real-Time Study of Solar Thermoelectric Generator.”
-*Applied Thermal Engineering* 119 (June): 347–59.
-<https://doi.org/10.1016/j.applthermaleng.2017.03.075>.
-
-</div>
-
-<div id="ref-http://zotero.org/groups/4560418/items/W7JJGGGI"
-class="csl-entry">
-
-Zhu, Ning, Takeru Matsuura, Ryutaro Suzuki, and Takashi Tsuchiya. 2014.
-“Development of a Small Solar Power Generation System Based on
-Thermoelectric Generator.” *Energy Procedia*, 2013 International
-Conference on Alternative Energy in Developing Countries and Emerging
-Economies (2013 AEDCEE), 52 (January): 651–58.
-<https://doi.org/10.1016/j.egypro.2014.07.121>.
-
-</div>
-
-<div id="ref-http://zotero.org/groups/4560418/items/5DDN285P"
-class="csl-entry">
-
-“Concentrated Solar Thermoelectric Generators - Energy & Environmental
-Science (RSC Publishing).” n.d. Accessed January 25, 2022.
-<https://pubs.rsc.org/en/content/articlelanding/2012/ee/c2ee22248e>.
-
-</div>
-
-</div>
-
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -1537,25 +1410,6 @@ power is then transferred to the storage system (as depicted by the
 black box) through electrical wires.
 
 ![biogasplant](https://i.imgur.com/fmSXrVx.jpg "biogasplant")
-
-##### References
-
-1.  R. Kaushal and A. singh, “Design of Small Scale Anaerobic Digester
-    for Application in Indian Village: A Review,” *Journal of
-    Engineering and Applied Sciences*, vol. 3, pp. 11–16, Sep. 2016.
-2.  “Bison China 5kw Easy-moving Lpg Natural Generator Biogas Electric
-    Generator - Buy Lpg Natural Generator Biogas Electric
-    Generator,4.5kva Electric Gasoline Generator,China Natural Gas
-    Generator Product on Alibaba.com.”
-    <https://www.alibaba.com/product-detail/BISON-CHINA-5KW-Easy-Moving-Lpg_60423755030.html?spm=a2700.7724857.normal_offer.d_title.5b2d59d44KeAi6>
-    (accessed Jan. 18, 2022).
-3.  (https://serialsjournals.com/abstract/34973_ch_5\_f\_-\_paper_5.pdf)
-4.  “Biogas Plant - .75 Cubic Meter Domestic Biogas Plant Manufacturer
-    from Ballabhgarh,” *IndiaMART.com*.
-    https://www.indiamart.com/atmosbioenergy/ (accessed Jan. 18, 2022).
-5.  “vikaspedia Domains.”
-    https://vikaspedia.in/energy/energy-production/bio-energy/biogas
-    (accessed Jan. 25, 2022).
 
 ##### Appendix
 
@@ -1722,16 +1576,6 @@ Figure 8.3 Installation of TEGs in Kitchen
 -  End of life of heat renewal device - The components of heat renewal device (TEG module, battery and charge controller) will be available for repairing and replacement till 10 years (warranty) after the end of sale for the heat renewal device. 
  
 -  Upgradability : The quality of the TEGs would improve over the time, thus it will be possible to incorporate more efficient TEGs into the system after say a period of 10 years.
-
-### References
-
-- _Power generation through Thermoelectric generators_. (n.d.). Retrieved January 18, 2022, from [https://krazytech.com/technical-papers/power-generation-thermoelectric-generators](https://krazytech.com/technical-papers/power-generation-thermoelectric-generators)
-
-- _SP1848-27145 Thermoelectric Power Generator TEG 150°C Peltier Module buy online at Low Price in India—ElectronicsComp.com_. (n.d.). Retrieved January 18, 2022, from [https://www.electronicscomp.com/sp1848-27145-thermoelectric-power-generator-teg-150-degree-c-peltier-module](https://www.electronicscomp.com/sp1848-27145-thermoelectric-power-generator-teg-150-degree-c-peltier-module)
-
-- Thermoelectric generator. (2022). In _Wikipedia_ [https://en.wikipedia.org/w/index.phptitle=Thermoelectric_generator&oldid=1063976547](https://en.wikipedia.org/w/index.php?title=Thermoelectric_generator&oldid=1063976547)
-
-- _Wattage & Power Consumption Of Typical Household Appliances | 106 Appliances in All—Lets Save Electricity_. (n.d.). Retrieved January 18, 2022, from [https://letsavelectricity.com/wattage-power-consumption-of-household-appliances/](https://letsavelectricity.com/wattage-power-consumption-of-household-appliances/)
 
 ### Image credits
 
@@ -1942,18 +1786,6 @@ The following diagram gives us a brief description of the system.
 The system has been designed to be modular, allowing for: *easy installation, flexibility and user customization*  . Every energy source is paired with its own charge controller which is synchronized with other charge controllers for balanced charging. The chargers are then connected in parallel to both the battery and the inverter allowing for direct pass through of energy. The Inverter is then chosen in accordance with the overall expected system power usage.
 
 The setup is same across all tiers with the main difference between each tier is in the capacity of power and storage.
-##### References
-
-1. Martin Johnson - Off Grid Living, _EASIEST Off Grid Solar Power System Battery Bank_, (Oct. 10, 2020). Accessed: Jan. 19, 2022. [Online]. Available: [https://www.youtube.com/watch?v=lGs0VPKM1jU](https://www.youtube.com/watch?v=lGs0VPKM1jU)
- 2. D. A. Mse and L. P. Mse, _The Ultimate Solar Power Design Guide: Less Theory More Practice_. Digital Publishing Limited, 2015.
-
- 4. D. A. Mse and L. P. Mse, _The Truth About Solar Panels: The Book That Solar Manufacturers, Vendors, Installers And DIY Scammers Don’t Want You To Read_. Digital Publishing Limited, 2015.
- 5. O. E. Olabode, T. O. Ajewole, I. K. Okakwu, A. S. Alayande, and D. O. Akinyele, “Hybrid power systems for off-grid locations: A comprehensive review of design technologies, applications and future trends,” _Scientific African_, vol. 13, p. e00884, Sep. 2021, doi: [10.1016/j.sciaf.2021.e00884](https://doi.org/10.1016/j.sciaf.2021.e00884).
- 6. “Solar Charge Controller Types, Working Functionality and Applications,” _ElProCus - Electronic Projects for Engineering Students_, Nov. 06, 2013. [https://www.elprocus.com/solar-charge-controller/](https://www.elprocus.com/solar-charge-controller/) (accessed Jan. 19, 2022).
- 7. “MULTIPLE INPUT CHARGE CONTROLLER FOR RENEWABLE ENERGY,” _Microcontrollers Lab_, Oct. 19, 2015. [https://microcontrollerslab.com/multiple-input-charge-controller-renewable-energy-sources/](https://microcontrollerslab.com/multiple-input-charge-controller-renewable-energy-sources/) (accessed Jan. 19, 2022).
-6. "Mixing solar panels – Dos and Don’ts • SOLAR POWER SECRETS.” [https://solarpanelsvenue.com/mixing-solar-panels/](https://solarpanelsvenue.com/mixing-solar-panels/) (accessed Jan. 19, 2022).
-7. “Solar Charge Controller Sizing and How to Choose One,” _Renogy United States_. [https://www.renogy.com/blog/solar-charge-controller-sizing-and-how-to-choose-one-/](https://www.renogy.com/blog/solar-charge-controller-sizing-and-how-to-choose-one-/) (accessed Jan. 19, 2022).
-8. “What Cables Do I Need For My Power Inverter?,” _Wagan Corporation_. [https://wagan.com/blogs/news/customer-question-what-cables-do-i-need-for-my-power-inverter](https://wagan.com/blogs/news/customer-question-what-cables-do-i-need-for-my-power-inverter) (accessed Jan. 19, 2022).
 
 ##### Appendix : Product links And Product Detail/Specifications
 ***Chargers***
@@ -2004,4 +1836,110 @@ However, a turbine's lifespan can be increased by regular monitoring and mainten
 
 ### References
 	    
+**Wind**
+	    
+[1] “Installing and Maintaining a Small Wind Electric System,” _Energy.gov_. https://www.energy.gov/energysaver/installing-and-maintaining-small-wind-electric-system (accessed Jan. 11, 2022).
+[2] “Wind Power for Homes: How To Use Wind Power At Home Today,” _Inspire Clean Energy_. https://www.inspirecleanenergy.com/blog/sustainable-living/wind-power-for-homes (accessed Jan. 11, 2022).
+[3] “Nacelles | How are they manufactured?,” _Windpower Engineering & Development_. https://www.windpowerengineering.com/how-is-a-nacelle-manufactured/ (accessed Jan. 15, 2022).
+[4] “Frp /grp Wind Turbine Nacelle Cover, Fiberglass Cover,” _indiamart.com_. https://www.indiamart.com/proddetail/frp-grp-wind-turbine-nacelle-cover-fiberglass-cover-23462129073.html (accessed Jan. 15, 2022).
+[5] “Windmill Blade,” _indiamart.com_. https://www.indiamart.com/proddetail/windmill-blade-17678651497.html (accessed Jan. 17, 2022).
+[6] LuvSide, “Generators for Wind Turbine Applications - Part 2: How to Pick One | The Windy Blog,” _https://www.luvside.de/en/_. https://www.luvside.de/en/generators-how-to-pick-one/ (accessed Jan. 17, 2022).
+[7] “400W 12v/24v/48v Alternator, 3 Phase | ATO.com.” https://www.ato.com/400w-alternator (accessed Jan. 17, 2022).
+[8] “10 Meter Tubular Steel Pole,” _indiamart.com_. https://www.indiamart.com/proddetail/10-meter-tubular-steel-pole-17130969591.html (accessed Jan. 17, 2022).
+[9] “WINDExchange: Small Wind Guidebook.” https://windexchange.energy.gov/small-wind-guidebook#installation (accessed Jan. 17, 2022).
+[10] C. J, V. D, and M. Majid, “Wind energy programme in India: Emerging energy alternatives for sustainable growth,” _Energy & Environment_, vol. 30, p. 0958305X1984129, Apr. 2019, doi: [10.1177/0958305X19841297](https://doi.org/10.1177/0958305X19841297).
+[11] “HAVELLS HRFR PVC 1.5 sq/mm Red 90 m Wire Price in India - Buy HAVELLS HRFR PVC 1.5 sq/mm Red 90 m Wire online at Flipkart.com,” Flipkart.com. https://www.flipkart.com/havells-hrfr-pvc-1-5-sq-mm-red-90-m-wire/p/itmfhws5hzytghze (accessed Feb. 01, 2022).
+	    
+	    
+**Solar**
+	    
 
+[1] ‘1 unit of electricity means 40 Watt Tube Light Running for 25 Hours’. https://www.sciencesstudio.com/2019/08/one-unit-of-electricity-saved.html (accessed Jan. 18, 2022). 
+[2] ‘Bluebird Solar 395 Watt - 24 Volt Mono PERC Crystalline Solar Panel \| BIS Certified \| High Efficiency \| 5BB A+ Grade Solar Cells \| Junction Box with MC4 Connector \| Home Lighting & Battery Charging : Amazon.in: Garden & Outdoors’. https://www.amazon.in/Bluebird-Solar-395-Watt-Crystalline/dp/B091TV6M9X/ref=asc\_df\_B091TV6M9X/?tag=googleshopdes-21&linkCode=df0&hvadid=396986918571&hvpos=&hvnetw=g&hvrand=14846268478555082580&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1222930393376&ext_vrnc=hi&th=1 (accessed Jan. 18, 2022). 
+[3] ‘Cost of solar system \| Cost of Solar Panels \| Maintenance Cost of Solar’, Lets Save Electricity, Mar. 11, 2020. https://letsavelectricity.com/cost-of-solar-system-in-india/ (accessed Jan. 18, 2022). 
+[4] ‘Difference between 3 Star Vs 5 Star Air Conditioners \| Bajaj Finserv’, www.bajajfinserv.in. https://www.bajajfinserv.in/insights/3-star-acs-vs-5-star-acs--which-one-should-you-buy-this-summer (accessed Jan. 18, 2022). 
+[5] ‘Electricity usage of an Iron - Energy Use Calculator’. https://energyusecalculator.com/electricity_iron.htm (accessed Jan. 18, 2022). 
+[6] ‘How Much is The Power Consumption of Refrigerator? - Save Electricity’, Lets Save Electricity, Jan. 15, 2020. https://letsavelectricity.com/power-consumption-of-a-refrigerator/ (accessed Jan. 18, 2022). 
+[7] ‘How to Calculate Geyser Power Consumption?’, Check out Paytm Blog - One and Only Stop for All Your Financial Needs, Nov. 24, 2021. https://paytm.com/blog/bill-payments/electricity-bills/how-to-calculate-geyser-power-consumption/ (accessed Jan. 18, 2022). 
+[8] ‘L&T (Larsen & Toubro Limited) Three Phase Sub Meter LCD Display 10-60A : Amazon.in: Industrial & Scientific’. https://www.amazon.in/Larsen-Toubro-Limited-Display-10-60A/dp/B09GVWXYWP/ref=asc\_df\_B09GVWXYWP/?tag=googleshopdes-21&linkCode=df0&hvadid=545232819554&hvpos=&hvnetw=g&hvrand=4336388963072329755&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1433459938069&psc=1 (accessed Jan. 18, 2022). 
+[9]  ‘Power Consumption of a Ceiling Fan’, Atomberg, Aug. 03, 2017. https://atomberg.com/power-consumption-of-a-ceiling-fan/ (accessed Jan. 18, 2022). 
+[10]  ‘Room Heater in India: heating as expensive as cooling’, Bijli Bachao, Dec. 04, 2012. https://www.bijlibachao.com/appliances/room-heater-in-india-heating-as-expensive-as-cooling-in-north.html (accessed Jan. 18, 2022). 
+[11] ‘Solar Panel Mounting Structure Set for 2 Solar Panel (6 Channel, 4 End Clamps, 2 Mid Clamps, 6 Spring Nut M8) : Amazon.in: Garden & Outdoors’. https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc\_df\_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=2597849844069982857&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1457440431503&psc=1 (accessed Jan. 18, 2022). 
+[12] ‘Solar power system types: equipment needed, costs, pros, and cons’, Solar Reviews. https://www.solarreviews.com/content/blog/what-equipment-do-you-need-for-a-solar-power-system (accessed Jan. 18, 2022). 
+[13] ‘TV Power Consumption in A Day? - Calculate Any TV Power Consumption.’, Lets Save Electricity, Oct. 25, 2019. https://letsavelectricity.com/how-much-power-does-a-tv-use-in-an-hour/ (accessed Jan. 18, 2022). 
+[14] M. Ayothi, ‘Washing Machine (Wattage) Power Consumption, Power Saving Tips’, Sep. 29, 2020. https://www.electrical4u.net/energy-calculation/washing-machine-wattage-power-consumption-power-saving-tips/ (accessed Jan. 18, 2022). 
+[15] ‘What is the Power consumption of a microwave oven? - Save Electricity’, Lets Save Electricity, Jan. 20, 2020. https://letsavelectricity.com/what-is-the-power-consumption-of-a-microwave-oven/ 
+[16] “Home Solar System: Renewable Energy Solutions for Residential Users.” \_The Economic Times\_, May 28, 2019. \[https://economictimes.indiatimes.com/small-biz/productline/power-generation/home-solar-system-renewable-energy-solutions-for-residential-users/articleshow/69540881.cms?from=mdr\](https://economictimes.indiatimes.com/small-biz/productline/power-generation/home-solar-system-renewable-energy-solutions-for-residential-users/articleshow/69540881.cms?from=mdr). 
+[17] ELECTRICAL TECHNOLOGY. “What Components Do You Need for Solar Panel System Installation?,” October 20, 2019. \[https://www.electricaltechnology.org/2019/10/components-solar-panel-system-installation.html\](https://www.electricaltechnology.org/2019/10/components-solar-panel-system-installation.html). 
+[18] “What Is a Solar Tracker, How Does It Work, and How Many Types Are There?” Accessed January 11, 2022. \[https://www.solarpowerworldonline.com/2020/01/what-is-a-solar-tracker-and-how-does-it-work/\](https://www.solarpowerworldonline.com/2020/01/what-is-a-solar-tracker-and-how-does-it-work/). |
+[19] “Trends in India’s Residential Electricity Consumption \| Centre for Policy Research.” Accessed January 11, 2022. \[https://cprindia.org/news/6519\](https://cprindia.org/news/6519). 
+
+
+**Mechanical**
+	    
+[1] ‘Bike powered electricity generators are not sustainable - LOW-TECH MAGAZINE’. https://www.lowtechmagazine.com/2011/05/bike-powered-electricity-generators.html (accessed Jan. 18, 2022).
+[2] D. King 00, ‘DIY Electric Bicycle Conversion (Using a Brushless Motor)’, Instructables. https://www.instructables.com/DIY-Electric-Bicycle-Conversion-Using-a-Brushless-/ (accessed Jan. 18, 2022).
+[3] R. Suhalka, M. C. Khandelwal, K. K. Sharma, and A. Sanghi, ‘Generation of Electrical Power using Bicycle Pedal’, . Flux, p. 5.
+[4] ‘Main Page’, Wikipedia, the free encyclopedia. Feb. 03, 2021. Accessed: Jan. 18, 2022. Available: https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1004593520
+[5] ‘Pedal Power! How to Build a Bike Generator’. https://www.popularmechanics.com/technology/gadgets/how-to/a10245/pedal-power-how-to-build-a-bike-generator-16627209/ (accessed Jan. 18, 2022).
+[6] 'Linear technology design manual'  https://www.analog.com/media/en/technical-documentation/application-notes/an19fc.pdf (accessed Jan. 18, 2022).
+	    
+**Hydro Electricity**
+	    
+
+[1] “500w Commercial Battery Charger,” indiamart.com. https://www.indiamart.com/proddetail/500w-commercial-battery-charger-22521319248.html (accessed Jan. 18, 2022).
+[2] ‘2m To 4m Low Head 500w 600w 800w 1000w Hydro Generator 220v Ac Single Phase Direct Use Water Turbines Hydroelectric Power - Buy 2-4m Head Hydro Generator,Hydro Turbine Low Head2m To 4m Hydro Generator,1000w Hydro Generator Product on Alibaba.com’. https://www.alibaba.com/product-detail/2m-To-4m-Low-Head-500w_1600432599601.html?spm=a2700.galleryofferlist.normal_offer.d_image.45557519SMEriV (accessed Jan. 18, 2022).
+[3] ‘How much hydropower power can I get - Renewables First’, _Renewables First - The Hydro and Wind Company_. https://www.renewablesfirst.co.uk/hydropower/hydropower-learning-centre/how-much-power-could-i-generate-from-a-hydro-turbine/ (accessed Jan. 18, 2022).
+[4] ‘Water Turbine Design and Different Hydro Turbine Designs’, _Alternative Energy Tutorials_. https://www.alternative-energy-tutorials.com/hydro-energy/water-turbine-design.html (accessed Jan. 18, 2022).
+[5] Land to House, _Awesome Low Head High Flow Grid Tie Micro Hydro 530 watts!_, (Sep. 02, 2020). Accessed: Jan. 11, 2022. \[Online Video\]. Available: https://www.youtube.com/watch?v=V82SVeVXKcA
+
+	    
+**Piezoelectricity**
+	    
+[1] Electronics, Embedded, Power Electronics, Analog Electronics, Internet of Things, Audio Electronics, Electric Vehicles, Events, et al. 2018. “Foot Step Power Generation Circuit Using Piezoelectric Sensor.” Circuit Digest.June 22, 2018.
+[2] “Foot Step Power Generation Circuit Using Piezoelectric Sensor”. https://circuitdigest.com/electronic-circuits/foot-steppower-generation-circuit-using-piezoelectric-sensor (accessed Jan. 24, 2022).
+[3] A. Haynes, ‘Piezoelectric Shoes: Charge Your Mobile Device by Walking!’, Instructables. https://www.instructables.com/Piezoelectric-Shoes-Charge-Your-Mobile-Device-by-W/ (accessed Feb. 01, 2022).
+[4]P. J. Paul, R. S. D. Tutu, W. K. Richards, and V. M. Jerome, ‘Project power shoe: Piezoelectric wireless power transfer — A mobile charging technique’, in 2015 IEEE Global Humanitarian Technology Conference (GHTC), Oct. 2015, pp. 334–339. doi: 10.1109/GHTC.2015.7343993.
+[5]‘Piezoelectric Energy Harvesting Shoe’. https://www.appropedia.org/Piezoelectric_Energy_Harvesting_Shoe (accessed Feb. 01, 2022).
+[6] Shah, Neel, Laxit Kamdar, Drashti Gokalgandhi, and Ninad Mehendale. n.d.“Walking Pattern Analysis Using Deep Learning for Energy Harvesting Smart Shoes with IoT,” 16
+[7]H. Anand and B. K. Singh, ‘Piezoelectric energy generation in India: an empirical investigation’, Energy Harvesting and Systems, vol. 6, no. 3–4, pp. 69–76, Jul. 2019, doi: 10.1515/ehs-2020-0002.
+[8]‘Building a Piezoelectric Generator - Activity’, TeachEngineering.org. https://www.teachengineering.org/activities/view/uoh_piezo_lesson01_activity1 (accessed Feb. 01, 2022).  
+[9] Upadhyaya, Sumit, Radhika Agrawal, Nishant Baish, Adarsh Shivhare, and Subash Chand Pal. 2020. “PIEZOELECTRIC BLADELESS WIND TURBINE”07 (05): 6.
+
+**Thermoelectricity**
+	    
+[1] jiovine, ‘Solar Thermoelectric Generator - Sunflower’, Instructables. https://www.instructables.com/Solar-Thermoelectric-Generator-Sunflower/ (accessed Feb. 01, 2022).
+[2] D. Sun, L. Shen, Y. Yao, H. Chen, S. Jin, and H. He, ‘The real-time study of solar thermoelectric generator’, Applied Thermal Engineering, vol. 119, pp. 347–359, Jun. 2017, doi: 10.1016/j.applthermaleng.2017.03.075.
+[3] N. Zhu, T. Matsuura, R. Suzuki, and T. Tsuchiya, ‘Development of a Small Solar Power Generation System based on Thermoelectric Generator’, Energy Procedia, vol. 52, pp. 651–658, Jan. 2014, doi: 10.1016/j.egypro.2014.07.121.
+[4]L. L. Baranowski, G. J. Snyder, and E. S. Toberer, ‘Concentrated solar thermoelectric generators’, Energy Environ. Sci., vol. 5, no. 10, pp. 9055–9067, Sep. 2012, doi: 10.1039/C2EE22248E.
+
+
+	
+**Electricity from biogas**
+	
+[1] R. Kaushal and A. singh, “Design of Small Scale Anaerobic Digester for Application in Indian Village: A Review,” *Journal of Engineering and Applied Sciences*, vol. 3, pp. 11–16, Sep. 2016.
+[2]‘Bison China 5kw Easy-moving Lpg Natural Generator Biogas Electric Generator - Buy Lpg Natural Generator Biogas Electric Generator,4.5kva Electric Gasoline Generator,China Natural Gas Generator Product on Alibaba.com’. https://www.alibaba.com/product-detail/BISON-CHINA-5KW-Easy-Moving-Lpg_60423755030.html?spm=a2700.7724857.normal_offer.d_title.5b2d59d44KeAi6 (accessed Feb. 01, 2022).
+[3]‘Serials Publications’. https://www.serialsjournals.com/ (accessed Feb. 01, 2022).
+[4]‘Manufacturer of Biogas Plant & Portable Bio Gas Plant by Atmos Bio Energy, Ballabhgarh’, IndiaMART.com. https://www.indiamart.com/atmosbioenergy/ (accessed Feb. 01, 2022).
+[5]‘vikaspedia Domains’. https://vikaspedia.in/energy/energy-production/bio-energy/biogas (accessed Feb. 01, 2022).
+	    
+	    
+**Waste Heat Re-use**
+	    
+[1]R. Bandakkanavar, ‘Power generation through Thermoelectric generators’, Krazytech, Jan. 17, 2015. https://krazytech.com/technical-papers/power-generation-thermoelectric-generators (accessed Feb. 01, 2022).
+[2]‘SP1848-27145 Thermoelectric Power Generator TEG 150°C Peltier Module buy online at Low Price in India - ElectronicsComp.com’. https://www.electronicscomp.com/sp1848-27145-thermoelectric-power-generator-teg-150-degree-c-peltier-module (accessed Feb. 01, 2022).
+[3]‘Thermoelectric generator’, Wikipedia. Jan. 05, 2022. Accessed: Feb. 01, 2022. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Thermoelectric_generator&oldid=1063976547
+[4]‘Wattage & Power Consumption Of Typical Household Appliances | 106 Appliances in All’, Lets Save Electricity, Apr. 08, 2020. https://letsavelectricity.com/wattage-power-consumption-of-household-appliances/ (accessed Feb. 01, 2022).
+
+	    
+**Energy Storage And Distribution**
+	    
+[1] ‘EASIEST Off Grid Solar Power System Battery Bank - YouTube’. https://www.youtube.com/watch?v=lGs0VPKM1jU&ab_channel=MartinJohnson-OffGridLiving (accessed Feb. 01, 2022).
+[2] D. A. Mse and L. P. Mse, _The Ultimate Solar Power Design Guide: Less Theory More Practice_. Digital Publishing Limited, 2015.
+[3] D. A. Mse and L. P. Mse, _The Truth About Solar Panels: The Book That Solar Manufacturers, Vendors, Installers And DIY Scammers Don’t Want You To Read_. Digital Publishing Limited, 2015.
+[4] O. E. Olabode, T. O. Ajewole, I. K. Okakwu, A. S. Alayande, and D. O. Akinyele, ‘Hybrid power systems for off-grid locations: A comprehensive review of design technologies, applications and future trends’, Scientific African, vol. 13, p. e00884, Sep. 2021, doi: 10.1016/j.sciaf.2021.e00884.
+[5] ‘Solar Charge Controller Types, Working Functionality and Applications’, ElProCus - Electronic Projects for Engineering Students, Nov. 06, 2013. https://www.elprocus.com/solar-charge-controller/ (accessed Feb. 01, 2022).
+[6] ‘MULTIPLE INPUT CHARGE CONTROLLER FOR RENEWABLE ENERGY’. https://microcontrollerslab.com/multiple-input-charge-controller-renewable-energy-sources/ (accessed Feb. 01, 2022).
+[7] ‘Mixing solar panels – Dos and Don’ts • SOLAR POWER SECRETS’. https://solarpanelsvenue.com/mixing-solar-panels/ (accessed Feb. 01, 2022).
+[8] ‘Solar Charge Controller Sizing and How to Choose One - Renogy United States’. https://www.renogy.com/blog/solar-charge-controller-sizing-and-how-to-choose-one-/ (accessed Feb. 01, 2022).
+[9] ‘Customer Question: What Cables Do I Need For My Power Inverter?’, Wagan Corporation. https://wagan.com/blogs/news/customer-question-what-cables-do-i-need-for-my-power-inverter (accessed Feb. 01, 2022).
