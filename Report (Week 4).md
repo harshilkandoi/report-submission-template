@@ -509,7 +509,9 @@ Table 1(c): Wind Turbine Components Specifications - Generator
     
  Table 1(f): Bill of Materials for Wind Turbine
 
- 
+**Maintenance cost** 
+All practitioners recommend annual maintenance for the small wind turbine, which involves applying grease to bearings, maintaining the leading edge of wind turbine blades and providing a general inspection.  Therefore, a provision of one skilled mechanic at a daily wage of ₹784 is considered for the maintenance of the system.
+
 
 ##### 1.3 Diagrams and Working
 
@@ -1981,6 +1983,20 @@ The setup is same across all tiers with the main difference between each tier is
 	    
 ### Closure
 
+**Wind**
+	    
+According to different studies and data shared by the manufacturers of small horizontal-axis wind turbines, the average life span of a small wind turbine is nearly 20 years (with regular maintenance). The individual lifetime of the components specified above is given below to give a more thorough idea. It should be noted that the assigned lifetimes are those expected by the practitioners who manufactured the systems and can vary in the real world.
+
+ | Parts                      | Lifetime |
+ | :----------------: | :---------------: |
+ | Blades | 20-25 years|
+ | Gearbox | 8-10 years|
+ | Generator | 15-20 years |
+ | Tubular-steel tower | More than 25 years|
+ 
+ Table 4: Lifespan of Wind Turbine Parts
+ 
+However, a turbine's lifespan can be increased by regular monitoring and maintenance. This can be done by assessing the asset's state and comparing it to the turbine's predicted lifespan based on expected loads and fatigue, and environmental considerations for the wind energy location. By such regular assessments, one can know whether the continued operation of the turbine is possible or any components need replacing to extend its lifespan. However, the maintenance costs will increase as the structure ages.
 	    
 	   
 ### Image Credits
