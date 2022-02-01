@@ -723,7 +723,7 @@ This system is designed to fulfill requirements of a household without consuming
 
 
 
-#### 3. Mechanical 
+#### [3. Mechanical](#table-of-contents) 
 
 ##### Requirements
 
@@ -806,7 +806,9 @@ So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
 \pagebreak
 </div>
 
-#### 4. Hydroelectricity
+
+
+#### [4. Hydroelectricity](#table-of-contents)
 
 ##### Requirements
 
@@ -995,7 +997,7 @@ _Table 4.6: Vendor's Info_
 
 
 
-#### 5. Piezoelectricity
+#### [5. Piezoelectricity](#table-of-contents)
 
 
 ##### Requirements
@@ -1188,7 +1190,7 @@ Table 1: Bill of Materials
 
 
 
-#### 6. Thermoelectricity
+#### [6. Thermoelectricity](#table-of-contents)
 
 
 ##### Requirements
@@ -1319,7 +1321,7 @@ A Fresnel lens concentrates the solar radiation to the the aluminum plate to ach
 </div>
 
 
-#### 7. Electricity from biogas
+#### [7. Electricity from biogas](#table-of-contents)
 
 ##### Requirements
 
@@ -1449,7 +1451,7 @@ black box) through electrical wires.
 
 
 
-#### 8. Waste Heat Re-use
+#### [8. Waste Heat Re-use](#table-of-contents)
 
 #### 8.1 Requirements
 
@@ -1591,7 +1593,7 @@ Figure 8.3 Installation of TEGs in Kitchen
 
 
 
-### 9. Energy Storage And Distribution
+### [9. Energy Storage And Distribution](#table-of-contents)
 
 ##### Requirements
 
