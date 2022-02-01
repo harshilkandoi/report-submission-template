@@ -145,6 +145,7 @@ Table-3.1c <span  class="emphasized"> Plus</span> tier Wires specification
  - **Batteries**  --- *heart of the energy storage system*
 	 - *Lead-Acid* based batteries are used here to for their superior capacity at any given cost.
 	 - The Number of batteries used is the optimum number for running. Number of batteries can also be reduced to 4, if there is a budget constraint.
+<div align="center">
 
  |                     |             |
   | :-----------------: | :---------: |
@@ -155,6 +156,8 @@ Table-3.1c <span  class="emphasized"> Plus</span> tier Wires specification
   |Weight|52Kg|
   |     *Cost* per piece| 11000 INR  |
   |Country of Origin | India|
+  	
+</div>
   <p align = "center">
 Table-3.2a <span  class="emphasized"> Base</span> tier Battery specification
 </p>
