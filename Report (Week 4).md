@@ -77,11 +77,11 @@ geometry : margin = 2cm
 >> 
 >> [9. Energy Storage And Distribution](#9-energy-storage-and-distribution)
 >
-> [closure](#closure)
+> [Closure](#Closure)
 > 
-> [image credits](#image credits)
+> [Image Credits](#Image Credits)
 > 
-> [references](#references)
+> [References](#References)
 
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -332,6 +332,25 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 </div>
 
 
+
+### Workflow Structure
+
+
+### List of Abbreviations
+
+
+
+### List of tables
+
+
+
+### List of figures
+
+
+
+
+
+
 ### To Do
 - First check the geographical and basic requirements of the system you wish to incorporate in your customized design,
 - Then check out if you can bear the one time installation and maintainence costs
@@ -343,6 +362,12 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
+
+
+
+### Mindmap
+
+
 
 
 ### Designed System 
@@ -1949,7 +1974,16 @@ The setup is same across all tiers with the main difference between each tier is
 1. https://www.moglix.com/solar-universe-india-240w-300va-off-grid-solar-inverter-sui-300va-12v-inverter/mp/msn75dqrwmyv92?s_kwcid=AL!10177!3!455163737679
 2. https://www.batteryboss.in/battery/amaron-current-short-tubular-ar165st36-165ah?gclid=CjwKCAiA866PBhAYEiwANkIneBXM18Txykd1zZI6e8ariXiibsEJGPcKpdkfLRhUIXP1jYE3u4_pQRoCE90QAvD_BwE
 
+	    
+	    
+	    
+### Closure
 
----
+	    
+	   
+### Image Credits
+	    
 
+### References
+	    
 
