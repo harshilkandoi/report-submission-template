@@ -79,7 +79,7 @@ geometry : margin = 2cm
 >
 > [Closure](#Closure)
 > 
-> [Image Credits](#Image Credits)
+> [Image Credits](#image-credits)
 > 
 > [References](#References)
 
@@ -88,7 +88,7 @@ geometry : margin = 2cm
 </div>
 
 
-###  Authors 
+###  [Authors](#table-of-contents) 
 
 <font size = "2">
 
@@ -246,7 +246,7 @@ geometry : margin = 2cm
 
 
 
-### Documentation
+### [Documentation](#table-of-contents)
 
 
 Details of authorisers:-
@@ -283,7 +283,7 @@ Details of authorisers:-
 </div>
 
 
-###  Readability Indices 
+###  [Readability Indices](#table-of-contents) 
 
 #### Document Statistics
 
@@ -313,7 +313,7 @@ Details of authorisers:-
 
 
 
-### Abstract 
+### [Abstract](#table-of-contents) 
 
 - We are designing a modular energy generation system, which can be assembled completely or in parts depending on your geographical limitations and cost bearing capabilities.
 We have mentioned the requirements needed (geographical/structural/machinery wise etc..) for each portion of the system to be assembled , and the user can choose the model which fits his/her budget after checking their geographical compatibility. 
@@ -332,10 +332,8 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 </div>
 
 
+### [Workflow Structure](#table-of-contents)
 
-### Workflow Structure
-
-### Workflow Structure
 <p>&nbsp;</p>
 
 <p align = "center">
@@ -375,22 +373,22 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 <p>&nbsp;</p>
 
 
-### List of Abbreviations
+### [List of Abbreviations](#table-of-contents)
 
 
 
-### List of tables
+### [List of tables](#table-of-contents)
 
 
 
-### List of figures
+### [List of figures](#table-of-contents)
 
 
 
 
 
 
-### To Do
+### [To Do](#table-of-contents)
 - First check the geographical and basic requirements of the system you wish to incorporate in your customized design,
 - Then check out if you can bear the one time installation and maintainence costs
 - After finalizing the selected systems based on the above two points, select the tier system for energy storage and distribution based on the energy generated in your system and the cost affordability.
@@ -404,7 +402,7 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 
 
-### Mindmap
+### [Mindmap](#table-of-contents)
 
 
 
@@ -2223,10 +2221,10 @@ The average life of the power plant is assumed to be 30 years(except generator).
 Table 2: Lifespan of Hydro-Electricty Plant
 
 
-### Image Credits
+### [Image Credits](#table-of-contents)
 	    
 
-### References
+### [References](#table-of-contents)
 	    
 **Wind**
 	    
