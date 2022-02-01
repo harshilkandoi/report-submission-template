@@ -32,7 +32,7 @@ geometry : margin = 2cm
 
 
 
-###   Table of Contents 
+### Table of Contents 
 
 <br>
 <br>
@@ -370,7 +370,7 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 
 
-### Designed System 
+### [Designed System](#table-of-contents) 
 	
 	
 #### 1. Wind
