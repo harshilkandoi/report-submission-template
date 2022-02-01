@@ -1603,13 +1603,22 @@ The system works under all weather conditions.
 
 (1)  Fixed domestic biogas plant :
 
+<div align = "center">
+
 |                    |                 |
 |--------------------|-----------------|
 | Plant Capacity     | 1 cubic meter   |
 | Area To Be Covered | 4 sq.feet       |
 | Storage Holer Size | 0.6 cubic metre |
+	
+</div>
 
-<b>Table 7.1 - Values of important measures</b>
+<p align = "center">
+<b>Table 7.1 Values of important measures </b></figcaption>
+</p>
+
+
+
 (2) BISON CHINA 5KW Easy-Moving Biogas Electric Generator:
 
 -   *Characteristics*:
@@ -1652,19 +1661,23 @@ month.
 
 **7.2.3 Cost Analysis**
 
+<div align = "center">
+
 | Part                                                  | Cost(Rs) |
 |-------------------------------------------------------|----------|
 | Fixed domestic biogas plant                           | 22800    |
 | BISON CHINA 5KW Easy-Moving Biogas Electric Generator | 14900    |
+	
+</div>
+
+<p align = "center">
+<b>Table 7.2 Costs  </b></figcaption>
+</p>
 
 *Installation costs*: 14900+22800= 33700 + minor costs like inlet/outlet
 pipes.  
 *Maintenance costs*: 2% of capital cost per annum \~ 1000 rupees per
 annum .
-
-<b>Table 7.2 - Costs</b>
-
-
 
 **7.2.4 Vendor Information**:
 
@@ -1685,9 +1698,15 @@ black box) through electrical wires.
 
 <p align = "center">
 <img src ="https://i.imgur.com/fmSXrVx.jpg" width= "90%"></p>
-<p align = "center">Diagram of working of digester and biogas generator</p>
+
+<p align = "center">
+<b>Fig 7.1 Diagram of working of digester and biogas generator </b></figcaption>
+</p>
+
 
 ##### 7.4 Appendix
+
+<div align = "center">
 
 | Engine               |                |
 |----------------------|----------------|
@@ -1718,8 +1737,12 @@ black box) through electrical wires.
 | 20GP               | 136set                     |
 | 40HQ               | 292set                     |
 
+</div>
 
-<b>Table 7.3 - Description and values of required items</b>
+<p align = "center">
+<b>Table 7.3 Description and values of required items </b></figcaption>
+</p>
+
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
