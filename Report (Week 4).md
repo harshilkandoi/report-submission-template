@@ -79,6 +79,7 @@ geometry : margin = 2cm
 > 
 > [References](#References)
 
+
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
@@ -2299,6 +2300,11 @@ The setup is same across all tiers with the main difference between each tier is
 2. https://www.batteryboss.in/battery/amaron-current-short-tubular-ar165st36-165ah?gclid=CjwKCAiA866PBhAYEiwANkIneBXM18Txykd1zZI6e8ariXiibsEJGPcKpdkfLRhUIXP1jYE3u4_pQRoCE90QAvD_BwE
 
 	    	    
+		    
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
 
 ### [References](#table-of-contents)
 	    
