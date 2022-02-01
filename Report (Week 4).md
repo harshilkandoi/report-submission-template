@@ -642,6 +642,11 @@ Different regions on the globe get different amount of sunlight at different ang
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
 </p>
+
+<p align = "center">
+<b>Fig 2.1 Sun and Earth </b></figcaption>
+</p>
+
 <p align = "center">
 Fig-1 Sun and Earth ([ck-12](https://flexbooks.ck12.org/cbook/ck-12-middle-school-earth-science-flexbook-2.0/section/10.13/primary/lesson/solar-energy-and-latitude-ms-es/))
 </p>	
@@ -651,6 +656,12 @@ India, being partly tropical and sub-tropical, receives sunlight all round the y
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/YkFQCbR/Solar-India.jpg" alt="Solar-India" border="0"></a>
 </p>
+
+<p align = "center">
+<b>Fig 2.2 Solar Energy Map India </b></figcaption>
+</p>
+
+
 <p align = "center">
 Fig-2 Solar Energy Map India ([geographyandyou](https://geographyandyou.com/solar-power-in-india/))
 </p>
@@ -692,7 +703,7 @@ Assuming house will have bright sunlight for 5 hours daily.
 </div>
 
 <p align = "center">
-Table-1 Energy Generation
+<b>Table 2.1 Energy Generation </b></figcaption>
 </p>
 
 **2.2.3 Cost Analysis**
@@ -710,9 +721,9 @@ Table-1 Energy Generation
 |Total Costs    |    ||122485|
 
 </div>
-	
+
 <p align = "center">
-Table-2 Cost Analysis for Top Tier
+<b>Table 2.2 Cost Analysis for Top Tier </b></figcaption>
 </p>
 
 
@@ -728,8 +739,9 @@ Table-2 Cost Analysis for Top Tier
 
 </div>
 
+
 <p align = "center">
-Table-3 Cost Analysis for Base Tier
+<b>Table 2.3 Cost Analysis for Base Tier </b></figcaption>
 </p>
 
 
@@ -745,10 +757,10 @@ Table-3 Cost Analysis for Base Tier
 
 </div>
 
-<p align = "center">
-Table-4 Cost Analysis for Economy Tier
-</p>
 
+<p align = "center">
+<b>Table 2.4 Cost Analysis for Economy Tier </b></figcaption>
+</p>
 
 *Maintenance Cost*
 
@@ -764,10 +776,11 @@ Negligible Maintenance cost because we have to just clean the solar panels.
 <p align = "center">
 	<a href="https://ibb.co/PrMW0nH"><img src="https://i.ibb.co/51kjwyH/elp.png" alt="elp" border="0"></a>
 </p>
-	
+
 <p align = "center">
-Fig-3 Solar Panel</b></figcaption>
+<b>Fig 2.3 Solar Panel </b></figcaption>
 </p>
+	
 
 - After light strikes these photovoltaic cells, the kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
 - These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
@@ -788,13 +801,12 @@ The life of this solar grid system is approximately 40-50 years (with 25 years i
 	
 </div>
 
+
 <p align = "center">
-Table-5 Warranty of Different Devices Used
+<b>Table 2.5 Warranty of Different Devices Used  </b></figcaption>
 </p>
 
-
 This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
-
 
 ---
 <div style = "page-break-after: always; visibility: hidden">
