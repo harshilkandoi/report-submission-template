@@ -1858,7 +1858,7 @@ We will install the TEG's around the burners in the kitchen. The dimensions of a
 </p>
 
 <p align = "center">
-<b>Fig 8.3 Installation of TEGs in Kitchen< </b></figcaption>
+<b>Fig 8.3 Installation of TEGs in Kitchen </b></figcaption>
 </p>
 
 On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
@@ -1904,11 +1904,19 @@ On connecting the joined ends to a battery through charge controller, we can cha
 1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10$C^\circ$ to 40$C^\circ$ , Ideal temperature range of 25-35$C^\circ$
 2. *Space and Area:*
 
+<div align = "center">
+
 |Tier |Volume (in litres) |Area (cm$\times$cm)|
 |--|--|--|
 |*Plus* |480  | 80 $\times$ 50|
 |*Base*|513|77 $\times$ 60|
 |*Economy*|162|54 $\times$ 40|
+
+</div>
+
+<p align = "center">
+<b>Table 9.1 </b></figcaption>
+</p>
 
 --- 
 
@@ -1918,7 +1926,7 @@ On connecting the joined ends to a battery through charge controller, we can cha
   *Chargers* --- *per source*
 The chargers used are of the MPPT (Maximum power point tracking) type are preferred , which allows for networking and better efficiency compared to PWM type.
 	  
-	
+<div align = "center">
 
 | Source | Specification | Cost (INR) |
 |--------|---------------|------------|
@@ -1929,6 +1937,12 @@ The chargers used are of the MPPT (Maximum power point tracking) type are prefer
 | *combustion*  |*not required*(direct(ac-dc) inverter connection)  | -
 | *Hydro* |12V/24V *Ethan* 30A MPPT charge controllers  |5000
 | *Mechanical*|12/24V *sunzter Trak* 10A MPPT controller| 1800
+	
+</div>
+
+<p align = "center">
+<b>Table 9.2 </b></figcaption>
+</p>
 
 The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
 
@@ -1941,6 +1955,8 @@ The sources Mentioned above are the major Power sources and other power sources 
  - **Batteries**  --- *heart of the energy storage system*
 	 - $LiFePO_4$ based batteries are used as they are a perfect combination of Energy density, Life Span, Weight and Safety. Even though, there are more cheaper alternatives (Lead-Acid Batteries) but the advantages are worth the extra cost.
 	 - The Number of batteries used is the minimum number required, but the number can be increased based on requirement and backup time required
+
+<div align = "center">
 
  |                     |             |
   | :-----------------: | :---------: |
@@ -1955,10 +1971,18 @@ The sources Mentioned above are the major Power sources and other power sources 
   **No. of Units :-** 5  (Connected in parallel)
   **Cost :-** 2,15,000 INR ( 2,887.5 USD)
 
+</div>
+
+<p align = "center">
+<b>Table 9.3  </b></figcaption>
+</p>
+
 
  - **Inverter** (with charger)  -- *DC to AC converter*
 	 - The invertor is used to convert the DC power from the various chargers and the battery system to AC power for domestic consumption. 
-	 - It also allows for AC power Sources such as the Biogas' generator to charge the battery. In a complete power failure situation, It also allows for Connection to the electrical grid or to a fuel based generator. 
+	 - It also allows for AC power Sources such as the Biogas' generator to charge the battery. In a complete power failure situation, It also allows for Connection to the electrical grid or to a fuel based generator.
+
+<div align = "center">
 
 |                     |             |
   | :-----------------: | :---------: |
@@ -1969,6 +1993,12 @@ The sources Mentioned above are the major Power sources and other power sources 
   |Weight |31.9Kg|
   |Size|28$\times$ 30.5 $\times$ 38 cm|
   **Cost :-** 22500 INR
+
+</div>
+
+<p align = "center">
+<b>Table 9.4  </b></figcaption>
+</p>
   
  
 **Power And Energy**
@@ -1992,6 +2022,8 @@ The sources Mentioned above are the major Power sources and other power sources 
 	 - *Lead-Acid* based batteries are used here to for their superior capacity at any given cost.
 	 - The Number of batteries used is the optimum number for running. Number of batteries can also be reduced to 4, if there is a budget constraint.
 
+<div align = "center">
+
  |                     |             |
   | :-----------------: | :---------: |
   |       Manufacturer       |   LUMINOUS     |
@@ -2004,10 +2036,18 @@ The sources Mentioned above are the major Power sources and other power sources 
   **No. of Units :-** 6  (Connected in 2S3P configuration)
   **Cost :-** 66,000 INR 
 
+</div>
+
+<p align = "center">
+<b>Table 9.5  </b></figcaption>
+</p>
+
  - **Inverter** (with charger)  -- *DC to AC converter*
 	 - The invertor is used to convert the DC power from the various chargers and the battery system to AC power for domestic consumption. 
 	 - It also allows for AC power Sources such as the Biogas' generator to charge the battery. In a complete power failure situation, It also allows for Connection to the electrical grid or to a fuel based generator. 
 
+<div align = "center">
+	
 |                     |             |
   | :-----------------: | :---------: |
   |       Manufacturer       |   Exide     |
@@ -2016,6 +2056,13 @@ The sources Mentioned above are the major Power sources and other power sources 
   |VA rating |1.015VA|
   |Weight |11.9Kg|
   |Dimensions|35 $\times$ 30 $\times$ 25|
+	
+</div>
+
+<p align = "center">
+<b>Table 9.6 </b></figcaption>
+</p>
+
   **Cost :-** 5500 INR
 **Power And Energy**
 
@@ -2037,6 +2084,8 @@ The sources Mentioned above are the major Power sources and other power sources 
  - **Batteries**  --- *heart of the energy storage system*
 	 - *Lead-Acid* based batteries are used here to for their superior capacity at any given cost.
 	 
+<div align = "center">
+	
  |                     |             |
   | :-----------------: | :---------: |
   |       Manufacturer       |   AMARON    |
@@ -2046,10 +2095,15 @@ The sources Mentioned above are the major Power sources and other power sources 
   |Weight|59Kg|
   |     *Cost* per piece| 12000 INR  |
   |Country of Origin | India|
+	
+</div>
+
+<p align = "center">
+<b>Table 9.7  </b></figcaption>
+</p>
+
   **No. of Units :-** 1  
   **Cost :-** 12,000 INR 
-
-
 
 
  - **Inverter** (with charger)  -- *DC to AC converter*
@@ -2058,6 +2112,8 @@ The sources Mentioned above are the major Power sources and other power sources 
 	 - Due to unavailability of Proper inverters for the required capacity, we need to either design such a system for less than 2000 INR or use an Inverter cum solar charger.
 	 - The specifications are for the combined solar charger with inverter
 
+<div align = "center">
+
 |                     |             |
   | :-----------------: | :---------: |
   |       Manufacturer       |   Solar Universe     |
@@ -2065,6 +2121,13 @@ The sources Mentioned above are the major Power sources and other power sources 
   |VA rating |300VA|
   |Weight |3 Kg|
   |Max Bulb Power|240W|
+	
+</div>
+
+<p align = "center">
+<b>Table 9.8  </b></figcaption>
+</p>
+
   **Cost :-** 2700 INR
  **Power And Energy**
 
@@ -2089,7 +2152,13 @@ Solar photovoltaic power, being the most contributing in terms of energy product
 The following diagram gives us a brief description of the system.
 
 <p align = "center">
-<img src = "https://i.ibb.co/nbvfFqb/week3jpg.jpg" width="90%"> </p> 
+<img src = "https://i.ibb.co/nbvfFqb/week3jpg.jpg" width="90%"> </p>
+
+<p align = "center">
+<b>Fig 9.1 </b></figcaption>
+</p>
+
+
 The system has been designed to be modular, allowing for: *easy installation, flexibility and user customization*  . Every energy source is paired with its own charge controller which is synchronized with other charge controllers for balanced charging. The chargers are then connected in parallel to both the battery and the inverter allowing for direct pass through of energy. The Inverter is then chosen in accordance with the overall expected system power usage.
 
 The setup is same across all tiers with the main difference between each tier is in the capacity of power and storage.
