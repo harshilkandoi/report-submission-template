@@ -1901,7 +1901,6 @@ On connecting the joined ends to a battery through charge controller, we can cha
 
 **9.1 Requirements
 
-
 **9.1.1 House Requirements**
 1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10$C^\circ$ to 40$C^\circ$ , Ideal temperature range of 25-35$C^\circ$
 2. *Space and Area:*
@@ -1922,7 +1921,7 @@ On connecting the joined ends to a battery through charge controller, we can cha
 
 --- 
 
-##### 9.2 Specification
+**9.2 Specification**
 
 **9.2.1 Charger Specifications**
   *Chargers* --- *per source*
@@ -1948,9 +1947,9 @@ The chargers used are of the MPPT (Maximum power point tracking) type are prefer
 
 The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
 
-##### 9.2.2 Battery-Inverter Specifications
+**9.2.2 Battery-Inverter Specifications**
 
-##### 9.2.2.1 *Plus* tier
+**9.2.2.1 Plus tier**
 
  **Components** 
 
@@ -2017,7 +2016,7 @@ The sources Mentioned above are the major Power sources and other power sources 
 
 
 
-##### 9.2.2.2 *Base* tier
+**9.2.2.2 Base tier**
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -2080,7 +2079,7 @@ The sources Mentioned above are the major Power sources and other power sources 
 
 
 
-##### 9.2.2.3 *Economy* tier
+**9.2.2.3 Economy tier**
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -2144,7 +2143,8 @@ The sources Mentioned above are the major Power sources and other power sources 
  
 ---
 
-##### 9.3 Diagrams and Working
+**9.3 Diagrams and Working**
+
 Unlike living offgrid , offgrid and independent electrical systems are more complicated than normal electrical wiring and must contain the functionalities similar to a national grid like load balancing and maintaining a fairly constant frequency and voltage. The energy Storage and management system essentially does the following functions -
 1.  Fills the gap between electricity generation and usage
 2.  Combines multiple sources into one coherent output
@@ -2165,7 +2165,7 @@ The system has been designed to be modular, allowing for: *easy installation, fl
 
 The setup is same across all tiers with the main difference between each tier is in the capacity of power and storage.
 
-##### 9.4 Appendix : Product links And Product Detail/Specifications
+**9.4 Appendix : Product links And Product Detail/Specifications**
 
 ***Chargers***
 
