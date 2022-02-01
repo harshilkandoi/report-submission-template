@@ -1776,8 +1776,9 @@ Building the heat renewal system involves the following devices:
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/Ssh7JCR/TEG-Image-modified.jpg" alt="TEG Image-modified" border="0"></a>
 </p>
 
-<p align = "center">Fig 8.1 Thermo electric generator</p>
-
+<p align = "center">
+<b>Fig 8.1 Thermo electric generator </b></figcaption>
+</p>
 
 (2) Household devices : Cooking stove (the primary requirement).
 
@@ -1785,6 +1786,7 @@ Building the heat renewal system involves the following devices:
 
 The voltage generated as a result of the temperature difference between the two end of the TEG is depicted in the table below:
 
+<div align = "center">
                                                                                                                
 | 	Temperature	 (C)  |Open Circuit Voltage (V)|Current (mA)	|
 |---------------------|------------------------|----------------|
@@ -1793,8 +1795,13 @@ The voltage generated as a result of the temperature difference between the two 
 |60                   | 2.4                    | 469            |
 |80                   | 3.6                    | 558            |
 |100                  | 4.8                    | 669            |
+	
+</div>
 
-##### Table 8.1 (Characteristics of TEG)
+<p align = "center">
+<b>Table 8.1 Characteristics of TEG </b></figcaption>
+</p>
+
 
 Assuming the temp. difference (between the two plates of the TEG) to be 40˚ C, the power, P = 1.8 x 0.368 = 0.6624 W. This is the power of this single TEG.
 
@@ -1836,7 +1843,11 @@ The TEG system contains two dissimilar thermoelectric materials joined at ends w
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/yhfjVrZ/TEG-Working.png" alt="TEG (Working)" border="0"></a>
 </p>
 
-<p align = "center">Figure 8.2 Working of a TEG</p>
+
+<p align = "center">
+<b>Fig 8.2 Working of a TEG </b></figcaption>
+</p>
+
 
 **8.3.2 Installation** 
 	
@@ -1846,20 +1857,12 @@ We will install the TEG's around the burners in the kitchen. The dimensions of a
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/KXrFjHX/Stove-Connection.jpg" alt="Stove Connection" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a>
 </p>
 
-<p align = "center">Figure 8.3 Installation of TEGs in Kitchen</p>
+<p align = "center">
+<b>Fig 8.3 Installation of TEGs in Kitchen< </b></figcaption>
+</p>
 
- On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
+On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
  
- ```mermaid
- 
- graph LR;
- 
- A[Heat from the Stove];
- B[TEGs];
- C[Storage];
- A --> B;
- B --> C;
- ```
 ---
 
 ### 8.4 Closure
