@@ -1,27 +1,30 @@
 ### Energy Storage And Distribution
 
-##### Requirements
+#### Requirements
 
 
 **House Requirements**
 1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10$C^\circ$ to 40$C^\circ$ , Ideal temperature range of 25-35$C^\circ$
 2. *Space and Area:*
+<div align="center">
 
 |Tier |Volume (in litres) |Area (cm$\times$cm)|
 |--|--|--|
 |*Plus* |480  | 80 $\times$ 50|
 |*Base*|513|77 $\times$ 60|
 |*Economy*|162|54 $\times$ 40|
-
+	
+</div>
+<p align = "center">
+Table-1 Space Requirement for Energy Storage 
+</p>
 --- 
 
-##### Specification
-
-**Charger Specifications**
+#### **Charger Specifications**
   *Chargers* --- *per source*
 The chargers used are of the MPPT (Maximum power point tracking) type are preferred , which allows for networking and better efficiency compared to PWM type.
 	  
-	
+<div align="center">
 
 | Source | Specification | Cost (INR) |
 |--------|---------------|------------|
@@ -31,17 +34,24 @@ The chargers used are of the MPPT (Maximum power point tracking) type are prefer
 | *Wind* |24V 500W *ato* wind turbine MPPT controller  | 8200 (99.82USD)
 | *combustion*  |*not required*(direct(ac-dc) inverter connection)  | -
 | *Hydro* |12V/24V *Ethan* 30A MPPT charge controllers  |5000
-| *Mechanical*|12/24V *sunzter Trak* 10A MPPT controller| 1800
+| *Mechanical*|12/24V *sunzter Trak* 10A MPPT controller| 1800|
+	
+</div>
+<p align = "center">
+Table-2 Charge Controllers Cost
+</p>
 
 The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
 
-##### Battery-Inverter Specifications
+#### Battery-Inverter Specifications
 
 ##### *Plus* tier
 
 
 **Schematic**
-![Plus Tier wiring schematic](https://i.ibb.co/XkF8GZp/plus-without-rendering-final2.jpg "Plus Tier wiring schematic") 
+| ![Plus Tier wiring schematic](https://i.ibb.co/XkF8GZp/plus-without-rendering-final2.jpg "Plus Tier wiring schematic")|
+|:---:|
+| ***Fig-1 Plus Tier wiring schematic***| 
 
 
  **Components** 
@@ -49,6 +59,7 @@ The sources Mentioned above are the major Power sources and other power sources 
  - **Batteries**  --- *heart of the energy storage system*
 	 - $LiFePO_4$ based batteries are used as they are a perfect combination of Energy density, Life Span, Weight and Safety. Even though, there are more cheaper alternatives (Lead-Acid Batteries) but the advantages are worth the extra cost.
 	 - The Number of batteries used is the minimum number required, but the number can be increased based on requirement and backup time required
+<div align="center">
 
  |                     |             |
   | :-----------------: | :---------: |
@@ -60,6 +71,11 @@ The sources Mentioned above are the major Power sources and other power sources 
   |       Nominal capacity       |    100Ah    |
   |       Operating Temperature      |  0$^\circ$C to 50$^\circ$C    |
   |     *Cost* per piece| USD 550 (INR 43000 incl. customs)  |
+  	
+</div>
+<p align = "center">
+Table-3.1a<span  class="emphasized"> Plus</span> tier Battery specification
+</p>
   **No. of Units :-** 5  (Connected in parallel)
   **Cost :-** 2,15,000 INR ( 2,887.5 USD)
 
@@ -67,6 +83,7 @@ The sources Mentioned above are the major Power sources and other power sources 
  - **Inverter** (with charger)  -- *DC to AC converter*
 	 - The invertor is used to convert the DC power from the various chargers and the battery system to AC power for domestic consumption. 
 	 - It also allows for AC power Sources such as the Biogas' generator to charge the battery. In a complete power failure situation, It also allows for Connection to the electrical grid or to a fuel based generator. 
+<div align="center">
 
 |                     |             |
   | :-----------------: | :---------: |
@@ -76,16 +93,28 @@ The sources Mentioned above are the major Power sources and other power sources 
   |VA rating |4KVA|
   |Weight |31.9Kg|
   |Size|28$\times$ 30.5 $\times$ 38 cm|
-  **Cost :-** 22500 INR
+  	
+</div>
+<p align = "center">
+Table-3.1b <span  class="emphasized"> Plus</span> tier Inverter specification
+</p>
+
+**Cost :-** 22500 INR
   - **Wiring and Connectors**
 	  - Connectors : 3000 INR
 
-	   |Size|Length|Cost|
-	  |-|-|-|
+
+
+      |Size|Length|Cost|
+	  |:--:|:--:|:--:|
 	  |4 AWG|10 m|5000 INR|
 	  |12 AWG|5 m|750 INR|
 	  |1/0 AWG|2 m|760 INR|	  
-	  - **Total Cost**: 8500 INR 
+	  <p align = "center">
+Table-3.1c <span  class="emphasized"> Plus</span> tier Wires specification
+</p>
+
+**Total Cost**: 8500 INR 
 - **Enclosure**  
 	- *60 Sqft* of *19mm plywood* 
 	- **Total Cost**: 4800 INR
@@ -106,7 +135,9 @@ The sources Mentioned above are the major Power sources and other power sources 
 
 ##### *Base* tier
 **Schematic**
-![Base Tier wiring schematic](https://i.ibb.co/PWjHnxN/pdf-base-tier-final-1.jpg " Base Tier wiring schematic")
+|![Base Tier wiring schematic](https://i.ibb.co/PWjHnxN/pdf-base-tier-final-1.jpg " Base Tier wiring schematic") |
+|:-:|
+|***Fig-2 Base Tier wiring schematic***|
 
 
  **Components** 
@@ -124,12 +155,16 @@ The sources Mentioned above are the major Power sources and other power sources 
   |Weight|52Kg|
   |     *Cost* per piece| 11000 INR  |
   |Country of Origin | India|
+  <p align = "center">
+Table-3.2a <span  class="emphasized"> Base</span> tier Battery specification
+</p>
   **No. of Units :-** 6  (Connected in 2S3P configuration)
   **Cost :-** 66,000 INR 
 
  - **Inverter** (with charger)  -- *DC to AC converter*
 	 - The invertor is used to convert the DC power from the various chargers and the battery system to AC power for domestic consumption. 
 	 - It also allows for AC power Sources such as the Biogas' generator to charge the battery. In a complete power failure situation, It also allows for Connection to the electrical grid or to a fuel based generator. 
+<div align="center">
 
 |                     |             |
   | :-----------------: | :---------: |
@@ -139,6 +174,11 @@ The sources Mentioned above are the major Power sources and other power sources 
   |VA rating |1.015VA|
   |Weight |11.9Kg|
   |Dimensions|35 $\times$ 30 $\times$ 25|
+  	
+</div>
+  <p align = "center">
+Table-3.2b <span  class="emphasized"> Base</span> tier Inverter specification
+</p>
   **Cost :-** 5500 INR
 
  - **Wiring and Connectors**
@@ -148,7 +188,10 @@ The sources Mentioned above are the major Power sources and other power sources 
 	  |-|-|-|
 	  |4 AWG|2 m|1000 INR|
 	  |12 AWG|4 m|600 INR|
-	  |8 AWG|2 m|760 INR|	  
+	  |8 AWG|2 m|760 INR|	
+	  <p align = "center">
+Table-3.2c <span  class="emphasized"> Base</span> tier Wiring specification
+</p>  
 	  - **Total Cost**: 5400 INR 
 - **Enclosure**  
 	- *75 Sqft* of *1 inch plywood* 
@@ -172,14 +215,16 @@ The sources Mentioned above are the major Power sources and other power sources 
 
 ##### *Economy* tier
 **Schematics**
-![Economy Tier wiring schematic](https://i.ibb.co/417Ndb0/eco.jpg "Economy Tier wiring schematic")
+|![Economy Tier wiring schematic](https://i.ibb.co/417Ndb0/eco.jpg "Economy Tier wiring schematic")|
+|:-:|
+|***Fig-3 Economy Tier wiring schematic***|
 
 
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
 	 - *Lead-Acid* based batteries are used here to for their superior capacity at any given cost.
-	 
+	<div align="center"> 
  |                     |             |
   | :-----------------: | :---------: |
   |       Manufacturer       |   AMARON    |
@@ -189,6 +234,11 @@ The sources Mentioned above are the major Power sources and other power sources 
   |Weight|59Kg|
   |     *Cost* per piece| 12000 INR  |
   |Country of Origin | India|
+  	
+</div>
+<p align = "center">
+Table-3.3a <span  class="emphasized"> Economy</span> tier Battery specification
+</p>
   **No. of Units :-** 1  
   **Cost :-** 12,000 INR 
 
@@ -200,6 +250,7 @@ The sources Mentioned above are the major Power sources and other power sources 
 	 - It also allows for AC power Sources such as the Biogas' generator to charge the battery. In a complete power failure situation, It also allows for Connection to the electrical grid or to a fuel based generator. 
 	 - Due to unavailability of Proper inverters for the required capacity, we need to either design such a system for less than 2000 INR or use an Inverter cum solar charger.
 	 - The specifications are for the combined solar charger with inverter
+<div align="center">
 
 |                     |             |
   | :-----------------: | :---------: |
@@ -208,22 +259,21 @@ The sources Mentioned above are the major Power sources and other power sources 
   |VA rating |300VA|
   |Weight |3 Kg|
   |Max Bulb Power|240W|
+  	
+</div>
+  <p align = "center">
+Table-3.3b <span  class="emphasized"> Economy</span> tier Inverter specification
+</p>
+
   **Cost :-** 2700 INR
  - **Wiring and Connectors**
 	  - Connectors : 600 INR
-
-	  |Size|Length|Cost|
-	  |-|-|-|
-	  |12 AWG|2 m|300 INR|
-	
+	  - **Wiring**: 12 AWG cable of length 2m at a total cost of 300 INR	
 	  - **Total Cost**: 900 INR 
 - **Enclosure**  
 	- *15 Sqft* of *19mm plywood* 
 	- **Total Cost**: 1100 INR
 	
-
-
-
 
  **Power And Energy**
 
