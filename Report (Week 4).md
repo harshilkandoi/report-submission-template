@@ -1567,8 +1567,7 @@ Maintenance cost is near to zero as we only need to ensure the sink is in contac
 - Float the whole device in a water bucket and the top aluminum plate to get hot in the sunlight.
   
 
-  
-  **6.3.2 Working Principle**
+**6.3.2 Working Principle**
 
 <p align = "center">
 	<img src = "https://content.instructables.com/ORIG/F93/ZNQ3/J7MFSOVQ/F93ZNQ3J7MFSOVQ.jpg?auto=webp&frame=1&width=590&height=1024&fit=bounds&md=5d4d6abad4cf0be2298356cfaddbc183"  alt = "Thermo2"  | width = "600" height = "500" >
