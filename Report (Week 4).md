@@ -334,43 +334,6 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 
 ### Workflow Structure
-<p>&nbsp;</p>
-
-<p align = "center">
-	<a href="https://ibb.co/JssLmBn"><img src="https://i.ibb.co/YLL9PR2/GANTT.png" alt="GANTT" border="0"></a>
-</p>
-<p align = "center"><b> Gantt Chart </b>
-</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p align = "center">
-	<a href="https://ibb.co/LpGFNCZ"><img src="https://i.ibb.co/ys3948Q/NETWORK.png" alt="NETWORK" border="0"></a>
-</p>
-<p align = "center"><b> Network Diagram </b>
-</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p align = "center">
-	<a href="https://ibb.co/D4SQC0d"><img src="https://i.ibb.co/Zdkx8q9/WBS.png" alt="WBS" border="0"></a>
-</p>
-<p align = "center"><b> WBS Chart </b>
-</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p align = "center">
-	<a href="https://ibb.co/0jm55rz"><img src="https://i.ibb.co/kg5ZZXP/Resource-Allocation.png" alt="Resource-Allocation" border="0"></a>
-</p>
-<p align = "center"><b> Resource Allocation </b>
-</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 
 ### List of Abbreviations
@@ -424,7 +387,7 @@ Though wind power is a very clean source of energy, it is not so easy to harness
 <figcaption align = "center"><b>Fig.1 - Wind Power Density Potential ([Ref. wikimedia commons](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png))  </b></figcaption>
 </p>
 
-For an Indian household to generate a good amount of electricity using wind power, an average annual wind speed of more than 5m/s is needed. The wind power potential map shown below explains how the wind power potential is distributed across India. The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that the potential is a lot higher in states along the western coast. 
+For an Indian household, to generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least more than 5m/s. The wind power potential map shown below explains how the wind power potential is distributed across India? The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states along the western coast. 
 
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a>
@@ -432,13 +395,15 @@ For an Indian household to generate a good amount of electricity using wind powe
 </p>
 
 
+
 **1.1.2 Other basic requirements**
 
+- The wind turbine should be able to generate a power output to meet the basic energy requirements of a regular household like charging mobile phones and lighting small appliances.
+- An inverter should be used to convert the erratic AC produced by the turbine into DC for energy storage and then back to smoother AC for direct use in the household.
 - Energy storage grid should not be far away from the wind turbine to avoid power loss due to wire resistance.
 - Turbine blades to be made of light materials like carbon fiber or fiber glass, or can also be 3D printed.
 - Length of pole should be high enough to avoid any obstacles, such as trees, houses, in the surrounding and provide an uninterrupted stream flow.
 - The mechanical parts of the turbine, for example, the gear box (used for increasing rpm) will be machined from high tensile steel to ensure wear resistance.
-
 
 
 **1.2 Specifications**
@@ -572,13 +537,13 @@ All practitioners recommend annual maintenance for the small wind turbine, which
 
 **1.3 Diagrams and Working**
 
-Wind turbine designs involve looking over many environmental and mechanical aspects for an efficient and sturdy electrical energy generation system. In our design, we have tried to consider a lot of these factors and kept the design as real as possible. 
+Wind turbine designs involves looking over a lot of environmental and mechanical aspects for an efficient and sturdy electrical energy generation system. In our design, we have tried to considered a lot of these factors and have tried to keep the as real as possible. The actual construction of the wind turbine is a secondary objective and has been taken into optimum consideration during the design phase. But as the design of the wind turbine discussed below is based on existing technology investigated in the literature review and research process it's a little difficult to get the exact specifications ready for construction just by working on the design remotely, therefore, depending upon the resources available and the feasibility of the model the design discussed below can be altered.
 
-Below is the CAD model of the small wind turbine, along with a brief description of some components:
+Below is the CAD model of the small wind turbine along with brief description of some components:
 
-- The blades and rotor are the turbine parts that interact with the wind and are designed to enhance efficiency. Blades are made of light materials with good wear and tear resistance. In this design, we have used fibre-reinforced plastic. And to prevent the material from ageing, a layer of coloured gel is applied to the blade and rotor's external surface. 
+- The blades and rotor are the parts of the turbine that interact with the wind and are designed to enhance efficiency. Blades are made of light materials with good wear and tear resistance, in this design we have used fibre-reinforced plastic. And to prevent the material from ageing, a layer of colored gel is applied to the blade and rotor's external surface. 
 
-- The horizontal axis small wind turbine (HAWT) is usually placed on a pole, preferably higher than 10 m, to lessen the impact of turbulent, sheared winds forming close to the ground. But since it is a small wind turbine with relatively less weight and comparably lower power output, the turbine can be put on a variety of existing structures, including roof tops, and rain water tanks, as long as it keeps the turbine's blades clear of the ground and in a continuous stream tube. Still, in our design, we have taken a tubular steel pole for placing the wind turbine above obstacles in urban areas. This can be omitted depending on where you want to install the turbine and reduce the installation cost.
+- The horizontal axis small wind turbine (HAWT) is usually placed on a pole, preferably higher than 10 m, to lessen the impact of turbulent, sheared winds forming in close proximity to the ground. But since it is a small wind turbine with relatively less weight and comparably lower power output, the turbine can be put on a variety of existing structures, including roof tops, and rain water tanks, as long as it keeps the turbine's blades clear of the ground and in a continuous stream tube. Still, in our design we have taken a tubular steel pole for placing the wind turbine above obstacles in urban areas. This can be omitted depending on the place where you want to install the turbine and reduce the installation cost.
 
 <p align = "center">
 	<a href="https://ibb.co/XSmL5vq"><img src="https://i.ibb.co/bzpmv8k/CAD-Model-of-Wind-Turbine.jpg" alt="CAD-Model-of-Wind-Turbine" border="0"></a>
@@ -588,7 +553,7 @@ Below is the CAD model of the small wind turbine, along with a brief description
 
 
 
-The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage. Refer to [energy storage section](#9-energy-storage-and-distribution) for more details.
+After the completion of the mechanical design of the wind turbine, the next step is to look after the electrical connections for energy storage and usage. The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage. Refer to [energy storage section](#9-energy-storage-and-distribution) for more details.
 
 <p align = "center">
 	<a href="https://ibb.co/kQ1RPC9"><img src="https://i.ibb.co/GcTKrSt/Grid-connection-diagram.png" alt="Grid-connection-diagram" border="0"></a>
@@ -596,7 +561,8 @@ The block diagram shown below shows the big picture of the all electrical connec
 </p>
 
 
-	
+
+
 ---
 
 
@@ -1271,7 +1237,7 @@ Table 1: Bill of Materials
 #### [6. Thermoelectricity](#table-of-contents)
 
 
-##### 6.1 Requirements
+**6.1 Requirements**
 
 **6.1.1 Geographical requirements**
 
@@ -1286,73 +1252,96 @@ The Solar TEG would work well under weather and geographical conditions having h
 Roof of the house must be horizontal plane in order to place the device. House shall use energy for basic needs only, no refrigerators or AC's are installed in the house. 
 
 
-##### 6.2 Specifications
+**6.2 Specifications**
      
 **6.2.1 Components**
     
-(1)  *TEG*
+(1) *TEG*
      
-   *Device Info*
+*Device Info*
+
+<div align = "center">
+   
+ |  |  |
+ |:------------:|:-----------:|
+ | Type | TGM2871.41.5 |
+ | Price | $11.5 = Rs.855 |
+ | No. of Pieces | 6 |
+ | Size | 55mm*55mm*4.2mm |
+ | Resistance | 3.8ohm |
+ | RAC22C Resistor | 2.6ohm |
+ | Coefficient | 0.85 |
+ | Voltage | 12.2V |
+ | Current | 1.65A |
+ | Power | 20.13W |
+ | Efficiency | 5.1 |
+	
+</div>
      
-   |  |  |
-     |:------------:|:-----------:|
-     | Type | TGM2871.41.5 |
-     | Price | $11.5 = Rs.855 |
-     | No. of Pieces | 6 |
-     | Size | 55mm*55mm*4.2mm |
-     | Resistance | 3.8ohm |
-     | RAC22C Resistor | 2.6ohm |
-     | Coefficient | 0.85 |
-     | Voltage | 12.2V |
-     | Current | 1.65A |
-     | Power | 20.13W |
-     | Efficiency | 5.1 |
+*With a battery System*
+ 
+<div align = "center">
      
-   *With a battery System*
-     
-   |  |  |
-     |:------------:|:-----------:|
-     | Temperature cold side | 30C |
-     | Temperature hot side | 200C |
-     | Output Power | 7.2 W |
-     | I load | 0.96 amps |
-     | U load | 7.5 volts |
-     | Rac (at 200C) | 7.8 ohm |
+ |  |  |
+ |:------------:|:-----------:|
+ | Temperature cold side | 30C |
+ | Temperature hot side | 200C |
+ | Output Power | 7.2 W |
+ | I load | 0.96 amps |
+ | U load | 7.5 volts |
+ | Rac (at 200C) | 7.8 ohm |
+	
+</div>
      
 (2) *Aluminum Sheet*
      
-   |  |  |
-     |:------------:|:-----------:|
-     | Size | 22cm x 15cm x 4mm |
-     | Price | Rs. 35 |
-     | Thermal Conductivity | 237 W·m−1·K−1 |
+<div align = "center">
+	
+ |  |  |
+ |:------------:|:-----------:|
+ | Size | 22cm x 15cm x 4mm |
+ | Price | Rs. 35 |
+ | Thermal Conductivity | 237 W·m−1·K−1 |
+	
+</div>
      
 (3) *Heat Sink*
      
-   |  |  |
-     |:------------:|:-----------:|
-     | Model | HEAVY DUTY ALUMINIUM HEAT SINK (Manufacturer : GTX , ASIN(Amazon)  :  B08WLBGPP8 , Item part number  : ALU-250) |
-     | Price | Rs. 1240 |
-     | Size | 250mm x 97mm x 33mm |
-     | No. of Pieces | 2 |
+<div align = "center">
+	
+ |  |  |
+ |:------------:|:-----------:|
+ | Model | HEAVY DUTY ALUMINIUM HEAT SINK (Manufacturer : GTX , ASIN(Amazon)  :  B08WLBGPP8 , Item part number  : ALU-250) |
+ | Price | Rs. 1240 |
+ | Size | 250mm x 97mm x 33mm |
+ | No. of Pieces | 2 |
+	
+</div>
      
-  (4) *Fresnel Lens*
+(4) *Fresnel Lens*
+ 
+<div align = "center">
+	
+ |  |  |
+ |:------------:|:-----------:|
+ | Model | MW-F1000-5 (Chengdu Micromu Technology Co.,Ltd.) |
+ | Price | Rs. 13000 |
+ | Size | 1100mm (Diameter) |
+ | Material | PMMA |
+ | No. of Pieces | 1 |
+
+</div>
      
-   |  |  |
-     |:------------:|:-----------:|
-     | Model | MW-F1000-5 (Chengdu Micromu Technology Co.,Ltd.) |
-     | Price | Rs. 13000 |
-     | Size | 1100mm (Diameter) |
-     | Material | PMMA |
-     | No. of Pieces | 1 |
+(5) *Water Bucket*
      
-  (5) *Water Bucket*
-     
-   |  |  |
-     |:------------:|:-----------:|
-     | Size | 30cm * 30cm * 29cm |
-     | Price | Rs. 200 |
-     
+<div align = "center">
+	
+ |  |  |
+ |:------------:|:-----------:|
+ | Size | 30cm * 30cm * 29cm |
+ | Price | Rs. 200 |
+	
+</div>
      
 **6.2.2 Power generation**
      
@@ -1369,7 +1358,7 @@ Roof of the house must be horizontal plane in order to place the device. House s
 - Total Cost = Rs. 23,945 ~ Rs. 24,000
 
 
-##### 6.3 Diagrams and Working  
+**6.3 Diagrams and Working**  
 
 **6.3.1 Construction**
 
@@ -1386,7 +1375,7 @@ Roof of the house must be horizontal plane in order to place the device. House s
   generate electric power.
   
   
-  <p align = "center">
+<p align = "center">
 	<img src = "https://content.instructables.com/ORIG/F93/ZNQ3/J7MFSOVQ/F93ZNQ3J7MFSOVQ.jpg?auto=webp&frame=1&width=590&height=1024&fit=bounds&md=5d4d6abad4cf0be2298356cfaddbc183"  alt = "Thermo2"  | width = "600" height = "500" >
 </p>
 
@@ -1398,6 +1387,7 @@ Heat from solar radiation heats the Aluminum surface which in turns heats the ho
 A Fresnel lens concentrates the solar radiation to the the aluminum plate to achieve higher temperatures than otherwise possible. The difference in the temperature between two faces of TEG results in electricity generation in accordance with Seebeck Effect.  
 
 ---
+
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
@@ -1682,14 +1672,46 @@ Figure 8.3 Installation of TEGs in Kitchen
 
 
 
-##### Battery-Inverter Specifications
+### [9. Energy Storage And Distribution](#table-of-contents)
 
-##### *Plus* tier
+##### 9.1 Requirements
 
 
-**Schematic**
-![Plus Tier wiring schematic](https://i.ibb.co/XkF8GZp/plus-without-rendering-final2.jpg "Plus Tier wiring schematic") 
+**9.1.1 House Requirements**
+1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10$C^\circ$ to 40$C^\circ$ , Ideal temperature range of 25-35$C^\circ$
+2. *Space and Area:*
 
+|Tier |Volume (in litres) |Area (cm$\times$cm)|
+|--|--|--|
+|*Plus* |480  | 80 $\times$ 50|
+|*Base*|513|77 $\times$ 60|
+|*Economy*|162|54 $\times$ 40|
+
+--- 
+
+##### 9.2 Specification
+
+**9.2.1 Charger Specifications**
+  *Chargers* --- *per source*
+The chargers used are of the MPPT (Maximum power point tracking) type are preferred , which allows for networking and better efficiency compared to PWM type.
+	  
+	
+
+| Source | Specification | Cost (INR) |
+|--------|---------------|------------|
+| *Solar*-*Plus* | 24V/48V 60A *Sparkel* MPPT charge controller | 16500|
+| *Solar*-*Base*| 24V/48V 50A *Smarten* MPPT charge controller | 11440 |
+| *Solar*-*lite*| 12V/24V 30A *Sparkel* PWM Digital Solar Charge Controller | 1100 
+| *Wind* |24V 500W *ato* wind turbine MPPT controller  | 8200 (99.82USD)
+| *combustion*  |*not required*(direct(ac-dc) inverter connection)  | -
+| *Hydro* |12V/24V *Ethan* 30A MPPT charge controllers  |5000
+| *Mechanical*|12/24V *sunzter Trak* 10A MPPT controller| 1800
+
+The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
+
+##### 9.2.2 Battery-Inverter Specifications
+
+##### 9.2.2.1 *Plus* tier
 
  **Components** 
 
@@ -1720,23 +1742,12 @@ Figure 8.3 Installation of TEGs in Kitchen
   |       Manufacturer       |   Luminous     |
   | Name  |  Cruze+, 4KVA  |
   |Battery Volatge|48V|
-  |VA rating |4KVA|
+  |VA rating |4VA|
   |Weight |31.9Kg|
   |Size|28$\times$ 30.5 $\times$ 38 cm|
   **Cost :-** 22500 INR
-  - **Wiring and Connectors**
-	  - Connectors : 3000 INR
-
-	   |Size|Length|Cost|
-	  |-|-|-|
-	  |4 AWG|10 m|5000 INR|
-	  |12 AWG|5 m|750 INR|
-	  |1/0 AWG|2 m|760 INR|	  
-	  - **Total Cost**: 8500 INR 
-- **Enclosure**  
-	- *60 Sqft* of *19mm plywood* 
-	- **Total Cost**: 4800 INR
-	
+  
+ 
 **Power And Energy**
 
  - **11 KWh** amount of *Energy can be stored* (roughly energy required for one days use)
@@ -1745,17 +1756,13 @@ Figure 8.3 Installation of TEGs in Kitchen
 
 **Costs**
 
- - *Initial Setup Cost:-*  **2,53,000 INR** (including Wiring and labour )
+ - *Initial Setup Cost:-*  **2,80,000 INR** (including Wiring and labour )
  - *Maintenance And Running cost:-* virtually none
- - *lifespan:-* *10 Years for the battery* and *15 years for the rest of the system*
+ - *lifespan:-* *10 Years for the battery* and 1*5 years for the rest of the system*
 
 
 
-##### *Base* tier
-**Schematic**
-![Base Tier wiring schematic](https://i.ibb.co/PWjHnxN/pdf-base-tier-final-1.jpg " Base Tier wiring schematic")
-
-
+##### 9.2.2.2 *Base* tier
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1787,22 +1794,6 @@ Figure 8.3 Installation of TEGs in Kitchen
   |Weight |11.9Kg|
   |Dimensions|35 $\times$ 30 $\times$ 25|
   **Cost :-** 5500 INR
-
- - **Wiring and Connectors**
-	  - Connectors : 3000 INR
-
-	  |Size|Length|Cost|
-	  |-|-|-|
-	  |4 AWG|2 m|1000 INR|
-	  |12 AWG|4 m|600 INR|
-	  |8 AWG|2 m|760 INR|	  
-	  - **Total Cost**: 5400 INR 
-- **Enclosure**  
-	- *75 Sqft* of *1 inch plywood* 
-	- **Total Cost**: 9000 INR
-	
-
-
 **Power And Energy**
 
  - **10.2 KWh** amount of *Energy can be stored* (roughly energy required for one days use)
@@ -1810,18 +1801,14 @@ Figure 8.3 Installation of TEGs in Kitchen
  
 **Costs**
 
- - *Initial Setup Cost:-*  **88,700 INR** (including Wiring and labour ) for only battery system
+ - *Initial Setup Cost:-*  **75000 INR** (including Wiring and labour ) for only battery system
  - *Maintenance And Running cost:-* 4000 INR per annum
  - *lifespan:-* *3 Years for the battery* and *10 years for the rest of the system*
 
 
 
 
-##### *Economy* tier
-**Schematics**
-![Economy Tier wiring schematic](https://i.ibb.co/417Ndb0/eco.jpg "Economy Tier wiring schematic")
-
-
+##### 9.2.2.3 *Economy* tier
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
@@ -1856,22 +1843,6 @@ Figure 8.3 Installation of TEGs in Kitchen
   |Weight |3 Kg|
   |Max Bulb Power|240W|
   **Cost :-** 2700 INR
- - **Wiring and Connectors**
-	  - Connectors : 600 INR
-
-	  |Size|Length|Cost|
-	  |-|-|-|
-	  |12 AWG|2 m|300 INR|
-	
-	  - **Total Cost**: 900 INR 
-- **Enclosure**  
-	- *15 Sqft* of *19mm plywood* 
-	- **Total Cost**: 1100 INR
-	
-
-
-
-
  **Power And Energy**
 
  - **1.98 KWh** amount of *Energy can be stored* (roughly energy required for one days use)
@@ -1885,7 +1856,7 @@ Figure 8.3 Installation of TEGs in Kitchen
  
 ---
 
-##### Working
+##### 9.3 Diagrams and Working
 Unlike living offgrid , offgrid and independent electrical systems are more complicated than normal electrical wiring and must contain the functionalities similar to a national grid like load balancing and maintaining a fairly constant frequency and voltage. The energy Storage and management system essentially does the following functions -
 1.  Fills the gap between electricity generation and usage
 2.  Combines multiple sources into one coherent output
@@ -1898,20 +1869,9 @@ The following diagram gives us a brief description of the system.
 The system has been designed to be modular, allowing for: *easy installation, flexibility and user customization*  . Every energy source is paired with its own charge controller which is synchronized with other charge controllers for balanced charging. The chargers are then connected in parallel to both the battery and the inverter allowing for direct pass through of energy. The Inverter is then chosen in accordance with the overall expected system power usage.
 
 The setup is same across all tiers with the main difference between each tier is in the capacity of power and storage.
-##### References
 
-1. Martin Johnson - Off Grid Living, _EASIEST Off Grid Solar Power System Battery Bank_, (Oct. 10, 2020). Accessed: Jan. 19, 2022. [Online]. Available: [https://www.youtube.com/watch?v=lGs0VPKM1jU](https://www.youtube.com/watch?v=lGs0VPKM1jU)
- 2. D. A. Mse and L. P. Mse, _The Ultimate Solar Power Design Guide: Less Theory More Practice_. Digital Publishing Limited, 2015.
+##### 9.4 Appendix : Product links And Product Detail/Specifications
 
- 4. D. A. Mse and L. P. Mse, _The Truth About Solar Panels: The Book That Solar Manufacturers, Vendors, Installers And DIY Scammers Don’t Want You To Read_. Digital Publishing Limited, 2015.
- 5. O. E. Olabode, T. O. Ajewole, I. K. Okakwu, A. S. Alayande, and D. O. Akinyele, “Hybrid power systems for off-grid locations: A comprehensive review of design technologies, applications and future trends,” _Scientific African_, vol. 13, p. e00884, Sep. 2021, doi: [10.1016/j.sciaf.2021.e00884](https://doi.org/10.1016/j.sciaf.2021.e00884).
- 6. “Solar Charge Controller Types, Working Functionality and Applications,” _ElProCus - Electronic Projects for Engineering Students_, Nov. 06, 2013. [https://www.elprocus.com/solar-charge-controller/](https://www.elprocus.com/solar-charge-controller/) (accessed Jan. 19, 2022).
- 7. “MULTIPLE INPUT CHARGE CONTROLLER FOR RENEWABLE ENERGY,” _Microcontrollers Lab_, Oct. 19, 2015. [https://microcontrollerslab.com/multiple-input-charge-controller-renewable-energy-sources/](https://microcontrollerslab.com/multiple-input-charge-controller-renewable-energy-sources/) (accessed Jan. 19, 2022).
-6. "Mixing solar panels – Dos and Don’ts • SOLAR POWER SECRETS.” [https://solarpanelsvenue.com/mixing-solar-panels/](https://solarpanelsvenue.com/mixing-solar-panels/) (accessed Jan. 19, 2022).
-7. “Solar Charge Controller Sizing and How to Choose One,” _Renogy United States_. [https://www.renogy.com/blog/solar-charge-controller-sizing-and-how-to-choose-one-/](https://www.renogy.com/blog/solar-charge-controller-sizing-and-how-to-choose-one-/) (accessed Jan. 19, 2022).
-8. “What Cables Do I Need For My Power Inverter?,” _Wagan Corporation_. [https://wagan.com/blogs/news/customer-question-what-cables-do-i-need-for-my-power-inverter](https://wagan.com/blogs/news/customer-question-what-cables-do-i-need-for-my-power-inverter) (accessed Jan. 19, 2022).
-
-##### Appendix : Product links And Product Detail/Specifications
 ***Chargers***
 
  1. https://www.amazon.in/Sparkel-Smart-Charge-Controller-SPSCC-6048LiMPPT/dp/B094CS2P7V/ref=sr_1_3?crid=LYRI2T533096&keywords=MPPT+60A&qid=1642532993&sprefix=mppt+60a%2Caps%2C259&sr=8-3
@@ -1924,23 +1884,146 @@ The setup is same across all tiers with the main difference between each tier is
 ***Plus*  Tier**
  1. https://www.globalsources.com/LiFePO4-battery/24V-Deep-cycle-battery-100AH-LiFePO4-battery-1177169646p.htm
  2. https://www.amazon.in/Luminous-Cruze-4KVA-Tecknology-Capacity/dp/B07DYQQCV8/ref=asc_df_B07DYQQCV8/?tag=googleshopdes-21&linkCode=df0&hvadid=396988844319&hvpos=&hvnetw=g&hvrand=867541717046943090&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9040178&hvtargid=pla-813895011528&psc=1&ext_vrnc=hi
- 3. [https://www.indiamart.com/proddetail/30-sqmm-electrical-wires-22421971333.html](https://www.indiamart.com/proddetail/30-sqmm-electrical-wires-22421971333.html)
- 4. [https://www.ubuy.co.in/product/1DEKR8C0-4-awg-stranded-thhn-black-wire-100-feet-600-volt-90c](https://www.ubuy.co.in/product/1DEKR8C0-4-awg-stranded-thhn-black-wire-100-feet-600-volt-90c)
- 5. [https://www.electronicscomp.com/high-quality-ultra-flexible-12awg-silicone-wire-5m-red](https://www.electronicscomp.com/high-quality-ultra-flexible-12awg-silicone-wire-5m-red)
- 6. https://www.indiamart.com/proddetail/waterproof-plywood-19-mm-21466753855.html
 
 ***Base* Tier**
 
  1.  https://www.luminousindia.com/rc-18000.html
  2. https://www.powerwale.com/store/exide-inverterz-star-12v-1050va/77569
- 3. https://www.indiamart.com/proddetail/waterproof-plywood-17636095112.html#:~:text=Waterproof%20Plywood%2C%201%20Inch%2C%20Rs,feet%20Pooja%20Ply%20%7C%20ID%3A%2017636095112
- 4. https://www.indiamart.com/proddetail/waterproof-plywood-17636095112.html#:~:text=Waterproof%20Plywood%2C%201%20Inch%2C%20Rs,feet%20Pooja%20Ply%20%7C%20ID%3A%2017636095112
- 5. [https://www.ubuy.co.in/product/1DEKR8C0-4-awg-stranded-thhn-black-wire-100-feet-600-volt-90c](https://www.ubuy.co.in/product/1DEKR8C0-4-awg-stranded-thhn-black-wire-100-feet-600-volt-90c)
- 6. https://www.electronicscomp.com/high-quality-ultra-flexible-12awg-silicone-wire-5m-red
- 7. https://www.electronicscomp.com/high-quality-ultra-flexible-8awg-silicone-wire-1m-red-1m-black
 
 ***Economy* Tier**
 1. https://www.moglix.com/solar-universe-india-240w-300va-off-grid-solar-inverter-sui-300va-12v-inverter/mp/msn75dqrwmyv92?s_kwcid=AL!10177!3!455163737679
 2. https://www.batteryboss.in/battery/amaron-current-short-tubular-ar165st36-165ah?gclid=CjwKCAiA866PBhAYEiwANkIneBXM18Txykd1zZI6e8ariXiibsEJGPcKpdkfLRhUIXP1jYE3u4_pQRoCE90QAvD_BwE
-3. https://www.indiamart.com/proddetail/waterproof-plywood-17636095112.html#:~:text=Waterproof%20Plywood%2C%201%20Inch%2C%20Rs,feet%20Pooja%20Ply%20%7C%20ID%3A%2017636095112
-4. https://www.electronicscomp.com/high-quality-ultra-flexible-12awg-silicone-wire-5m-red
+
+	    
+	    
+	    
+### Closure
+
+**Wind**
+	    
+According to different studies and data shared by the manufacturers of small horizontal-axis wind turbines, the average life span of a small wind turbine is nearly 20 years (with regular maintenance). The individual lifetime of the components specified above is given below to give a more thorough idea. It should be noted that the assigned lifetimes are those expected by the practitioners who manufactured the systems and can vary in the real world.
+
+ | Parts                      | Lifetime |
+ | :----------------: | :---------------: |
+ | Blades | 20-25 years|
+ | Gearbox | 8-10 years|
+ | Generator | 15-20 years |
+ | Tubular-steel tower | More than 25 years|
+ 
+ Table 4: Lifespan of Wind Turbine Parts
+ 
+However, a turbine's lifespan can be increased by regular monitoring and maintenance. This can be done by assessing the asset's state and comparing it to the turbine's predicted lifespan based on expected loads and fatigue, and environmental considerations for the wind energy location. By such regular assessments, one can know whether the continued operation of the turbine is possible or any components need replacing to extend its lifespan. However, the maintenance costs will increase as the structure ages.
+	    
+	   
+### Image Credits
+	    
+
+### References
+	    
+**Wind**
+	    
+[1] “Installing and Maintaining a Small Wind Electric System,” _Energy.gov_. https://www.energy.gov/energysaver/installing-and-maintaining-small-wind-electric-system (accessed Jan. 11, 2022).
+[2] “Wind Power for Homes: How To Use Wind Power At Home Today,” _Inspire Clean Energy_. https://www.inspirecleanenergy.com/blog/sustainable-living/wind-power-for-homes (accessed Jan. 11, 2022).
+[3] “Nacelles | How are they manufactured?,” _Windpower Engineering & Development_. https://www.windpowerengineering.com/how-is-a-nacelle-manufactured/ (accessed Jan. 15, 2022).
+[4] “Frp /grp Wind Turbine Nacelle Cover, Fiberglass Cover,” _indiamart.com_. https://www.indiamart.com/proddetail/frp-grp-wind-turbine-nacelle-cover-fiberglass-cover-23462129073.html (accessed Jan. 15, 2022).
+[5] “Windmill Blade,” _indiamart.com_. https://www.indiamart.com/proddetail/windmill-blade-17678651497.html (accessed Jan. 17, 2022).
+[6] LuvSide, “Generators for Wind Turbine Applications - Part 2: How to Pick One | The Windy Blog,” _https://www.luvside.de/en/_. https://www.luvside.de/en/generators-how-to-pick-one/ (accessed Jan. 17, 2022).
+[7] “400W 12v/24v/48v Alternator, 3 Phase | ATO.com.” https://www.ato.com/400w-alternator (accessed Jan. 17, 2022).
+[8] “10 Meter Tubular Steel Pole,” _indiamart.com_. https://www.indiamart.com/proddetail/10-meter-tubular-steel-pole-17130969591.html (accessed Jan. 17, 2022).
+[9] “WINDExchange: Small Wind Guidebook.” https://windexchange.energy.gov/small-wind-guidebook#installation (accessed Jan. 17, 2022).
+[10] C. J, V. D, and M. Majid, “Wind energy programme in India: Emerging energy alternatives for sustainable growth,” _Energy & Environment_, vol. 30, p. 0958305X1984129, Apr. 2019, doi: [10.1177/0958305X19841297](https://doi.org/10.1177/0958305X19841297).
+[11] “HAVELLS HRFR PVC 1.5 sq/mm Red 90 m Wire Price in India - Buy HAVELLS HRFR PVC 1.5 sq/mm Red 90 m Wire online at Flipkart.com,” Flipkart.com. https://www.flipkart.com/havells-hrfr-pvc-1-5-sq-mm-red-90-m-wire/p/itmfhws5hzytghze (accessed Feb. 01, 2022).
+	    
+	    
+**Solar**
+	    
+
+[1] ‘1 unit of electricity means 40 Watt Tube Light Running for 25 Hours’. https://www.sciencesstudio.com/2019/08/one-unit-of-electricity-saved.html (accessed Jan. 18, 2022). 
+[2] ‘Bluebird Solar 395 Watt - 24 Volt Mono PERC Crystalline Solar Panel \| BIS Certified \| High Efficiency \| 5BB A+ Grade Solar Cells \| Junction Box with MC4 Connector \| Home Lighting & Battery Charging : Amazon.in: Garden & Outdoors’. https://www.amazon.in/Bluebird-Solar-395-Watt-Crystalline/dp/B091TV6M9X/ref=asc\_df\_B091TV6M9X/?tag=googleshopdes-21&linkCode=df0&hvadid=396986918571&hvpos=&hvnetw=g&hvrand=14846268478555082580&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1222930393376&ext_vrnc=hi&th=1 (accessed Jan. 18, 2022). 
+[3] ‘Cost of solar system \| Cost of Solar Panels \| Maintenance Cost of Solar’, Lets Save Electricity, Mar. 11, 2020. https://letsavelectricity.com/cost-of-solar-system-in-india/ (accessed Jan. 18, 2022). 
+[4] ‘Difference between 3 Star Vs 5 Star Air Conditioners \| Bajaj Finserv’, www.bajajfinserv.in. https://www.bajajfinserv.in/insights/3-star-acs-vs-5-star-acs--which-one-should-you-buy-this-summer (accessed Jan. 18, 2022). 
+[5] ‘Electricity usage of an Iron - Energy Use Calculator’. https://energyusecalculator.com/electricity_iron.htm (accessed Jan. 18, 2022). 
+[6] ‘How Much is The Power Consumption of Refrigerator? - Save Electricity’, Lets Save Electricity, Jan. 15, 2020. https://letsavelectricity.com/power-consumption-of-a-refrigerator/ (accessed Jan. 18, 2022). 
+[7] ‘How to Calculate Geyser Power Consumption?’, Check out Paytm Blog - One and Only Stop for All Your Financial Needs, Nov. 24, 2021. https://paytm.com/blog/bill-payments/electricity-bills/how-to-calculate-geyser-power-consumption/ (accessed Jan. 18, 2022). 
+[8] ‘L&T (Larsen & Toubro Limited) Three Phase Sub Meter LCD Display 10-60A : Amazon.in: Industrial & Scientific’. https://www.amazon.in/Larsen-Toubro-Limited-Display-10-60A/dp/B09GVWXYWP/ref=asc\_df\_B09GVWXYWP/?tag=googleshopdes-21&linkCode=df0&hvadid=545232819554&hvpos=&hvnetw=g&hvrand=4336388963072329755&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1433459938069&psc=1 (accessed Jan. 18, 2022). 
+[9]  ‘Power Consumption of a Ceiling Fan’, Atomberg, Aug. 03, 2017. https://atomberg.com/power-consumption-of-a-ceiling-fan/ (accessed Jan. 18, 2022). 
+[10]  ‘Room Heater in India: heating as expensive as cooling’, Bijli Bachao, Dec. 04, 2012. https://www.bijlibachao.com/appliances/room-heater-in-india-heating-as-expensive-as-cooling-in-north.html (accessed Jan. 18, 2022). 
+[11] ‘Solar Panel Mounting Structure Set for 2 Solar Panel (6 Channel, 4 End Clamps, 2 Mid Clamps, 6 Spring Nut M8) : Amazon.in: Garden & Outdoors’. https://www.amazon.in/Mounting-Structure-Channel-Clamps-Spring/dp/B09GT96GQY/ref=asc\_df\_B09GT96GQY/?tag=googleshopdes-21&linkCode=df0&hvadid=545075828533&hvpos=&hvnetw=g&hvrand=2597849844069982857&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061688&hvtargid=pla-1457440431503&psc=1 (accessed Jan. 18, 2022). 
+[12] ‘Solar power system types: equipment needed, costs, pros, and cons’, Solar Reviews. https://www.solarreviews.com/content/blog/what-equipment-do-you-need-for-a-solar-power-system (accessed Jan. 18, 2022). 
+[13] ‘TV Power Consumption in A Day? - Calculate Any TV Power Consumption.’, Lets Save Electricity, Oct. 25, 2019. https://letsavelectricity.com/how-much-power-does-a-tv-use-in-an-hour/ (accessed Jan. 18, 2022). 
+[14] M. Ayothi, ‘Washing Machine (Wattage) Power Consumption, Power Saving Tips’, Sep. 29, 2020. https://www.electrical4u.net/energy-calculation/washing-machine-wattage-power-consumption-power-saving-tips/ (accessed Jan. 18, 2022). 
+[15] ‘What is the Power consumption of a microwave oven? - Save Electricity’, Lets Save Electricity, Jan. 20, 2020. https://letsavelectricity.com/what-is-the-power-consumption-of-a-microwave-oven/ 
+[16] “Home Solar System: Renewable Energy Solutions for Residential Users.” \_The Economic Times\_, May 28, 2019. \[https://economictimes.indiatimes.com/small-biz/productline/power-generation/home-solar-system-renewable-energy-solutions-for-residential-users/articleshow/69540881.cms?from=mdr\](https://economictimes.indiatimes.com/small-biz/productline/power-generation/home-solar-system-renewable-energy-solutions-for-residential-users/articleshow/69540881.cms?from=mdr). 
+[17] ELECTRICAL TECHNOLOGY. “What Components Do You Need for Solar Panel System Installation?,” October 20, 2019. \[https://www.electricaltechnology.org/2019/10/components-solar-panel-system-installation.html\](https://www.electricaltechnology.org/2019/10/components-solar-panel-system-installation.html). 
+[18] “What Is a Solar Tracker, How Does It Work, and How Many Types Are There?” Accessed January 11, 2022. \[https://www.solarpowerworldonline.com/2020/01/what-is-a-solar-tracker-and-how-does-it-work/\](https://www.solarpowerworldonline.com/2020/01/what-is-a-solar-tracker-and-how-does-it-work/). |
+[19] “Trends in India’s Residential Electricity Consumption \| Centre for Policy Research.” Accessed January 11, 2022. \[https://cprindia.org/news/6519\](https://cprindia.org/news/6519). 
+
+
+**Mechanical**
+	    
+[1] ‘Bike powered electricity generators are not sustainable - LOW-TECH MAGAZINE’. https://www.lowtechmagazine.com/2011/05/bike-powered-electricity-generators.html (accessed Jan. 18, 2022).
+[2] D. King 00, ‘DIY Electric Bicycle Conversion (Using a Brushless Motor)’, Instructables. https://www.instructables.com/DIY-Electric-Bicycle-Conversion-Using-a-Brushless-/ (accessed Jan. 18, 2022).
+[3] R. Suhalka, M. C. Khandelwal, K. K. Sharma, and A. Sanghi, ‘Generation of Electrical Power using Bicycle Pedal’, . Flux, p. 5.
+[4] ‘Main Page’, Wikipedia, the free encyclopedia. Feb. 03, 2021. Accessed: Jan. 18, 2022. Available: https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1004593520
+[5] ‘Pedal Power! How to Build a Bike Generator’. https://www.popularmechanics.com/technology/gadgets/how-to/a10245/pedal-power-how-to-build-a-bike-generator-16627209/ (accessed Jan. 18, 2022).
+[6] 'Linear technology design manual'  https://www.analog.com/media/en/technical-documentation/application-notes/an19fc.pdf (accessed Jan. 18, 2022).
+	    
+**Hydro Electricity**
+	    
+
+[1] “500w Commercial Battery Charger,” indiamart.com. https://www.indiamart.com/proddetail/500w-commercial-battery-charger-22521319248.html (accessed Jan. 18, 2022).
+[2] ‘2m To 4m Low Head 500w 600w 800w 1000w Hydro Generator 220v Ac Single Phase Direct Use Water Turbines Hydroelectric Power - Buy 2-4m Head Hydro Generator,Hydro Turbine Low Head2m To 4m Hydro Generator,1000w Hydro Generator Product on Alibaba.com’. https://www.alibaba.com/product-detail/2m-To-4m-Low-Head-500w_1600432599601.html?spm=a2700.galleryofferlist.normal_offer.d_image.45557519SMEriV (accessed Jan. 18, 2022).
+[3] ‘How much hydropower power can I get - Renewables First’, _Renewables First - The Hydro and Wind Company_. https://www.renewablesfirst.co.uk/hydropower/hydropower-learning-centre/how-much-power-could-i-generate-from-a-hydro-turbine/ (accessed Jan. 18, 2022).
+[4] ‘Water Turbine Design and Different Hydro Turbine Designs’, _Alternative Energy Tutorials_. https://www.alternative-energy-tutorials.com/hydro-energy/water-turbine-design.html (accessed Jan. 18, 2022).
+[5] Land to House, _Awesome Low Head High Flow Grid Tie Micro Hydro 530 watts!_, (Sep. 02, 2020). Accessed: Jan. 11, 2022. \[Online Video\]. Available: https://www.youtube.com/watch?v=V82SVeVXKcA
+
+	    
+**Piezoelectricity**
+	    
+[1] Electronics, Embedded, Power Electronics, Analog Electronics, Internet of Things, Audio Electronics, Electric Vehicles, Events, et al. 2018. “Foot Step Power Generation Circuit Using Piezoelectric Sensor.” Circuit Digest.June 22, 2018.
+[2] “Foot Step Power Generation Circuit Using Piezoelectric Sensor”. https://circuitdigest.com/electronic-circuits/foot-steppower-generation-circuit-using-piezoelectric-sensor (accessed Jan. 24, 2022).
+[3] A. Haynes, ‘Piezoelectric Shoes: Charge Your Mobile Device by Walking!’, Instructables. https://www.instructables.com/Piezoelectric-Shoes-Charge-Your-Mobile-Device-by-W/ (accessed Feb. 01, 2022).
+[4]P. J. Paul, R. S. D. Tutu, W. K. Richards, and V. M. Jerome, ‘Project power shoe: Piezoelectric wireless power transfer — A mobile charging technique’, in 2015 IEEE Global Humanitarian Technology Conference (GHTC), Oct. 2015, pp. 334–339. doi: 10.1109/GHTC.2015.7343993.
+[5]‘Piezoelectric Energy Harvesting Shoe’. https://www.appropedia.org/Piezoelectric_Energy_Harvesting_Shoe (accessed Feb. 01, 2022).
+[6] Shah, Neel, Laxit Kamdar, Drashti Gokalgandhi, and Ninad Mehendale. n.d.“Walking Pattern Analysis Using Deep Learning for Energy Harvesting Smart Shoes with IoT,” 16
+[7]H. Anand and B. K. Singh, ‘Piezoelectric energy generation in India: an empirical investigation’, Energy Harvesting and Systems, vol. 6, no. 3–4, pp. 69–76, Jul. 2019, doi: 10.1515/ehs-2020-0002.
+[8]‘Building a Piezoelectric Generator - Activity’, TeachEngineering.org. https://www.teachengineering.org/activities/view/uoh_piezo_lesson01_activity1 (accessed Feb. 01, 2022).  
+[9] Upadhyaya, Sumit, Radhika Agrawal, Nishant Baish, Adarsh Shivhare, and Subash Chand Pal. 2020. “PIEZOELECTRIC BLADELESS WIND TURBINE”07 (05): 6.
+
+**Thermoelectricity**
+	    
+[1] jiovine, ‘Solar Thermoelectric Generator - Sunflower’, Instructables. https://www.instructables.com/Solar-Thermoelectric-Generator-Sunflower/ (accessed Feb. 01, 2022).
+[2] D. Sun, L. Shen, Y. Yao, H. Chen, S. Jin, and H. He, ‘The real-time study of solar thermoelectric generator’, Applied Thermal Engineering, vol. 119, pp. 347–359, Jun. 2017, doi: 10.1016/j.applthermaleng.2017.03.075.
+[3] N. Zhu, T. Matsuura, R. Suzuki, and T. Tsuchiya, ‘Development of a Small Solar Power Generation System based on Thermoelectric Generator’, Energy Procedia, vol. 52, pp. 651–658, Jan. 2014, doi: 10.1016/j.egypro.2014.07.121.
+[4]L. L. Baranowski, G. J. Snyder, and E. S. Toberer, ‘Concentrated solar thermoelectric generators’, Energy Environ. Sci., vol. 5, no. 10, pp. 9055–9067, Sep. 2012, doi: 10.1039/C2EE22248E.
+
+
+	
+**Electricity from biogas**
+	
+[1] R. Kaushal and A. singh, “Design of Small Scale Anaerobic Digester for Application in Indian Village: A Review,” *Journal of Engineering and Applied Sciences*, vol. 3, pp. 11–16, Sep. 2016.
+[2]‘Bison China 5kw Easy-moving Lpg Natural Generator Biogas Electric Generator - Buy Lpg Natural Generator Biogas Electric Generator,4.5kva Electric Gasoline Generator,China Natural Gas Generator Product on Alibaba.com’. https://www.alibaba.com/product-detail/BISON-CHINA-5KW-Easy-Moving-Lpg_60423755030.html?spm=a2700.7724857.normal_offer.d_title.5b2d59d44KeAi6 (accessed Feb. 01, 2022).
+[3]‘Serials Publications’. https://www.serialsjournals.com/ (accessed Feb. 01, 2022).
+[4]‘Manufacturer of Biogas Plant & Portable Bio Gas Plant by Atmos Bio Energy, Ballabhgarh’, IndiaMART.com. https://www.indiamart.com/atmosbioenergy/ (accessed Feb. 01, 2022).
+[5]‘vikaspedia Domains’. https://vikaspedia.in/energy/energy-production/bio-energy/biogas (accessed Feb. 01, 2022).
+	    
+	    
+**Waste Heat Re-use**
+	    
+[1]R. Bandakkanavar, ‘Power generation through Thermoelectric generators’, Krazytech, Jan. 17, 2015. https://krazytech.com/technical-papers/power-generation-thermoelectric-generators (accessed Feb. 01, 2022).
+[2]‘SP1848-27145 Thermoelectric Power Generator TEG 150°C Peltier Module buy online at Low Price in India - ElectronicsComp.com’. https://www.electronicscomp.com/sp1848-27145-thermoelectric-power-generator-teg-150-degree-c-peltier-module (accessed Feb. 01, 2022).
+[3]‘Thermoelectric generator’, Wikipedia. Jan. 05, 2022. Accessed: Feb. 01, 2022. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Thermoelectric_generator&oldid=1063976547
+[4]‘Wattage & Power Consumption Of Typical Household Appliances | 106 Appliances in All’, Lets Save Electricity, Apr. 08, 2020. https://letsavelectricity.com/wattage-power-consumption-of-household-appliances/ (accessed Feb. 01, 2022).
+
+	    
+**Energy Storage And Distribution**
+	    
+[1] ‘EASIEST Off Grid Solar Power System Battery Bank - YouTube’. https://www.youtube.com/watch?v=lGs0VPKM1jU&ab_channel=MartinJohnson-OffGridLiving (accessed Feb. 01, 2022).
+[2] D. A. Mse and L. P. Mse, _The Ultimate Solar Power Design Guide: Less Theory More Practice_. Digital Publishing Limited, 2015.
+[3] D. A. Mse and L. P. Mse, _The Truth About Solar Panels: The Book That Solar Manufacturers, Vendors, Installers And DIY Scammers Don’t Want You To Read_. Digital Publishing Limited, 2015.
+[4] O. E. Olabode, T. O. Ajewole, I. K. Okakwu, A. S. Alayande, and D. O. Akinyele, ‘Hybrid power systems for off-grid locations: A comprehensive review of design technologies, applications and future trends’, Scientific African, vol. 13, p. e00884, Sep. 2021, doi: 10.1016/j.sciaf.2021.e00884.
+[5] ‘Solar Charge Controller Types, Working Functionality and Applications’, ElProCus - Electronic Projects for Engineering Students, Nov. 06, 2013. https://www.elprocus.com/solar-charge-controller/ (accessed Feb. 01, 2022).
+[6] ‘MULTIPLE INPUT CHARGE CONTROLLER FOR RENEWABLE ENERGY’. https://microcontrollerslab.com/multiple-input-charge-controller-renewable-energy-sources/ (accessed Feb. 01, 2022).
+[7] ‘Mixing solar panels – Dos and Don’ts • SOLAR POWER SECRETS’. https://solarpanelsvenue.com/mixing-solar-panels/ (accessed Feb. 01, 2022).
+[8] ‘Solar Charge Controller Sizing and How to Choose One - Renogy United States’. https://www.renogy.com/blog/solar-charge-controller-sizing-and-how-to-choose-one-/ (accessed Feb. 01, 2022).
+[9] ‘Customer Question: What Cables Do I Need For My Power Inverter?’, Wagan Corporation. https://wagan.com/blogs/news/customer-question-what-cables-do-i-need-for-my-power-inverter (accessed Feb. 01, 2022).
