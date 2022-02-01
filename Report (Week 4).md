@@ -1185,10 +1185,10 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 | Product                                   | <ins>Vendors</ins>                                                        | <ins>Cost in INR(per Piece)</ins> |
 |-------------------------------------------|---------------------------------------------------------------------------|-----------------------------------|
-| PTZ ceramic Tiles                         | Shandong Xinming Electronics Co., Ltd.<br><br>(Through alibaba.com)       | 520.66-231.15                     |
+| PTZ ceramic Tiles                         | Shandong Xinming Electronics Co., Ltd.<br><br>(Through alibaba.com)       | 200-500                     |
 | PiezoElectric Plate Circle Shape 27mm     | EngeniusLab <br><br>(Through IndiaMart)                                   | 3.75                              |
 | 1n4007 Diode                              | Electroarc Engineering Solution <br><br>(Through IndiaMart)               | 1                                 |
-| Bimorph actuators                         | Zhejiang Jiakang Electronics Co.,Ltd<br><br>(Imported through TradeIndia) | 97.53- 187.55                     |
+| Bimorph actuators                         | Zhejiang Jiakang Electronics Co.,Ltd<br><br>(Imported through TradeIndia) | 100-200                     |
 | Multilayer Actuators(PZT stack actuators) | Ceram Tec (Through IndiaMart)                                             | 2000(Price may vary)              |
 | 3.579MHZ CRYSTAL(Quartz Resonators)       | Diode House(Through IndiaMart)                                            | 10                                |
 Table 1: Bill of Materials
