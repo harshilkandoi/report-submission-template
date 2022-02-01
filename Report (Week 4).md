@@ -929,13 +929,20 @@ It is advised to use this system in a region that recieves at least 600mm of ave
 
 <p align = "center"><img src="https://i.imgur.com/fy0Mk4v.png" width="90%"></p>
 
-<p align = "center">Fig.4.1 - Average Rainfall in India </p>
+<p align = "center">
+<b>Fig 4.1 - Average Rainfall in India </b></figcaption>
+</p>
+
 
 Here is the map of India with major rivers, if your house is close to any of these river then this system will be feasible.
 (Image Source: [Pinterest](https://in.pinterest.com/pin/619948704924890264/))
+
 <p align = "center"><img src="https://i.imgur.com/9xaje9U.jpg" width="90%"></p>
 
-<p align = "center">Fig.4.2 - Major rivers of India</b></figcaption>
+<p align = "center">
+<b>Fig 4.2 - Major rivers of India </b></figcaption>
+</p>
+
 Waterfalls are also suitable for the feasibility of this system. Any waterfall close to your house with head-height of at least 2m is suitable for this plant.
 
 [List of waterfalls in india](https://en.wikipedia.org/wiki/List_of_waterfalls_in_India_by_height)
@@ -976,7 +983,10 @@ The water turbine is the heart of any hydro power plant. It consists of a number
 
 </div>
 
-_Table 4.1: Hydro-Electricity Turbine Specifications_
+<p align = "center">
+<b>Table 4.1 Hydro-Electricity Turbine Specifications  </b></figcaption>
+</p>
+
 
 _(2) Generator_
 
@@ -996,7 +1006,9 @@ Generators are used to convert rotational energy to electrical energy. The type 
 
 </div>
 
-_Table 4.2: Hydro-Electricity Generator Specifications_
+<p align = "center">
+<b>Table 4.2 Hydro-Electricity Generator Specifications  </b></figcaption>
+</p>
 
 _(3) AC-DC Converter_
 
@@ -1014,7 +1026,10 @@ As the generator gives AC output so to convert AC to DC for charging an AC-DC co
 	
 </div>
 
-_Table 4.3: Hydro-Electricity AC-DC Converter Specifications_
+<p align = "center">
+<b>Table 4.3 Hydro-Electricity AC-DC Converter Specifications </b></figcaption>
+</p>
+
 
 **4.2.2 Power generation**
 
@@ -1040,7 +1055,10 @@ Most of the Hydro-Electric systems used for domestic purposes have η about 75%.
 	
 </div>
 
-_Table 4.4: Hydro-Electricity output power_
+<p align = "center">
+<b>Table 4.4 Hydro-Electricity output power</b></figcaption>
+</p>
+
 
 **4.2.3 Cost Analysis**
 
@@ -1058,7 +1076,10 @@ _Table 4.4: Hydro-Electricity output power_
 	
 </div>
 
-_Table 4.5: Total Installation Cost_ 
+<p align = "center">
+<b>Table 4.5 Total Installation Cost</b></figcaption>
+</p>
+
 
 By above mentioned specifications and power output calculations, we can conclude that this system can help us run basic electric home appliances like television, mini-fridge, mobile chargers etc. Also we can increase the power output by suitably choosing the location to get high flow rate like Northern Indian water-bodies have high flow rate. Thus, by suitably choosing the above mentioned devices we can increase the efficiency and can get higher electricity generation.
 
@@ -1071,23 +1092,29 @@ As shown in the figure, water stored at high elevation falls on the turbine of g
 
 This figure shows a typical model for mini hyrdro-electric plant. The height of the dam from the turbine should be more than 2m.
 <p align = "center"><img src= "https://i.imgur.com/UqiqcmE.png" width="90%"></p>
-<p align = "center">Fig.4.3 - Model of Hydro-Electricity System
 
+<p align = "center">
+<b>Fig 4.3 Model of Hydro-Electricity System </b></figcaption>
 </p>
+
 
 This figure shows the rough dimention of graviational water vorex for the plant. Due to spiral structure water starts spining as enters from inlet. This type of setup is efficient for axial hydro plant.
+
+
 <p align = "center"><img src="https://i.imgur.com/l2aSLEK.png" width="90%"></p>
 
-<p align = "center">Fig.4.4 - Dimenstions of Gravitational Water Vortex
-
+<p align = "center">
+<b>Fig 4.4 Dimenstions of Gravitational Water Vortex </b></figcaption>
 </p>
+
 
 This figure shows connections of various subsystem of the plant along with wire ratings.
 <p align = "center"><img src="https://i.imgur.com/PhWuSBU.jpg" width="90%"></p>
 
-<p align = "center">Fig.4.5 - Circuit Diagram of System
-
+<p align = "center">
+<b>Fig 4.5 Circuit Diagram of System </b></figcaption>
 </p>
+
 
 #### 4.4 Vender's Info
 
@@ -1102,7 +1129,9 @@ This figure shows connections of various subsystem of the plant along with wire 
 	
 </div>
 
-_Table 4.6: Vendor's Info_ 
+<p align = "center">
+<b>Table 4.6 Vendor's Info  </b></figcaption>
+</p>
 
 ---
 
