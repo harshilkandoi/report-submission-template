@@ -1448,6 +1448,8 @@ black box) through electrical wires.
 | Overall dimension  | 710 x 530 x 550mm          |
 | 20GP               | 136set                     |
 | 40HQ               | 292set                     |
+
+
 <b>Table 7.3 - Description and values of required items</b>
 ---
 <div style = "page-break-after: always; visibility: hidden">
