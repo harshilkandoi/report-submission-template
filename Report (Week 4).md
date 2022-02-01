@@ -335,6 +335,45 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 ### Workflow Structure
 
+### Workflow Structure
+<p>&nbsp;</p>
+
+<p align = "center">
+	<a href="https://ibb.co/JssLmBn"><img src="https://i.ibb.co/YLL9PR2/GANTT.png" alt="GANTT" border="0"></a>
+</p>
+<p align = "center"><b> Gantt Chart </b>
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p align = "center">
+	<a href="https://ibb.co/LpGFNCZ"><img src="https://i.ibb.co/ys3948Q/NETWORK.png" alt="NETWORK" border="0"></a>
+</p>
+<p align = "center"><b> Network Diagram </b>
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p align = "center">
+	<a href="https://ibb.co/D4SQC0d"><img src="https://i.ibb.co/Zdkx8q9/WBS.png" alt="WBS" border="0"></a>
+</p>
+<p align = "center"><b> WBS Chart </b>
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p align = "center">
+	<a href="https://ibb.co/0jm55rz"><img src="https://i.ibb.co/kg5ZZXP/Resource-Allocation.png" alt="Resource-Allocation" border="0"></a>
+</p>
+<p align = "center"><b> Resource Allocation </b>
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 ### List of Abbreviations
 
