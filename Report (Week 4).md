@@ -731,7 +731,8 @@ Table-5 Warranty of Different Devices Used
 </p>
 
 
-This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative fOR commercial power supply as it is generating clean energy with minimal cost. In exchange for a high one-time cost, the system provides continuous energy for many years at negligible cost
+This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
+
 
 ---
 <div style = "page-break-after: always; visibility: hidden">
@@ -1394,25 +1395,30 @@ A Fresnel lens concentrates the solar radiation to the the aluminum plate to ach
 
 #### [7. Electricity from biogas](#table-of-contents)
 
-##### 7.1 Requirements
+**7.1 Requirements**
 
 **7.1.1 Geographical requirements**
 
 The system works under all weather conditions.
 
-##### 7.2 Specifications
+**7.2 Specifications**
 
 **7.2.1 Components**
 
 (1)  Fixed domestic biogas plant :
+
+<div align = "center">
 
 |                    |                 |
 |--------------------|-----------------|
 | Plant Capacity     | 1 cubic meter   |
 | Area To Be Covered | 4 sq.feet       |
 | Storage Holer Size | 0.6 cubic metre |
+	
+</div>
 
 <b>Table 7.1 - Values of important measures</b>
+
 (2) BISON CHINA 5KW Easy-Moving Biogas Electric Generator:
 
 -   *Characteristics*:
@@ -1455,15 +1461,17 @@ month.
 
 **7.2.3 Cost Analysis**
 
+<div align = "center">
+
 | Part                                                  | Cost(Rs) |
 |-------------------------------------------------------|----------|
 | Fixed domestic biogas plant                           | 22800    |
 | BISON CHINA 5KW Easy-Moving Biogas Electric Generator | 14900    |
+	
+</div>
 
-*Installation costs*: 14900+22800= 33700 + minor costs like inlet/outlet
-pipes.  
-*Maintenance costs*: 2% of capital cost per annum \~ 1000 rupees per
-annum .
+*Installation costs*: 14900+22800= 33700 + minor costs like inlet/outlet pipes.  
+*Maintenance costs*: 2% of capital cost per annum \~ 1000 rupees per annum .
 
 <b>Table 7.2 - Costs</b>
 
@@ -1479,17 +1487,16 @@ annum .
     https://www.alibaba.com/product-detail/BISON-CHINA-5KW-Easy-Moving-Lpg_60423755030.html?spm=a2700.7724857.normal_offer.d_title.5b2d59d44KeAi6  
     Contact: Edward Tang
 
-##### 7.3 Diagrams and Working
+**7.3 Diagrams and Working**
 
-In the digester, the wastes are treated and biogas is produced. An
-engine followed by an electricity generator then produces power. The
-power is then transferred to the storage system (as depicted by the
-black box) through electrical wires.
+In the digester, the wastes are treated and biogas is produced. An engine followed by an electricity generator then produces power. The power is then transferred to the storage system (as depicted by the black box) through electrical wires.
 
 ![biogasplant](https://i.imgur.com/fmSXrVx.jpg "biogasplant")
 <figcaption align = "center"><b>Diagram of working of digester and biogas generator</b></figcaption>
 
-##### 7.4 Appendix
+**7.4 Appendix**
+
+<div align = "center">
 
 | Engine               |                |
 |----------------------|----------------|
@@ -1520,8 +1527,10 @@ black box) through electrical wires.
 | 20GP               | 136set                     |
 | 40HQ               | 292set                     |
 
+</div>
 
 <b>Table 7.3 - Description and values of required items</b>
+
 ---
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -1564,6 +1573,7 @@ Fig 8.1 Thermo electric generator
 
 The voltage generated as a result of the temperature difference between the two end of the TEG is depicted in the table below:
 
+<div align = "center">
                                                                                                                
 | 	Temperature	 (C)  |Open Circuit Voltage (V)|Current (mA)	|
 |---------------------|------------------------|----------------|
@@ -1572,6 +1582,8 @@ The voltage generated as a result of the temperature difference between the two 
 |60                   | 2.4                    | 469            |
 |80                   | 3.6                    | 558            |
 |100                  | 4.8                    | 669            |
+	
+</div>
 
 ##### Table 8.1 (Characteristics of TEG)
 
@@ -1629,17 +1641,6 @@ Figure 8.3 Installation of TEGs in Kitchen
 
  On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
  
- ```mermaid
- 
- graph LR;
- 
- A[Heat from the Stove];
- B[TEGs];
- C[Storage];
- A --> B;
- B --> C;
- ```
----
 
 ### 8.4 Closure
 
