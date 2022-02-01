@@ -298,12 +298,12 @@ Details of authorisers:-
 
 #### Document readability indices
 
-- *Flesch Kincaid Reading Ease* : 56.4 
-- *Flesch Kincaid Grade Level* : 6.7
-- *Gunning Fog Score* : 7.3 
-- *SMOG Index* : 6.1 
-- *Coleman Liau Index* : 12.2 
-- *Automated Readability Index* : 3.7 
+- *Flesch Kincaid Reading Ease* : 60 (Easily understood by 8th-9th grade students)
+- *Flesch Kincaid Grade Level* :  6.8 (Grade 6 Level of reading or above to understand)
+- *Gunning Fog Score* : 7.9 (Easy to read if between 7-8)
+- *SMOG Index* : 6 (At least 6 years of education required to understand the document)
+- *Coleman Liau Index* : 12.6 ( U.S. Grade level : 12th is necessary to understand)
+- *Automated Readability Index* : 4.1 (Third grade level)
 
 
 
@@ -692,7 +692,7 @@ Assuming house will have bright sunlight for 5 hours daily.
 </div>
 
 <p align = "center">
-Table-4 Energy Generation
+Table-1 Energy Generation
 </p>
 
 **2.2.3 Cost Analysis**
@@ -712,7 +712,7 @@ Table-4 Energy Generation
 </div>
 	
 <p align = "center">
-Table-1 Cost Analysis for Top Tier
+Table-2 Cost Analysis for Top Tier
 </p>
 
 
@@ -729,7 +729,7 @@ Table-1 Cost Analysis for Top Tier
 </div>
 
 <p align = "center">
-Table-2 Cost Analysis for Base Tier
+Table-3 Cost Analysis for Base Tier
 </p>
 
 
@@ -746,7 +746,7 @@ Table-2 Cost Analysis for Base Tier
 </div>
 
 <p align = "center">
-Table-3 Cost Analysis for Economy Tier
+Table-4 Cost Analysis for Economy Tier
 </p>
 
 
@@ -929,20 +929,13 @@ It is advised to use this system in a region that recieves at least 600mm of ave
 
 <p align = "center"><img src="https://i.imgur.com/fy0Mk4v.png" width="90%"></p>
 
-<p align = "center">
-<b>Fig 4.1 - Average Rainfall in India </b></figcaption>
-</p>
-
+<p align = "center">Fig.4.1 - Average Rainfall in India </p>
 
 Here is the map of India with major rivers, if your house is close to any of these river then this system will be feasible.
 (Image Source: [Pinterest](https://in.pinterest.com/pin/619948704924890264/))
-
 <p align = "center"><img src="https://i.imgur.com/9xaje9U.jpg" width="90%"></p>
 
-<p align = "center">
-<b>Fig 4.2 - Major rivers of India </b></figcaption>
-</p>
-
+<p align = "center">Fig.4.2 - Major rivers of India</b></figcaption>
 Waterfalls are also suitable for the feasibility of this system. Any waterfall close to your house with head-height of at least 2m is suitable for this plant.
 
 [List of waterfalls in india](https://en.wikipedia.org/wiki/List_of_waterfalls_in_India_by_height)
@@ -983,10 +976,7 @@ The water turbine is the heart of any hydro power plant. It consists of a number
 
 </div>
 
-<p align = "center">
-<b>Table 4.1 Hydro-Electricity Turbine Specifications  </b></figcaption>
-</p>
-
+_Table 4.1: Hydro-Electricity Turbine Specifications_
 
 _(2) Generator_
 
@@ -1006,9 +996,7 @@ Generators are used to convert rotational energy to electrical energy. The type 
 
 </div>
 
-<p align = "center">
-<b>Table 4.2 Hydro-Electricity Generator Specifications  </b></figcaption>
-</p>
+_Table 4.2: Hydro-Electricity Generator Specifications_
 
 _(3) AC-DC Converter_
 
@@ -1026,10 +1014,7 @@ As the generator gives AC output so to convert AC to DC for charging an AC-DC co
 	
 </div>
 
-<p align = "center">
-<b>Table 4.3 Hydro-Electricity AC-DC Converter Specifications </b></figcaption>
-</p>
-
+_Table 4.3: Hydro-Electricity AC-DC Converter Specifications_
 
 **4.2.2 Power generation**
 
@@ -1055,10 +1040,7 @@ Most of the Hydro-Electric systems used for domestic purposes have η about 75%.
 	
 </div>
 
-<p align = "center">
-<b>Table 4.4 Hydro-Electricity output power</b></figcaption>
-</p>
-
+_Table 4.4: Hydro-Electricity output power_
 
 **4.2.3 Cost Analysis**
 
@@ -1076,10 +1058,7 @@ Most of the Hydro-Electric systems used for domestic purposes have η about 75%.
 	
 </div>
 
-<p align = "center">
-<b>Table 4.5 Total Installation Cost</b></figcaption>
-</p>
-
+_Table 4.5: Total Installation Cost_ 
 
 By above mentioned specifications and power output calculations, we can conclude that this system can help us run basic electric home appliances like television, mini-fridge, mobile chargers etc. Also we can increase the power output by suitably choosing the location to get high flow rate like Northern Indian water-bodies have high flow rate. Thus, by suitably choosing the above mentioned devices we can increase the efficiency and can get higher electricity generation.
 
@@ -1092,29 +1071,23 @@ As shown in the figure, water stored at high elevation falls on the turbine of g
 
 This figure shows a typical model for mini hyrdro-electric plant. The height of the dam from the turbine should be more than 2m.
 <p align = "center"><img src= "https://i.imgur.com/UqiqcmE.png" width="90%"></p>
+<p align = "center">Fig.4.3 - Model of Hydro-Electricity System
 
-<p align = "center">
-<b>Fig 4.3 Model of Hydro-Electricity System </b></figcaption>
 </p>
-
 
 This figure shows the rough dimention of graviational water vorex for the plant. Due to spiral structure water starts spining as enters from inlet. This type of setup is efficient for axial hydro plant.
-
-
 <p align = "center"><img src="https://i.imgur.com/l2aSLEK.png" width="90%"></p>
 
-<p align = "center">
-<b>Fig 4.4 Dimenstions of Gravitational Water Vortex </b></figcaption>
-</p>
+<p align = "center">Fig.4.4 - Dimenstions of Gravitational Water Vortex
 
+</p>
 
 This figure shows connections of various subsystem of the plant along with wire ratings.
 <p align = "center"><img src="https://i.imgur.com/PhWuSBU.jpg" width="90%"></p>
 
-<p align = "center">
-<b>Fig 4.5 Circuit Diagram of System </b></figcaption>
-</p>
+<p align = "center">Fig.4.5 - Circuit Diagram of System
 
+</p>
 
 #### 4.4 Vender's Info
 
@@ -1129,9 +1102,7 @@ This figure shows connections of various subsystem of the plant along with wire 
 	
 </div>
 
-<p align = "center">
-<b>Table 4.6 Vendor's Info  </b></figcaption>
-</p>
+_Table 4.6: Vendor's Info_ 
 
 ---
 
@@ -1225,30 +1196,26 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 - <ins>_Working Model:_</ins> When a load is applied to the tile surface it moves in the downward direction. The projections on the tile surface come in contact with the piezo material. The applied force produces stresses inside piezo material which will produce electricity. There is clearance in between the springs and tile surface in order to provide free deflection. The spring is provided for stability as well as protecting the piezo material from getting damaged by an excess load applied. The base plate is fitted inside the frame firmly to provide support to the piezo material while compression. This kinetic energy is converted into electricity. This generated electricity is stored in the form of batteries, to which the rectifier is connected to get a pure dc supply.
 
-<p align = "center"><img src ="https://i.imgur.com/A1OzQbT.jpg" width= "90%"> </p>
- 
-<p align = "center">
-<b>Fig 5.1(a) Piezo Tiles Block Diagram</b></figcaption>
-</p>
+ <p align = "center"><img src ="https://i.imgur.com/A1OzQbT.jpg" width= "90%"> </p>
+ <p align = "center">Fig.1a - Piezo Tiles Block Diagram
+
+ </p>
   
-<p align = "center"><img src = "https://i.imgur.com/t2J9EYh.jp" width= "90%"> </p>
- 
-<p align = "center">
-<b>Fig 5.1(b) Piezo Tiles CAD Model-1</b></figcaption>
-</p>
-   
+ <p align = "center"><img src = "https://i.imgur.com/t2J9EYh.jp" width= "90%"> </p>
+ <p align = "center">>Fig.1b - Piezo Tiles CAD Model-1
+
+ </p>
+  
+  
 <p align = "center"><img src = "https://i.imgur.com/65Au284.jpg" width= "90%"> </p>
+ <p align = "center">Fig.1c - Piezo Tiles CAD Model-2
 
-<p align = "center">
-<b>Fig 5.1(c) Piezo Tiles CAD Model-2</b></figcaption>
-</p>
+ </p>
   
   
-<p align = "center"><img src ="https://i.imgur.com/6w4iz5z.jpg" width= "90%"> </p>
-
-<p align = "center">
-<b>Fig 5.1(d) Piezo Tiles Circuit Diagram</b></figcaption>
-</p>
+ <p align = "center"><img src ="https://i.imgur.com/6w4iz5z.jpg" width= "90%"> </p>
+ <p align = "center">Fig.1d - Piezo Tiles Circuit Diagram
+ </p>
 
 
 **Piezoelectric Wind Turbine**
@@ -1256,27 +1223,24 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 - <ins>_Working Model:_</ins> The fundamental principle here is to convert the kinetic energy of air into physical-mechanical stress. After this, with the help of a piezoelectric sensor we covert that mechanical pressure into the alternating impulse of charge flow i.e. current. To saddle the active vitality of air, we use a vertical structure which is called the mast. The mast vibrations are converted into vertical stress on the piezoelectric sensors through a metal plate called Disc which is welded at fixed support of the mast. This vertical stress is transferred to another plate on which our whole piezoelectric circuit is placed. Now we have successfully converted the air kinetic energy into the normal stress on piezoelectric sensors. When stress is applied on the piezoelectric sensor i.e. piezoelectric chips they produce a charge which on connecting through wires produces current.
 
+
+
 <p align = "center"><img src = "https://i.imgur.com/hHSUNwC.jpg" width= "90%"> </p>
+ <p align = "center">Fig.2a - Bladelss Windmill Block Diagram
 
-<p align = "center">
-<b>Fig 5.2(a) Bladelss Windmill Block Diagram</b></figcaption>
-</p>
-
+ </p>
   
-<p align = "center"><img src = "https://i.imgur.com/z92AzlI.jpg" width= "90%"> </p>
+  <p align = "center"><img src = "https://i.imgur.com/z92AzlI.jpg" width= "90%"> </p>
+ <<p align = "center">Fig.2b - Working of Bladeless Turbine
 
-<p align = "center">
-<b>Fig 5.2(b) Working of Bladeless Turbine</b></figcaption>
-</p>
+ </p>
+  
+  
+  
+ <p align = "center"><img src = "https://i.imgur.com/bf7MmlZ.jpg" width= "90%"> </p>
+<p align = "center">Fig.2c - Bladeless Windmill CAD Model
 
- 
-<p align = "center"><img src = "https://i.imgur.com/bf7MmlZ.jpg" width= "90%"> </p>
-
-<p align = "center">
-<b>Fig 5.2(c) Bladeless Windmill CAD Model</b></figcaption>
-</p>
-
-
+ </p>
   
 
 **Piezoelectric Shoes**
@@ -1285,26 +1249,19 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 
 <p align = "center"><img src = "https://i.imgur.com/M8p35vN.png" width= "90%"> </p>
+<p align = "center">Fig.3a - Piezo Shoes Circuit Diagram
 
-
-<p align = "center">
-<b>Fig 5.3(a) Piezo Shoes Circuit Diagram</b></figcaption>
 </p>
-
 
 <p align = "center"><img src = "https://i.imgur.com/x659k5J.jpg" width= "90%"> </p>
+<p align = "center">Fig.3b - Piezo Shoe Sole CAD model
 
-<p align = "center">
-<b>Fig 5.3(b) Piezo Shoe Sole CAD model</b></figcaption>
 </p>
-
 
 <p align = "center"><img src = "https://i.imgur.com/e7ja7fB.png" width= "90%"> </p>
+<p align = "center">Fig.3c - Working Prototype(Source: Instructables)
 
-<p align = "center">
-<b>Fig 5.3(c) Working Prototype </b></figcaption>
 </p>
-
 
 ---
 
@@ -1324,10 +1281,7 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 	
 </div>
 
-
-<p align = "center">
-<b>Table 5.1 Bill of Materials  </b></figcaption>
-</p>
+Table 1: Bill of Materials
 
 ---
 
@@ -1340,10 +1294,12 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
       Unfortunately the amount of energy stored during a charging cycle (which took around 4000 steps) was very small and it would take an unrealistic amount of charging cycles to charge a cell phone just by walking alone.  By our calculations, it will take approximately 564,971.78 charging cycles, which amounts to 2,118,644,250 steps, in a best case scenario(when all the piezo plates are contributing). This also means it would take 706,214.75 hours to charge the cell phone.
 
 ---
-
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
+
+
+
 
 
 #### [6. Thermoelectricity](#table-of-contents)
@@ -1575,8 +1531,9 @@ engine followed by an electricity generator then produces power. The
 power is then transferred to the storage system (as depicted by the
 black box) through electrical wires.
 
-![biogasplant](https://i.imgur.com/fmSXrVx.jpg "biogasplant")
-<figcaption align = "center"><b>Diagram of working of digester and biogas generator</b></figcaption>
+<p align = "center">
+<img src ="https://i.imgur.com/fmSXrVx.jpg" width= "90%"></p>
+<p align = "center">Diagram of working of digester and biogas generator</p>
 
 ##### 7.4 Appendix
 
@@ -1644,7 +1601,7 @@ Building the heat renewal system involves the following devices:
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/Ssh7JCR/TEG-Image-modified.jpg" alt="TEG Image-modified" border="0"></a>
 </p>
 
-Fig 8.1 Thermo electric generator 
+<p align = "center">Fig 8.1 Thermo electric generator</p>
 
 
 (2) Household devices : Cooking stove (the primary requirement).
@@ -1704,7 +1661,7 @@ The TEG system contains two dissimilar thermoelectric materials joined at ends w
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/yhfjVrZ/TEG-Working.png" alt="TEG (Working)" border="0"></a>
 </p>
 
-<center>                              Figure 8.2 Working of a TEG                        </center>
+<p align = "center">Figure 8.2 Working of a TEG</p>
 
 **8.3.2 Installation** 
 	
@@ -1714,7 +1671,7 @@ We will install the TEG's around the burners in the kitchen. The dimensions of a
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/KXrFjHX/Stove-Connection.jpg" alt="Stove Connection" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a>
 </p>
 
-Figure 8.3 Installation of TEGs in Kitchen 
+<p align = "center">Figure 8.3 Installation of TEGs in Kitchen</p>
 
  On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
  
@@ -1953,7 +1910,8 @@ Solar photovoltaic power, being the most contributing in terms of energy product
 
 The following diagram gives us a brief description of the system.
 
-![enter image description here](https://i.ibb.co/nbvfFqb/week3jpg.jpg)
+<p align = "center">
+<img src = "https://i.ibb.co/nbvfFqb/week3jpg.jpg" width="90%"> </p> 
 The system has been designed to be modular, allowing for: *easy installation, flexibility and user customization*  . Every energy source is paired with its own charge controller which is synchronized with other charge controllers for balanced charging. The chargers are then connected in parallel to both the battery and the inverter allowing for direct pass through of energy. The Inverter is then chosen in accordance with the overall expected system power usage.
 
 The setup is same across all tiers with the main difference between each tier is in the capacity of power and storage.
