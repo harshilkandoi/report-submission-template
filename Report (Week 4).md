@@ -1100,7 +1100,7 @@ Thus, there are no particular geographical restrictions for building piezoelectr
     7. 3d printer
     8. 1n4001-1N4007 Diodes (x4) for rectifier
 - <ins>_Power Output:_</ins> Total energy capable to charge the battery of a phone
-- <ins>_Cost:_</ins>  The installation cost of this system is about 30 USD
+- <ins>_Cost:_</ins>  The installation cost of this system is about Rs900.
 
 
 (4) **Piezoelectric bladeless windturbine**
