@@ -1102,7 +1102,10 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
  </p>
   
+ ![Fig.1d-Piezo Tiles Floorplan](https://i.imgur.com/neLuWXA.png)
+ <figcaption align = "center"><b>Fig.1d - Piezo Tiles Floorplan</b></figcaption>
 
+ </p>
   
 
 
@@ -1153,6 +1156,18 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 <figcaption align = "center"><b>Fig.3c - Working Prototype(Source: Instructables)</b></figcaption>
 
 </p>
+
+---
+
+##### Cost Analysis
+
+| System         | Installation  cost                                                                                                                        | Wiring Cost                                                                                                     | Labour Cost                          |   |
+   |----------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------|---|
+    | Piezo Tiles    | Tile size = 40x60cm , Tile gap size = 1mm, Total tiles in the hall= 8*12 , Cost of 1 PZT tile = Rs. 500, Total cost of floor=96*500=Rs.48,000 | Total Wire length(including wires  to storage system)= 100m Cost of wire/m = Rs. 20 Total cost= 100*20=Rs. 2000 | About 30%of total  installation cost |   |
+    | Piezo Windmill | The home-based Vortex Bladeless windmill has an  installation cost of about 17,000 INR  (Source: Bridgestone)                             | 40% less cost than a  normal wind turbine                                                                       | 30% of total  installation cost      |   |
+    | Piezo Shoes    | Piezo device installation= Rs900                                                                                                          | Negligible                                                                                                      | None(can be self-installed)          |   |
+
+Table 2: Cost Analysis
 
 ---
 
