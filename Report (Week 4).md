@@ -271,7 +271,7 @@ Details of authorisers:-
 |                                      | Akash Vardhan(ee1180437@iitd.ac.in) |
 | classification level                 | public                             |
 | Submitted to                        | Prof. Subrat Kar, Instructor, ELP305 Design and Systems Lab |
-| Date of creation                    | 25 Jan 2022 at 10:00PM |
+| Date of creation                    | 1st Feb 2022 at 10:00PM |
 
 </font>
 
@@ -287,23 +287,27 @@ Details of authorisers:-
 
 #### Document Statistics
 
-- *Total number of sentences*: 1992  
-- *Word count* : 10770 
-- *Total number of complex words*: 2029 
-- *Percent of complex words* : 18.84% 
-- *Average number of words per sentence*: 5.40
-- *Average syllables per word*: 1.70 
+| Parameter         |       Respective value    |
+|-------------------|----------------------------|
+|*Total number of sentences*|   1992             |
+|*Word count* 		|       10770            |
+|*Total number of complex words*| 2029            |
+|*Percent of complex words* |   18.84%            |
+|*Average number of words per sentence* | 5.40    |
+|*Average syllables per word* |   1.70            |
 
 ---
 
 #### Document readability indices
 
-- *Flesch Kincaid Reading Ease* : 60 (Easily understood by 8th-9th grade students)
-- *Flesch Kincaid Grade Level* :  6.8 (Grade 6 Level of reading or above to understand)
-- *Gunning Fog Score* : 7.9 (Easy to read if between 7-8)
-- *SMOG Index* : 6 (At least 6 years of education required to understand the document)
-- *Coleman Liau Index* : 12.6 ( U.S. Grade level : 12th is necessary to understand)
-- *Automated Readability Index* : 4.1 (Third grade level)
+|Test			|  Respective score        |     Inference      |
+|------------------------|-------------------------|---------------------|
+|*Flesch Kincaid Reading Ease* | 60   | Easily understood by 8th-9th grade students |
+|*Flesch Kincaid Grade Level* |  6.8  | Grade 6 Level of reading or above to understand |
+|*Gunning Fog Score* | 7.9  | Easy to read if between 7-8 |
+|*SMOG Index* | 6 |At least 6 years of education required to understand the document|
+|*Coleman Liau Index*| 12.6  |	U.S. Grade level : 12th is necessary to understand |
+|*Automated Readability Index* |  4.1 | Third grade level|
 
 
 
@@ -373,11 +377,25 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 <p>&nbsp;</p>
 
 
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
+
 ### [List of Abbreviations](#table-of-contents)
 
 
 
-### [List of tables](#table-of-contents)                                                                                                                                                                                                                                                                                                                                                                                    
+
+
+
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+### [List of tables](#table-of-contents)                                                                                                                                                                                                                                                                                                                                                                             
 
 | List of Tables                            | Description of Tables                              |
 |-------------------------------------------|----------------------------------------------------|
@@ -387,6 +405,7 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 | [Table 1.4](#1-wind)                   | Wind Turbine Components Specifications - Tower     |
 | [Table 1.5](#1-wind)                   | Wind Turbine Power Output                          |
 | [Table 1.6](#1-wind)                   | Bill of Materials for Wind Turbine                 |
+| [Table 1.7](#1-wind)			| Lifespan of Wind Turbine Parts			|
 | [Table 2.1](#2-solar)                   | Cost Analysis for Top Tier                         |
 | [Table 2.2](#2-solar)                 | Cost Analysis for Base Tier                        |
 | [Table 2.3](#2-solar)                   | Cost Analysis for Economy Tier                     |
@@ -400,6 +419,7 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 | [Table 4.4](#4-hydroelectricity)     | Hydro-Electricity output power                     |
 | [Table 4.5](#4-hydroelectricity)      | Total Installation Cost                            |
 | [Table 4.6](#4-hydroelectricity)      |  Vendor's Info                                     |
+| [Table 4.7](#4-hydroelectricity)	| Lifespan of Hydro-Electricty Plant		|
 | [Table 5.1](#5-piezoelectricity)       | Bill of Materials                                  |
 | [Table 6.1](#6-thermoelectricity)      | Thermoelectricity TEG |
 | [Table 6.2](#6-thermoelectricity)      |Thermoelectricity TEG (with a battery system) |
@@ -421,6 +441,10 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 | [Table 9.7](#9-energy-storage-and-distribution)      |                                              |
 | [Table 9.8](#9-energy-storage-and-distribution)      |                                              |
 
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
 
 
 ### [List of figures](#table-of-contents)
@@ -448,11 +472,17 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 | [Fig 9.1](#9-energy-storage-and-distribution)        |                                |
 
 
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+
 ### [To Do](#table-of-contents)
 - First check the geographical and basic requirements of the system you wish to incorporate in your customized design,
 - Then check out if you can bear the one time installation and maintainence costs
 - After finalizing the selected systems based on the above two points, select the tier system for energy storage and distribution based on the energy generated in your system and the cost affordability.
 - Now,You finally have your own customized system according to your specific needs
+
 
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -461,6 +491,14 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 ### [Mindmap](#table-of-contents)
 
+
+
+
+
+
+<div style = "page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
 
 
 ### [Designed System](#table-of-contents) 
@@ -2277,42 +2315,7 @@ The setup is same across all tiers with the main difference between each tier is
 1. https://www.moglix.com/solar-universe-india-240w-300va-off-grid-solar-inverter-sui-300va-12v-inverter/mp/msn75dqrwmyv92?s_kwcid=AL!10177!3!455163737679
 2. https://www.batteryboss.in/battery/amaron-current-short-tubular-ar165st36-165ah?gclid=CjwKCAiA866PBhAYEiwANkIneBXM18Txykd1zZI6e8ariXiibsEJGPcKpdkfLRhUIXP1jYE3u4_pQRoCE90QAvD_BwE
 
-	    
-	    
-	    
-### Closure
-
-**Wind**
-	    
-According to different studies and data shared by the manufacturers of small horizontal-axis wind turbines, the average life span of a small wind turbine is nearly 20 years (with regular maintenance). The individual lifetime of the components specified above is given below to give a more thorough idea. It should be noted that the assigned lifetimes are those expected by the practitioners who manufactured the systems and can vary in the real world.
-
- | Parts                      | Lifetime |
- | :----------------: | :---------------: |
- | Blades | 20-25 years|
- | Gearbox | 8-10 years|
- | Generator | 15-20 years |
- | Tubular-steel tower | More than 25 years|
- 
- Table 1: Lifespan of Wind Turbine Parts
- 
-However, a turbine's lifespan can be increased by regular monitoring and maintenance. This can be done by assessing the asset's state and comparing it to the turbine's predicted lifespan based on expected loads and fatigue, and environmental considerations for the wind energy location. By such regular assessments, one can know whether the continued operation of the turbine is possible or any components need replacing to extend its lifespan. However, the maintenance costs will increase as the structure ages.
-	    
-**Hydro-Electricty**
-
-The average life of the power plant is assumed to be 30 years(except generator). Most of its components are non-electrical like pipe, dam, and gravitational water vortex. So, the life span of these parts depends on the quality of material used during construction. The generator comes with a one-year warranty and has an expected life span of 15 - 20 years with minimal maintenance like oiling. But, It requires more protection, particularly from rain and should be covered with a waterproof container for a better life span.
-
- | Parts | Lifetime |
- | :----------------: | :---------------: |
- | Dam | 30-40 years|
- | Vortex | 30-40 years|
- | Generator | 15-20 years |
- | Electrical Wiring | 50-70 years |
-	 
-Table 2: Lifespan of Hydro-Electricty Plant
-
-
-### [Image Credits](#table-of-contents)
-	    
+	    	    
 
 ### [References](#table-of-contents)
 	    
