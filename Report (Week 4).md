@@ -1236,26 +1236,32 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 - <ins>_Working Model:_</ins> When a load is applied to the tile surface it moves in the downward direction. The projections on the tile surface come in contact with the piezo material. The applied force produces stresses inside piezo material which will produce electricity. There is clearance in between the springs and tile surface in order to provide free deflection. The spring is provided for stability as well as protecting the piezo material from getting damaged by an excess load applied. The base plate is fitted inside the frame firmly to provide support to the piezo material while compression. This kinetic energy is converted into electricity. This generated electricity is stored in the form of batteries, to which the rectifier is connected to get a pure dc supply.
 
- <p align = "center"><img src ="https://i.imgur.com/A1OzQbT.jpg" width= "90%"> </p>
- <p align = "center">Fig.1a - Piezo Tiles Block Diagram
+<p align = "center"><img src ="https://i.imgur.com/A1OzQbT.jpg" width= "90%"> </p>
+ 
+<p align = "center">
+<b>Fig 5.1.a Piezo Tiles Block Diagram </b></figcaption>
+</p>
 
- </p>
   
- <p align = "center"><img src = "https://i.imgur.com/t2J9EYh.jp" width= "90%"> </p>
- <p align = "center">>Fig.1b - Piezo Tiles CAD Model-1
+<p align = "center"><img src = "https://i.imgur.com/t2J9EYh.jp" width= "90%"> </p>
+ 
+<p align = "center">
+<b>Fig 5.1.b Piezo Tiles CAD Model-1 </b></figcaption>
+</p>
 
- </p>
-  
   
 <p align = "center"><img src = "https://i.imgur.com/65Au284.jpg" width= "90%"> </p>
- <p align = "center">Fig.1c - Piezo Tiles CAD Model-2
 
- </p>
+<p align = "center">
+<b>Fig 5.1.c Piezo Tiles CAD Model-2 </b></figcaption>
+</p>
   
   
- <p align = "center"><img src ="https://i.imgur.com/6w4iz5z.jpg" width= "90%"> </p>
- <p align = "center">Fig.1d - Piezo Tiles Circuit Diagram
- </p>
+<p align = "center"><img src ="https://i.imgur.com/6w4iz5z.jpg" width= "90%"> </p>
+ 
+<p align = "center">
+<b>Fig 5.1.d Piezo Tiles Circuit Diagram </b></figcaption>
+</p>
 
 
 **Piezoelectric Wind Turbine**
@@ -1263,24 +1269,24 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 - <ins>_Working Model:_</ins> The fundamental principle here is to convert the kinetic energy of air into physical-mechanical stress. After this, with the help of a piezoelectric sensor we covert that mechanical pressure into the alternating impulse of charge flow i.e. current. To saddle the active vitality of air, we use a vertical structure which is called the mast. The mast vibrations are converted into vertical stress on the piezoelectric sensors through a metal plate called Disc which is welded at fixed support of the mast. This vertical stress is transferred to another plate on which our whole piezoelectric circuit is placed. Now we have successfully converted the air kinetic energy into the normal stress on piezoelectric sensors. When stress is applied on the piezoelectric sensor i.e. piezoelectric chips they produce a charge which on connecting through wires produces current.
 
-
-
 <p align = "center"><img src = "https://i.imgur.com/hHSUNwC.jpg" width= "90%"> </p>
- <p align = "center">Fig.2a - Bladelss Windmill Block Diagram
 
- </p>
+<p align = "center">
+<b>Fig 5.2.a Bladelss Windmill Block Diagram </b></figcaption>
+</p>
   
-  <p align = "center"><img src = "https://i.imgur.com/z92AzlI.jpg" width= "90%"> </p>
- <<p align = "center">Fig.2b - Working of Bladeless Turbine
-
- </p>
+ <p align = "center"><img src = "https://i.imgur.com/z92AzlI.jpg" width= "90%"> </p>
+  
+ <p align = "center">
+<b>Fig 5.2.b Working of Bladeless Turbine </b></figcaption>
+</p> 
   
   
-  
- <p align = "center"><img src = "https://i.imgur.com/bf7MmlZ.jpg" width= "90%"> </p>
-<p align = "center">Fig.2c - Bladeless Windmill CAD Model
-
- </p>
+<p align = "center"><img src = "https://i.imgur.com/bf7MmlZ.jpg" width= "90%"> </p>
+ 
+<p align = "center">
+<b>Fig 5.2.c Bladeless Windmill CAD Model </b></figcaption>
+</p>
   
 
 **Piezoelectric Shoes**
@@ -1289,18 +1295,22 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 
 <p align = "center"><img src = "https://i.imgur.com/M8p35vN.png" width= "90%"> </p>
-<p align = "center">Fig.3a - Piezo Shoes Circuit Diagram
 
+<p align = "center">
+<b>Fig 5.3.a Piezo Shoes Circuit Diagram </b></figcaption>
 </p>
 
 <p align = "center"><img src = "https://i.imgur.com/x659k5J.jpg" width= "90%"> </p>
-<p align = "center">Fig.3b - Piezo Shoe Sole CAD model
 
+<p align = "center">
+<b>Fig 5.3.b Piezo Shoe Sole CAD model</b></figcaption>
 </p>
 
-<p align = "center"><img src = "https://i.imgur.com/e7ja7fB.png" width= "90%"> </p>
-<p align = "center">Fig.3c - Working Prototype(Source: Instructables)
 
+<p align = "center"><img src = "https://i.imgur.com/e7ja7fB.png" width= "90%"> </p>
+
+<p align = "center">
+<b>Fig 5.3.c Working Prototype(Source: Instructables)</b></figcaption>
 </p>
 
 ---
@@ -1321,7 +1331,9 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 	
 </div>
 
-Table 1: Bill of Materials
+<p align = "center">
+<b>Table 5.1 Bill of Materials </b></figcaption>
+</p>
 
 ---
 
@@ -1337,8 +1349,6 @@ Table 1: Bill of Materials
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
-
-
 
 
 
