@@ -190,7 +190,7 @@ The block diagram shown below shows the big picture of the all electrical connec
 <p>&nbsp;</p>
 
 <p align = "center">
-	<a href="https://ibb.co/kQ1RPC9"><img src="https://i.ibb.co/GcTKrSt/Grid-connection-diagram.png" alt="Grid-connection-diagram" border="0"></a>
+	<a href="https://ibb.co/2hkTjjx"><img src="https://i.ibb.co/jfrSLLm/grid-diagram.png" alt="grid-diagram" border="0"></a>
 	<figcaption align = "center"><b>Fig.4 - Wind Turbine Grid Connection Diagram</b></figcaption>
 </p>
 
