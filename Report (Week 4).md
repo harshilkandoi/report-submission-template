@@ -381,27 +381,49 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 | List of Tables                            | Description of Tables                              |
 |-------------------------------------------|----------------------------------------------------|
-| [Table 1a](#Wind table)                   | Wind Turbine Components Specifications - Nacelle   |
-| [Table 1b](#Wind table)                   | Wind Turbine Components Specifications - Rotor     |
-| [Table 1c](#Wind table)                   | Wind Turbine Components Specifications - Generator |
-| [Table 1d](#Wind table)                   | Wind Turbine Components Specifications - Tower     |
-| [Table 1e](#Wind table)                   | Wind Turbine Power Output                          |
-| [Table 1f](#Wind table)                   | Bill of Materials for Wind Turbine                 |
-| [Table 1](#Solar table)                   | Cost Analysis for Top Tier                         |
-| [Table 2](#Solar table)                   | Cost Analysis for Base Tier                        |
-| [Table 3](#Solar table)                   | Cost Analysis for Economy Tier                     |
-| [Table 4](#Solar table)                   | Energy Generation                                  |
-| [Table 5](#Solar table)                   | Warranty of Different Devices Used                 |
-| [Table 1](#Mechanical table)              | Total Installation Cost                            |
-| [Table 2](#Mechanical table)              | Vender's Info                                      |
-| [Table 4.1](#Hydroelectricity table)      | Hydro-Electricity Turbine Specifications           |
-| [Table 4,2](#Hydroelectricity table)      | Hydro-Electricity Generator Specifications         |
-| [Table 4.3](#Hydroelectricity table)      | Hydro-Electricity AC-DC Converter Specifications   |
-| [Table 4.4](#Hydroelectricity table)      | Hydro-Electricity output power                     |
-| [Table 4.5](#Hydroelectricity table)      | Total Installation Cost                            |
-| [Table 4.6](#Hydroelectricity table)      |  Vendor's Info                                     |
-| [Table 1](#Piezoelectricity figure)       | Bill of Materials                                  |
-| [Table 1](#Electricity from biogas table) | Cost Analysis                                      |
+| Table 1.1                   | Wind Turbine Components Specifications - Nacelle   |
+| Table 1.2                   | Wind Turbine Components Specifications - Rotor     |
+| Table 1.3                   | Wind Turbine Components Specifications - Generator |
+| Table 1.4                   | Wind Turbine Components Specifications - Tower     |
+| Table 1.5                   | Wind Turbine Power Output                          |
+| Table 1.6                   | Bill of Materials for Wind Turbine                 |
+| Table 2.1                   | Cost Analysis for Top Tier                         |
+| Table 2.2                 | Cost Analysis for Base Tier                        |
+| Table 2.3                   | Cost Analysis for Economy Tier                     |
+| Table 2.4                   | Energy Generation                                  |
+| Table 2.5                   | Warranty of Different Devices Used                 |
+| Table 3.1              | Total Installation Cost                            |
+| Table 3.2              | Vender's Info                                      |
+| Table 4.1      | Hydro-Electricity Turbine Specifications           |
+| Table 4.2      | Hydro-Electricity Generator Specifications         |
+| Table 4.3      | Hydro-Electricity AC-DC Converter Specifications   |
+| Table 4.4      | Hydro-Electricity output power                     |
+| Table 4.5      | Total Installation Cost                            |
+| Table 4.6      |  Vendor's Info                                     |
+| Table 5.1       | Bill of Materials                                  |
+| Table 6.1      | Thermoelectricity TEG |
+| Table 6.2      |Thermoelectricity TEG (with a battery system) |
+| Table 6.3      | Thermoelectricity Aluminum Sheet             |
+| Table 6.4      | Thermoelectricity Heat Sink                  |
+| Table 6.5      | Thermoelectricity Fresnal Lens               |
+| Table 6.6      | Thermoelectricity Water Bucket               |
+| Table 6.7      | Thermoelectricity components cost            |
+| Table 7.1      | Values of important measures                 |
+| Table 7.2      | Costs                                        |
+| Table 7.3      | Description and values of required items     |
+| Table 8.1      | Characteristics of TEG			|
+| Table 9.1      |                                              |
+| Table 9.2      |                                              |
+| Table 9.3      |                                              |
+| Table 9.4      |                                              |
+| Table 9.5      |                                              |
+| Table 9.6      |                                              |
+| Table 9.7      |                                              |
+| Table 9.8      |                                              |
+
+
+
+| Table  | Cost Analysis                                      |
 | [Table 2](#Electricity from biogas table) | Appendix                                           |
 | [Table 3](#Electricity from biogas table) | Generator                                          |
 | [Table 8.1](#Waste Heat Re-use table)     | (Characteristics of TEG)                           |
@@ -415,8 +437,8 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 | List of figures                          | Description of Figures                      |
 |------------------------------------------|---------------------------------------------|
 | Fig 1.1                    | Wind Power Density Potential ([Ref. wikimedia common](https://commons.wikimedia.org/wiki/File:Global_Map_of_Wind_Power_Density_Potential.png))|
-| Fig 1.2                    | Wind Power Potential Map - India ([Ref. - researchgate](https://www.researchgate.net/publication/332702533_Wind_energy_programme_in_India_Emerging_energy_alternatives_for_sustainable_growth/figures?lo=1&utm_source=google&utm_medium=organic)) |
-| Fig 1.3                    | CAD Model of Wind Turbine |                                                                                                                   | Fig 1.4                    | Wind Turbine Grid Connection Diagram |                                                                                                          | Fig 2.1                   |  Sun and Earth ([ck-12](https://flexbooks.ck12.org/cbook/ck-12-middle-school-earth-science-flexbook-2.0/section/10.13/primary/lesson/solar-energy-and-latitude-ms-es/)) |
+| Fig 1.2                    | Wind Power Potential Map - India ([Ref. researchgate](https://www.researchgate.net/publication/332702533_Wind_energy_programme_in_India_Emerging_energy_alternatives_for_sustainable_growth/figures?lo=1&utm_source=google&utm_medium=organic)) |
+| Fig 1.3                    | CAD Model of Wind Turbine |                                                                                                                   | Fig 1.4                    | Wind Turbine Grid Connection Diagram |                                                                                                          | Fig 2.1                   |  Sun and Earth ([Ref. ck-12](https://flexbooks.ck12.org/cbook/ck-12-middle-school-earth-science-flexbook-2.0/section/10.13/primary/lesson/solar-energy-and-latitude-ms-es/)) |
 | Fig 2.2                   | Solar Energy Map India ([geographyandyou](https://geographyandyou.com/solar-power-in-india/))|
 | Fig 2.3                   | Solar Panel      |                                                                                                           
 | Fig 3.1              | CAD Model Of Bicycle Electricity Generator |                                                                                                          | Fig 4.1      | Average Rainfall in India   |                                                                                                                                | |Fig 4.2      | Major rivers of India                                                                                                                                      | Fig 4.3      | Model of Hydro-Electricity System    |                                                                                                                       | Fig 4.4      | Dimensions of Gravitational Water Vortex|                                                                                                                   | Fig 4.5      | Circuit Diagram of System |     
@@ -425,28 +447,27 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 | Fig 5.2.a       | Bladelss Windmill Block Diagram   |                                                                                                                        | Fig 5.2.b       | Working of Bladeless Turbine   |                                                                                           
 | Fig 5.2.c       | Bladeless Windmill CAD Model    |                                                                                                                          | Fig 5.3.a       | Piezo Shoes Circuit Diagram  |                                                                                              
 | Fig 5.3.b       | Piezo Shoe Sole CAD model    |                                                                                                                            | Fig 5.3.c       | Working Prototype(Source: Instructables)  |                                                                                          
-| Fig 6.1       | Heat Map of India   |                                                                                                                                       | Fig 6.2        |   Construction of thermoelectric system |
-| Fig 6.3        |  Working principle of thermoelectric system |
+| Fig 6.1       | Heat Map of India   |                                                                                                                                       | Fig 6.2        | Construction of thermoelectric system |
+| Fig 6.3        | Working principle of thermoelectric system |
 | Fig 7.1        | Diagram of working of digester and biogas generator |
-| Fig 8.1        | Thermoelectric generator |
-| Fig 8.2        | Working of a TEG         |
-| Fig 8.3        | Installation of TEG in Kitchen |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+| Fig 8.1        | Thermoelectric generator ([Ref. electronicsweekly](https://www.electronicsweekly.com/news/products/power-supplies/thermoelectric-generators-interface-pcbs-2017-04/))                            |
+| Fig 8.2        | Working of a TEG  [Ref. researchgate](https://www.researchgate.net/figure/Schematic-of-an-operating-principle-of-TEG-9_fig4_322958833)  |
+| Fig 8.3        | Installation of TEG in Kitchen | 
+| Fig 9.1        |                                |
+
+
 ### [To Do](#table-of-contents)
 - First check the geographical and basic requirements of the system you wish to incorporate in your customized design,
 - Then check out if you can bear the one time installation and maintainence costs
 - After finalizing the selected systems based on the above two points, select the tier system for energy storage and distribution based on the energy generated in your system and the cost affordability.
 - Now,You finally have your own customized system according to your specific needs
 
-
-
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
 
 
-
 ### [Mindmap](#table-of-contents)
-
 
 
 
