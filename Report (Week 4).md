@@ -1752,7 +1752,7 @@ black box) through electrical wires.
 
 #### [8. Waste Heat Re-use](#table-of-contents)
 
-#### 8.1 Requirements
+**8.1 Requirements**
 
 **8.1.1 Geographical requirements**
 
@@ -1764,7 +1764,7 @@ Our goal is to derive energy from heat sources within the house, most notably th
 
 ---
 
-### 8.2 Specifications
+**8.2 Specifications**
 
 **8.2.1 Components**
 
@@ -1833,7 +1833,7 @@ Therefore, the system is a one time installment which will work for years.
 ---
 
 
-### 8.3  Diagrams and Working
+**8.3  Diagrams and Working**
 
 **8.3.1 Working Principle** 
 
@@ -1865,7 +1865,7 @@ On connecting the joined ends to a battery through charge controller, we can cha
  
 ---
 
-### 8.4 Closure
+**8.4 Closure**
 
 **8.4.1 Availability** 
 -   Production plan for the heat renewal device : The production of the heat renewal device would be 20% more than the sale of the device till the end of sale of the product. This would ensure the availability of components and the device itself in case of replacement, repair and non-availability. 
@@ -1880,6 +1880,8 @@ On connecting the joined ends to a battery through charge controller, we can cha
 -  End of life of heat renewal device - The components of heat renewal device (TEG module, battery and charge controller) will be available for repairing and replacement till 10 years (warranty) after the end of sale for the heat renewal device. 
  
 -  Upgradability : The quality of the TEGs would improve over the time, thus it will be possible to incorporate more efficient TEGs into the system after say a period of 10 years.
+
+
 
 ### Image credits
 
@@ -1897,7 +1899,7 @@ On connecting the joined ends to a battery through charge controller, we can cha
 
 ### [9. Energy Storage And Distribution](#table-of-contents)
 
-##### 9.1 Requirements
+**9.1 Requirements
 
 
 **9.1.1 House Requirements**
