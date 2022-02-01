@@ -612,7 +612,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 
 **2.1.1 Geographical requirements**
 
-Different regions on the globe get different amount of sunlight at different angles. For example, at equator the earth recieves more focused sunlight than on poles where the light spreads over a wide area. The area which receives more focused sunlight can generate more solar energy. Different geographical features also play a role like forest areas or hilly areas which have low solar power availability.
+Different regions on the globe get different amount of sunlight at different angles. For example, at equator the earth recieves more focused sunlight than on poles where the light spreads over a wide area. The area which receives more focused sunlight can generate more solar energy. Different geographical features also play a role like forest areas or hilly areas which have low solar power avalibilty.
 
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
@@ -1497,8 +1497,8 @@ engine followed by an electricity generator then produces power. The
 power is then transferred to the storage system (as depicted by the
 black box) through electrical wires.
 
-![biogasplant](https://i.imgur.com/fmSXrVx.jpg "biogasplant")
-<figcaption align = "center"><b>Diagram of working of digester and biogas generator</b></figcaption>
+<p align = "center"> <img src= "https://i.imgur.com/fmSXrVx.jpg" width= "90%"> </p>
+<p align = "center">Diagram of working of digester and biogas generator</p>
 
 ##### 7.4 Appendix
 
@@ -1566,7 +1566,7 @@ Building the heat renewal system involves the following devices:
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/Ssh7JCR/TEG-Image-modified.jpg" alt="TEG Image-modified" border="0"></a>
 </p>
 
-Fig 8.1 Thermo electric generator 
+<p align = "center">Fig 8.1 Thermo electric generator</p>
 
 
 (2) Household devices : Cooking stove (the primary requirement).
@@ -1625,8 +1625,7 @@ The TEG system contains two dissimilar thermoelectric materials joined at ends w
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/yhfjVrZ/TEG-Working.png" alt="TEG (Working)" border="0"></a>
 </p>
-
-<center>                              Figure 8.2 Working of a TEG                        </center>
+<p align = "center"> Figure 8.2 Working of a TEG </p>
 
 **8.3.2 Installation** 
 	
@@ -1636,7 +1635,7 @@ We will install the TEG's around the burners in the kitchen. The dimensions of a
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/KXrFjHX/Stove-Connection.jpg" alt="Stove Connection" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a>
 </p>
 
-Figure 8.3 Installation of TEGs in Kitchen 
+<p align = "center">Figure 8.3 Installation of TEGs in Kitchen</p>
 
  On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
  
@@ -1875,7 +1874,8 @@ Solar photovoltaic power, being the most contributing in terms of energy product
 
 The following diagram gives us a brief description of the system.
 
-![enter image description here](https://i.ibb.co/nbvfFqb/week3jpg.jpg)
+<p align = "center">
+<img src = "https://i.ibb.co/nbvfFqb/week3jpg.jpg" width="90%"></p>
 The system has been designed to be modular, allowing for: *easy installation, flexibility and user customization*  . Every energy source is paired with its own charge controller which is synchronized with other charge controllers for balanced charging. The chargers are then connected in parallel to both the battery and the inverter allowing for direct pass through of energy. The Inverter is then chosen in accordance with the overall expected system power usage.
 
 The setup is same across all tiers with the main difference between each tier is in the capacity of power and storage.
