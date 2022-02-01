@@ -717,7 +717,9 @@ This system is designed to fulfill requirements of a household without consuming
 
 
 #### 3. Mechanical 
+
 ##### Requirements
+
 **Geographical requirements**
 
 System can work under all geographical conditions.
@@ -765,20 +767,25 @@ Installation Cost for 1 bicycle
 
 
 So, cost for installing 4 bicycle generators: 23000*4=Rs 92,000
+
 *Maintenance Cost* :Negligible maintenance cost
 
 ##### Diagrams and Working
+
 - Here DC motor works as DC generator. It has a flywheel attached to it which increases its moment of inertia meaning even if you stop cycling for a moment, the generator will spin by itself for a couple of seconds.
 - The output of the generator is connected to a buck-boost converter, whose output is then fed to a power inverter which is finally driving the load. This is done to regulate the generated voltage to get its full use.
 - In this setup, the buck boost converter is driven by a 3-60 v dc always stepping up or down to the input voltage to an exact output voltage of 22.2v dc.
 - This 22.2v is then fed to a power inverter which steps up and reshapes it to 230v 50Hz ac.
 - After charging the batteries, the inverter is removed and the output of the buck boost converter is directly attached to the two 11.1v batteries connected in series.
 - Below is the model for our bicycle electricity generator
+
+
 ![Side view](https://i.ibb.co/zRDYTMS/bike-side-view.png)
 
 <figcaption align = "center"><b>Fig.1 - CAD Model Of Bicycle Electricity Generator </b></figcaption>
 
 #### Vender's Info
+
 |         Part          |  Link   |
 | :-------------------: | :-----: |
 | Sprocket | [Buy Link](https://www.alibaba.com/product-detail/Motorcycle-Chain-with-Sprocket_60449232001.html) |
