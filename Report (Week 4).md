@@ -731,8 +731,7 @@ Table-5 Warranty of Different Devices Used
 </p>
 
 
-This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
-
+This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative fOR commercial power supply as it is generating clean energy with minimal cost. In exchange for a high one-time cost, the system provides continuous energy for many years at negligible cost
 
 ---
 <div style = "page-break-after: always; visibility: hidden">
