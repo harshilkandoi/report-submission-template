@@ -229,13 +229,13 @@ geometry : margin = 2cm
 |--------------  |-----------|-----------------|------------|--------------|
 |			S K Vignesh			  |2019EE10513                  |Sub-coordinator| ee1190513@iitd.ac.in                   |  1   				  |
 |	Vishal Meena					  |   2019MT10735               |Member               |  mt1190735@iitd.ac.in                  |  1    				  |
-|		Pradim Siwa			      |      2019MT10712            |Member               |   mt1190712@iitd.ac.in             |  0.8					  | 
+|		Pradim Siwa			      |      2019MT10712            |Member               |   mt1190712@iitd.ac.in             |  1					  | 
 |                 Harisam Sharma        |  			2019EE30570	 |Member               |        ee3190570@iitd.ac.in      | 	0				  |
 |                     Vaibhav Soni    |				 2019EE10542	 |Member               |   ee1190542@iitd.ac.in           |  	1				  
-|		Dasaradhi Lokesh				  |  2019MT60751                 |Member               |          mt6190751@iitd.ac.in           |  0.5   				  |
+|		Dasaradhi Lokesh				  |  2019MT60751                 |Member               |          mt6190751@iitd.ac.in           |  1   				  |
 |			Deepankar Tiwari			  |          2018EE30536        |Member               |       ee3180536@iitd.ac.in            |      1				  |
 |				Prashant Verma		  |           2018EE30556       |Member               |            ee3180556@iitd.ac.in       |    1  				  |
-|					Abhishek Palway	  |           2019EE10459       |Member               |           ee1190459@iitd.ac.in        |    0.5  				  |
+|					Abhishek Palway	  |           2019EE10459       |Member               |           ee1190459@iitd.ac.in        |    1 				  |
 |				Lakshika Rathi		  |       2019EE10491           |Member               |   ee1190491@iitd.ac.in                |      		1		  |
 | Vishwash Tetarwal                                       |   2015MT60570               |Member               |    mt6150570@iitd.ac.in               | 0          |
 	
@@ -267,7 +267,7 @@ Details of authorisers:-
 
 <font size = "2">
 
-| Document ID | v1.1   |
+| Document ID | v1.2   |
 |----------|----------|
 | Team Name     | TRIBE C    |
 | Contact for correction/clarification | Harshil kandoi(ee1180465@iitd.ac.in) |
@@ -1952,7 +1952,7 @@ On connecting the joined ends to a battery through charge controller, we can cha
 	
 </div>
 <p align = "center">
-Table-9.1 Space Requirement for Energy Storage 
+Table 9.1 Space Requirement for Energy Storage 
 </p>
 --- 
 
@@ -1976,7 +1976,7 @@ The chargers used are of the MPPT (Maximum power point tracking) type are prefer
 	
 </div>
 <p align = "center">
-Table-9.2 Charge Controllers Cost
+Table 9.1 Charge Controllers Cost
 </p>
 
 The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
