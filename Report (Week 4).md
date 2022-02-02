@@ -57,8 +57,6 @@ geometry : margin = 2cm
 > 
 > [To Do](#to-do)
 >
-> [Mindmap](#Mindmap)
->
 > [Designed System](#designed-system)
 > 
 >> [1. Wind](#1-wind)
@@ -230,7 +228,7 @@ geometry : margin = 2cm
 |			S K Vignesh			  |2019EE10513                  |Sub-coordinator| ee1190513@iitd.ac.in                   |  1   				  |
 |	Vishal Meena					  |   2019MT10735               |Member               |  mt1190735@iitd.ac.in                  |  1    				  |
 |		Pradim Siwa			      |      2019MT10712            |Member               |   mt1190712@iitd.ac.in             |  0.8					  | 
-|                 Harisam Sharma        |  			2019EE30570	 |Member               |        ee3190570@iitd.ac.in      | 	0.5				  |
+|                 Harisam Sharma        |  			2019EE30570	 |Member               |        ee3190570@iitd.ac.in      | 	0				  |
 |                     Vaibhav Soni    |				 2019EE10542	 |Member               |   ee1190542@iitd.ac.in           |  	1				  
 |		Dasaradhi Lokesh				  |  2019MT60751                 |Member               |          mt6190751@iitd.ac.in           |  0.5   				  |
 |			Deepankar Tiwari			  |          2018EE30536        |Member               |       ee3180536@iitd.ac.in            |      1				  |
@@ -406,10 +404,10 @@ This report aims to provide the requirements, specifications, design, cost, and 
 
 | Abbreviation    | Full form         |
 |-----------------|-------------------|
-| MPPT 
-| Lipeo4
-|
-
+| MPPT            | Maximum power point tracking|  
+| NdFeB           | Neodymium iron boron|
+| DC              | direct current|
+| AC              | alternating current|
 
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -510,17 +508,6 @@ This report aims to provide the requirements, specifications, design, cost, and 
 \pagebreak
 </div>
 
-
-### [Mindmap](#table-of-contents)
-
-
-
-
-
-
-<div style = "page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
 
 
 ### [Designed System](#table-of-contents) 
