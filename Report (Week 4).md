@@ -486,7 +486,8 @@ This report aims to provide the requirements, specifications, design, cost, and 
 | [Fig 2.3](#2-solar)                   | Solar Panel      |                                                                                                           
 | [Fig 3.1](#3-mechanical)              | CAD Model Of Bicycle Electricity Generator |                                                                                        | [Fig 4.1](#4-hydroelectricity)      | Average Rainfall in India   |                                                                                                         | [Fig 4.2](#4-hydroelectricity)      | Major rivers of India    |                                                                                                            | [Fig 4.3](#4-hydroelectricity)      | Model of Hydro-Electricity System    |                                                                                                | [Fig 4.4](#4-hydroelectricity)      | Dimensions of Gravitational Water Vortex|                                                                                              | [Fig 4.5](#4-hydroelectricity)      | Circuit Diagram of System |     
 | [Fig 5.1.a](#5-piezoelectricity)       | Piezo Tiles Block Diagram |                                                                                                        | [Fig 5.1.b](#5-piezoelectricity)       | Piezo Tiles CAD Model-1    |                                                                        
-| [Fig 5.1.c](#5-piezoelectricity)       | Piezo Tiles CAD Model-2     |                                                                                                      | [Fig 5.1.d](#5-piezoelectricity)       | Piezo Tiles Circuit Diagram |                                                                                   
+| [Fig 5.1.c](#5-piezoelectricity)       | Piezo Tiles CAD Model-2     |                                                                                                      | [Fig 5.1.d](#5-piezoelectricity)       | Piezo Tiles Circuit Diagram |
+| [Fig 5.1.e](#5-piezoelectricity)       | Piezo Tiles Floor plan |
 | [Fig 5.2.a](#5-piezoelectricity)       | Bladelss Windmill Block Diagram   |                                                                                                | [Fig 5.2.b](#5-piezoelectricity)       | Working of Bladeless Turbine   |                                                                                           
 | [Fig 5.2.c](#5-piezoelectricity)      | Bladeless Windmill CAD Model    |                                                                                                    | [Fig 5.3.a](#5-piezoelectricity)       | Piezo Shoes Circuit Diagram  |                                                                                              
 | [Fig 5.3.b](#5-piezoelectricity)       | Piezo Shoe Sole CAD model    |                                                                                                      | [Fig 5.3.c](#5-piezoelectricity)       | Working Prototype(Source: Instructables)  |                                                                                       
@@ -1335,6 +1336,11 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 <b>Fig 5.1.d Piezo Tiles Circuit Diagram </b></figcaption>
 </p>
 
+<p align = "center"><img src = "https://i.imgur.com/wBacle8.png" width= "90%"> </p>
+
+<p align = "center">
+<b>Fig 5.1.e Piezo Tiles Floor plan </b></figcaption>
+</p>
 
 **Piezoelectric Wind Turbine**
 
@@ -1976,7 +1982,7 @@ The chargers used are of the MPPT (Maximum power point tracking) type are prefer
 	
 </div>
 <p align = "center">
-Table 9.2 Charge Controllers Cost
+Table 9.1 Charge Controllers Cost
 </p>
 
 The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
@@ -1989,7 +1995,7 @@ The sources Mentioned above are the major Power sources and other power sources 
 **Schematic**
 | ![Plus Tier wiring schematic](https://i.ibb.co/XkF8GZp/plus-without-rendering-final2.jpg "Plus Tier wiring schematic")|
 |:---:|
-| ***Fig-9.1 Plus Tier wiring schematic***| 
+| ***Fig-1 Plus Tier wiring schematic***| 
 
 
  **Components** 
@@ -2012,7 +2018,7 @@ The sources Mentioned above are the major Power sources and other power sources 
   	
 </div>
 <p align = "center">
-Table 9.4<span  class="emphasized"> Plus</span> tier Battery specification
+Table-3.1a<span  class="emphasized"> Plus</span> tier Battery specification
 </p>
   **No. of Units :-** 5  (Connected in parallel)
   **Cost :-** 2,15,000 INR ( 2,887.5 USD)
@@ -2034,7 +2040,7 @@ Table 9.4<span  class="emphasized"> Plus</span> tier Battery specification
   	
 </div>
 <p align = "center">
-Table 9.5 <span  class="emphasized"> Plus</span> tier Inverter specification
+Table-3.1b <span  class="emphasized"> Plus</span> tier Inverter specification
 </p>
 
 **Cost :-** 22500 INR
@@ -2049,7 +2055,7 @@ Table 9.5 <span  class="emphasized"> Plus</span> tier Inverter specification
 	  |12 AWG|5 m|750 INR|
 	  |1/0 AWG|2 m|760 INR|	  
 	  <p align = "center">
-Table 9.6 <span  class="emphasized"> Plus</span> tier Wires specification
+Table-3.1c <span  class="emphasized"> Plus</span> tier Wires specification
 </p>
 
 **Total Cost**: 8500 INR 
@@ -2075,7 +2081,7 @@ Table 9.6 <span  class="emphasized"> Plus</span> tier Wires specification
 **Schematic**
 |![Base Tier wiring schematic](https://i.ibb.co/PWjHnxN/pdf-base-tier-final-1.jpg " Base Tier wiring schematic") |
 |:-:|
-|***Fig-9.2 Base Tier wiring schematic***|
+|***Fig-2 Base Tier wiring schematic***|
 
 
  **Components** 
@@ -2097,7 +2103,7 @@ Table 9.6 <span  class="emphasized"> Plus</span> tier Wires specification
   	
 </div>
   <p align = "center">
-Table 9.7 <span  class="emphasized"> Base</span> tier Battery specification
+Table-3.2a <span  class="emphasized"> Base</span> tier Battery specification
 </p>
   **No. of Units :-** 6  (Connected in 2S3P configuration)
   **Cost :-** 66,000 INR 
@@ -2118,7 +2124,7 @@ Table 9.7 <span  class="emphasized"> Base</span> tier Battery specification
   	
 </div>
   <p align = "center">
-Table 9.8 <span  class="emphasized"> Base</span> tier Inverter specification
+Table-3.2b <span  class="emphasized"> Base</span> tier Inverter specification
 </p>
   **Cost :-** 5500 INR
 
@@ -2131,7 +2137,7 @@ Table 9.8 <span  class="emphasized"> Base</span> tier Inverter specification
 	  |12 AWG|4 m|600 INR|
 	  |8 AWG|2 m|760 INR|	
 	  <p align = "center">
-Table 9.9 <span  class="emphasized"> Base</span> tier Wiring specification
+Table-3.2c <span  class="emphasized"> Base</span> tier Wiring specification
 </p>  
 	  - **Total Cost**: 5400 INR 
 - **Enclosure**  
