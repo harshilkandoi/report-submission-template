@@ -1976,7 +1976,7 @@ The chargers used are of the MPPT (Maximum power point tracking) type are prefer
 	
 </div>
 <p align = "center">
-Table 9.1 Charge Controllers Cost
+Table 9.2 Charge Controllers Cost
 </p>
 
 The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
@@ -1989,7 +1989,7 @@ The sources Mentioned above are the major Power sources and other power sources 
 **Schematic**
 | ![Plus Tier wiring schematic](https://i.ibb.co/XkF8GZp/plus-without-rendering-final2.jpg "Plus Tier wiring schematic")|
 |:---:|
-| ***Fig-1 Plus Tier wiring schematic***| 
+| ***Fig-9.1 Plus Tier wiring schematic***| 
 
 
  **Components** 
@@ -2012,7 +2012,7 @@ The sources Mentioned above are the major Power sources and other power sources 
   	
 </div>
 <p align = "center">
-Table-3.1a<span  class="emphasized"> Plus</span> tier Battery specification
+Table 9.4<span  class="emphasized"> Plus</span> tier Battery specification
 </p>
   **No. of Units :-** 5  (Connected in parallel)
   **Cost :-** 2,15,000 INR ( 2,887.5 USD)
@@ -2034,7 +2034,7 @@ Table-3.1a<span  class="emphasized"> Plus</span> tier Battery specification
   	
 </div>
 <p align = "center">
-Table-3.1b <span  class="emphasized"> Plus</span> tier Inverter specification
+Table 9.5 <span  class="emphasized"> Plus</span> tier Inverter specification
 </p>
 
 **Cost :-** 22500 INR
@@ -2049,7 +2049,7 @@ Table-3.1b <span  class="emphasized"> Plus</span> tier Inverter specification
 	  |12 AWG|5 m|750 INR|
 	  |1/0 AWG|2 m|760 INR|	  
 	  <p align = "center">
-Table-3.1c <span  class="emphasized"> Plus</span> tier Wires specification
+Table 9.6 <span  class="emphasized"> Plus</span> tier Wires specification
 </p>
 
 **Total Cost**: 8500 INR 
@@ -2075,7 +2075,7 @@ Table-3.1c <span  class="emphasized"> Plus</span> tier Wires specification
 **Schematic**
 |![Base Tier wiring schematic](https://i.ibb.co/PWjHnxN/pdf-base-tier-final-1.jpg " Base Tier wiring schematic") |
 |:-:|
-|***Fig-2 Base Tier wiring schematic***|
+|***Fig-9.2 Base Tier wiring schematic***|
 
 
  **Components** 
@@ -2097,7 +2097,7 @@ Table-3.1c <span  class="emphasized"> Plus</span> tier Wires specification
   	
 </div>
   <p align = "center">
-Table-3.2a <span  class="emphasized"> Base</span> tier Battery specification
+Table 9.7 <span  class="emphasized"> Base</span> tier Battery specification
 </p>
   **No. of Units :-** 6  (Connected in 2S3P configuration)
   **Cost :-** 66,000 INR 
@@ -2118,7 +2118,7 @@ Table-3.2a <span  class="emphasized"> Base</span> tier Battery specification
   	
 </div>
   <p align = "center">
-Table-3.2b <span  class="emphasized"> Base</span> tier Inverter specification
+Table 9.8 <span  class="emphasized"> Base</span> tier Inverter specification
 </p>
   **Cost :-** 5500 INR
 
@@ -2131,7 +2131,7 @@ Table-3.2b <span  class="emphasized"> Base</span> tier Inverter specification
 	  |12 AWG|4 m|600 INR|
 	  |8 AWG|2 m|760 INR|	
 	  <p align = "center">
-Table-3.2c <span  class="emphasized"> Base</span> tier Wiring specification
+Table 9.9 <span  class="emphasized"> Base</span> tier Wiring specification
 </p>  
 	  - **Total Cost**: 5400 INR 
 - **Enclosure**  
