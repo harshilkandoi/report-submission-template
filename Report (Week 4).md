@@ -45,6 +45,8 @@ geometry : margin = 2cm
 >
 > [Abstract](#Abstract)
 >
+> [scope](#scope)
+> 
 > [Workflow Structure](#workflow-structure)
 > 
 > [List of Abbreviations](#list-of-abbreviations)
@@ -77,8 +79,11 @@ geometry : margin = 2cm
 >> 
 >> [9. Energy Storage And Distribution](#9-energy-storage-and-distribution)
 > 
+> [closure](#closure)
+> 
 > [References](#References)
-
+> 
+> [appendix](#appendix)
 
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
@@ -232,7 +237,8 @@ geometry : margin = 2cm
 |				Prashant Verma		  |           2018EE30556       |Member               |            ee3180556@iitd.ac.in       |    1  				  |
 |					Abhishek Palway	  |           2019EE10459       |Member               |           ee1190459@iitd.ac.in        |    0.5  				  |
 |				Lakshika Rathi		  |       2019EE10491           |Member               |   ee1190491@iitd.ac.in                |      		1		  |
-
+| Vishwash Tetarwal                                       |   2015MT60570               |Member               |    mt6150570@iitd.ac.in               | 0          |
+	
 </font>
 
 <div style = "page-break-after: always; visibility: hidden">
@@ -318,12 +324,8 @@ Details of authorisers:-
 
 - We are designing a modular energy generation system, which can be assembled completely or in parts depending on your geographical limitations and cost bearing capabilities.
 We have mentioned the requirements needed (geographical/structural/machinery wise etc..) for each portion of the system to be assembled , and the user can choose the model which fits his/her budget after checking their geographical compatibility. 
-- For eg:- a user living in rural areas will benefit a lot from biogas based electricity (since there are lots of cowdung cakes around) while a user in urban area may not benefit so much from it but he/she might have better access to solar panels and can bear heavy one time costs.
-- Similarly areas with open spaces and strong gusty winds can use wind turbines, whereas areas which are enclosed like malls/complexes etc. might benefit more from peizoelectric tiles(since they attract loads of crowd and has people walking 24/7.)
-- Houses which have lot of people willing to exercise can benefit from bicycle powered generation , since there will be more man-power and so on.
 - We have in total provided with 8 different ways of electricity generation and a storage and distribution system, the limitation of this system is for those who can't use any of the 8 ways due to geographical boundations or cost unaffordability , although such conditions will be rare considering the variety of methods presented. Nonetheless, this system will cater to most people in varying amounts of effectiveness and feasibility.
-
-- The main idea is to have a modular system comprising of lots of options which can then be customized according to user's preferences. The following report contains all the information that a user needs to make the right choices for his/her customized version of the system. In fact an interactive app can be made where upon entering the geographical details and budget , it will make a suggestion for a system customized for that particular locale. 
+- The main idea is to have a modular system comprising of lots of options which can then be customized according to user's preferences. The following report contains all the information that a user needs to make the right choices for his/her customized version of the system.
 
 - Also in the storage of energy sub section, We have provided with three categories:- **plus tier system**, **base tier system**, **economy tier system**. The user can choose
   according to his/her preferences.   
@@ -331,6 +333,26 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
+
+
+The following diagram gives us a brief description of the system.
+
+<p align = "center">
+<img src = "https://i.ibb.co/nbvfFqb/week3jpg.jpg" width="90%"> </p>
+
+<p align = "center">
+<b>Fig 9.1 </b></figcaption>
+</p>
+
+
+The system has been designed to be modular, allowing for: *easy installation, flexibility and user customization*  . Every energy source is paired with its own charge controller which is synchronized with other charge controllers for balanced charging. The chargers are then connected in parallel to both the battery and the inverter allowing for direct pass through of energy. The Inverter is then chosen in accordance with the overall expected system power usage.
+
+
+
+
+### [scope](#table-of-contents)
+
+This report aims to provide the requirements, specifications, design, cost, and vendor info for designing an off-the-grid system , and although a comprehensive description of every aspect is given after careful scrutiny , it should in no way be taken as a hard guide for actual construction. The prices mentioned may vary from region to region, and may even change over time.  
 
 
 ### [Workflow Structure](#table-of-contents)
@@ -382,10 +404,11 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 
 ### [List of Abbreviations](#table-of-contents)
 
-
-
-
-
+| Abbreviation    | Full form         |
+|-----------------|-------------------|
+| MPPT 
+| Lipeo4
+|
 
 
 <div style = "page-break-after: always; visibility: hidden">
@@ -518,7 +541,7 @@ Though wind power is a very clean source of energy, it is not so easy to harness
 <b>Fig 1.1 Wind Power Density Potential </b></figcaption>
 </p>
 
-For an Indian household, to generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least more than 5m/s. The wind power potential map shown below explains how the wind power potential is distributed across India? The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states along the western coast. 
+For an Indian household, to generate a good amount of electricity using wind power, one needs an average annual wind speed of at-least 5m/s. The wind power potential map shown below explains how the wind power potential is distributed across India. The states with the highest potential are Gujarat, J&K and Tamil Nadu where the average annual wind speed is above 5.6m/s. We can also see that in general, the potential is a lot higher in states that are along the western coast of india. 
 
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/wLFh7ZR/Wind-Potential-Map.jpg" alt="Wind Potential Map" border="0"></a></p>
@@ -675,13 +698,9 @@ For an Indian household, to generate a good amount of electricity using wind pow
 </p>
     
 
-**Maintenance cost** 
-All practitioners recommend annual maintenance for the small wind turbine, which involves applying grease to bearings, maintaining the leading edge of wind turbine blades and providing a general inspection.  Therefore, a provision of one skilled mechanic at a daily wage of ₹784 is considered for the maintenance of the system.
-
-
 **1.3 Diagrams and Working**
 
-Wind turbine designs involves looking over a lot of environmental and mechanical aspects for an efficient and sturdy electrical energy generation system. In our design, we have tried to considered a lot of these factors and have tried to keep the as real as possible. The actual construction of the wind turbine is a secondary objective and has been taken into optimum consideration during the design phase. But as the design of the wind turbine discussed below is based on existing technology investigated in the literature review and research process it's a little difficult to get the exact specifications ready for construction just by working on the design remotely, therefore, depending upon the resources available and the feasibility of the model the design discussed below can be altered.
+Wind turbine designs involves looking over a lot of environmental and mechanical aspects for an efficient and sturdy electrical energy generation system. In our design, we have considered a lot of these factors while building a practical system. 
 
 Below is the CAD model of the small wind turbine along with brief description of some components:
 
@@ -698,7 +717,7 @@ Below is the CAD model of the small wind turbine along with brief description of
 </p>
 
 
-After the completion of the mechanical design of the wind turbine, the next step is to look after the electrical connections for energy storage and usage. The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage. Refer to [energy storage section](#9-energy-storage-and-distribution) for more details.
+After the completion of the mechanical design of the wind turbine, the next step is to look after the electrical connections for energy storage and usage. The block diagram shown below shows the big picture of the all electrical connections necessary to get the wind turbine ready for electricity generation and daily household usage.
 
 <p align = "center">
 	<a href="https://ibb.co/kQ1RPC9"><img src="https://i.ibb.co/GcTKrSt/Grid-connection-diagram.png" alt="Grid-connection-diagram" border="0"></a>
@@ -709,26 +728,6 @@ After the completion of the mechanical design of the wind turbine, the next step
 </p>
 
 
-**1.4 Closure**
-	    
-According to different studies and data shared by the manufacturers of small horizontal-axis wind turbines, the average life span of a small wind turbine is nearly 20 years (with regular maintenance). The individual lifetime of the components specified above is given below to give a more thorough idea. It should be noted that the assigned lifetimes are those expected by the practitioners who manufactured the systems and can vary in the real world.
-
-<div align = "center">
-	
- | Parts                      | Lifetime |
- | :----------------: | :---------------: |
- | Blades | 20-25 years|
- | Gearbox | 8-10 years|
- | Generator | 15-20 years |
- | Tubular-steel tower | More than 25 years|
-	
-</div>
-
-<p align = "center">
-<b>Table 1.7 Lifespan of Wind Turbine Parts </b></figcaption>
-</p>
- 
-However, a turbine's lifespan can be increased by regular monitoring and maintenance. This can be done by assessing the asset's state and comparing it to the turbine's predicted lifespan based on expected loads and fatigue, and environmental considerations for the wind energy location. By such regular assessments, one can know whether the continued operation of the turbine is possible or any components need replacing to extend its lifespan. However, the maintenance costs will increase as the structure ages.
 
 ---
 
@@ -2012,23 +2011,20 @@ On connecting the joined ends to a battery through charge controller, we can cha
 **9.1 Requirements**
 
 **9.1.1 House Requirements**
-1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10$C^\circ$ to 40$C^\circ$ , Ideal temperature range of 25-35$C^\circ$
-2. *Space and Area:*
+1. *Ventilation and Temperature*: A shaded, dry place with reasonably free airflow. Operational temperature range 10&deg;C to 40&deg;C , Ideal temperature range of 25-35&deg;C
+2. *Space and Area:* &deg;
+<div align="center">
 
-<div align = "center">
-
-|Tier |Volume (in litres) |Area (cm$\times$cm)|
+|Tier |Volume (in litres) |Area (cm x cm)|
 |--|--|--|
-|*Plus* |480  | 80 $\times$ 50|
-|*Base*|513|77 $\times$ 60|
-|*Economy*|162|54 $\times$ 40|
-
+|*Plus* |480  | 80  x  50|
+|*Base*|513|77  x  60|
+|*Economy*|162|54  x  40|
+	
 </div>
-
 <p align = "center">
-<b>Table 9.1 </b></figcaption>
+Table-1 Space Requirement for Energy Storage 
 </p>
-
 --- 
 
 **9.2 Specification**
@@ -2037,7 +2033,7 @@ On connecting the joined ends to a battery through charge controller, we can cha
   *Chargers* --- *per source*
 The chargers used are of the MPPT (Maximum power point tracking) type are preferred , which allows for networking and better efficiency compared to PWM type.
 	  
-<div align = "center">
+<div align="center">
 
 | Source | Specification | Cost (INR) |
 |--------|---------------|------------|
@@ -2047,71 +2043,91 @@ The chargers used are of the MPPT (Maximum power point tracking) type are prefer
 | *Wind* |24V 500W *ato* wind turbine MPPT controller  | 8200 (99.82USD)
 | *combustion*  |*not required*(direct(ac-dc) inverter connection)  | -
 | *Hydro* |12V/24V *Ethan* 30A MPPT charge controllers  |5000
-| *Mechanical*|12/24V *sunzter Trak* 10A MPPT controller| 1800
+| *Mechanical*|12/24V *sunzter Trak* 10A MPPT controller| 1800|
 	
 </div>
-
 <p align = "center">
-<b>Table 9.2 </b></figcaption>
+Table-2 Charge Controllers Cost
 </p>
 
 The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
 
 **9.2.2 Battery-Inverter Specifications**
 
-**9.2.2.1 Plus tier**
+**9.2.2.1 *Plus* tier**
+
+
+**Schematic**
+| ![Plus Tier wiring schematic](https://i.ibb.co/XkF8GZp/plus-without-rendering-final2.jpg "Plus Tier wiring schematic")|
+|:---:|
+| ***Fig-1 Plus Tier wiring schematic***| 
+
 
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
-	 - $LiFePO_4$ based batteries are used as they are a perfect combination of Energy density, Life Span, Weight and Safety. Even though, there are more cheaper alternatives (Lead-Acid Batteries) but the advantages are worth the extra cost.
+	 - LiFePO<sub>4</sub> based batteries are used as they are a perfect combination of Energy density, Life Span, Weight and Safety. Even though, there are more cheaper alternatives (Lead-Acid Batteries) but the advantages are worth the extra cost.
 	 - The Number of batteries used is the minimum number required, but the number can be increased based on requirement and backup time required
-
-<div align = "center">
+<div align="center">
 
  |                     |             |
   | :-----------------: | :---------: |
   |       Manufacturer       |   Grenergy     |
-  | Combination  |  8S5P : 3.2V : 20AH : $LiFePO_4$ Cells  |
-  |     Dimension ( h$\times$b$\times$d ) |  52.5 $\times$ 24.0 $\times$ 21.8 cm     |
+  | Combination  |  8S5P : 3.2V : 20AH : LiFePO<sub>4</sub> Cells  |
+  |     Dimension ( h x b x d ) |  52.5  x  24.0  x  21.8 cm     |
   |   Nominal Voltage (Charge - Discharge)  | 24V  ( 29.2V - 20V )|
   |       Max Working Current        |    100 A    |
   |       Nominal capacity       |    100Ah    |
-  |       Operating Temperature      |  0$^\circ$C to 50$^\circ$C    |
+  |       Operating Temperature      |  0&deg;C to 50&deg;C    |
   |     *Cost* per piece| USD 550 (INR 43000 incl. customs)  |
+  	
+</div>
+<p align = "center">
+Table-3.1a<span  class="emphasized"> Plus</span> tier Battery specification
+</p>
   **No. of Units :-** 5  (Connected in parallel)
   **Cost :-** 2,15,000 INR ( 2,887.5 USD)
-
-</div>
-
-<p align = "center">
-<b>Table 9.3  </b></figcaption>
-</p>
 
 
  - **Inverter** (with charger)  -- *DC to AC converter*
 	 - The invertor is used to convert the DC power from the various chargers and the battery system to AC power for domestic consumption. 
-	 - It also allows for AC power Sources such as the Biogas' generator to charge the battery. In a complete power failure situation, It also allows for Connection to the electrical grid or to a fuel based generator.
-
-<div align = "center">
+	 - It also allows for AC power Sources such as the Biogas' generator to charge the battery. In a complete power failure situation, It also allows for Connection to the electrical grid or to a fuel based generator. 
+<div align="center">
 
 |                     |             |
   | :-----------------: | :---------: |
   |       Manufacturer       |   Luminous     |
   | Name  |  Cruze+, 4KVA  |
   |Battery Volatge|48V|
-  |VA rating |4VA|
+  |VA rating |4KVA|
   |Weight |31.9Kg|
-  |Size|28$\times$ 30.5 $\times$ 38 cm|
-  **Cost :-** 22500 INR
-
+  |Size|28 x  30.5  x  38 cm|
+  	
 </div>
-
 <p align = "center">
-<b>Table 9.4  </b></figcaption>
+Table-3.1b <span  class="emphasized"> Plus</span> tier Inverter specification
 </p>
-  
- 
+
+**Cost :-** 22500 INR
+  - **Wiring and Connectors**
+	  - Connectors : 3000 INR
+
+
+
+      |Size|Length|Cost|
+	  |:--:|:--:|:--:|
+	  |4 AWG|10 m|5000 INR|
+	  |12 AWG|5 m|750 INR|
+	  |1/0 AWG|2 m|760 INR|	  
+	  <p align = "center">
+Table-3.1c <span  class="emphasized"> Plus</span> tier Wires specification
+</p>
+
+**Total Cost**: 8500 INR 
+- **Enclosure**  
+	- *60 Sqft* of *19mm plywood* 
+	- **Total Cost**: 4800 INR
+	
 **Power And Energy**
 
  - **11 KWh** amount of *Energy can be stored* (roughly energy required for one days use)
@@ -2120,45 +2136,48 @@ The sources Mentioned above are the major Power sources and other power sources 
 
 **Costs**
 
- - *Initial Setup Cost:-*  **2,80,000 INR** (including Wiring and labour )
+ - *Initial Setup Cost:-*  **2,53,000 INR** (including Wiring and labour )
  - *Maintenance And Running cost:-* virtually none
- - *lifespan:-* *10 Years for the battery* and 1*5 years for the rest of the system*
+ - *lifespan:-* *10 Years for the battery* and *15 years for the rest of the system*
 
 
 
-**9.2.2.2 Base tier**
+**9.2.2.2 *Base* tier**
+**Schematic**
+|![Base Tier wiring schematic](https://i.ibb.co/PWjHnxN/pdf-base-tier-final-1.jpg " Base Tier wiring schematic") |
+|:-:|
+|***Fig-2 Base Tier wiring schematic***|
+
+
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
 	 - *Lead-Acid* based batteries are used here to for their superior capacity at any given cost.
 	 - The Number of batteries used is the optimum number for running. Number of batteries can also be reduced to 4, if there is a budget constraint.
-
-<div align = "center">
+<div align="center">
 
  |                     |             |
   | :-----------------: | :---------: |
   |       Manufacturer       |   LUMINOUS     |
-  |     Dimension ( h$\times$b$\times$d ) |  50.2 $\times$ 19.1 $\times$ 44 cm     |
+  |     Dimension ( h x b x d ) |  50.2  x  19.1  x  44 cm     |
    |       Nominal capacity       |    100Ah    |
   |   Nominal Voltage (Charge - Discharge)  | 12V  ( 12.7V - 10.8V )|
   |Weight|52Kg|
   |     *Cost* per piece| 11000 INR  |
   |Country of Origin | India|
+  	
+</div>
+  <p align = "center">
+Table-3.2a <span  class="emphasized"> Base</span> tier Battery specification
+</p>
   **No. of Units :-** 6  (Connected in 2S3P configuration)
   **Cost :-** 66,000 INR 
-
-</div>
-
-<p align = "center">
-<b>Table 9.5  </b></figcaption>
-</p>
 
  - **Inverter** (with charger)  -- *DC to AC converter*
 	 - The invertor is used to convert the DC power from the various chargers and the battery system to AC power for domestic consumption. 
 	 - It also allows for AC power Sources such as the Biogas' generator to charge the battery. In a complete power failure situation, It also allows for Connection to the electrical grid or to a fuel based generator. 
+<div align="center">
 
-<div align = "center">
-	
 |                     |             |
   | :-----------------: | :---------: |
   |       Manufacturer       |   Exide     |
@@ -2166,15 +2185,32 @@ The sources Mentioned above are the major Power sources and other power sources 
   |Battery Volatge|24V|
   |VA rating |1.015VA|
   |Weight |11.9Kg|
-  |Dimensions|35 $\times$ 30 $\times$ 25|
-	
+  |Dimensions|35  x  30  x  25|
+  	
 </div>
-
-<p align = "center">
-<b>Table 9.6 </b></figcaption>
+  <p align = "center">
+Table-3.2b <span  class="emphasized"> Base</span> tier Inverter specification
 </p>
-
   **Cost :-** 5500 INR
+
+ - **Wiring and Connectors**
+	  - Connectors : 3000 INR
+
+	  |Size|Length|Cost|
+	  |-|-|-|
+	  |4 AWG|2 m|1000 INR|
+	  |12 AWG|4 m|600 INR|
+	  |8 AWG|2 m|760 INR|	
+	  <p align = "center">
+Table-3.2c <span  class="emphasized"> Base</span> tier Wiring specification
+</p>  
+	  - **Total Cost**: 5400 INR 
+- **Enclosure**  
+	- *75 Sqft* of *1 inch plywood* 
+	- **Total Cost**: 9000 INR
+	
+
+
 **Power And Energy**
 
  - **10.2 KWh** amount of *Energy can be stored* (roughly energy required for one days use)
@@ -2182,39 +2218,44 @@ The sources Mentioned above are the major Power sources and other power sources 
  
 **Costs**
 
- - *Initial Setup Cost:-*  **75000 INR** (including Wiring and labour ) for only battery system
+ - *Initial Setup Cost:-*  **88,700 INR** (including Wiring and labour ) for only battery system
  - *Maintenance And Running cost:-* 4000 INR per annum
  - *lifespan:-* *3 Years for the battery* and *10 years for the rest of the system*
 
 
 
 
-**9.2.2.3 Economy tier**
+**9.2.2.3 *Economy* tier**
+
+**Schematics**
+|![Economy Tier wiring schematic](https://i.ibb.co/417Ndb0/eco.jpg "Economy Tier wiring schematic")|
+|:-:|
+|***Fig-3 Economy Tier wiring schematic***|
+
+
  **Components** 
 
  - **Batteries**  --- *heart of the energy storage system*
 	 - *Lead-Acid* based batteries are used here to for their superior capacity at any given cost.
-	 
-<div align = "center">
-	
+	<div align="center"> 
  |                     |             |
   | :-----------------: | :---------: |
   |       Manufacturer       |   AMARON    |
-  |     Dimension ( h$\times$b$\times$d ) |  50.2 $\times$ 19.1 $\times$ 44 cm     |
+  |     Dimension ( h x b x d ) |  50.2 19.1  x  44 cm     |
    |       Nominal capacity       |    165Ah    |
   |   Nominal Voltage (Charge - Discharge)  | 12V  ( 12.7V - 10.8V )|
   |Weight|59Kg|
   |     *Cost* per piece| 12000 INR  |
   |Country of Origin | India|
-	
+  	
 </div>
-
 <p align = "center">
-<b>Table 9.7  </b></figcaption>
+Table-3.3a <span  class="emphasized"> Economy</span> tier Battery specification
 </p>
-
   **No. of Units :-** 1  
   **Cost :-** 12,000 INR 
+
+
 
 
  - **Inverter** (with charger)  -- *DC to AC converter*
@@ -2222,8 +2263,7 @@ The sources Mentioned above are the major Power sources and other power sources 
 	 - It also allows for AC power Sources such as the Biogas' generator to charge the battery. In a complete power failure situation, It also allows for Connection to the electrical grid or to a fuel based generator. 
 	 - Due to unavailability of Proper inverters for the required capacity, we need to either design such a system for less than 2000 INR or use an Inverter cum solar charger.
 	 - The specifications are for the combined solar charger with inverter
-
-<div align = "center">
+<div align="center">
 
 |                     |             |
   | :-----------------: | :---------: |
@@ -2232,14 +2272,22 @@ The sources Mentioned above are the major Power sources and other power sources 
   |VA rating |300VA|
   |Weight |3 Kg|
   |Max Bulb Power|240W|
-	
+  	
 </div>
-
-<p align = "center">
-<b>Table 9.8  </b></figcaption>
+  <p align = "center">
+Table-3.3b <span  class="emphasized"> Economy</span> tier Inverter specification
 </p>
 
   **Cost :-** 2700 INR
+ - **Wiring and Connectors**
+	  - Connectors : 600 INR
+	  - **Wiring**: 12 AWG cable of length 2m at a total cost of 300 INR	
+	  - **Total Cost**: 900 INR 
+- **Enclosure**  
+	- *15 Sqft* of *19mm plywood* 
+	- **Total Cost**: 1100 INR
+	
+
  **Power And Energy**
 
  - **1.98 KWh** amount of *Energy can be stored* (roughly energy required for one days use)
@@ -2253,7 +2301,7 @@ The sources Mentioned above are the major Power sources and other power sources 
  
 ---
 
-**9.3 Diagrams and Working**
+**9.3 Working**
 
 Unlike living offgrid , offgrid and independent electrical systems are more complicated than normal electrical wiring and must contain the functionalities similar to a national grid like load balancing and maintaining a fairly constant frequency and voltage. The energy Storage and management system essentially does the following functions -
 1.  Fills the gap between electricity generation and usage
@@ -2263,47 +2311,48 @@ Solar photovoltaic power, being the most contributing in terms of energy product
 
 The following diagram gives us a brief description of the system.
 
-<p align = "center">
-<img src = "https://i.ibb.co/nbvfFqb/week3jpg.jpg" width="90%"> </p>
-
-<p align = "center">
-<b>Fig 9.1 </b></figcaption>
-</p>
-
-
+![enter image description here](https://i.ibb.co/nbvfFqb/week3jpg.jpg)
 The system has been designed to be modular, allowing for: *easy installation, flexibility and user customization*  . Every energy source is paired with its own charge controller which is synchronized with other charge controllers for balanced charging. The chargers are then connected in parallel to both the battery and the inverter allowing for direct pass through of energy. The Inverter is then chosen in accordance with the overall expected system power usage.
 
 The setup is same across all tiers with the main difference between each tier is in the capacity of power and storage.
 
-**9.4 Appendix : Product links And Product Detail/Specifications**
 
-***Chargers***
-
- 1. https://www.amazon.in/Sparkel-Smart-Charge-Controller-SPSCC-6048LiMPPT/dp/B094CS2P7V/ref=sr_1_3?crid=LYRI2T533096&keywords=MPPT+60A&qid=1642532993&sprefix=mppt+60a%2Caps%2C259&sr=8-3
- 2.  [https://www.amazon.in/Controller-Regulator-Temperature-Indicator-SPSCC-230/dp/B07HT99ZMZ](https://www.amazon.in/Controller-Regulator-Temperature-Indicator-SPSCC-230/dp/B07HT99ZMZ)
- 3. https://www.flipkart.com/smarten-24v-48v-50amp-automatic-mppt-solar-charge-controller/p/itmb5fa89d794f58
-4. https://www.indiamart.com/proddetail/12v-24v-30-amp-mppt-solar-charge-controller-21874100730.html
- 5. https://www.ato.com/500w-wind-turbine-mppt-charge-controller
- 6. https://www.indiamart.com/proddetail/trak-12-24v-10a-mppt-charge-controller-21423732073.html
-
-***Plus*  Tier**
- 1. https://www.globalsources.com/LiFePO4-battery/24V-Deep-cycle-battery-100AH-LiFePO4-battery-1177169646p.htm
- 2. https://www.amazon.in/Luminous-Cruze-4KVA-Tecknology-Capacity/dp/B07DYQQCV8/ref=asc_df_B07DYQQCV8/?tag=googleshopdes-21&linkCode=df0&hvadid=396988844319&hvpos=&hvnetw=g&hvrand=867541717046943090&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9040178&hvtargid=pla-813895011528&psc=1&ext_vrnc=hi
-
-***Base* Tier**
-
- 1.  https://www.luminousindia.com/rc-18000.html
- 2. https://www.powerwale.com/store/exide-inverterz-star-12v-1050va/77569
-
-***Economy* Tier**
-1. https://www.moglix.com/solar-universe-india-240w-300va-off-grid-solar-inverter-sui-300va-12v-inverter/mp/msn75dqrwmyv92?s_kwcid=AL!10177!3!455163737679
-2. https://www.batteryboss.in/battery/amaron-current-short-tubular-ar165st36-165ah?gclid=CjwKCAiA866PBhAYEiwANkIneBXM18Txykd1zZI6e8ariXiibsEJGPcKpdkfLRhUIXP1jYE3u4_pQRoCE90QAvD_BwE
-
-	    	    
 		    
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
+
+
+
+### [closure](#table-of-contents)
+
+The technology and design used in this report might become outdated in the next 10 years or so , kindly consider the date of creation of this report while using this as a guide.
+
+**Wind**
+
+As the design of the wind turbine discussed below is based on existing technology investigated in the literature review and research process it's difficult to get the exact specifications ready for construction just by working on the design remotely, therefore, depending upon the resources available and the feasibility of the model the design discussed below can be altered.
+According to different studies and data shared by the manufacturers of small horizontal-axis wind turbines, the average life span of a small wind turbine is nearly 20 years (with regular maintenance). The individual lifetime of the components specified above is given below to give a more thorough idea. It should be noted that the assigned lifetimes are those expected by the practitioners who manufactured the systems and can vary in the real world.
+
+<div align = "center">
+	
+ | Parts                      | Lifetime |
+ | :----------------: | :---------------: |
+ | Blades | 20-25 years|
+ | Gearbox | 8-10 years|
+ | Generator | 15-20 years |
+ | Tubular-steel tower | More than 25 years|
+	
+</div>
+
+<p align = "center">
+<b>Table 1.7 Lifespan of Wind Turbine Parts </b></figcaption>
+</p>
+ 
+However, a turbine's lifespan can be increased by regular monitoring and maintenance. This can be done by assessing the asset's state and comparing it to the turbine's predicted lifespan based on expected loads and fatigue, and environmental considerations for the wind energy location. By such regular assessments, one can know whether the continued operation of the turbine is possible or any components need replacing to extend its lifespan. However, the maintenance costs will increase as the structure ages.
+
+
+**solar**
+
 
 
 ### [References](#table-of-contents)
@@ -2476,3 +2525,47 @@ The setup is same across all tiers with the main difference between each tier is
 [8] ‘Solar Charge Controller Sizing and How to Choose One - Renogy United States’. https://www.renogy.com/blog/solar-charge-controller-sizing-and-how-to-choose-one-/ (accessed Feb. 01, 2022).
 
 [9] ‘Customer Question: What Cables Do I Need For My Power Inverter?’, Wagan Corporation. https://wagan.com/blogs/news/customer-question-what-cables-do-i-need-for-my-power-inverter (accessed Feb. 01, 2022).
+
+
+### [appendix](#table-of-contents)
+
+Appendix : Product links And Product Detail/Specifications
+
+***Chargers***
+
+ 1. https://www.amazon.in/Sparkel-Smart-Charge-Controller-SPSCC-6048LiMPPT/dp/B094CS2P7V/ref=sr_1_3?crid=LYRI2T533096&keywords=MPPT+60A&qid=1642532993&sprefix=mppt+60a%2Caps%2C259&sr=8-3
+ 2.  [https://www.amazon.in/Controller-Regulator-Temperature-Indicator-SPSCC-230/dp/B07HT99ZMZ](https://www.amazon.in/Controller-Regulator-Temperature-Indicator-SPSCC-230/dp/B07HT99ZMZ)
+ 3. https://www.flipkart.com/smarten-24v-48v-50amp-automatic-mppt-solar-charge-controller/p/itmb5fa89d794f58
+4. https://www.indiamart.com/proddetail/12v-24v-30-amp-mppt-solar-charge-controller-21874100730.html
+ 5. https://www.ato.com/500w-wind-turbine-mppt-charge-controller
+ 6. https://www.indiamart.com/proddetail/trak-12-24v-10a-mppt-charge-controller-21423732073.html
+
+***Plus*  Tier**
+ 1. https://www.globalsources.com/LiFePO4-battery/24V-Deep-cycle-battery-100AH-LiFePO4-battery-1177169646p.htm
+ 2. https://www.amazon.in/Luminous-Cruze-4KVA-Tecknology-Capacity/dp/B07DYQQCV8/ref=asc_df_B07DYQQCV8/?tag=googleshopdes-21&linkCode=df0&hvadid=396988844319&hvpos=&hvnetw=g&hvrand=867541717046943090&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9040178&hvtargid=pla-813895011528&psc=1&ext_vrnc=hi
+ 3. [https://www.indiamart.com/proddetail/30-sqmm-electrical-wires-22421971333.html](https://www.indiamart.com/proddetail/30-sqmm-electrical-wires-22421971333.html)
+ 4. [https://www.ubuy.co.in/product/1DEKR8C0-4-awg-stranded-thhn-black-wire-100-feet-600-volt-90c](https://www.ubuy.co.in/product/1DEKR8C0-4-awg-stranded-thhn-black-wire-100-feet-600-volt-90c)
+ 5. [https://www.electronicscomp.com/high-quality-ultra-flexible-12awg-silicone-wire-5m-red](https://www.electronicscomp.com/high-quality-ultra-flexible-12awg-silicone-wire-5m-red)
+ 6. https://www.indiamart.com/proddetail/waterproof-plywood-19-mm-21466753855.html
+
+***Base* Tier**
+
+ 1.  https://www.luminousindia.com/rc-18000.html
+ 2. https://www.powerwale.com/store/exide-inverterz-star-12v-1050va/77569
+ 3. https://www.indiamart.com/proddetail/waterproof-plywood-17636095112.html#:~:text=Waterproof%20Plywood%2C%201%20Inch%2C%20Rs,feet%20Pooja%20Ply%20%7C%20ID%3A%2017636095112
+ 4. https://www.indiamart.com/proddetail/waterproof-plywood-17636095112.html#:~:text=Waterproof%20Plywood%2C%201%20Inch%2C%20Rs,feet%20Pooja%20Ply%20%7C%20ID%3A%2017636095112
+ 5. [https://www.ubuy.co.in/product/1DEKR8C0-4-awg-stranded-thhn-black-wire-100-feet-600-volt-90c](https://www.ubuy.co.in/product/1DEKR8C0-4-awg-stranded-thhn-black-wire-100-feet-600-volt-90c)
+ 6. https://www.electronicscomp.com/high-quality-ultra-flexible-12awg-silicone-wire-5m-red
+ 7. https://www.electronicscomp.com/high-quality-ultra-flexible-8awg-silicone-wire-1m-red-1m-black
+
+***Economy* Tier**
+1. https://www.moglix.com/solar-universe-india-240w-300va-off-grid-solar-inverter-sui-300va-12v-inverter/mp/msn75dqrwmyv92?s_kwcid=AL!10177!3!455163737679
+2. https://www.batteryboss.in/battery/amaron-current-short-tubular-ar165st36-165ah?gclid=CjwKCAiA866PBhAYEiwANkIneBXM18Txykd1zZI6e8ariXiibsEJGPcKpdkfLRhUIXP1jYE3u4_pQRoCE90QAvD_BwE
+3. https://www.indiamart.com/proddetail/waterproof-plywood-17636095112.html#:~:text=Waterproof%20Plywood%2C%201%20Inch%2C%20Rs,feet%20Pooja%20Ply%20%7C%20ID%3A%2017636095112
+4. https://www.electronicscomp.com/high-quality-ultra-flexible-12awg-silicone-wire-5m-red
+
+
+
+
+
+
