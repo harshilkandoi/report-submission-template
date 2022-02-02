@@ -731,7 +731,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 
 **2.1.1 Geographical requirements**
 
-Different regions on the globe get different amount of sunlight at different angles. For example, at equator the earth recieves more focused sunlight than on poles where the light spreads over a wide area. The area which receives more focused sunlight can generate more solar energy. Different geographical features also play a role like forest areas or hilly areas which have low solar power avalibilty.
+Different regions on the globe get different amount of sunlight at different angles. For example, at equator the earth recieves more concentrated sunlight than on poles where the light spreads over a wide area. The area which receives more focused sunlight can generate more solar energy. Different geographical features also play a role like forest areas or hilly areas which have low solar power avalibilty.
 
 <p align = "center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/JC0r9xL/Sun-and-Earth.jpg" alt="Sun and Earth" border="0"></a>
@@ -869,31 +869,10 @@ Negligible Maintenance cost because we have to just clean the solar panels.
 </p>
 	
 
-- After light strikes these photovoltaic cells, the kinetic energy of photons is absorbed by the electrons inside the material and they come out on the surface if this absorbed energy is greater than their work function. 
-- These electrons also possess some kinetic energy and this energy can be converted into electric potential energy. This effect is called the photoelectric effect and it is the working principle for these solar panels. 
+- After light strikes these photovoltaic cells, it generates electron-hole pairs inside the semiconductor which is what constitutes the electric current.
+- This effect is called the photovolatic effect and it is the working principle for these solar panels. 
 - This electric current generated is then transferred to the inverter through cables and wires and then it is stored in the batteries. This energy is then first converted to AC current through inverters and then is distributed in the house for usage. 
 
-**2.4 Closure**
-
-The life of this solar grid system is approximately 40-50 years (with 25 years in warranty) with minimal maintainance. The parts we used are listed in the following table with their corresponding warranties:
-
-<div align="center">
-	
-|Device |Warranty Period|
-|-------|---------------|
-|Bluebird 395 Watt Solar Panels| 25 Years |
-|HAVELLS HRFR PVC 4 sq/mm Yellow wire| 1 Year |
-| Solar Panel Mounting Structure Set for 2 Solar Panel | 5 Years |
-| MBATechmeds Solar Sun Tracker | 5 Years |
-	
-</div>
-
-
-<p align = "center">
-<b>Table 2.5 Warranty of Different Devices Used  </b></figcaption>
-</p>
-
-This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
 
 ---
 <div style = "page-break-after: always; visibility: hidden">
@@ -1230,26 +1209,6 @@ This figure shows connections of various subsystem of the plant along with wire 
 <b>Table 4.6 Vendor's Info  </b></figcaption>
 </p>
 
-
-**4.5 Closure**
-
-The average life of the power plant is assumed to be 30 years(except generator). Most of its components are non-electrical like pipe, dam, and gravitational water vortex. So, the life span of these parts depends on the quality of material used during construction. The generator comes with a one-year warranty and has an expected life span of 15 - 20 years with minimal maintenance like oiling. But, It requires more protection, particularly from rain and should be covered with a waterproof container for a better life span.
-
-<div align = "center">
-
- | Parts | Lifetime |
- | :----------------: | :---------------: |
- | Dam | 30-40 years|
- | Vortex | 30-40 years|
- | Generator | 15-20 years |
- | Electrical Wiring | 50-70 years |
-
-</div>
-	 
-<p align = "center">
-<b>Table 4.7 Lifespan of Hydro-Electricty Plant  </b></figcaption>
-</p>
-
 ---
 
 <div style = "page-break-after: always; visibility: hidden">
@@ -1441,17 +1400,9 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 <b>Table 5.1 Bill of Materials </b></figcaption>
 </p>
 
----
-
-**5.5 Closure**
-
-1. _Piezoelectric tiles:_ Piezo tiles are usually made of volcanic dust, kaolin, feldspar and PZT and hence are very crystalline in nature.The brittle nature of lead zirconium titanate (PZT) can cause the formation of cracks over time when operating under cyclic loading conditions. Such cracks in the bulk material can reduce performance due to a complex combination of factors. Tiles will work properly for a long time if not broken by any external force without needing any servicing. 
-
-2. _Piezoelectric shoes:_ Piezoelectric materials, whether natural or synthetic, are crystalline in nature. They should last forever, but being very brittle can be damaged if dropped or even if driven at too high power. Such crystals used in electronics should last at least until the contacts touching the crystal faces wear out. Hence it will depend on the durability of shoes. 
-
-      Unfortunately the amount of energy stored during a charging cycle (which took around 4000 steps) was very small and it would take an unrealistic amount of charging cycles to charge a cell phone just by walking alone.  By our calculations, it will take approximately 564,971.78 charging cycles, which amounts to 2,118,644,250 steps, in a best case scenario(when all the piezo plates are contributing). This also means it would take 706,214.75 hours to charge the cell phone.
 
 ---
+
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
@@ -1810,8 +1761,6 @@ black box) through electrical wires.
 </p>
 
 
-**7.4 Appendix**
-
 <div align = "center">
 
 | Engine               |                |
@@ -1969,23 +1918,7 @@ We will install the TEG's around the burners in the kitchen. The dimensions of a
 
 On connecting the joined ends to a battery through charge controller, we can charge a battery which can be further utilized as an electricity source.
  
----
 
-**8.4 Closure**
-
-**8.4.1 Availability** 
--   Production plan for the heat renewal device : The production of the heat renewal device would be 20% more than the sale of the device till the end of sale of the product. This would ensure the availability of components and the device itself in case of replacement, repair and non-availability. 
--   Buying components from other sellers : All the components can be bought from any other electronic devices manufacturer in the market.
-
-**8.4.2 Easy Maintenance**
-
-- The heat renewal system includes only the TEGs, charge controller and battery. So the maintenance is minimal. 
-
-**8.4.3 Replaceability**
-    
--  End of life of heat renewal device - The components of heat renewal device (TEG module, battery and charge controller) will be available for repairing and replacement till 10 years (warranty) after the end of sale for the heat renewal device. 
- 
--  Upgradability : The quality of the TEGs would improve over the time, thus it will be possible to incorporate more efficient TEGs into the system after say a period of 10 years.
 
 ---
 <div style = "page-break-after: always; visibility: hidden">
@@ -2341,6 +2274,70 @@ However, a turbine's lifespan can be increased by regular monitoring and mainten
 
 
 **solar**
+
+The life of this solar grid system is approximately 40-50 years (with 25 years in warranty) with minimal maintainance. The parts we used are listed in the following table with their corresponding warranties:
+
+<div align="center">
+
+|Device |Warranty Period|
+|-------|---------------|
+|Bluebird 395 Watt Solar Panels| 25 Years |
+|HAVELLS HRFR PVC 4 sq/mm Yellow wire| 1 Year |
+| Solar Panel Mounting Structure Set for 2 Solar Panel | 5 Years |
+| MBATechmeds Solar Sun Tracker | 5 Years |
+
+</div>
+
+<p align = "center">
+<b>Table 2.5 Warranty of Different Devices Used </b></figcaption>
+</p>
+
+This system is designed to fulfill requirements of a household without consuming any commercial power supply. It is a good alternative from commercial power supply as it is generating clean energy with minimal cost. There is only one time high cost for installing the system but after that it provides continuous energy for many years with negledible costing.
+
+
+**Hydroelectricity**
+
+The average life of the power plant is assumed to be 30 years(except generator). Most of its components are non-electrical like pipe, dam, and gravitational water vortex. So, the life span of these parts depends on the quality of material used during construction. The generator comes with a one-year warranty and has an expected life span of 15 - 20 years with minimal maintenance like oiling. But, It requires more protection, particularly from rain and should be covered with a waterproof container for a better life span.
+
+<div align = "center">
+
+| Parts | Lifetime |
+| :----------------: | :---------------: |
+| Dam | 30-40 years|
+| Vortex | 30-40 years|
+| Generator | 15-20 years |
+| Electrical Wiring | 50-70 years |
+
+</div>
+
+<p align = "center">
+<b>Table 4.7 Lifespan of Hydro-Electricty Plant </b></figcaption>
+</p>
+
+
+**Piezoelectricity** 
+
+1. Piezoelectric tiles: Piezo tiles are usually made of volcanic dust, kaolin, feldspar and PZT and hence are very crystalline in nature.The brittle nature of lead zirconium titanate (PZT) can cause the formation of cracks over time when operating under cyclic loading conditions. Such cracks in the bulk material can reduce performance due to a complex combination of factors. Tiles will work properly for a long time if not broken by any external force without needing any servicing.
+
+2. Piezoelectric shoes: Piezoelectric materials, whether natural or synthetic, are crystalline in nature. They should last forever, but being very brittle can be damaged if dropped or even if driven at too high power. Such crystals used in electronics should last at least until the contacts touching the crystal faces wear out. Hence it will depend on the durability of shoes.
+
+Unfortunately the amount of energy stored during a charging cycle (which took around 4000 steps) was very small and it would take an unrealistic amount of charging cycles to charge a cell phone just by walking alone. By our calculations, it will take approximately 564,971.78 charging cycles, which amounts to 2,118,644,250 steps, in a best case scenario(when all the piezo plates are contributing). This also means it would take 706,214.75 hours to charge the cell phone.
+
+**Team for Re-use of Wasted heat**
+
+**Availability** 
+-   Production plan for the heat renewal device : The production of the heat renewal device would be 20% more than the sale of the device till the end of sale of the product. This would ensure the availability of components and the device itself in case of replacement, repair and non-availability. 
+-   Buying components from other sellers : All the components can be bought from any other electronic devices manufacturer in the market.
+
+**Easy Maintenance**
+
+- The heat renewal system includes only the TEGs, charge controller and battery. So the maintenance is minimal. 
+
+**Replaceability**
+    
+-  End of life of heat renewal device - The components of heat renewal device (TEG module, battery and charge controller) will be available for repairing and replacement till 10 years (warranty) after the end of sale for the heat renewal device. 
+ 
+-  Upgradability : The quality of the TEGs would improve over the time, thus it will be possible to incorporate more efficient TEGs into the system after say a period of 10 years.
 
 
 
