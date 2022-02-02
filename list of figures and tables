@@ -30,7 +30,10 @@
 | [fig 8.1](#Waste Heat Re-use figure)        | Thermo electric generator                                                                                                                                                                                                                         |
 | [fig 8.2](#Waste Heat Re-use figure)        | Working of a TEG                                                                                                                                                                                                                                  |
 | [fig 8.3](#Waste Heat Re-use figure)        | Installation of TEGs in Kitchen                                                                                                                                                                                                                   |
-| [fig 9.1](#Energy Storage and Distribution) | The following diagram gives us a brief description of the system                                                                                                                                                                                  |
+| [fig 9.1](#Energy Storage and Distribution) | Plus Tier wiring schematic                                     
+| [fig 9.2](#Energy Storage and Distribution) | Base Tier wiring schematic                                        
+| [fig 9.3](#Energy Storage and Distribution) | Economy Tier wiring schematic                                        
+| [fig 9.4](#Energy Storage and Distribution) | The following diagram gives us a brief description of the system                                                                                                                                                                                  |
 
 
 
@@ -70,11 +73,15 @@
 | [Table 7.2](#Electricity from biogas table)         | Costs                                              |
 | [Table 7.3](#Electricity from biogas table)         | Description and values of required items           |
 | [Table 8.1](#Waste Heat Re-use table)               | (Characteristics of TEG)                           |
-| [Table 9.1](#Energy Storage and Distribution table) |                                                    |
-| [Table 9.2](#Energy Storage and Distribution table) |                                                    |
-| [Table 9.3](#Energy Storage and Distribution table) |                                                    |
-| [Table 9.4](#Energy Storage and Distribution table) |                                                    |
-| [Table 9.5](#Energy Storage and Distribution table) |                                                    |
-| [Table 9.6](#Energy Storage and Distribution table) |                                                    |
-| [Table 9.7](#Energy Storage and Distribution table) |                                                    |
-| [Table 9.8](#Energy Storage and Distribution table) |                                                    |
+| [Table 9.1](#Energy Storage and Distribution table) | Space Requirement for Energy Storage               |
+| [Table 9.2](#Energy Storage and Distribution table) | Charge Controllers Cost                            |
+| [Table 9.3](#Energy Storage and Distribution table) | Plus tier Battery specification                    |
+| [Table 9.4](#Energy Storage and Distribution table) | Plus tier Inverter specification                   |
+| [Table 9.5](#Energy Storage and Distribution table) | Plus tier Wires specification                      |
+| [Table 9.6](#Energy Storage and Distribution table) | Base tier Battery specification                    |
+| [Table 9.7](#Energy Storage and Distribution table) | Base tier Inverter specification                   |
+| [Table 9.8](#Energy Storage and Distribution table) | Base tier Wiring specification                     |
+| [Table 9.9](#Energy Storage and Distribution table) | Economy tier Battery specification                 |
+| [Table 9.10](#Energy Storage and Distribution table) | Economy tier Inverter specification                |
+
+
