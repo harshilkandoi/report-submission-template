@@ -47,6 +47,8 @@ geometry : margin = 2cm
 >
 > [scope](#scope)
 > 
+> [mindmap](#mindmap)
+> 
 > [Workflow Structure](#workflow-structure)
 > 
 > [List of Abbreviations](#list-of-abbreviations)
@@ -351,6 +353,11 @@ The system has been designed to be modular, allowing for: *easy installation, fl
 ### [scope](#table-of-contents)
 
 This report aims to provide the requirements, specifications, design, cost, and vendor info for designing an off-the-grid system , and although a comprehensive description of every aspect is given after careful scrutiny , it should in no way be taken as a hard guide for actual construction. The prices mentioned may vary from region to region, and may even change over time.  
+
+
+### [mindmap](#table-of-contents)
+
+<img src="https://i.ibb.co/r3D2JX8/to-do.jpg">
 
 
 ### [Workflow Structure](#table-of-contents)
