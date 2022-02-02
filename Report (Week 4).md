@@ -489,7 +489,7 @@ This report aims to provide the requirements, specifications, design, cost, and 
 | [Fig 8.1](#8-waste-heat-re-use)        | Thermoelectric generator ([Ref. electronicsweekly](https://www.electronicsweekly.com/news/products/power-supplies/thermoelectric-generators-interface-pcbs-2017-04/))                            |
 | [Fig 8.2](#8-waste-heat-re-use)        | Working of a TEG  ([Ref. researchgate](https://www.researchgate.net/figure/Schematic-of-an-operating-principle-of-TEG-9_fig4_322958833)) |
 | [Fig 8.3](#8-waste-heat-re-use)        | Installation of TEG in Kitchen | 
-| [Fig 9.1](#9-energy-storage-and-distribution)        |                                |
+| [Fig 9.1](#9-energy-storage-and-distribution)        |  The following diagram gives us a brief description of the system                              |
 
 
 <div style = "page-break-after: always; visibility: hidden">
