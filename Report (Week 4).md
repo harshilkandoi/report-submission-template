@@ -452,14 +452,16 @@ This report aims to provide the requirements, specifications, design, cost, and 
 | [Table 7.2](#7-electricity-from-biogas)      | Costs                                        |
 | [Table 7.3](#7-electricity-from-biogas)      | Description and values of required items     |
 | [Table 8.1](#8-waste-heat-re-use)      | Characteristics of TEG			|
-| [Table 9.1](#9-energy-storage-and-distribution)      |                                              |
-| [Table 9.2](#9-energy-storage-and-distribution)      |                                              |
-| [Table 9.3](#9-energy-storage-and-distribution)      |                                              |
-| [Table 9.4](#9-energy-storage-and-distribution)      |                                              |
-| [Table 9.5](#9-energy-storage-and-distribution)      |                                              |
-| [Table 9.6](#9-energy-storage-and-distribution)      |                                              |
-| [Table 9.7](#9-energy-storage-and-distribution)      |                                              |
-| [Table 9.8](#9-energy-storage-and-distribution)      |                                              |
+| [Table 9.1](#Energy Storage and Distribution table) | Space Requirement for Energy Storage               |
+| [Table 9.2](#Energy Storage and Distribution table) | Charge Controllers Cost                            |
+| [Table 9.3](#Energy Storage and Distribution table) | Plus tier Battery specification                    |
+| [Table 9.4](#Energy Storage and Distribution table) | Plus tier Inverter specification                   |
+| [Table 9.5](#Energy Storage and Distribution table) | Plus tier Wires specification                      |
+| [Table 9.6](#Energy Storage and Distribution table) | Base tier Battery specification                    |
+| [Table 9.7](#Energy Storage and Distribution table) | Base tier Inverter specification                   |
+| [Table 9.8](#Energy Storage and Distribution table) | Base tier Wiring specification                     |
+| [Table 9.9](#Energy Storage and Distribution table) | Economy tier Battery specification                 |
+| [Table 9.10](#Energy Storage and Distribution table) | Economy tier Inverter specification               |
 
 
 <div style = "page-break-after: always; visibility: hidden">
