@@ -2238,14 +2238,6 @@ Unlike living offgrid , offgrid and independent electrical systems are more comp
 3.  Tries to address the unreliability of renewable sources by providing backup power during disruptions
 Solar photovoltaic power, being the most contributing in terms of energy production, has influenced the design of the battery system to be *DC coupled*, inspite of AC coupling being more easy to set up.
 
-The following diagram gives us a brief description of the system.
-
-![enter image description here](https://i.ibb.co/nbvfFqb/week3jpg.jpg)
-The system has been designed to be modular, allowing for: *easy installation, flexibility and user customization*  . Every energy source is paired with its own charge controller which is synchronized with other charge controllers for balanced charging. The chargers are then connected in parallel to both the battery and the inverter allowing for direct pass through of energy. The Inverter is then chosen in accordance with the overall expected system power usage.
-
-The setup is same across all tiers with the main difference between each tier is in the capacity of power and storage.
-
-
 		    
 <div style = "page-break-after: always; visibility: hidden">
 \pagebreak
