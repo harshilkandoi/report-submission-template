@@ -1952,7 +1952,7 @@ On connecting the joined ends to a battery through charge controller, we can cha
 	
 </div>
 <p align = "center">
-Table-1 Space Requirement for Energy Storage 
+Table-9.1 Space Requirement for Energy Storage 
 </p>
 --- 
 
@@ -1976,7 +1976,7 @@ The chargers used are of the MPPT (Maximum power point tracking) type are prefer
 	
 </div>
 <p align = "center">
-Table-2 Charge Controllers Cost
+Table-9.2 Charge Controllers Cost
 </p>
 
 The sources Mentioned above are the major Power sources and other power sources are too little in comparison to be added to the system for it to be cost effective.
