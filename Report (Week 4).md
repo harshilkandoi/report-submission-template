@@ -357,7 +357,13 @@ This report aims to provide the requirements, specifications, design, cost, and 
 
 ### [mindmap](#table-of-contents)
 
-<img src="https://i.ibb.co/r3D2JX8/to-do.jpg">
+<p align = "center">
+	<a href="https://ibb.co/857JNmY"><img src="https://i.ibb.co/4TVcKF1/Mindmap.jpg" alt="Mindmap" border="0"></a>
+</p>
+
+<p align = "center">
+	<img src="https://i.ibb.co/r3D2JX8/to-do.jpg">
+</p>
 
 
 ### [Workflow Structure](#table-of-contents)
