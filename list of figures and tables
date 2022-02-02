@@ -35,30 +35,46 @@
 
 
 
-| List of Tables                            | Description of Tables                              |
-|-------------------------------------------|----------------------------------------------------|
-| [Table 1a](#Wind table)                   | Wind Turbine Components Specifications - Nacelle   |
-| [Table 1b](#Wind table)                   | Wind Turbine Components Specifications - Rotor     |
-| [Table 1c](#Wind table)                   | Wind Turbine Components Specifications - Generator |
-| [Table 1d](#Wind table)                   | Wind Turbine Components Specifications - Tower     |
-| [Table 1e](#Wind table)                   | Wind Turbine Power Output                          |
-| [Table 1f](#Wind table)                   | Bill of Materials for Wind Turbine                 |
-| [Table 1](#Solar table)                   | Cost Analysis for Top Tier                         |
-| [Table 2](#Solar table)                   | Cost Analysis for Base Tier                        |
-| [Table 3](#Solar table)                   | Cost Analysis for Economy Tier                     |
-| [Table 4](#Solar table)                   | Energy Generation                                  |
-| [Table 5](#Solar table)                   | Warranty of Different Devices Used                 |
-| [Table 1](#Mechanical table)              | Total Installation Cost                            |
-| [Table 2](#Mechanical table)              | Vender's Info                                      |
-| [Table 4.1](#Hydroelectricity table)      | Hydro-Electricity Turbine Specifications           |
-| [Table 4,2](#Hydroelectricity table)      | Hydro-Electricity Generator Specifications         |
-| [Table 4.3](#Hydroelectricity table)      | Hydro-Electricity AC-DC Converter Specifications   |
-| [Table 4.4](#Hydroelectricity table)      | Hydro-Electricity output power                     |
-| [Table 4.5](#Hydroelectricity table)      | Total Installation Cost                            |
-| [Table 4.6](#Hydroelectricity table)      |  Vendor's Info                                     |
-| [Table 1](#Piezoelectricity figure)       | Bill of Materials                                  |
-| [Table 1](#Electricity from biogas table) | Cost Analysis                                      |
-| [Table 2](#Electricity from biogas table) | Appendix                                           |
-| [Table 3](#Electricity from biogas table) | Generator                                          |
-| [Table 8.1](#Waste Heat Re-use table)     | (Characteristics of TEG)                           |
-|                                           |                                                    |
+| List of Tables                                      | Description of Tables                              |
+|-----------------------------------------------------|----------------------------------------------------|
+| [Table 1.1](#Wind table)                            | Wind Turbine Components Specifications - Nacelle   |
+| [Table 1.2](#Wind table)                            | Wind Turbine Components Specifications - Rotor     |
+| [Table 1.3](#Wind table)                            | Wind Turbine Components Specifications - Generator |
+| [Table 1.4](#Wind table)                            | Wind Turbine Components Specifications - Tower     |
+| [Table 1.5](#Wind table)                            | Wind Turbine Power Output                          |
+| [Table 1.6](#Wind table)                            | Bill of Materials for Wind Turbine                 |
+| [Table 1.7](#Wind table)                            | Lifespan of Wind Turbine Parts                     |
+| [Table 2.1](#Solar table)                           | Cost Analysis for Top Tier                         |
+| [Table 2.2](#Solar table)                           | Cost Analysis for Base Tier                        |
+| [Table 2.3](#Solar table)                           | Cost Analysis for Economy Tier                     |
+| [Table 2.4](#Solar table)                           | Energy Generation                                  |
+| [Table 2.5](#Solar table)                           | Warranty of Different Devices Used                 |
+| [Table 3.1](#Mechanical table)                      | Total Installation Cost                            |
+| [Table 3.2](#Mechanical table)                      | Vender's Info                                      |
+| [Table 4.1](#Hydroelectricity table)                | Hydro-Electricity Turbine Specifications           |
+| [Table 4,2](#Hydroelectricity table)                | Hydro-Electricity Generator Specifications         |
+| [Table 4.3](#Hydroelectricity table)                | Hydro-Electricity AC-DC Converter Specifications   |
+| [Table 4.4](#Hydroelectricity table)                | Hydro-Electricity output power                     |
+| [Table 4.5](#Hydroelectricity table)                | Total Installation Cost                            |
+| [Table 4.6](#Hydroelectricity table)                |  Vendor's Info                                     |
+| [Table 4.7](#Hydroelectricity table)                | Lifespan of Hydro-Electricty Plant                 |
+| [Table 5.1](#Piezoelectricity table)                | Bill of Materials                                  |
+| [Table 6.1](#Thermoelectricity table)               | Thermoelectricity TEG                              |
+| [Table 6.2](#Thermoelectricity table)               |  Thermoelectricity TEG (with a battery system)     |
+| [Table 6.3](#Thermoelectricity table)               | Thermoelectricity Aluminum Sheet                   |
+| [Table 6.4](#Thermoelectricity table)               | Thermoelectricity Heat Sink                        |
+| [Table 6.5](#Thermoelectricity table)               | Thermoelectricity Fresnal Lens                     |
+| [Table 6.6](#Thermoelectricity table)               | Thermoelectricity Water Bucket                     |
+| [Table 6.7](#Thermoelectricity table)               | Thermoelectricity components cost                  |
+| [Table 7.1](#Electricity from biogas table)         | Values of important measures                       |
+| [Table 7.2](#Electricity from biogas table)         | Costs                                              |
+| [Table 7.3](#Electricity from biogas table)         | Description and values of required items           |
+| [Table 8.1](#Waste Heat Re-use table)               | (Characteristics of TEG)                           |
+| [Table 9.1](#Energy Storage and Distribution table) |                                                    |
+| [Table 9.2](#Energy Storage and Distribution table) |                                                    |
+| [Table 9.3](#Energy Storage and Distribution table) |                                                    |
+| [Table 9.4](#Energy Storage and Distribution table) |                                                    |
+| [Table 9.5](#Energy Storage and Distribution table) |                                                    |
+| [Table 9.6](#Energy Storage and Distribution table) |                                                    |
+| [Table 9.7](#Energy Storage and Distribution table) |                                                    |
+| [Table 9.8](#Energy Storage and Distribution table) |                                                    |
