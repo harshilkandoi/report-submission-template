@@ -14,14 +14,14 @@
 
 ## Weak points that we’d like to avoid:-
 
-     ### Documentation
+   ### Documentation
 
 -	Some isometric views(from fig.20 to fig.25) are given which are not needed. 
 -	Lots of empty spaces present.  
 -	Lots of unnecessary images included in the report like batteries, cables, connection wire, circuit breakers, fuses, etc.
 -	Latex formats/syntax not rendered in the final pdf (html encoding format should be used).
 
-     ### Solar Energy Section
+   ### Solar Energy Section
 
 -	Images are all colored.
 -	There was no closure or conclusion section which is essential for the customer.
