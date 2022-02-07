@@ -56,9 +56,9 @@
 
 | section                                                  | marks|
 |----------------------------------------------------|---------|
-|documentation                                       | 4        |
-|technical content                                    | 4        |
-|Tool usage(gantt charts) and Teamwork| 3        |  
-|Readability                                             | 2        |           
+|documentation                                       | 4/5        |
+|technical content                                    | 4/5        |
+|Tool usage(gantt charts) and Teamwork| 3/3        |  
+|Readability                                             | 2/2        |           
 | **Total**                                                 | 13     |
 
