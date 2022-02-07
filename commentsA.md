@@ -2,7 +2,7 @@
 
 ## Good points that we’d like to inculcate:-
   
-    ### Documentation
+  ### Documentation
 
 -	The format looks very neat with all the pages and sections numbered which makes it easier to refer to anything in the report  (usage of latex format).
 -	Table of contents is dynamic even in the pdf format.  
@@ -16,7 +16,7 @@
 
 ## Weak points that we’d like to avoid:-
 
-     ### Documentation 
+   ### Documentation 
 
 -	Reverse anchoring to the table of contents is not done.
 
