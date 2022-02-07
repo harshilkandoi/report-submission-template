@@ -23,8 +23,8 @@
 
 | section                                                  | marks|
 |----------------------------------------------------|---------|
-|documentation                                       | 2.5     |
-|technical content                                    | 4.5     |
-|Tool usage(gantt charts) and Teamwork| 3        |  
-|Readability                                             | 1.5     |           
-| **Total**                                                |  11.5   |
+|documentation                                       | 2.5/5     |
+|technical content                                    | 4.5/5     |
+|Tool usage(gantt charts) and Teamwork                 | 3/3        |  
+|Readability                                             | 1.5/2     |           
+| **Total**                                                |  11.5/15   |
