@@ -60,5 +60,5 @@
 |technical content                                    | 4/5        |
 |Tool usage(gantt charts) and Teamwork| 3/3        |  
 |Readability                                             | 2/2        |           
-| **Total**                                                 | 13     |
+| **Total**                                                 | 13/15     |
 
