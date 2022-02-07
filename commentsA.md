@@ -20,7 +20,7 @@
 
 -	Reverse anchoring to the table of contents is not done.
 
-    ###  Technical content     
+   ###  Technical content     
  
 -	No need for designing a separate Solar charge controller, it’s already present in a solar inverter.
 -	First step should have been to check for already available commercial solutions, then if it's not feasible or too costly only then circuit design should have been done.
@@ -30,8 +30,8 @@
 
 | section                                                  | marks|
 |----------------------------------------------------|---------|
-|documentation                                       | 5     |
-|technical content                                    | 3     |
-|Tool usage(gantt charts) and Teamwork| 3        |  
-|Readability                                             | 2        |           
-| **Total**                                                 |  13  |
+|documentation                                       | 5/5     |
+|technical content                                    | 3/5     |
+|Tool usage(gantt charts) and Teamwork                | 3/3        |  
+|Readability                                             | 2/2        |           
+| **Total**                                                 |  13/15  |
