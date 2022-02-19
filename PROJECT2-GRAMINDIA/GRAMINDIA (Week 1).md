@@ -3,11 +3,13 @@ geometry : margin = 2cm
 ---
 
 # ELP305 : Design and Systems Lab   
-## Think off-grid living : SUNERGY  
+## Think off-grid living : GRAMINDIA  
 ## Tribe C
 
 ## Table of Contents 
 
+> [Motivation](#Motivation)
+> 
 > [Authors](#Authors)
 >
 > [Document Information](#document-information)
@@ -36,6 +38,7 @@ geometry : margin = 2cm
 >
 
 
+### [Motivation](#table-of-contents)
 ### [Authors](#table-of-contents)
 
 
