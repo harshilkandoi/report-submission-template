@@ -66,7 +66,7 @@ geometry : margin = 2cm
 location, transport, infrastructure etc...
 
 
-### [1. Based on Profession](#table-of-contents)
+### [1. Profession](#table-of-contents)
 
 Description of our village according to your sub-topic
 pie charts 
