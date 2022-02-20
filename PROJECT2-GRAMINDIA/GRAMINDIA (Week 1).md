@@ -3,24 +3,24 @@ geometry : margin = 2cm
 ---
 
 # ELP305 : Design and Systems Lab   
-## Think off-grid living : GRAMINDIA  
+## GRAMINDIA  
 ## Tribe C
 
-## Table of Contents 
+## Table of Contents
 
-> [Motivation](#Motivation)
+> [Motivation](#motivation)
 > 
-> [Authors](#Authors)
+> [Abstract](#abstract)
+> 
+> [Authors](#authors)
 >
 > [Document Information](#document-information)
->
+> 
 > [List of Tables](#list-of-tables)
 > 
 > [List of Figures](#list-of-figures)
-> 
-> [Abstract](#abstract)
 >
-> [Description of our village](#introduction)
+> [Description of our village](#description-of-our-village)
 >
 > [1. Profession](#1-profession)
 > 
@@ -41,6 +41,8 @@ geometry : margin = 2cm
 ### [Motivation](#table-of-contents)
 
 
+### [Abstract](#table-of-contents)
+
 
 ### [Authors](#table-of-contents)
 
@@ -59,12 +61,8 @@ geometry : margin = 2cm
 
 
 
-
-### [Abstract](#table-of-contents)
-
-
-
 ### [Description of our village](#table-of-contents)
+
 location, transport, infrastructure etc...
 
 
@@ -90,8 +88,6 @@ requirements
 
 
 ### [5. Age](#table-of-contents)
-
-
 
 
 
