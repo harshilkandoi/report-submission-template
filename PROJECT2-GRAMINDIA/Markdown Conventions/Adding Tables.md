@@ -19,7 +19,7 @@
 	
 
 <p align = "center">
-<b>Table 2.2 </b></figcaption>
+<b>Table x.i Documentation Team </b></figcaption>
 </p>
 
 **Note on Captioning** : Label the table as "x.i Description of table", if it is the ith table in the xth chapter. See the code to understand.
