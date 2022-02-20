@@ -20,7 +20,7 @@ geometry : margin = 2cm
 > 
 > [Abstract](#abstract)
 >
-> [Introduction](#introduction)
+> [Description of our village](#introduction)
 >
 > [1. Profession](#1-profession)
 > 
@@ -50,10 +50,8 @@ geometry : margin = 2cm
 
 
 
-
-
-
 ### [List of Tables](#table-of-contents)
+
 
 
 ### [List of Figures](#table-of-contents)
@@ -66,16 +64,15 @@ geometry : margin = 2cm
 
 
 
-
-### [Introduction](#table-of-contents)
-
-
+### [Description of our village](#table-of-contents)
+location, transport, infrastructure etc...
 
 
+### [1. Based on Profession](#table-of-contents)
 
-### [1. Profession](#table-of-contents)
-
-
+Description of our village according to your sub-topic
+pie charts 
+requirements
 
 
 ### [2. Education](#table-of-contents)
@@ -93,6 +90,10 @@ geometry : margin = 2cm
 
 
 ### [5. Age](#table-of-contents)
+
+
+
+
 
 
 
