@@ -15,6 +15,7 @@
 |Sarthak Gupta	               |2019EE30296   |Member	   |ee3190296@iitd.ac.in    |-|
 |Shivam Jaglan                 |2019EE10053   |Member      |ee1190053@iitd.ac.in    |-|
 |Shuchi Singh                  |2018EE10502   |Member      |ee1180502@iitd.ac.in    |-|
+|Vardaan Taneja	2019EE10061    |	      |Member	   |ee1190061@iitd.ac.in    |-|
 	
 </div>
 	
