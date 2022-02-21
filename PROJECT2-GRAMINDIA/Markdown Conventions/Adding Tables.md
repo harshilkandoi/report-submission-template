@@ -8,7 +8,6 @@
 |Anisha Banthia                |2019EE10461   |Member      |ee1190461@iitd.ac.in    |-|
 |Gaurav Baghel                 | 2019EE30566  |Member      | ee3190566@iitd.ac.in   |-|
 |Leaandro Rodricks             |2019MT10702   |Member      |mt1190702@iitd.ac.in    |-| 
-|Prakriti Agarwal              |2019EE30589   |Member      |ee3190589@iitd.ac.in    |-|
 |Rahul Kain                    |2019EE30592   |Member      |ee3190592@iitd.ac.in    |-| 
 |Ravi Kumar Narnolia           |2019EE10511   |Member      |ee1190511@iitd.ac.in    |-|
 |Santak Panda	               |2019MT60838   |Member      |mt6190838@iitd.ac.in    |-|
