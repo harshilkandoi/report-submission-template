@@ -11,16 +11,6 @@ geometry : margin = 2cm
 > [Motivation](#motivation)
 > 
 > [Abstract](#abstract)
-> 
-> [Authors](#authors)
->
-> [Document Information](#document-information)
-> 
-> [List of Tables](#list-of-tables)
-> 
-> [List of Figures](#list-of-figures)
->
-> [Description of our village](#description-of-our-village)
 >
 > [1. Profession](#1-profession)
 > 
@@ -43,12 +33,6 @@ geometry : margin = 2cm
 
 A description of our village has been provided and based on that, the requirements were given by categorizing the stakeholders on the basis of profession,
 age, gender, financial status, and level of Education.
-
-
-
-### [Description of our village](#table-of-contents)
-
-location, transport, infrastructure etc...
 
 
 ### [1. Profession](#table-of-contents)
