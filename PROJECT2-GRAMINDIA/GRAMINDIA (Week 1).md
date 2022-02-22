@@ -123,7 +123,7 @@ meet.\[“Fishermen in India - An Overview of Indian Fishing Sector”
     better rates to the fishermen
 
 2.  Better equipment for navigation, prediction of fishing locations and
-    prevention ofo overfishing
+    prevention of overfishing
 
 3.  Better access to financing and market information
 
@@ -147,7 +147,7 @@ Market to Rural India” 2011)
 
 3.  Small manufacturing unit - like production of jute bag, small
     disposable cup, and plates, incense sticks, matchbox , local
-    tambaku, etc.
+    tobbaco, etc.
 
 4.  Clothes shop
 
@@ -175,7 +175,7 @@ Market to Rural India” 2011)
 
 16. Cement shop
 
-The main issue with the shops can be that lower purchasing power in
+The main issue with the shops is that the lower purchasing power in
 rural India does not encourage the extension of these shops or the
 creation of local entrepreneurs (“India’s Rural Entrepreneurs
 Opportunities & Challenges – An Overview” n.d.)
@@ -185,7 +185,7 @@ individual vehicle for transportation, please refer to the
 transportation section) raises the cost of exported items in these
 shops.
 
-But rural shops fares well compared to their urban counterpart in
+But rural shops fare well compared to their urban counterpart in
 hedging themselves from corporate retail giants, logistics giants (
 maybe because of lower purchasing power of the individual, more sense of
 togetherness in rural India, higher inventory and overhead cost, high
@@ -193,7 +193,7 @@ logistical cost, uneven demand). (“Cracking the Rural Market a Tough
 Task for Organised Retail Chains” n.d.)
 
 Life will depend on what type of shop you own, some shops like dairy,
-vegetable and flower shops open early in the morning  Others may open
+vegetable and flower shops open early in the morning. Others may open
 according to the practised time of people.
 
 **Requirements**
@@ -569,7 +569,9 @@ According to the data of the survey performed in 2011, only 6.7% of the villager
 - They are lacking opportunities for future growth. The facilities, whether they be in terms of connectivity, monetary, health or any other sphere, appear to be lesser in comparison to the urban areas which are resulting in drastic levels of unemployment. One reason for unemployment is the quality of education imparted to the youth, which industries do not find attractive enough.
 
 ##### What are the problems faced by them?
-- The villagers and their families are exposed to poor foundation skills, financial constraints, lack of equipment and digital literacy. Obtaining higher education becomes relatively harder for villagers as compared to people residing in urban areas due to the lesser number of universities present at their proximity. Not to mention, the financial constraints associated with villagers, as a result of which many are not able to go to urban areas to achieve higher education. Apart from that, there is also a lack of awareness about what career and path to pursue further among villagers.
+- The villagers and their families are exposed to poor foundation skills, financial constraints, lack of equipment and digital literacy. 
+- Obtaining higher education is relatively harder for villagers as compared to people residing in urban areas due to the lesser number of universities present at their proximity. 
+- Not to mention, the financial constraints associated with villagers, as a result of which many are not able to go to urban areas to achieve higher education. Apart from that, there is also a lack of awareness about what career and path to pursue further among villagers.
 
 
 
@@ -672,7 +674,7 @@ In this rural area, women mostly spend their money on Food, Clothing, and medica
 -   Rich people are generally among the most respected people in the
     village, they possess great material wealth like owning big houses,
     personal vehicles and other extra assets like farms, cattles, gold
-    and living a more quality life compared to other villagers.
+    and living a better life compared to other villagers.
 
 -   They mainly earn from their farm, cattle’s yield and from interest
     they get by giving people personal loans.
@@ -684,7 +686,7 @@ In this rural area, women mostly spend their money on Food, Clothing, and medica
 -   They also help in generation of employment in the village through
     hiring people for their farms and cattles, household chores, etc.
 
--   They lack basic infrastructures like good healthcare, education, 24
+-   They lack basic facilities like good healthcare, education, 24
     hours electricity and clean drinking water supply.
 
 -   Lack of availability of various common goods and services because of
@@ -703,7 +705,7 @@ In this rural area, women mostly spend their money on Food, Clothing, and medica
     have to send their children to faraway places to attain it.
 
 -   Many rich people start to live in cities due to lack of facilities
-    so they want urbanization of village so that they can increase their
+    so they want urbanization of village so that they can improve their
     quality of life. 
 
 # Middle Class 
