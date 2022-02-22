@@ -31,32 +31,9 @@ geometry : margin = 2cm
 > [4. Financial Status](#4-financial-status)
 > 
 > [5. Age](#5-age)
-> 
-> [Workflow](#workflow)
 >
 > [References](#references)
 >
-
-
-### [Motivation](#table-of-contents)
-
-
-### [Abstract](#table-of-contents)
-
-
-### [Authors](#table-of-contents)
-
-
-
-### [Document Information](#table-of-contents)
-
-
-
-### [List of Tables](#table-of-contents)
-
-
-
-### [List of Figures](#table-of-contents)
 
 
 
@@ -530,222 +507,6 @@ occupational safety, working hours, payment of adequate wages to them so
 that the informal workers engaged in unorganised sector of employment
 may have mandatory decent and dignified work.
 
-#### References
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-DayLifeRajeev2017" class="csl-entry">
-
-“A Day in the Life of Rajeev Gupta, 52, a Dairy Farmer in Agra.” 2017.
-*The Indian Express* (blog). April 5, 2017.
-<https://indianexpress.com/article/india/meat-and-milk-are-two-sides-of-the-same-coin-rajeev-gupta-a-dairy-farmer-in-agra-4595943/>.
-
-</div>
-
-<div id="ref-bakshiNSSOSurveyDurables2016" class="csl-entry">
-
-Bakshi, Ishan. 2016. “NSSO Survey: Among Durables, Households Spend
-Highest on Vehicles.” *Business Standard India*, June 30, 2016.
-<https://www.business-standard.com/article/economy-policy/nsso-survey-among-durables-households-spend-highest-on-vehicles-116062901475_1.html>.
-
-</div>
-
-<div id="ref-belhekarRoleDairyIndustry" class="csl-entry">
-
-Belhekar, Satish, and Soumyakant Dash. n.d. “Role of Dairy Industry in
-Rural Development in India,” 2.
-
-</div>
-
-<div id="ref-CattleDairyDevelopment" class="csl-entry">
-
-“Cattle and Dairy Development \| Department of Animal Husbandry &
-Dairying.” n.d. Accessed February 22, 2022.
-<https://dahd.nic.in/about-us/divisions/cattle-and-dairy-development>.
-
-</div>
-
-<div id="ref-ChallengesFacedLivestock" class="csl-entry">
-
-“Challenges Faced by Livestock Sector in India – Civilsdaily.” n.d.
-Accessed February 22, 2022.
-<https://www.civilsdaily.com/challenges-faced-by-livestock-sector-in-india/>.
-
-</div>
-
-<div id="ref-ChallengesModernAgriculture" class="csl-entry">
-
-“Challenges for Modern Agriculture.” n.d. Syngenta. Accessed February
-22, 2022.
-<https://www.syngenta.com/en/innovation-agriculture/challenges-modern-agriculture>.
-
-</div>
-
-<div id="ref-CrackingRuralMarket" class="csl-entry">
-
-“Cracking the Rural Market a Tough Task for Organised Retail Chains.”
-n.d. Business Today. Accessed February 22, 2022.
-<https://www.businesstoday.in/magazine/features/story/cracking-the-rural-market-organised-retail-chains-132218-2013-07-24>.
-
-</div>
-
-<div id="ref-DailyWageEarner" class="csl-entry">
-
-“Daily Wage Earner \| Concepts \| Statistics Finland.” n.d. Accessed
-February 22, 2022.
-<https://www.stat.fi/meta/kas/paivapalkkainen_en.html>.
-
-</div>
-
-<div id="ref-FishermenIndiaOverview" class="csl-entry">
-
-“Fishermen in India - An Overview of Indian Fishing Sector.” n.d. BYJUS.
-Accessed February 22, 2022.
-<https://byjus.com/free-ias-prep/fishermen-in-india-upsc-notes/>.
-
-</div>
-
-<div id="ref-IndiaRuralEntrepreneurs" class="csl-entry">
-
-“India’s Rural Entrepreneurs Opportunities & Challenges – An Overview.”
-n.d. Accessed February 22, 2022.
-<https://datascience.foundation/datatalk/india-s-rural-entrepreneurs-opportunities-challenges-an-overview>.
-
-</div>
-
-<div id="ref-IndiaTransportation" class="csl-entry">
-
-“India Transportation.” n.d. Text/HTML. World Bank. Accessed February
-22, 2022.
-<https://www.worldbank.org/en/news/feature/2011/09/23/india-transportation>.
-
-</div>
-
-<div id="ref-kumawatEconomicAnalysisCost2014" class="csl-entry">
-
-Kumawat, Raju, N K Singh, and Chiranjee Lal Meena. 2014. “Economic
-Analysis of Cost and Returns of Milk Production, Extent of Adoption of
-Recommended Management Practices on Sample Dairy Farms in Bikaner
-District of Rajasthan,” 9.
-
-</div>
-
-<div id="ref-lalwaniUnreliableVehiclesLong" class="csl-entry">
-
-Lalwani, Vijayta. n.d. “Unreliable Vehicles, Long Hours, Low Pay: What
-It Is Like Being a Bus Driver in India.” Text. Scroll.in.
-https://scroll.in. Accessed February 22, 2022.
-<https://scroll.in/article/930305/unreliable-vehicles-long-hours-low-pay-what-it-is-like-being-a-bus-driver-in-india>.
-
-</div>
-
-<div id="ref-LifeFarmHow2018" class="csl-entry">
-
-“Life On The Farm: How Farmers Survive Daily Challenges.” 2018.
-*Gonzales Equipment Sales Inc.* (blog). October 25, 2018.
-<https://gonzalesequipment.com/a-life-on-the-farm/>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/bKPh5eKf/items/CSKCCCP7"
-class="csl-entry">
-
-“LMIS-on-Dairy.pdf.” n.d. Accessed February 22, 2022.
-<http://asci-india.com/pdf/LMIS-on-Dairy.pdf>.
-
-</div>
-
-<div id="ref-MilkSellingHalf2020" class="csl-entry">
-
-“Milk Is Selling at about Half the Price. From Kashmir to Kanyakumari …
-All Are Suffering.” 2020. *Gaonconnection \| Your Connection with Rural
-India* (blog). April 18, 2020.
-<https://en.gaonconnection.com/milk-is-selling-at-about-half-the-price-gaon-connection-spoke-to-dairy-farmers-in-14-states-from-kashmir-to-kanyakumari-all-are-suffering/>.
-
-</div>
-
-<div id="ref-narayanamoorthyWhyFarmIncome" class="csl-entry">
-
-Narayanamoorthy&, A. n.d. “Why Farm Income in India Is so Low.” Accessed
-February 22, 2022.
-<https://www.thehindubusinessline.com/opinion/why-farm-income-in-india-is-so-low/article64356995.ece>.
-
-</div>
-
-<div id="ref-pioneerWagesLabour" class="csl-entry">
-
-Pioneer, The. n.d. “Wages of Labour.” The Pioneer. Accessed February 22,
-2022.
-<https://www.dailypioneer.com/2021/columnists/wages-of-labour.html>.
-
-</div>
-
-<div id="ref-potluriChallengesTransportSector2018" class="csl-entry">
-
-Potluri, Rajasekhara Mouly, and Satagopam Padma Tejaswi. 2018.
-“Challenges of Transport Sector in India: A Dyadic Perspective.” *The
-Journal of Asian Finance, Economics and Business* 5 (3): 95–102.
-<https://doi.org/10.13106/jafeb.2018.vol5.no3.95>.
-
-</div>
-
-<div id="ref-srinivasanDayLifeFisherman2011" class="csl-entry">
-
-Srinivasan, Madhumitha. 2011. “A Day in the Life of… …a Fisherman.” *The
-Hindu*, May 23, 2011, sec. Young World.
-<https://www.thehindu.com/features/kids/a-day-in-the-life-of-a-fisherman/article2041894.ece>.
-
-</div>
-
-<div id="ref-BigGapCapita2016" class="csl-entry">
-
-*The Economic Times*. 2016. “Big Gap in Per Capita Income in Urban and
-Rural Areas,” May 10, 2016.
-<https://economictimes.indiatimes.com/news/politics-and-nation/big-gap-in-per-capita-income-in-urban-and-rural-areas/articleshow/52208067.cms?from=mdr>.
-
-</div>
-
-<div id="ref-LifeIndianFarmer" class="csl-entry">
-
-*The Times of India*. n.d. “The Life of an Indian Farmer.” Accessed
-February 22, 2022.
-<https://timesofindia.indiatimes.com/readersblog/shameem-ahmad/the-life-of-an-indian-farmer-36314/>.
-
-</div>
-
-<div id="ref-VillageStoreBringing2011" class="csl-entry">
-
-“The Village Store: Bringing the Urban Market to Rural India.” 2011. The
-Better India. August 10, 2011.
-<https://www.thebetterindia.com/3890/the-village-store-bringing-the-urban-market-to-rural-india/>.
-
-</div>
-
-<div id="ref-TransportSectorIndia" class="csl-entry">
-
-“Transport Sector in India – Focusing on Results.” n.d., 181.
-
-</div>
-
-<div id="ref-TransportationUseRural" class="csl-entry">
-
-“Transportation Use in Rural Areas – RHIhub Toolkit.” n.d. Accessed
-February 22, 2022.
-<https://www.ruralhealthinfo.org/toolkits/transportation/1/use-in-rural>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/bKPh5eKf/items/4EPJWY83"
-class="csl-entry">
-
-“Wcms_638305.pdf.” n.d. Accessed February 22, 2022.
-<https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---sro-new_delhi/documents/publication/wcms_638305.pdf>.
-
-</div>
-
-</div>
-
-
 
 ### [2. Education](#table-of-contents)
 
@@ -831,7 +592,6 @@ Education plays a crucial role in shaping an individual’s personality. Many pe
 Thus, the rural people see education as an expense rather than an investment. They prefer their children to earn and work. Along with this, the lack of proper schooling with good infrastructure facilities hinders education for many people. There is also a lack of guidance on the importance of education for both children and their parents.
 
 
-
 ####  Distribution of children enrolled in schools across rural India in 2019
 
 <div align="center">
@@ -850,6 +610,8 @@ Thus, the rural people see education as an expense rather than an investment. Th
 <p align = "center">
 <b>Table 2.1 Distribution of children in Schools. </b></figcaption>
 </p
+
+
 
 ### [3. Gender](#table-of-contents)
 
@@ -910,7 +672,6 @@ In this rural area, women mostly spend their money on Food, Clothing, and medica
 - Equal access to healthcare
 - Better access to water
 
-    
     
     
     
@@ -1062,70 +823,6 @@ In this rural area, women mostly spend their money on Food, Clothing, and medica
 -   Less inflation, as often all the money they have is spent on basic
     needs, and growing inflation will create more difficulties for them.
     
-    
-# Citations
-
--   (“‘Can Create a Middle Class in Rural India Too’ - Times of India”
-    n.d.)
--   (Komlik 2020)
--   (“Middle-Class Rural India Holds a Promise” n.d.)
--   (“The Six Critical Needs of Human Development” n.d.)
--   (“View: Why Do India’s Farmers Kill Themselves? Can Market Reforms
-    Help? - The Economic Times” n.d.)
-
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/JDHWXBCU"
-class="csl-entry">
-
-“‘Can Create a Middle Class in Rural India Too’ - Times of India.” n.d.
-Accessed February 22, 2022.
-<https://m.timesofindia.com/business/india-business/can-create-a-middle-class-in-rural-india-too/amp_articleshow/77362362.cms>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/RSFU7N9I"
-class="csl-entry">
-
-Komlik, Oleg. 2020. “Towards a New Political Economy of India: The
-Formation of Rural Middle Classes.” *Economic Sociology & Political
-Economy* (blog). November 23, 2020.
-<https://economicsociology.org/2020/11/23/towards-a-new-political-economy-of-india-the-formation-of-rural-middle-classes/>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/VDN5CFDL"
-class="csl-entry">
-
-“Middle-Class Rural India Holds a Promise.” n.d. Business Standard.
-Accessed February 22, 2022.
-<https://www.business-standard.com/article/opinion/middle-class-rural-india-holds-a-promise-121091301005_1.html>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/UICVDBDT"
-class="csl-entry">
-
-“The Six Critical Needs of Human Development.” n.d. Villages in
-Partnership. Accessed February 22, 2022.
-<https://villagesinpartnership.org/six-critical-needs/>.
-
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/4Y3LVQ2J"
-class="csl-entry">
-
-“View: Why Do India’s Farmers Kill Themselves? Can Market Reforms
-Help? - The Economic Times.” n.d. Accessed February 22, 2022.
-<https://economictimes.indiatimes.com/news/economy/agriculture/view-why-do-indias-farmers-kill-themselves-can-market-reforms-help/articleshow/78363485.cms>.
-
-</div>
-
-</div>
-
-
 
 ### [5. Age](#table-of-contents)
 
@@ -1233,19 +930,6 @@ Based on the age, rural stakeholders can be classified as babies(0-4 years), chi
 - Construction of roads connecting the village to nearby town
 - Upper-secondary government school and higher education facility
 - Skill development education program
-
-**References**
-- https://archive.essar.com/upload/pdf/Socio-economic-Survey-Dantewada-Essar-Foundation-2017.pdf
-- https://vikaspedia.in/social-welfare/senior-citizens-welfare/senior-citizens-status-in-india
-- https://www.theguardian.com/society/2015/mar/24/better-society-for-older-people-live-discussion
-- https://censusindia.gov.in/Census_And_You/age_structure_and_marital_status.aspx
-- https://www.statista.com/statistics/271315/age-distribution-in-india/
-- https://en.wikipedia.org/wiki/Demographics_of_India
-
-
-
-### [Workflow](#table-of-contents)
-
 
 
 ### [References](#table-of-contents)
