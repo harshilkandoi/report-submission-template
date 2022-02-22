@@ -910,8 +910,220 @@ In this rural area, women mostly spend their money on Food, Clothing, and medica
 - Equal access to healthcare
 - Better access to water
 
+    
+    
+    
+    
 ### [4. Financial Status](#table-of-contents)
+    
+    
+#### Rich 
 
+**Income more than Rs 10L per year**
+
+-   Rich people are generally among the most respected people in the
+    village, they possess great material wealth like owning big houses,
+    personal vehicles and other extra assets like farms, cattles, gold
+    and living a more quality life compared to other villagers.
+
+-   They mainly earn from their farm, cattle’s yield and from interest
+    they get by giving people personal loans.
+
+-   They have a great influence on the rest of the villagers and they
+    also contribute to the development of the village through financial
+    and political influence. 
+
+-   They also help in generation of employment in the village through
+    hiring people for their farms and cattles, household chores, etc.
+
+-   They lack basic infrastructures like good healthcare, education, 24
+    hours electricity and clean drinking water supply.
+
+-   Lack of availability of various common goods and services because of
+    which they have to travel to cities very often. 
+
+## Requirements of Rich 
+
+-   Villages lack quality medical facilities and they have to travel to
+    distant cities in case of a serious medical condition. Rather a
+    well-equipped hospital should be available within a radius of 10Km. 
+
+-   Luxurious and common goods should be available within a radius of
+    10km. 
+
+-   Villages still lack top-class higher education due to which they
+    have to send their children to faraway places to attain it.
+
+-   Many rich people start to live in cities due to lack of facilities
+    so they want urbanization of village so that they can increase their
+    quality of life. 
+
+# Middle Class 
+
+**Income more than Rs 1.8L and less than 10L per year** 
+
+-   The middle class is analysed in a range of different global
+    contexts, and the term often refers to a category of people who are
+    somewhere near the middle of an imaginary social spectrum along
+    which income, goods, services, and opportunities are distributed.
+
+-    Approximately, 17% of the total households in rural India belong to
+    the middle classes
+
+-   Rural middle classes are engaged in a great range of new industrial
+    and service-sector occupations, and there is great complexity and
+    paradox in their labour relations.
+
+-   Their class position is perennially unstable, incorporating features
+    of the industrial working class and the class of capitalist farmers.
+    Although members of this class are engaged in factory work, they use
+    this income to expand agricultural production and accumulate surplus
+    by hiring agricultural labourers.
+
+-   The rural middle class has economic characteristics, lifestyles,
+    aspirations, and consumption patterns that are entirely distinct
+    from its urban counterpart
+
+## Requirements of Middle Class
+
+-   Better technology including faster-uninterrupted internet,
+    refrigerators, microwaves, etc. is required.
+
+-   Cars and faster modes of transport for easy and comfortable travel.
+
+-   Tractors, good quality fertilisers, and labour to work on their
+    farms for increase in crop yield and reduce physical labour.
+
+-   Children to get a good college education (preferably urban) and move
+    out of the villages and get good jobs. This will raise their
+    economic status and support the family.
+
+-   Proficiency in English language. English proficiency greatly helps
+    in economic and social mobility. It helps in getting better jobs and
+    is also seen in society as a status symbol.
+
+# Poor
+
+**Income less than Rs 1.8L per year**
+
+-   Generally, rural poor are characterised by the small agricultural
+    land they own for agriculture.
+
+-   They lack basic facilities such as Medicine, nutrition, education,
+    clean drinking water, etc.
+
+-   They suffer from many production risks like drought, flood, lack of
+    adequate use of inputs, poor extension leading to large yield gaps,
+    lack of assured and adequate irrigation, crop failure, and so on.
+
+-   Further, there are market risks like the absence of a market, poor
+    price realisation, high transaction cost, and poor bargaining power
+    due to a small market surplus. This leads to low and unstable farm
+    incomes.
+
+-   They don’t have proper storage facilities which leads to wastage of
+    crops and they also lack proper infrastructure for transportation.
+
+-   Many of them migrate to urban cities to work as construction site
+    labourers.
+
+-   Unlike the middle class and the rich class, they don’t have any
+    extra money to spend on their luxury rather they struggle to meet
+    their basic needs.
+
+-   They aspire to get basic facilities such as  education, medicine
+    ,nutrition,clean drinking water so that they can meet the basic
+    needs required by any human being.
+
+## Requirements of poor 
+
+-   The first and foremost requirement is the availability of basic
+    necessities like food, water, drainage and electricity which are
+    unfortunately not accessible to many of them. 
+
+-   Better and affordable medical facilities and education should be
+    accessible to them as unfortunately many poor villagers’ kids do not
+    go to school either due to lack of availability or affordability,
+    and many people also suffer from lack of adequate and affordable
+    medical facilities as often they have to travel far for it to the
+    cities which often ends up exhausting their savings.  
+
+-   Creation of more employment opportunities continuously in the
+    village to support livelihood for them.
+
+-   Availability of a loan system with lesser interest rates, as that
+    will not only help the people to fulfil their basic needs, but also
+    help them to increase their living standard.
+
+-   Better infrastructure for improving their basic day to day
+    necessities like storage of crops, for helping in growing crops,
+    etc.
+
+-   Less inflation, as often all the money they have is spent on basic
+    needs, and growing inflation will create more difficulties for them.
+    
+    
+# Citations
+
+-   (“‘Can Create a Middle Class in Rural India Too’ - Times of India”
+    n.d.)
+-   (Komlik 2020)
+-   (“Middle-Class Rural India Holds a Promise” n.d.)
+-   (“The Six Critical Needs of Human Development” n.d.)
+-   (“View: Why Do India’s Farmers Kill Themselves? Can Market Reforms
+    Help? - The Economic Times” n.d.)
+
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/JDHWXBCU"
+class="csl-entry">
+
+“‘Can Create a Middle Class in Rural India Too’ - Times of India.” n.d.
+Accessed February 22, 2022.
+<https://m.timesofindia.com/business/india-business/can-create-a-middle-class-in-rural-india-too/amp_articleshow/77362362.cms>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/RSFU7N9I"
+class="csl-entry">
+
+Komlik, Oleg. 2020. “Towards a New Political Economy of India: The
+Formation of Rural Middle Classes.” *Economic Sociology & Political
+Economy* (blog). November 23, 2020.
+<https://economicsociology.org/2020/11/23/towards-a-new-political-economy-of-india-the-formation-of-rural-middle-classes/>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/VDN5CFDL"
+class="csl-entry">
+
+“Middle-Class Rural India Holds a Promise.” n.d. Business Standard.
+Accessed February 22, 2022.
+<https://www.business-standard.com/article/opinion/middle-class-rural-india-holds-a-promise-121091301005_1.html>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/UICVDBDT"
+class="csl-entry">
+
+“The Six Critical Needs of Human Development.” n.d. Villages in
+Partnership. Accessed February 22, 2022.
+<https://villagesinpartnership.org/six-critical-needs/>.
+
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/4Y3LVQ2J"
+class="csl-entry">
+
+“View: Why Do India’s Farmers Kill Themselves? Can Market Reforms
+Help? - The Economic Times.” n.d. Accessed February 22, 2022.
+<https://economictimes.indiatimes.com/news/economy/agriculture/view-why-do-indias-farmers-kill-themselves-can-market-reforms-help/articleshow/78363485.cms>.
+
+</div>
+
+</div>
 
 
 
