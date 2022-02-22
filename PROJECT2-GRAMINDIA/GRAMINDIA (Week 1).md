@@ -173,7 +173,9 @@ Thus, the rural people see education as an expense rather than an investment. Th
 </div>
 
 
-
+<p align = "center">
+<b>Table 2.1 Distribution of children in Schools. </b></figcaption>
+</p
 
 ### [3. Gender](#table-of-contents)
 
