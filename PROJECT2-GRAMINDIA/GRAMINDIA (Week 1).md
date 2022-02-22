@@ -306,10 +306,6 @@ compartments.(Potluri and Tejaswi 2018)
 
 #### Animal Husbandry
 
-Animal husbandry
-
-They are named as farmers.
-
 Types of animal husbandry
 
 Livestock farming-  Livestock are the domesticated animals raised in an
