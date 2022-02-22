@@ -917,8 +917,118 @@ In this rural area, women mostly spend their money on Food, Clothing, and medica
 
 ### [5. Age](#table-of-contents)
 
+#### Requirements
+Based on the age, rural stakeholders can be classified as babies(0-4 years), children(5-12 years), teenagers(13-19 years), working population(20-60 years), senior citizens(above 60 years).
+- **Babies** 
+
+1. *who are they*
+    - They are below 4 years of age.
+    - They comparise of nearly 10% of our village population.
+2. *Problems they face*
+    - Malnutrition is more severe in rural areas. About half of rural children are too short for their age(stunting) and 21% have low weight for height(wasting).
+    - Gender inequality is one of the problems faced by girls as they don't get proper care and attention.
+3. *Important Resources*
+    - Their parents are their most imporant resource.
+    - Other important resources include basic medication facilities in the village.
 
 
+
+-  **Children**   
+
+1. *Who are they*
+    -  They are between 5 to 12 years of age.
+    - They comparise of nearly 15% of our village population.
+    - This age group of people have fast growth rates compared to other age groups and also, their education will become their foundation. So, If govt. can successfully target this age goup of children,then they can make great futures    
+2. *Living Standards and daily activities*    
+    -  They are mostly in school doing school activities the whole day.
+    - They provide emotional support to their grandparents.
+    - Backward rural children generally have less enthusiasm towards studies compared to the developed urban children mainly due to parent's motivation and driving force in young age based on their financial,social and environmental conditions.    
+3. *Financial support and expenses* 
+    - they are financially supported by their parents and have no income of their own.
+
+4. *Important Resources*
+    - Their parents are their most important resource. They are the only one providing them all the financial support. They guide them towards their future and give them proper moral values.
+    - The primary government school in the village is the next important resource for them.    
+5. *Problems they face*
+    -  In India, the right to education is a fundamental right which states that every citizen of India between the age of 6 to 14 years get free and compulsory education, but this is not seen in many of our rural households.
+   
+    - Lack of technical facilities. For example- In covid times, children belonging to rural areas with no internet facilities faced a lot of problem in their education.
+    
+- **Teenagers**  
+1. *who are they*
+    - They are between 12 to 19 years of age.
+    - Teenagers comprises almost 16% of village population. 
+    - They have the most dynamic state of mind. Their thoughts are easily influenced by people they meet, society situations, activities etc. Hence, the problems faced by this community is of great importance.  
+2. *Living Standards and daily activities*
+    - There is no upper-primary school in our village, so some of them go to nearby town for their upper-primary education.
+    - Most girl teenagers are forced to do household work by this age.
+
+3. *Financial support and expenses*
+    - Most of them are financially supported by their parents and have no income of their own.
+    - Some of them have to work as child labours to financially support their family. 
+
+4. *Important Resources*
+    - Transportation facilities are important resource for them as they have to do their schooling in town.
+5. *Problems they face*
+    - Lack of good transportation facilities. There are two kind of problems here, one is the roads and infrastructure connecting them is poor and second is high cost of travelling.
+    -  During online times the need for good quality network is realised. Though internet has reached to villages but the network quality for lecture streaming is not up to the mark. ,
+    - Mental health which is a current issue throughout the world is also a major problem for them. As people in urban area are getting used to such terms and importance of it which is not the case in rural area.
+
+- **Young Adults and Middle Aged(Working Population)**  
+1. *who are they*
+    - They belong to age group of 20-60 years.
+    - They comparise of 52% of of the village population. 
+2. *Living Standards and daily activities*
+    - Mostly they are farmers and daily wage labours. Some of them have migrated to cities for better living standards.
+    - Most of them are getting out of poverty but still a lot of enhancement to be done for betterment of their living standards.
+3. *Earnings*
+    - Average earning of working people from our village households is about 3 lpa.
+4. *Expenses*
+    - They expend their earnings on family requirements like education of their children, health care,food.
+    - Farmers expend money on betterment of their crops.
+5. *Savings*
+    - Educated population are aware of savings and have some portion of their income saved in banks.  
+6. *Important Resources*
+    - Government schemes like MNREGA, DBT, JanDhan are important resources for their earnings.
+7. *Problems they face*
+    - Lack of employment opportunities.
+    - Lack of skill.
+    - Low labour wages and irregular working hours assigned by private factories in town.
+    - Not being able to return the money to the moneylenders/ banks leads to severe mental health issues among them.
+
+-  **old/Senior Citizens**  
+1. *who are they*
+    - According to the law, a "senior citizen" means any person being a citizen of India, who has attained the age of sixty years or above.
+    - They are nearly 7% of our village population.
+    - Society is failing to value and harness their skills, knowledge, and experience. they have lived through situations others cannot even imagine, and yet we continue to dismiss these lifetimes of experiences when they begin to need care and support.
+2. *Living Standards and daily activities*
+
+3. *Financial and Emotional Support*
+    - In our village, nearly 85% of the elderly population is entirely dependent on their children for their finances.
+    - They are financially and emotionally supported by their children, followed by their spouses and grandchildren.
+
+4. *Problems they face*
+    - One of the major problems faced by old citizens is social isolation.
+    -  Health care: The village has no primary health care center  and the villagers have to go to nearby town for medical treatment. The only medical facility is the mobile clinic run by Essar and NMDC,
+      where a resident doctor visits once a week. The common ailments are malaria, cough and
+      cold, deficiency of iron, stomach problems and joint pain, etc.
+    - Very few long term care are availabe for them in the village.
+
+**Some common requirements of rural households**
+- Better health care solution in the village
+- Avalability of drinking water
+- Better sanitary facilities. Ex. proper drainage system
+- Construction of roads connecting the village to nearby town
+- Upper-secondary government school and higher education facility
+- Skill development education program
+
+**References**
+- https://archive.essar.com/upload/pdf/Socio-economic-Survey-Dantewada-Essar-Foundation-2017.pdf
+- https://vikaspedia.in/social-welfare/senior-citizens-welfare/senior-citizens-status-in-india
+- https://www.theguardian.com/society/2015/mar/24/better-society-for-older-people-live-discussion
+- https://censusindia.gov.in/Census_And_You/age_structure_and_marital_status.aspx
+- https://www.statista.com/statistics/271315/age-distribution-in-india/
+- https://en.wikipedia.org/wiki/Demographics_of_India
 
 
 
