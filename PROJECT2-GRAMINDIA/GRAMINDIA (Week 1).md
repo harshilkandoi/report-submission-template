@@ -936,58 +936,93 @@ Based on the age, rural stakeholders can be classified as babies(0-4 years), chi
 
 
 [1]“Transportation Use in Rural Areas – RHIhub Toolkit.” https://www.ruralhealthinfo.org/toolkits/transportation/1/use-in-rural (accessed Feb. 22, 2022).
+
 [2]“The Village Store: Bringing the urban market to rural India - The Better India.” https://www.thebetterindia.com/3890/the-village-store-bringing-the-urban-market-to-rural-india/ (accessed Feb. 22, 2022).
+
 [3]“The life of an Indian farmer,” The Times of India. Accessed: Feb. 22, 2022. [Online]. Available: https://timesofindia.indiatimes.com/readersblog/shameem-ahmad/the-life-of-an-indian-farmer-36314/
+
 [4]“Role Of Dairy Industry In Rural Development In India, Paripex - Indian Journal Of Research(PIJR), PIJR | World Wide Journals.” https://www.worldwidejournals.com/paripex/article/role-of-dairy-industry-in-rural-development-in-india/MzA4Mzg=/ (accessed Feb. 22, 2022).
+
 [5]“India’s Rural Entrepreneurs Opportunities & Challenges – An Overview.” https://datascience.foundation/datatalk/india-s-rural-entrepreneurs-opportunities-challenges-an-overview (accessed Feb. 22, 2022).
+
 [6]“Fishermen in India - An Overview of Indian Fishing Sector,” BYJUS. https://byjus.com/free-ias-prep/fishermen-in-india-upsc-notes/ (accessed Feb. 22, 2022).
+
 [7]“Daily wage earner | Concepts | Statistics Finland.” https://www.stat.fi/meta/kas/paivapalkkainen_en.html (accessed Feb. 22, 2022).
+
 [8]“Challenges of Transport Sector in India: A Dyadic Perspective -The Journal of Asian Finance, Economics and Business | Korea Science.” http://koreascience.or.kr/article/JAKO201816357065701.page (accessed Feb. 22, 2022).
+
 [9]“Challenges for modern agriculture,” Syngenta. https://www.syngenta.com/en/innovation-agriculture/challenges-modern-agriculture (accessed Feb. 22, 2022).
+
 [10]“Challenges faced by Livestock sector in India – Civilsdaily.” https://www.civilsdaily.com/challenges-faced-by-livestock-sector-in-india/ (accessed Feb. 22, 2022).
+
 [11]“Cattle and Dairy Development | Department of Animal Husbandry & Dairying.” https://dahd.nic.in/about-us/divisions/cattle-and-dairy-development (accessed Feb. 22, 2022).
+
 [12]“ASCI | Agriculture Skill Council of India.” https://asci-india.com/LMIS.php (accessed Feb. 22, 2022).
+
 [13]“Life On The Farm: How Farmers Survive Daily Challenges,” Gonzales Equipment Sales Inc., Oct. 25, 2018. https://gonzalesequipment.com/a-life-on-the-farm/ (accessed Feb. 22, 2022).
+
 [14]“A day in the life of Rajeev Gupta, 52, a dairy farmer in Agra,” The Indian Express, Apr. 05, 2017. https://indianexpress.com/article/india/meat-and-milk-are-two-sides-of-the-same-coin-rajeev-gupta-a-dairy-farmer-in-agra-4595943/ (accessed Feb. 22, 2022).
+
 [15]“Big gap in per capita income in urban and rural areas,” The Economic Times, May 10, 2016. Accessed: Feb. 22, 2022. [Online]. Available: https://economictimes.indiatimes.com/news/politics-and-nation/big-gap-in-per-capita-income-in-urban-and-rural-areas/articleshow/52208067.cms?from=mdr
+
 [16]M. Srinivasan, “A day in the life of… …a fisherman,” The Hindu, May 23, 2011. Accessed: Feb. 22, 2022. [Online]. Available: https://www.thehindu.com/features/kids/a-day-in-the-life-of-a-fisherman/article2041894.ece
+
 [17]T. Pioneer, “Wages of labour,” The Pioneer. https://www.dailypioneer.com/2021/columnists/wages-of-labour.html (accessed Feb. 22, 2022).
+
 [18]V. Lalwani, “Unreliable vehicles, long hours, low pay: What it is like being a bus driver in India,” Scroll.in. https://scroll.in/article/930305/unreliable-vehicles-long-hours-low-pay-what-it-is-like-being-a-bus-driver-in-india (accessed Feb. 22, 2022).
+
 [19]I. Bakshi, “NSSO survey: Among durables, households spend highest on vehicles,” Business Standard India, Jun. 30, 2016. Accessed: Feb. 22, 2022. [Online]. Available: https://www.business-standard.com/article/economy-policy/nsso-survey-among-durables-households-spend-highest-on-vehicles-116062901475_1.html
+
 [20]“India Transportation,” World Bank. https://www.worldbank.org/en/news/feature/2011/09/23/india-transportation (accessed Feb. 22, 2022).
+
 [21]“Cracking the rural market a tough task for organised retail chains,” Business Today. https://www.businesstoday.in/magazine/features/story/cracking-the-rural-market-organised-retail-chains-132218-2013-07-24 (accessed Feb. 22, 2022).
+
 [22]“India Wage Report: Wage policies for decent work and inclusive growth,” Report, Aug. 2018. Accessed: Feb. 22, 2022. [Online]. Available: http://www.ilo.org/newdelhi/whatwedo/publications/WCMS_638305/lang--en/index.htm
 [23]A. Narayanamoorthy&, “Why farm income in India is so low.” https://www.thehindubusinessline.com/opinion/why-farm-income-in-india-is-so-low/article64356995.ece (accessed Feb. 22, 2022).
+
 [24]Global, “Economic Analysis of Cost and Returns of Milk Production, Extent of Adoption of Recommended Management Practices on Sample Dairy Farms in Bikaner District of Rajasthan.” https://globaljournals.org/item/3538-economic-analysis-of-cost-and-returns-of-milk-production-extent-of-adoption-of-recommended-management-practices-on-sample-dairy-farms-in-bikaner-district-of-rajasthan (accessed Feb. 22, 2022).
+
 [25]A. I. E. Department, Transport Sector in India—Focusing on Results. ADB Independent Evaluation Department, 2007. Accessed: Feb. 22, 2022. [Online]. Available: https://www.adb.org/documents/transport-sector-india-focusing-results
 
 
-
 [1]“Rising unemployment: 3 reasons why India should worry about its graduates,” Business Today. https://www.businesstoday.in/opinion/columns/story/rising-unemployment-3-reasons-why-india-should-worry-about-its-graduates-298018-2021-06-04 (accessed Feb. 22, 2022).
+
 [2]“India - postgraduate degree completion number 2019,” Statista. https://www.statista.com/statistics/785415/postgraduate-degree-completion-number-in-india/ (accessed Feb. 22, 2022).
+
 [3]I. T. W. D. N. D. July 22, 2020UPDATED: July 30, and 2020 12:45 Ist, “Challenges of rural students in India,” India Today. https://www.indiatoday.in/education-today/featurephilia/story/challenges-of-rural-students-in-india-1703143-2020-07-22 (accessed Feb. 22, 2022).
+
 [4]“Statistics New | Government of India, Ministry of Education.” https://www.education.gov.in/en/statistics-new?shs_term_node_tid_depth=378 (accessed Feb. 22, 2022).
+
 [5]“Census of India: Literacy And Level of Education.” https://censusindia.gov.in/census_and_you/literacy_and_level_of_education.aspx (accessed Feb. 22, 2022).
 
-
 [1]“How Urban & Rural Indians Spend Their Money [National Survey],” Trak.in - Indian Business of Tech, Mobile & Startups. Jun. 2013. Accessed: Feb. 22, 2022. [Online]. Available: https://trak.in/indi/urban-rural-indians-money-expenditure-survey/
+
 [2]indiainfoline.com, “Women Consumers in Rural India: 37% of the rural women consumers make purchases on their own.” Accessed: Feb. 22, 2022. [Online]. Available: https://www.indiainfoline.com/article/news-top-story/women-consumers-in-rural-india-37-of-the-rural-women-consumers-make-purchases-on-their-own-116022200142_1.html
+
 [3]“Empowering Women in the Rural Economy,” Nov. 2019, Accessed: Feb. 22, 2022. [Online]. Available: http://www.ilo.org/global/topics/economic-and-social-development/rural-development/WCMS_601071/lang--en/index.htm
+
 [4]S. Eze, “Determinants of Saving Capacity Of Rural Women Farmers in Ebonyi State, Nigeria,” https://www.eajournals.org/, Dec. 16, 2013. https://www.eajournals.org/journals/global-journal-of-agricultural-research-gjar/vol-2-issue-1-march-2014/determinants-saving-capacity-rural-women-farmers-ebonyi-state-nigeria/ (accessed Feb. 22, 2022).
 
-
 [1]“vikaspedia Domains.” https://vikaspedia.in/social-welfare/senior-citizens-welfare/senior-citizens-status-in-india (accessed Feb. 22, 2022).
+
 [2]“India - age distribution 2020,” Statista. https://www.statista.com/statistics/271315/age-distribution-in-india/ (accessed Feb. 22, 2022).
+
 [3]“Essar foundation - Newsletters - Essar.” https://archive.essar.com/section_level1.aspx?cont_id=pIBWMo0dX00= (accessed Feb. 22, 2022).
+
 [4]“Census of India: Age Structure And Marital Status.” https://censusindia.gov.in/Census_And_You/age_structure_and_marital_status.aspx (accessed Feb. 22, 2022).
+
 [5]“Demographics of India,” Wikipedia. Feb. 15, 2022. Accessed: Feb. 22, 2022. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Demographics_of_India&oldid=1072020850
+
 [6]S. Johnson, “How can we build a better society for older people? Live discussion,” The Guardian, Mar. 24, 2015. Accessed: Feb. 22, 2022. [Online]. Available: https://www.theguardian.com/society/2015/mar/24/better-society-for-older-people-live-discussion
 
-
 [1]“The Six Critical Needs of Human Development,” Villages in Partnership. https://villagesinpartnership.org/six-critical-needs/ (accessed Feb. 22, 2022).
+
 [2]“‘Can create a middle class in rural India too,’” The Times of India, Aug. 05, 2020. Accessed: Feb. 22, 2022. [Online]. Available: https://timesofindia.indiatimes.com/business/india-business/can-create-a-middle-class-in-rural-india-too/articleshow/77362362.cms
+
 [3]M. Vyas, “Middle-class rural India holds a promise,” Business Standard India, Sep. 13, 2021. Accessed: Feb. 22, 2022. [Online]. Available: https://www.business-standard.com/article/opinion/middle-class-rural-india-holds-a-promise-121091301005_1.html
+
 [4]O. Komlik, “Towards a New Political Economy of India: the Formation of Rural Middle Classes,” Economic Sociology & Political Economy, Nov. 23, 2020. https://economicsociology.org/2020/11/23/towards-a-new-political-economy-of-india-the-formation-of-rural-middle-classes/ (accessed Feb. 22, 2022).
+
 [5]“View: Why do India’s farmers kill themselves? Can market reforms help?,” The Economic Times, Sep. 28, 2020. Accessed: Feb. 22, 2022. [Online]. Available: https://economictimes.indiatimes.com/news/economy/agriculture/view-why-do-indias-farmers-kill-themselves-can-market-reforms-help/articleshow/78363485.cms
 
 
