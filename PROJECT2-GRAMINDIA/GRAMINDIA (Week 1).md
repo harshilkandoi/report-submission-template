@@ -465,8 +465,7 @@ floor-level wage.(Pioneer n.d.)
 Their income is very low and sometimes cannot earn even a reasonable
 wage. Then he/she goes to market, buys his/her daily necessaries and
 returns to his/her house. He/she works hard the whole day and buys food
-for his family. He/she has both pleasures and pains. If they earn more,
-they get pleasures.
+for his family. 
 
 -   What do they lack?
 
