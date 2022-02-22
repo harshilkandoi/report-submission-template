@@ -85,7 +85,7 @@ Farmers Survive Daily Challenges” 2018)
 
 -   What do they earn?
 
-The average farmer household earns Rs 1,22,616 per year in 2018-2019.
+The average farmer household earned Rs 1,22,616 per year in 2018-2019.
 This figure was as low as Rs 77,112 ten years ago (in 2012-2013) and as
 low as Rs 25,380 twenty years ago (in  2002-2003)
 
@@ -108,14 +108,14 @@ etc affecting crops. Agricultural land and irrigation systems are the
 most important resources farmers have.(Narayanamoorthy& n.d.)
 
 They lack at making alternate strategies in case of bad crops due to
-climate change, drought, flood, soil erosion, biodiversity, farmers lack
+climate change, drought, flood, soil erosion, biodiversity, farmers' lack
 at adapting and learning new technologies, inspiring young people to
 stay in rural areas and become future farmers.(“Challenges for Modern
 Agriculture” n.d.)
 
 **Requirements**
 
-1.  A mechanism to better predict prices, weather and yeild
+1.  A mechanism to better predict prices, weather and yield
 
 2.  Better Access to modern farm equipment
 
@@ -135,13 +135,13 @@ with uncertainty as several times they return with insufficient returns
 compared to their expenditure during travel. 
 
 Approximately 61% of them live under the Poverty Line. They aspire for
-better lives for their children, they don’t want their children to
+better lives for their children ;they don’t want their children to
 struggle as they do and want them to hold jobs in software and teaching.
 Their spending happens on their child’s education, expedition costs
 incurred due to food and fuel. They aspire to buy nets that are quite
-expensive, own motorized/nonmotorized boats so they don’t have to depend
-on someone else’s boats. According to data per-capita production of
-fisheries is 2 tons in India while in Norway the same goes up to 172
+expensive, own motorized/nonmotorized boats , so they don’t have to depend
+on someone else’s boats. According to data, per-capita production of
+fisheries is 2 tons in India, while in Norway, the same goes up to 172
 tons. Having a meager income and most of them earning Below Poverty
 Line, fishermen live a difficult life and struggle to make ends
 meet.\[“Fishermen in India - An Overview of Indian Fishing Sector”
@@ -172,13 +172,13 @@ Shops in rural India can be (“The Village Store: Bringing the Urban
 Market to Rural India” 2011)
 
 1.  Retail business- like tailoring, small electronic shop, Kirana
-    store, saloon, sweet shop, plumbing, etc, size may not be that big
+    store, saloon, sweet shop, plumbing, etc. size may not be that big
 
 2.  Floor mills
 
 3.  Small manufacturing unit - like production of jute bag, small
     disposable cup, and plates, incense sticks, matchbox , local
-    tambaku, etc
+    tambaku, etc.
 
 4.  Clothes shop
 
@@ -230,7 +230,7 @@ according to the practised time of people.
 **Requirements**
 
 1.  Better Logistics and availability of better quality goods available
-    in urban india 
+    in urban India 
 
 2.  Better payment gateways without any hidden charges for faster and
     more secure transactions
@@ -259,7 +259,7 @@ In rural areas, households spend on an average Rs 43 on buses and trams,
 while their urban counterparts spend Rs 95 on travel through this mode
 of transport. Auto-rickshaws are the second most widespread mode of
 transport, with 38 percent of rural households and 47 percent of urban
-households reporting having used them. It is followed by taxi, railways,
+households reporting having used them. It is followed by taxis, railways,
 and rickshaws. Urban households spend 12.5 percent on railways while
 rural households spend a fraction of that amount at 4.4 percent. (Bakshi
 2016)
@@ -274,7 +274,7 @@ Buses are one of the major modes of transportation in rural areas. Due
 to the shortage of bus drivers, most drivers have to work extremely long
 hours for very little pay. The average monthly salary of bus drivers in
 India is Rs. 25000. Due to long work hours, drivers are often sleep
-deprived which becomes the cause of many road accidents. Accidents by
+deprived, which becomes the cause of many road accidents. Accidents by
 buses accounted for 5.9% of the total number of road accidents in India
 in 2019. The vehicles are also very unreliable due to poor maintenance. 
 
@@ -284,30 +284,30 @@ problem because they don’t know what the status of the new bus is, the
 last time the bus was serviced and what problems it faced
 earlier.(Lalwani n.d.)
 
-Daily wage of a person employed in transport sector range from INR 180
+The Daily wage of a person employed in the transport sector range from INR 180
 to 350 .(“Wcms_638305.pdf” n.d.)
 
 The transport sector has not been able to keep pace with the rising
-demand and is providing to be a drag on the economy. With the
+demand and is proving to be a drag on the economy. With the
 improvement of transportation facilities in rural areas along with urban
-areas, the urge for the migration to urban areas decreases thus helps in
+areas, the urge for migration to urban areas decreases thus helps in
 balanced development of the country as a whole.(“India Transportation”
 n.d.)
 
 There has been a gradual change in terms of increased income and
-employment opportunities as a result of the road projects. During road
+employment opportunities as a result of road projects. During road
 construction, many locals are able to access employment opportunities
-paying them the standard daily labor rate. However, the majority of the
+by paying them the standard daily labor rate. However, the majority of the
 households are still dependent on agriculture as their primary source of
 income and the major investment continues to be in agriculture. The
 roadworks benefited the local poor and wage laborers to some extent by
 providing limited site-work opportunities. (“Transport Sector in India –
 Focusing on Results,” n.d.)
 
-Major challenges faced by the transport providers are increase in fuel
-prices and inadequate trained drivers. In the current scenario, there is
+Major challenges faced by the transport providers are an increase in fuel
+prices and inadequately trained drivers. In the current scenario, there is
 a scarcity of the trained drivers and high fuel prices are likely to
-increase the transport cost. In case of railways, cleanliness and
+increase the transport cost. In the case of railways, cleanliness and
 security is the major issue faced by the transport users followed by the
 availability of quality food. In majority of the trains, availability of
 water in the toilets and toilets cleanliness is not up to the mark
@@ -339,7 +339,7 @@ compartments.(Potluri and Tejaswi 2018)
 
 Animal husbandry
 
-They are named as farmer.
+They are named as farmers.
 
 Types of animal husbandry
 
