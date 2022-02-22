@@ -917,7 +917,7 @@ In this rural area, women mostly spend their money on Food, Clothing, and medica
 ### [4. Financial Status](#table-of-contents)
     
     
-#### Rich 
+# Rich 
 
 **Income more than Rs 10L per year**
 
