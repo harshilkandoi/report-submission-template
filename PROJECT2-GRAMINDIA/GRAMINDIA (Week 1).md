@@ -37,6 +37,14 @@ geometry : margin = 2cm
 
 
 
+### [Motivation](table-of-contents)
+
+### [Abstract](#table-of-contents)
+
+A description of our village has been provided and based on that, the requirements were given by categorizing the stakeholders on the basis of profession,
+age, gender, financial status, and level of Education.
+
+
 
 ### [Description of our village](#table-of-contents)
 
