@@ -1,4 +1,4 @@
-#Things to take care of/ modify in the next report
+# Things to take care of/ modify in the next report
 
 - REVERSE ANCHORING PROBLEM IN LATEX
 - LIST OF ABBREVIATIONS (NOT GIVEN BY SUB-TC'S) 
