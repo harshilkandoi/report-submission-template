@@ -11,3 +11,4 @@
 # WHILE PRESENTING SOLUTIONS
 
 - TAKE HELP OF GOVT FUNDS/SCHEMES
+- Sub-Teams of automation/power infrastructure
