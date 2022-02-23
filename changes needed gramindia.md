@@ -8,7 +8,9 @@
 - OVERLAPPING BETWEEN SUB-TEAMS
 
 
-# WHILE PRESENTING SOLUTIONS
+# While Presenting Solutions
 
 - TAKE HELP OF GOVT FUNDS/SCHEMES
 - Sub-Teams of automation/power infrastructure
+- Vocational training-> specializing in one thing/ skill development
+
