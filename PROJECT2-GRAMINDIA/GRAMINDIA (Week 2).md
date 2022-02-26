@@ -11,15 +11,17 @@ geometry : margin = 2cm
 > 
 > [Abstract](#abstract)
 >
-> [1. Profession](#1-profession)
+> [1. Buyers-1](#1-buyers-1)
 > 
-> [2. Education](#2-education)
+> [2. Buyers-2](#2-buyers-2)
 >
-> [3. Gender](#3-gender)
+> [3. Sellers-1](#3-sellers-1)
 > 
-> [4. Financial Status](#4-financial-status)
+> [4. Sellers-2](#4-sellers-2)
 > 
-> [5. Age](#5-age)
+> [5. Govt](#5-govt)
+>
+> [6. NRV](#6-nrv)
 >
 > [References](#references)
 >
@@ -55,7 +57,7 @@ geometry : margin = 2cm
 
 
 
-### [6. NRV's](#table-of-contents)
+### [6. NRV](#table-of-contents)
 
 
 
