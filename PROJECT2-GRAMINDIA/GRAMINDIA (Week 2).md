@@ -34,7 +34,44 @@ geometry : margin = 2cm
 
 ### [1. Buyers 1](#table-of-contents)
 
+#### Fishing
 
+##### The stakeholders in the fishing sector who buy fish from the villagers are:
+- Companies like Pescafresh and O-fish which deliver seafood and fish for consumption to the consumers.
+- Pharmaceutical companies like TrueBasics and WoW which sell fish oil containing capsules to the market.
+- Common people also buy fish according to the fish's food chain to feed the aquaculture set up by them at their homes or workplaces.  
+- Fish are used in farms to feed the livestock including pigs, chickens, and fur animals.
+- Hatcheries and fish farms buy living fishes and culture them in the raceways.
+- Fish cultured like minnows and goldfish are further used by common people as bait.
+- The cultured fish are also bought by resorts and island authorities and used by them to organize sport fishing.
+- Fishermen of Karnataka, Tamil Nadu and West Bengal also sell the ornamental fishes like glassfish, honey gourami, zebra fish to the authorities in order to export them.   
+- Companies like Bondex and Fevicol which sell fish glue to the consumer market.
+- Companies like Agrofarm and Apple Agro sell fish fertilizers processed from fish oil to the farmers.
+- Companies like Wine fine sell isinglass used for clarification of wine and beer and derived from the fishes like sturgeons.
+- Fish merchants also buy fishes from the fishermen in the wholesale marketplace to further sell them to the consumers.
+
+#### Dairy Products
+
+- A lot of industries buy dairy products from rural areas. Some of the notable ones are Amul which mainly buys milk, Vanilla, Vadilal which buys Cream.
+- Companies like Kwality, Patanjali, Britannia buy butter products, and Mother Dairy, Nestle buys Yogurt related products.
+- People from nearby areas also buy these dairy products like milk, yogurt, etc. for their daily needs.
+- People also sell their products like skimmed milk, whey, condensed milk, etc. to export from the country.
+- Cheese-related products are bought by companies like ACERS WILD GOURMET CHEESES, Govardhan.
+
+#### Vegetables and grains used in cooking food 
+
+- The famous brands - Aashirvaad Atta, Fortune Chakki Fresh Atta, Annapurna Farm Fresh Atta, Shakti Bhog Atta, Nature Fresh Sampoorna Atta, Patanjali Atta etc are some grain related stakeholders.
+- Tropicana by PepsiCo, Real Fruit Juice by Dabur, Safal by Mother Dairy, Patanjali Fruit Juice, Minute Maid by Coca-Cola etc are some famous fruit juice stakeholders whose fruits came from villages.
+-Some wholesalers like Metro Cash and Walmart can also procure food and vegetables directly from the farmers.
+
+#### Cotton Buyers
+
+##### The stakeholders in the cotton sector who buy cotton from the villagers are:
+- Textile companies like Arvind Ltd, Bombay Dyeing and Manufacturing Company Ltd use cotton to produce the clothing for the clients.
+- Woven fabric companies like Sutlej textiles Cotton are used to make a variety of woven fabrics, including canvas, denim, damask, flannel, and more.
+- In Pharmaceutical industries cotton has been extensively used as it has several properties that make it well-suited to the healthcare industry.
+- In cosmetics industries Cotton is held as one of the key ingredients in producing certain beauty products. Mainly in two major ways, cotton is used in these regard-manufacturing items like sheet masks, makeup remover wipes, and by using cottonseed oil, which is extremely nourishing in nature.
+- Furniture companies use cotton to produce the provide a soft feel to your furniture.
 
 
 ### [2. Buyers 2](#table-of-contents)
