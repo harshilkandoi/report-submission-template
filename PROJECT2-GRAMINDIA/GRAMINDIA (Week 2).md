@@ -38,7 +38,35 @@ geometry : margin = 2cm
 
 
 ### [2. Buyers 2](#table-of-contents)
+One who buys services from the villagers is categorized in the Buyers 2 category.
 
+- **Schools**: Teachers teach in the schools and get paid for their teaching service.
+    
+- **Construction workers**: people who provide the service of constructing houses
+    
+- **Clerks**: People who do administrative services
+    
+- **Transportation**: People who carry villagers and materials around in rickshaws and bullock carts
+    
+- **Service Worker**: People who work in factory services.
+    
+- **Hospital**: People work as a healthcare support worker.
+    
+- **Handicraft**: People here make handmade goods.
+    
+- **Garage**: Villagers work as a mechanic in garage for automobile repairing
+    
+- **IT companies**: Trained and educated youth of villagers can work for IT firms 
+    
+- **Brick making factories**: Workers from villagers makes brick in the brick making facories
+    
+- **Retailers**: Buy grain from villagers and sell it to shopkeepers in cities
+
+- **Butchers**: Buy animals from villagers
+
+- **Dairy companies**: Buy milk from villagers
+
+- **Sugarcane factories**: Buy sugarcane from farmers
 
 
 
