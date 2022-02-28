@@ -42,7 +42,7 @@ One who buys services from the villagers is categorized in the Buyers 2 category
 
 - **Schools**: Teachers teach in the schools and get paid for their teaching service.
     
-- **Construction workers**: people who provide the service of constructing houses
+- **Construction workers**: People who provide the service of constructing houses
     
 - **Clerks**: People who do administrative services
     
