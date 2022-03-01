@@ -458,7 +458,7 @@ In most villages, some men migrate to other bigger cities or smaller towns in di
 
 ####  Property owners
 
-People migrating to Cities or those who receive ancestral property and wish to stay in Cities rent their farming land for farming in exchange for a share of total yield/profit or for a fixed price for the duration for which the land will be rented. They may also Rent their houses/part of houses
+People migrating to Cities or those who receive ancestral property and wish to stay in Cities rent their farming land for farming in exchange for a share of total yield/profit or for a fixed price for the duration for which the land will be rented. They may also Rent their houses/part of houses.
 
 
 
