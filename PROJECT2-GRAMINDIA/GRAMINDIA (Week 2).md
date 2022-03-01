@@ -451,6 +451,14 @@ Accessed March 1, 2022. <https://rural.nic.in/scheme-websites>.
 
 ### [6. NRV](#table-of-contents)
 
+    
+####  Money Order Economy
+
+In most villages, some men migrate to other bigger cities or smaller towns in different states, searching for better employment opportunities. Whatever they have saved after paying for food and rent, they send it back home to the village, helping the village economy. In the village, the savings would range from Rs 7,000-8,000 a month, but jobs in cities can bring them to pay packets of Rs 15,000-25,000 on average. In some villages, this migration is as high as 70%. Approximately 83 lakh residents of Uttar Pradesh had moved to other states, either temporarily or permanently, according to the 2011 Census. Low income from jobs in their hometown, fewer opportunities for work, and higher compensations outside the village are the primary motives for moving out of the rural area, leaving their family behind. The family is taken care of by the savings they send back home.
+
+####  Property owners
+
+People migrating to Cities or those who receive ancestral property and wish to stay in Cities rent their farming land for farming in exchange for a share of total yield/profit or for a fixed price for the duration for which the land will be rented. They may also Rent their houses/part of houses
 
 
 
