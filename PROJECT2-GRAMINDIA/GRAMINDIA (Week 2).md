@@ -34,6 +34,7 @@ We identified indirect stakeholders of our village. Some indirect stakeholders e
 <a href="https://ibb.co/SJXZf0q"><img src="https://i.ibb.co/qxM2J9b/Screenshot-169.png" alt="Screenshot-169" border="0"></a>
 
 
+
 ### [1. Buyers 1](#table-of-contents)
 
 #### Fishing
@@ -176,6 +177,7 @@ Some of the major FMCG companies and their products are:
 - Dabur's FMCG portfolio includes five flagship brands - Dabur as the master brand for natural healthcare products, Vatika for premium personal care, Hajmola for digestives, Real for fruit juices and beverages, and Fem for fairness bleaches and skin care products.
 
 
+
 ### [4. Sellers 2](#table-of-contents)
 One who provides services to the villagers are categorized in the Sellers 2 category.
 
@@ -199,46 +201,9 @@ One who provides services to the villagers are categorized in the Sellers 2 cate
 - **Water**: Water services provided by government. Water comes from groundwater, dam. State faces challenge in providing purified water access. This problem is being aggravated as the groundwater levels have started declining. Water tariffs in India are low and are near Rs. 5 per kiloliter, making water, this makes water cheap and affordable even for rural households earning low incomes. 
 
 - **Electricity**: Electricity supplied to villages in India through government agencies and private contractors, Non-grid sources such as solar home systems, rechargeable batteries, mini-grids, and diesel generators form an important part of the rural electricity mix. Sixteen percent of households and 40% of enterprises use non-grid sources. 
-
-
-
-
-
-#### References
-
-- https://in.kompass.com/a/agricultural-and-forestry-machinery-and-equipment/48/
-
-- https://www.business-standard.com/article/economy-policy/share-of-rural-mkt-grows-in-passenger-car-sales-with-more-first-time-buyers-120112600349_1.html
-
-- https://www.zeebiz.com/automobile/news-hero-motocorp-tvs-motors-bajaj-auto-to-mahindra-rural-india-continues-to-steer-sales-142543
-
-- https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/rural-demand-drives-hero-motocorp-sales-of-4-5-lakh-units-in-june/articleshow/76730171.cms
-
-- https://www.rediff.com/business/report/at-least-a-cycle-for-every-indian-hero-offers-a-2k-model/20180615.htm
-
-- https://agritech.tnau.ac.in/animal_husbandry/animhus_machi_equip.html
-
-- https://www.toolsvilla.com/search/chaff%20cutter
-
-- https://www.industrybuying.com/chaff-cutter-agripro-AGR.CHA.32125436/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_New_Top_Private_Label_agriculture&gclid=Cj0KCQiA3-yQBhD3ARIsAHuHT656DpIIVwYfIOPl4sGwagWJXjcjbakWMHqFvE5Oc570GFrWqKL3yukaApA0EALw_wcB
-
-- https://www.bighaat.com/products/vinspire-horizontal-chaff-cutter?variant=39823431073815&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=GOOGLE-ADS&utm_campaign=GA_Smart_Shopping_HRoasOct21&utm_agid=136877196668&utm_term=&creative=551963394850&device=c&placement=&gclid=Cj0KCQiA3-yQBhD3ARIsAHuHT652Wzw_ol0kqGmlLY_ccN7QWP3LpF5F9CI_dq5dXgU5xdGHGSIR_2AaAoYNEALw_wcB
-
-- https://www.statista.com/statistics/822490/india-rural-fmcg-market-size/
-- http://www.vitalruralarea.eu/scientific-articles/238-service-provision-in-rural-areas-concepts-from-vital-rural-area
-
-- https://www.ibef.org/industry/fmcg.aspx
-- https://www.ibef.org/industry/services.aspx
-- https://www.highspeedinternet.com/fl/the-villages#:~:text=Summary%20of%20The%20Villages%20internet%20providers%20%20,%20%201.5%2F5%20%201%20more%20rows%20
-
-    
-
-    
-    
     
 
 ### [5. Govt](#table-of-contents)
-
 
 
 #### Deen Dayal Upadhyay Grameen Kaushal Yojna
@@ -381,76 +346,6 @@ planned Rurban clusters.
 
 
 
-#### Citations
-
--   (“Deen Dayal Antyodaya Yojana\| National Portal of India” n.d.)
--   (“Reserve Bank of India - Notifications” n.d.)
--   (“Schemes for Rural Development Launched by Government of India -
-    Government” n.d.)
--   (“Schemes/Programmes \| ग्रामीण विकास मंत्रालय \| भारत सरकार” n.d.)
--   (“Rural Development Schemes in India” n.d.)
--   (“Schemes - Department of Rural Development — Vikaspedia” n.d.)
-
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/FP6V7IH3"
-class="csl-entry">
-
-“Deen Dayal Antyodaya Yojana\| National Portal of India.” n.d. Accessed
-March 1, 2022.
-<https://www.india.gov.in/spotlight/deen-dayal-antyodaya-yojana#:~:text=Deen%20Dayal%20Antyodaya%20Yojana%20(DAY,essential%20for%20%20socio%20economic%20betterment>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/UMRFJJFM"
-class="csl-entry">
-
-“Reserve Bank of India - Notifications.” n.d. Accessed March 1, 2022.
-<https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=77&Mode=0#:~:text=The%20objective%20of%20SGSY%20is,bank%20credit%20and%20Government%20subsidy>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/J92XAY2V"
-class="csl-entry">
-
-“Rural Development Schemes in India.” n.d. Accessed March 1, 2022.
-<https://www.jagranjosh.com/general-knowledge/list-of-various-rural-development-schemes-in-india-1480939663-1>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/C7ADQVCN"
-class="csl-entry">
-
-“Schemes - Department of Rural Development — Vikaspedia.” n.d. Accessed
-March 1, 2022.
-<https://vikaspedia.in/social-welfare/rural-poverty-alleviation-1/schemes>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/27P6SPQ2"
-class="csl-entry">
-
-“Schemes for Rural Development Launched by Government of India -
-Government.” n.d. Accessed March 1, 2022.
-<https://www.mapsofindia.com/my-india/government/schemes-for-rural-development-launched-by-government-of-india>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/J3XCY4G6"
-class="csl-entry">
-
-“Schemes/Programmes \| ग्रामीण विकास मंत्रालय \| भारत सरकार.” n.d.
-Accessed March 1, 2022. <https://rural.nic.in/scheme-websites>.
-
-</div>
-
-</div>
-
-
-
-
-
 ### [6. NRV](#table-of-contents)
 
     
@@ -465,5 +360,61 @@ People migrating to Cities or those who receive ancestral property and wish to s
 
 
 ### [References](#table-of-contents)
+    
+    
+[1]“33 Uses of Cotton.” https://engineeringtextile.com/fiber/169-uses-of-cotton (accessed Feb. 28, 2022).
+    
+[2]“Dairy product export from India,” Your Import and Export Agent. https://www.portlogy.com/dairy-product-export-from-india/ (accessed Feb. 28, 2022).
+    
+[3]S. Anand, “Farmers can directly sell their produce to cash and carry retailers: Consumer Affairs Secretary,” The Economic Times, Apr. 03, 2020. Accessed: Feb. 28, 2022. [Online]. Available: https://economictimes.indiatimes.com/news/economy/agriculture/farmers-can-directly-sell-their-produce-to-cash-and-carry-retailers-consumer-affairs-secretary/articleshow/74972369.cms?from=mdr
+    
+[4]“Most Popular Top Fruit Juice Brands in India.” https://m.freekaamaal.com/food/top-fruit-juice-brand-in-india (accessed Feb. 28, 2022).
+    
+[5]“Recipe Book: 10 Famous Cheese Producers/Brands of India,” Recipe Book, Oct. 31, 2014. http://grubdesi.blogspot.com/2014/10/10-famous-cheese-producersbrands-of.html (accessed Feb. 28, 2022).
+    
+[6]“Top 6 Wheat Flour (Atta) Brands in India.” http://krishijagran.com/blog/top-6-wheat-flour-atta-brands-in-india/?amp=1 (accessed Feb. 28, 2022).
+    
+[7]“vikaspedia Domains.” https://vikaspedia.in/agriculture/fisheries/fish-production/culture-fisheries/ornamental-aquaculture/overview-of-ornamental-industry (accessed Feb. 28, 2022).
+    
+[8]“Agriculture Machinery Companies in India | Agriculture Equipment Companies in India - Kompass Directory.” https://in.kompass.com/a/agricultural-and-forestry-machinery-and-equipment/48/ (accessed Feb. 28, 2022).
+    
+[9]“At least a cycle for every Indian. Hero offers a 2k model - Rediff.com Business.” https://www.rediff.com/business/report/at-least-a-cycle-for-every-indian-hero-offers-a-2k-model/20180615.htm (accessed Feb. 28, 2022).
+    
+[10]Bighaat, “Best Quality Chaff Cutters,” BigHaat.com. https://www.bighaat.com/collections/best-quality-chaff-cutter (accessed Mar. 01, 2022).
+    
+[11]“Chaff Cutter 2.2 HP APCC9Z | AgriPro | Industrybuying.” https://www.industrybuying.com/chaff-cutter-agripro-AGR.CHA.32125436/?utm_source=Google&utm_medium=PLA&utm_campaign=PLA_New_Top_Private_Label_agriculture&gclid=Cj0KCQiA3-yQBhD3ARIsAHuHT656DpIIVwYfIOPl4sGwagWJXjcjbakWMHqFvE5Oc570GFrWqKL3yukaApA0EALw_wcB (accessed Feb. 28, 2022).
+    
+[12]“FMCG Industry in India: Sector Overview, Market Size & Growth | IBEF.” https://www.ibef.org/industry/fmcg.aspx (accessed Feb. 28, 2022).
+    
+[13]“Hero MotoCorp, TVS Motors, Bajaj Auto to Mahindra - Rural India continues to steer sales,” Zee Business, Dec. 02, 2020. https://www.zeebiz.com/automobile/news-hero-motocorp-tvs-motors-bajaj-auto-to-mahindra-rural-india-continues-to-steer-sales-142543 (accessed Feb. 28, 2022).
+    
+[14]“India: rural FMCG market size 2025,” Statista. https://www.statista.com/statistics/822490/india-rural-fmcg-market-size/ (accessed Feb. 28, 2022).
+    
+[15]“India’s Largest Online Store Machinery, Tools & Equipments -Toolsvilla.” https://www.toolsvilla.com/search/chaff%20cutter (accessed Feb. 28, 2022).
+    
+[16]“Livestock:: Cattle:: BreedAnimal Husbandry :: Home.” https://agritech.tnau.ac.in/animal_husbandry/animhus_machi_equip.html (accessed Feb. 28, 2022).
+    
+[17]“Rural demand drives Hero MotoCorp sales of 4.5 lakh units in June,” The Economic Times, Jul. 01, 2020. Accessed: Feb. 28, 2022. [Online]. Available: https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/rural-demand-drives-hero-motocorp-sales-of-4-5-lakh-units-in-june/articleshow/76730171.cms
+    
+[18]T. E. Narasimhan, “Share of rural mkt grows in passenger car sales with more first time buyers,” Business Standard India, Nov. 26, 2020. Accessed: Feb. 28, 2022. [Online]. Available: https://www.business-standard.com/article/economy-policy/share-of-rural-mkt-grows-in-passenger-car-sales-with-more-first-time-buyers-120112600349_1.html
+    
+[19]Bighaat, “VINSPIRE HORIZONTAL CHAFF CUTTER,” BigHaat.com. https://www.bighaat.com/products/vinspire-horizontal-chaff-cutter (accessed Feb. 28, 2022).
 
+[20]“Service provision in rural areas Concepts from Vital Rural Area.” http://www.vitalruralarea.eu/scientific-articles/238-service-provision-in-rural-areas-concepts-from-vital-rural-area (accessed Mar. 01, 2022).
+    
+[21]“Services Sector in India: Overview, Market Size, Growth, Companies...IBEF.” https://www.ibef.org/industry/services.aspx (accessed Mar. 01, 2022).
+    
+[22]“Top 5 Internet Providers in The Villages, FL,” HighSpeedInternet.com. https://www.highspeedinternet.com/fl/the-villages (accessed Mar. 01, 2022).
+    
+[23]“Deen Dayal Antyodaya Yojana| National Portal of India.” https://www.india.gov.in/spotlight/deen-dayal-antyodaya-yojana (accessed Mar. 01, 2022).
+    
+[24]“List of Various Rural Development Schemes in India,” Jagranjosh.com, Dec. 05, 2016. https://www.jagranjosh.com/general-knowledge/list-of-various-rural-development-schemes-in-india-1480939663-1 (accessed Mar. 01, 2022).
+    
+[25]“Reserve Bank of India - Notifications.” https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=77&Mode=0 (accessed Mar. 01, 2022).
+    
+[26]M. India, “Schemes for Rural Development launched by Government of India - Government,” Aug. 22, 2018. https://www.mapsofindia.com/my-india/government/schemes-for-rural-development-launched-by-government-of-india (accessed Mar. 01, 2022).
+    
+[27]“Schemes/Programmes | ग्रामीण विकास मंत्रालय | भारत सरकार.” https://rural.nic.in/scheme-websites (accessed Mar. 01, 2022).
+    
+[28]“vikaspedia Domains.” https://vikaspedia.in/social-welfare/rural-poverty-alleviation-1/schemes (accessed Mar. 01, 2022).
 
