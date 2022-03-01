@@ -35,6 +35,7 @@ We identified indirect stakeholders of our village. Most stakeholders either buy
 
 ![mindmap](https://imgur.com/a/XN3uEv5.jpg)
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/XN3uEv5" data-context="false" ><a href="//imgur.com/a/XN3uEv5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### [1. Buyers 1](#table-of-contents)
 
