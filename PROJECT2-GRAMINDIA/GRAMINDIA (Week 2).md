@@ -174,6 +174,33 @@ Some of the major FMCG companies and their products are:
 - Dabur's FMCG portfolio includes five flagship brands - Dabur as the master brand for natural healthcare products, Vatika for premium personal care, Hajmola for digestives, Real for fruit juices and beverages, and Fem for fairness bleaches and skin care products.
 
 
+### [4. Sellers 2](#table-of-contents)
+One who provides services to the villagers are categorized in the Sellers 2 category.
+
+- **Social care**: People who provide social services like cleaning and tree plantation in the village. They are mainly assigned by government, voluntary groups.
+    
+- **Education and training**: People who provide education to children and skill development programs to the working class. These programs are mainly initiated by the government, voluntary groups.
+    
+- **Retail service**: Shops run by volunteers on non-profit basis.
+    
+- **Healthcare**: Government hospitals, health groups, voluntary caretakers.
+
+- **Postal and delivery services**: International delivery companies, local (carrier) services, National postal services.
+
+- **Passenger transportation**: Bus, train and ferry services operated by responsible public authority, possibly with price subsidies to ensure access, Occasional transport of elderly disabled people and children (to church, to sports facilities, on excursions), Internet-based co-riding services.
+    
+- **Emergency services**: Road assistance, Ambulance service operating on contract with responsible public authority,  fire brigade operated by responsible public authority.
+    
+
+- **Internet**: Internet ecosystem in villages is mainly based on 4G data services, WiFi services are not available in most villages and penetration is quite low. National Govt. has taken an initiative BharatNetbroadband that will layout fiber optics to provide internet connectivity to lakhs of villages by 2025. Nowadays Public Internet Service Providing companies like Spectrum and Viasat are also available.
+
+- **Water**: Water services provided by government. Water comes from groundwater, dam. State faces challenge in providing purified water access. This problem is being aggravated as the groundwater levels have started declining. Water tariffs in India are low and are near Rs. 5 per kiloliter, making water, this makes water cheap and affordable even for rural households earning low incomes. 
+
+- **Electricity**: Electricity supplied to villages in India through government agencies and private contractors, Non-grid sources such as solar home systems, rechargeable batteries, mini-grids, and diesel generators form an important part of the rural electricity mix. Sixteen percent of households and 40% of enterprises use non-grid sources. 
+
+
+
+
 
 #### References
 
@@ -196,11 +223,14 @@ Some of the major FMCG companies and their products are:
 - https://www.bighaat.com/products/vinspire-horizontal-chaff-cutter?variant=39823431073815&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=GOOGLE-ADS&utm_campaign=GA_Smart_Shopping_HRoasOct21&utm_agid=136877196668&utm_term=&creative=551963394850&device=c&placement=&gclid=Cj0KCQiA3-yQBhD3ARIsAHuHT652Wzw_ol0kqGmlLY_ccN7QWP3LpF5F9CI_dq5dXgU5xdGHGSIR_2AaAoYNEALw_wcB
 
 - https://www.statista.com/statistics/822490/india-rural-fmcg-market-size/
+- http://www.vitalruralarea.eu/scientific-articles/238-service-provision-in-rural-areas-concepts-from-vital-rural-area
 
 - https://www.ibef.org/industry/fmcg.aspx
+- https://www.ibef.org/industry/services.aspx
+- https://www.highspeedinternet.com/fl/the-villages#:~:text=Summary%20of%20The%20Villages%20internet%20providers%20%20,%20%201.5%2F5%20%201%20more%20rows%20
 
     
-### [4. Sellers 2](#table-of-contents)
+
     
     
     
