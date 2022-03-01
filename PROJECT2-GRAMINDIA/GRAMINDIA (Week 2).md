@@ -209,6 +209,215 @@ Some of the major FMCG companies and their products are:
 
 
 
+#### Deen Dayal Upadhyay Grameen Kaushal Yojna
+
+This is a placement-linked skill development scheme for rural poor youth. It aims to target youth, under the age group of 15–35 years.
+
+#### Antyodaya Anna Yojna (AAY)
+
+The scheme provides food grains to around 2 cr. Below Poverty Line (BPL) families at a very subsidized rate. Total 35 kgs of food grains is provided to a family. Rice is provided at the rate of Rs.3/kg and wheat at Rs.2/kg.
+
+#### National Rural Health Mission
+
+Main aim of this plan is to provide accessible, affordable and
+accountable quality health services even to the poorest households in
+the remotest rural regions.  Accredited social health activists (ASHA)
+scheme is also operational under this scheme. 
+
+#### Pradhan Mantri Gram Sadak Yojana
+
+Aims to enhance the rural roads connectivity.It mainly targets areas of
+habitants with no or less roads connectivity. Nearly 80% of roads have
+been laid connecting villages and cities(as per records).
+
+#### Sarv Siksha Abhiyan
+
+ It was made in attempt to provide children from age of 6 to 14 years to
+have an oppurtunity of free education. It is a response to the demand
+for quality basic education all over the country.
+
+#### Aam Aadmi Bima Yojana
+
+It is a social security scheme specially designed for rural households
+and below poverty line household.Under this scheme,the expenses of one
+member of the family is covered. The insured person need not to pay any
+premium if his/her age is between the 18 years to 59 years.
+
+#### Deen Dayal Antyodaya Yojana
+
+The Mission aims at creating efficient and effective institutional
+platforms for the rural poor enabling them to increase household income
+through sustainable livelihood enhancements and improved access to
+financial services.
+
+#### Swarnjayanti Gram Swarozgar Yojana (SGSY)/ National Rural Livelihood Mission
+
+The objective of SGSY is to bring every assisted family above the
+poverty line within three years by providing them income generating
+assets through a mix of bank credit and Government subsidy.
+
+#### National Rural Employment Guarantee Act (NREGA)
+
+The Act addresses the working people and their fundamental right to live
+life with dignity. 100 days of employment is guaranteed to any rural
+household adult who is willing to do unskilled manual work in a
+financial year. If a person does not get a job within 15 days, he is
+eligible for getting unemployment allowance.
+
+#### Pradhan Mantri Awaas Yojana (Gramin)/ Indira Awas Yojana
+
+It is a welfare programme established by the Indian government to
+provide housing to the rural poor of India. Houses built under this
+scheme will include basic amenities such as a toilet, an electricity
+connection, a drinking water connection, an LPG connection, and so on. 
+
+#### Provision of Urban Amenities In Rural Areas (PURA) 
+
+PURA is an Indian rural development strategy proposed to create
+opportunities outside of cities, PURA proposes that urban infrastructure
+and services be provided in rural areas. This will also prevent youth
+from migrating from rural to urban areas. 
+
+#### Sansad Adarsh Gram Yojana (SAGY) 
+
+Sansad Adarsh Gram Yojana (SAGY) is a rural development project in which
+each Member of Parliament will be responsible for three villages’
+personal, human, social, environmental, and economic development. This
+would significantly improve the villages’ standard of living as well as
+their quality of life. This project has received no funding because
+funds can be raised through existing schemes.
+
+#### Sampoorna Grameen Rozgar Yojana (SGRY) 
+
+The Sampoorna Grameen Rozgar Yojana (SGRY) was established to provide
+food to people living in low-income areas and improve their nutritional
+status. Other goals of this Yojana included providing social and
+economic assets to people living in rural areas. The scheme did not call
+for the use of contractors or middlemen.
+
+#### Coir Udyami Yojana
+
+This is a credit linked subsidy scheme for setting up coir units with
+project cost upto Rs 10 lakh plus working capital which shall not exceed
+25 % of the project cost. Those who qualify under Societies Registration
+Act 1860, Production Co-operative Societies, Joint Liability Groups and
+Charitable Trust can apply for this scheme. 
+
+#### PM Ujjwala Yojana
+
+The Pradhan Mantri Ujjwala Yojana was launched to safeguard the health
+of women and the household  from consumption of unhealthy fuels by
+providing them with clean cooking fuel in the form of LPG and the
+connections will be issued under the name of the women in the household.
+A woman of the BPL household may apply for a new LPG connection to the
+nearest LPG distributor.
+
+#### Skill Upgradation And Mahila Coir Yojana
+
+The scheme, one of the crucial ones under Scheme Coir Vikas Yojana
+provides development of domestic and export markets ,skill development
+and training, empowerment of women, employment creation and development
+, enhanced raw material utilisation, trade related services, welfare
+activities of the coir workers .
+
+#### National Social Assistance Programme
+
+It is basically a centrally sponsored scheme of Government of India
+which provides financial help to widows, elderly, people with disability
+in the form of pensions. 
+
+#### Prime Minister Rural Development Fellows Scheme
+
+It has dual goals of providing short-term support to the district
+administration in the underdeveloped and remote areas of the country and
+developing competent and committed leaders and facilitators who can
+serve as a resource for a long-term.
+
+#### National Rurban Mission (NRuM)
+
+The objective of the National Rurban Mission (NRuM) is to stimulate
+local economic development, enhance basic services, and create well
+planned Rurban clusters.
+
+-   Bridging the rural-urban divide-viz: economic, technological and
+    those related to facilities and services.
+
+-   Stimulating local economic development with emphasis on reduction of
+    poverty and unemployment in rural areas.
+
+-   Spreading development in the region.
+
+
+
+#### Citations
+
+-   (“Deen Dayal Antyodaya Yojana\| National Portal of India” n.d.)
+-   (“Reserve Bank of India - Notifications” n.d.)
+-   (“Schemes for Rural Development Launched by Government of India -
+    Government” n.d.)
+-   (“Schemes/Programmes \| ग्रामीण विकास मंत्रालय \| भारत सरकार” n.d.)
+-   (“Rural Development Schemes in India” n.d.)
+-   (“Schemes - Department of Rural Development — Vikaspedia” n.d.)
+
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/FP6V7IH3"
+class="csl-entry">
+
+“Deen Dayal Antyodaya Yojana\| National Portal of India.” n.d. Accessed
+March 1, 2022.
+<https://www.india.gov.in/spotlight/deen-dayal-antyodaya-yojana#:~:text=Deen%20Dayal%20Antyodaya%20Yojana%20(DAY,essential%20for%20%20socio%20economic%20betterment>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/UMRFJJFM"
+class="csl-entry">
+
+“Reserve Bank of India - Notifications.” n.d. Accessed March 1, 2022.
+<https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=77&Mode=0#:~:text=The%20objective%20of%20SGSY%20is,bank%20credit%20and%20Government%20subsidy>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/J92XAY2V"
+class="csl-entry">
+
+“Rural Development Schemes in India.” n.d. Accessed March 1, 2022.
+<https://www.jagranjosh.com/general-knowledge/list-of-various-rural-development-schemes-in-india-1480939663-1>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/C7ADQVCN"
+class="csl-entry">
+
+“Schemes - Department of Rural Development — Vikaspedia.” n.d. Accessed
+March 1, 2022.
+<https://vikaspedia.in/social-welfare/rural-poverty-alleviation-1/schemes>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/27P6SPQ2"
+class="csl-entry">
+
+“Schemes for Rural Development Launched by Government of India -
+Government.” n.d. Accessed March 1, 2022.
+<https://www.mapsofindia.com/my-india/government/schemes-for-rural-development-launched-by-government-of-india>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/J3XCY4G6"
+class="csl-entry">
+
+“Schemes/Programmes \| ग्रामीण विकास मंत्रालय \| भारत सरकार.” n.d.
+Accessed March 1, 2022. <https://rural.nic.in/scheme-websites>.
+
+</div>
+
+</div>
+
+
+
+
 
 ### [6. NRV](#table-of-contents)
 
