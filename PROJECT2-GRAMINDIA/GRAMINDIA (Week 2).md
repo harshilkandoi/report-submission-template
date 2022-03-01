@@ -31,7 +31,7 @@ geometry : margin = 2cm
 
 We identified indirect stakeholders of our village. Some indirect stakeholders either buys goods/services from the villagers or sells goods/services to the villagers. Some non resident villagers are also stakeholders who have land or relatives in the village. Govt is also an indirect stakeholder. Based on this we classified the indirect stakeholders into 6 Broad Categories:- 
 
-![mindmap](https://imgur.com/a/XN3uEv5)
+<a href="https://ibb.co/SJXZf0q"><img src="https://i.ibb.co/qxM2J9b/Screenshot-169.png" alt="Screenshot-169" border="0"></a>
 
 
 ### [1. Buyers 1](#table-of-contents)
