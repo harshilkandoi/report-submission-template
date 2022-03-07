@@ -531,7 +531,64 @@ IndiaMART.com. Accessed March 7, 2022.
 
 ### [5. Women](#table-of-contents)
 
+#### Sanitation
 
+Giving women access to clean and safe bathrooms is India's most significant sanitation concern. This is a particularly serious problem in rural areas. As a result, in order to achieve gender equality, all people must have access to adequate bathrooms.
+
+*Government Policies*:
+
+In 2014, the Swachh Bharat Mission was established with the goal of achieving a "clean India." SBM's goals were to eliminate open defecation and transform unsanitary toilets into sanitary toilets (pour-flush ones). It also attempted to execute adequate solid waste collection and processing, as well as create sanitation awareness in order to influence people's attitudes toward good sanitation practices.
+
+Budget allocations, World Bank help, CSR, and the 'Sarva Shiksha Abhiyan' and 'Rashtriya Madhyamik Shiksha Abhiyan' were all used to fund SBM. The Ministry of Drinking Water and Sanitation, the Ministry of Rural Development, and the States all contributed funds to the construction of nine core toilets.
+
+SBM has had a substantial influence. From 550 million at the commencement of the initiative, the number of persons defecating in the open has dropped to barely 50 million. Over 9 million basic toilets have been constructed, and according to the National Annual Rural Sanitation Survey, 96.5 percent of rural Indian families use the toilet when it is available. According to the WHO, Swachh Bharat would save 300,000 lives by 2019 and 150,000 lives yearly after that.
+
+Despite its enormous success, however, SBM is not without its flaws. The construction of washrooms was overemphasized, and villages were accorded ODF (open defecation free) status based on the quantity of toilets, rather than the eradication of fecal-oral transmitted diseases. There were questions regarding the washrooms' durability and long-term viability. The attitude toward using the newly erected washrooms is also a problem. Despite having access to one, people in rural areas prefer open defecation due to cultural and societal issues. The problem of waste treatment is yet unsolved.
+
+#### Water Supply
+
+Even in these times, the problems faced by rural area in terms of water includes 
+
+- Lack of proper quality and quantity of water for basic needs like drinking, bathing, or cooking. This is due to issues of low income, illiteracy, technology deficient areas. There is no proper supply of water and they need to rely on getting water from a well or some other water body nearby. The method is tiresome and requires storing water in containers in the home for quick use and also the quality of water is not very good. 
+    
+- Lack of sustained source of drinking water
+    Often to get a quick solution to this, people buy bottled water, which is not a long-lasting solution and also leads to the problem of waste disposal disturbing the ecological balance.
+
+- Also, natural calamities liked floods and droughts pose a serious threat to scarcity of water.
+    
+*Proposed Solution:*
+
+Centralized Water supply with outlets at various points of the village and solar controlled with an inbuilt water purifier for drinking purposes.
+
+#### Healthcare
+
+It's no secret that rural communities in developing countries face distinct challenges from their urban counterparts. Isolation, scarcity of resources, and limited access to essential services such as clean water, education, and health care are all standard.
+
+Over 70% of the population in India lives in rural areas, and there is a significant gender divide, with rural women having lower education, less employment, and higher poverty. 
+
+Rural communities also have limited access to the internet and technological devices, resulting in more isolation. Women are still at a disadvantage in communities where online access is available. A persistent digital gender divide shows that women are 23% less likely than men to use mobile internet.
+
+One of the most challenging problems is the health of pregnant women. Babies are frequently born at home in rural areas, where healthcare can be complicated. One solution can be to start a program in tie-ups with hospitals where we increase the likelihood of pregnant women giving birth with the assistance of a skilled birth attendant. This can be integrated with a digital platform or phones and create a messaging system to track the stage of pregnancy and provide more services even after birth, such as childcare. 
+
+#### Women Employment
+
+Informal rural female workers have the lowest average daily wage of any worker group (Rs.104/day).
+
+However, science and technology can assist in improving their standard of living. Technology can increase crop yields, thereby increasing profits for women farmers, reducing women's domestic and productive work by introducing labor-saving technologies, and boosting women's participation in the rural labor market through improved communications. ICT has emerged as a powerful tool and can help reduce women's isolation, increase their bargaining power, and improve their ability to pool skills. We can establish community-learning centers in villages that use innovations like satellite and telecommunication to provide agricultural extension, soil and pest analysis, and health diagnostic expertise to women even in remote rural areas. It may also include libraries with innovative technology-sharing arrangements that enable poor women to access technologies that would otherwise be inaccessible to them. Female leaders from various villages also assist in identifying village demand for improved certified seeds and other technologies, which are then purchased wholesale and delivered to women farmers in need.  
+
+#### Financial Independence
+
+We have seen that many of the women in rural areas are dependent on their male counterparts financially. One of the main reasons is the lack of financial literacy. Women in rural areas have very limited access to information on how to engage with the evolving financial space, especially when it is online and digital. Women also have limited literacy, constrained mobility, and access to public spaces.
+
+Some National-level efforts to enhance financial literacy have been focused on setting up Financial Literacy and Counselling Centres by leading banks of a district or state. Their main objective is to improve the financial education of rural women who are dependent on their male counterparts financially and improve the attitude of male members towards females in their households making household financial decisions.
+
+Each woman received an average of 30 hours of training over 15-18 months. The trainers were chosen from among the community and the training sessions were followed by financial education included with exposure visits to ATMs and banks, which helped the participants link with financial products and services of their choice.
+
+The program revealed several benefits for women. The training and exposure visits raised their confidence in dealing with financial institutions and enabled them to play a greater role in household financial decision-making, and resulted in a positive change in the attitude of male members who attended the sessions. This solution can be enhanced further and implemented in a more advanced way considering its limitations to improve the financial independence of women in rural areas.
+
+#### References:
+
+https://www.iasexpress.net/swachh-bharat-mission-success-or-failure-upsc/
 
 
 
