@@ -149,6 +149,142 @@ List: AICTE Survey.” n.d. Accessed March 7, 2022.
 
 
 ### [4. Healthcare](#table-of-contents)
+    
+    ## Problem:
+
+**Ineffective diagnosis of symptoms which leads to villagers taking
+longer to get the right treatment leading to loss of their precious time
+and money.**
+
+## Solution:
+
+Products like digital BP measurer, pulse-oximeter and thermometer should
+be readily available at local village medical centers so that villagers
+should be precisely able to know about symptoms they are suffering for
+better treatment. On an average, a digital BP machine costs Rs.900, a
+pulse-oximeter costs Rs.750 and a thermometer(digital) costs Rs.150.
+Government of India has granted Rs.8454 crores for improving healthcare
+facilities in rural India which means that every village has been
+granted about Rs.22 Lakhs on an average, hence these instruments can be
+easily afforded by the health centers. 
+
+## Problem:
+
+**Diseases such as Tuberculosis ,whooping cough, respiratory infections,
+pneumonia are highly contagious and infectious which may become severe
+and cause of death for rural people especially for pregnant ladies and
+infants.**
+
+## Solution: 
+
+Seminars should be conducted online on smartphones provided to poor
+rural people under government schemes to make villagers aware of the
+importance of water purification and should be taught scientific methods
+to purify water using household equipment. Science tested Techniques
+like filtration, sedimentation, Solar disinfection, Slow sand
+filtration, Upflow gravel filter etc should be taught and necessary
+equipment should be provided to them.
+
+## Problem:
+
+**Villages don’t have enough doctors and hospitals.**
+
+## Solution:
+
+Remote access or virtual consultations is the need of the hour in
+villages. Villagers should be made aware about the online medical
+consultation. Government should make an android application and website
+for providing free medical consultation to people of rural India  or
+villagers should be provided a healthcare scheme under a government
+scheme so that they can cover expenses of the virtual consultation
+platforms like practo and apollo 24/7.
+
+## Problem:
+
+**People try to self-medicate by using home remedies or witchcraft
+(black magic), which might actually worsen their health.**
+
+## Solution:
+
+People should be educated on the benefits of receiving professional
+medical care rather than attempting to self-treat or refer to
+witchcraft. Various virtual seminars, some animated series and online
+advertisements should be promoted on the Aarogya setu app or on
+entertainment platforms. The government should introduce virtual
+consultation platforms as they would save both time and money for the
+person. Health-related start-ups should be encouraged by the government
+as well. In remote regions, they can establish a platform that combines
+everything from online consultations to the purchase of medication to
+the scheduling of health checkups.
+
+## Problem:
+
+**Lack of advisory to the doctor and maintenance of reports.**
+
+## Solution:
+
+Integrating digital information to improve health care efficiency and
+accessibility. At any time, a doctor can turn to a support system for
+his clinical decision, which will aid him in making the right choice.
+When it comes to electronic health records (EHRs), patients no longer
+have to take them around with them. Additional to that, the adoption of
+digital prescriptions is expected to eliminate prescription errors.
+
+## Problem:
+
+**Unavailability of Medicinal Drugs in Rural areas**
+
+## Solution: 
+
+Government should establish some type of partnership with transport
+agencies like uber, and with individual transport vehicle workers like
+antoes, to make new apps available to rural areas, through which we can
+place an order for medicines we need.
+
+## Problem:
+
+**Less than 10 percent of the rural population uses toilets and have a
+lack of sanitary conditions.**
+
+## Solution:
+
+Villagers firstly should be educated about how to maintain good hygiene
+and what are the benefits of it. It can be done through interactive
+videos and online sessions directly on their mobile phones or through
+community events organized by various NGOs and govt. organizations.
+Other than that, the government should deploy mobile apps which can be
+used by villagers to inform the government about bad conditions of
+toilets and other hygiene facilities in their village and then the
+government can use this information to take needful actions.
+
+## Citations
+
+-   (“Health Devices - Sphygmomanometer Manufacturer from Delhi” n.d.)
+-   (“Centre Releases Rs 8,454 Crore for Health Sector in 19 States -
+    The Economic Times” n.d.)
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/5QKDDAIN"
+class="csl-entry">
+
+“Centre Releases Rs 8,454 Crore for Health Sector in 19 States - The
+Economic Times.” n.d. Accessed March 7, 2022.
+<https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/centre-releases-rs-8454-crore-for-health-sector-in-19-states/articleshow/87689252.cms?from=mdr>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/G772U9XA"
+class="csl-entry">
+
+“Health Devices - Sphygmomanometer Manufacturer from Delhi.” n.d.
+IndiaMART.com. Accessed March 7, 2022.
+<https://www.indiamart.com/manu-shree-surgical-udyog/health-devices.html>.
+
+</div>
+
+</div>
+
 
 
 
