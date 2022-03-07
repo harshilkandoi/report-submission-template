@@ -150,7 +150,7 @@ List: AICTE Survey.” n.d. Accessed March 7, 2022.
 
 ### [4. Healthcare](#table-of-contents)
     
-    ## Problem:
+## Problem:
 
 **Ineffective diagnosis of symptoms which leads to villagers taking
 longer to get the right treatment leading to loss of their precious time
