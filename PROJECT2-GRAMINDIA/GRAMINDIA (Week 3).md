@@ -134,6 +134,14 @@ following solutions.
     develop applications to do so.(*The Times of India* 2021) (“44%
     Engineering Students Want to Be Taught in Mother Tongue, Tamil Tops
     List: AICTE Survey” n.d.)
+    
+    Cost:
+    Time: 1 year
+    20 developers at 30 LPA = 6C
+    Operational cost = 2C
+    Computational cost = 2C
+    Total: 10C
+
 
     ## References
 
