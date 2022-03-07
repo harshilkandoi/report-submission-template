@@ -170,6 +170,210 @@ List: AICTE Survey.” n.d. Accessed March 7, 2022.
 
 ### [3. Profession](#table-of-contents)
 
+    
+    
+**PS: What are the specifications for technology interventions for life and livelihood at the individual/home/family/community level?**
+
+#### AGRICULTURE
+
+ Agri App provides the  following services
+- Rent   
+- Information (Weather, yield)    
+- IoT solution
+     
+##### 1. Renting farming equipment:
+Buying the equipment wouldn’t be the most intelligent choice in today’s time since technology is revolutionizing like a flash and one wouldn’t want to be stuck up with conventional methods and techniques while others profit off of the new ones. In the present climate, if someone is a machinery/equipment hoarder, he is allowing money to slip away from the grip of his own hands which isn’t the most desirable situation to be in.
+
+  
+
+##### Why renting farming equipment is better than buying them?
+
+  
+
+1. An ideal alternative to avoid capital investment in farm machinery
+
+2. Reduce input costs and increase productivity
+
+3. Access to high-quality services with mechanized equipment for all farming needs
+
+4. Choose from a wide range of specialized equipment for each application
+
+5. A young or beginning farmer may look at leasing equipment as a means to free up a leverage ratio to allow equity to be used to purchase land someday.
+
+  
+  
+
+##### Equipment specifications:
+
+ We will make an app/website on which farmers can easily get their required tools according to their needs.
+1. farm equipment items like augers and conveyors for moving grains and seeds,
+2. field prep items like field discs
+3. field tillage equipment items like harrows, rock pickers, landscapers, dozers, and land rollers
+4. pasture maintenance items like pasture aerators and pasture plows.
+
+  
+  
+  
+
+##### Hiring and sale/purchase of farm machinery
+
+Farm machinery is one of the crucial factors for improving the quality and quantity of yield. Farmers can save money on operational costs, boost revenues and grow more crops with less work by choosing the right farm machinery, but for choosing the right farm machinery a big investment may be needed which every farmer can’t afford, and it may not be viable and efficient. To make it feasible following solution can be implemented:
+
+-   Collectively purchasing farm machinery can bring out efficient use of the tool resulting in saving money and energy. A group of farmers can collectively buy one or more machinery instead of buying individually which they can lend also to support other farmers.
+    
+-   An app facilitating farmers to hire farm machinery on rental basis, facility of exchanging tools, buying and selling of farm machinery. It helps progressive farmers who are willing to provide their agricultural machinery and equipment on a rental basis to increase their income by making optimum utilization of available tools and machinery in custom hiring centers. It also creates jobs in transportation for delivering hired machinery. A multilingual and easy-to-use app or helpline can help small and marginal farmers by using farm implements on competitive hiring rates and timely availability.
+   
+
+  
+  
+
+##### 2. Information(Weather, Yield)
+Weather forecasting for precipitation and temperature levels, alongside historical data, is critical for effective agricultural plans. However, open-access public sources that use distant meteorological stations provide less accurate weather forecasts.
+
+Using renowned weather data providing platforms like IBM, Our application can provide hyperlocal weather analytics solutions that predict local weather conditions. This will provide farmers with granular level information required for planning and thus significantly reduce forecasting errors.
+
+  
+
+We can combine high-resolution earth observations and data from low-cost weather sensors to provide accurate weather and hyperlocal weather data.
+
+ 
+-  Based on the rainfall patterns our application can also predict localized rainfall and provide smart irrigation notifications to the farmers thereby allowing farmers to streamline farm planning, operations, and water management.
+
+Our application can provide important pest identification and predictions using weather conditions, cropping time, location for each crop on one to one basis. for the farmers.
+
+  
+
+Additionally, our application can provide free of cost consultants as well as paid farm inspectors and supervisors to guide the farmers.
+
+  
+  ##### 3. IoT solutions
+
+AI-based solutions for improving agricultural yield:
+
+1.  Soil and crop monitoring - we can analyze growth patterns of crops using in-ground sensor data on moisture, fertilizer, and natural nutrient levels. This can help in identifying diseases in plants early.
+    
+2.  Pest management - Agricultural teams can use AI to predict and identify pest infestations before they occur, using infrared camera data from drones along with sensors on fields that can monitor plants' relative health levels. An optimal mix of biodegradable pesticides can be used in the most affected areas, thereby also decreasing the amount of pesticide required.
+    
+3.  AI and machine learning-based smart tractors and ag robots - It becomes extremely hard for large-scale agricultural businesses to hire enough workers and at the same time be profitable. Large-scale farmers can use preprogrammed robots to distribute fertilizers on each row of crops to bring down the operating costs and also improve the yield.
+
+  
+  
+---
+
+#### FISHING
+
+The fishing sector is one of the primary sectors of the Indian economy. In recent years, there have been many technological advancements in this sector. Due to this, the industry has seen increasing growth in the food supply, better and bigger yields, increased nutritional level and new job opportunities. But most of these technological developments are limited to significant fish farming firms/enterprises when they could also benefit the rural population. Some of the possible and affordable solutions that could help the people in GRAMIN India involved in this sector are:
+
+-   **Effective monitoring devices:** The primary requirement of the fishing sector is the improvement in the monitoring devices, be it better equipment for navigation or weather monitoring, prediction of better fishing locations or monitoring dissolved oxygen and pH levels. Many of these requirements can be met by intelligent sensor-based IoT devices that provide real-time information to the fish farmers about all such necessary data [see 3]. Such devices can be remotely controlled and could be operated on the surface or underwater. Similar automated solutions can help the fisherman identify better fishing locations and monitor the weather conditions more effectively.
+    
+
+- **Biofloc Technology:** Fish farming in rural settings is primarily dependent on natural resources like the availability and productivity of nearby water bodies and other environmental conditions. This dependence on natural resources can be eliminated by setting up artificial fish farming tanks that utilize Biofloc. Biofloc is a symbiotic water process involving confined aquatic animals, heterotrophic bacteria, and other microbial species. It is mainly used in sun-exposed tanks with low or no water exchange. In Biofloc technology, animal feaces are transformed back into nutritious feed, which helps enhance water quality and prevents diseases. Biofloc technology is widely used in shrimp farming. Such systems help rural people gain food security and nutrition security, thereby increasing their financial status and standard of living. An example of how Biofloc technology helped people in rural areas can be seen from this story [see 4]
+
+---
+
+#### DAILY WAGE
+
+We can create an app which will provide work on a daily basis. The app has the following features:
+
+- The app will work at district level (which include at least 10 villages) and it's interface will be simple and audio is also added which will make it easy to use.
+
+- The app will have two profiles: 1. Workers 2. Job providers
+
+- Workers can create an account with name, contact no. & skills they have(by default set to labourer).
+
+- The worker can select the district in which he/she wants to work.
+
+- Job providers will give the description of job for which the 'n' number of persons needed or some specific skilled-person needed(who knows carpentry, construction work, etc)
+
+- The job description will also have location and contact details.
+
+- This app will also provide what are the recommended daily wages for skilled and unskilled workers.
+
+---
+    
+#### LOGISTICS
+
+A better logistics system bring greater efficiency in bringing , storing and distribution of goods
+
+  
+
+In context of villages, about 65% of the population of the country lives in villages
+
+And it mainly comprises of agricultural industry and artisan industry
+
+  
+
+Traditional technical solutions to improve logistics are
+
+Better infrastructure , to travel from villages to cities and better storage + a robust distribution system.
+
+  
+
+Some system solutions , such as improving storage capacity and quality of rural stores and department stores to develop a more robust distribution and storage centre
+  
+
+Making a large storage and distribution centre for a few cluster of villages , through which material
+
+Reaching time decreases a lot to reach individual villages , and the cost of running a single large modern storage and distribution centre will be less than operating many such centres.
+
+  
+
+Village bargaining as a whole so bargaining power can be increased.
+
+  
+  
+
+##### Technical solutions
+
+  
+
+Agricultural logistics
+
+Farmers have to bring their produce to APMC Mandis.
+
+Since there are many small farmers they have to rely on big farmers and middlemen for transportation, many times being paid much lower than market rate.
+
+An app based logistical system which has levels of collection centres from village, to cluster of village to district , where a farmer can book us for transportation at any time thus saving his storage cost .
+
+Similarly distribution of seeds, fertilisers etc can be facilitated through apps.
+
+In States where selling is allowed outside of APMC also a whole state level logistical app system directly connecting to wholesalers and supermarkets can be facilitated.
+
+  
+  
+
+Artisan logistics
+
+App based logistical solutions can be made. Where App company controls display as well as transportation of your artistic goods.
+
+  
+
+Retail logistics
+
+Integration of e-commerce giants with villages , by using local shops and outlets as distribution centres and storage centres.
+
+  
+
+Integration of wholesales and mid term industries , directly with local retail , and local retails with each other , with an app which arranges price ,minimum procurement quantity etc etc.
+
+So that retailers can compare prices of all wholesales including logistical costs and choose from many wholesalers and industries , rather than relying on few.
+
+Integration of local retailers with an app, where what material is available on them , will help us find it easily whether a good is present with them or not.
+
+In between logistics being controlled by the app company , to streamline flow and increase efficiency.
+
+  
+
+Money and logistics
+
+Role of credit and lending is crucial in maintaining a good logistics system.
+
+Much of the lending and credit is done in cash and record is generally kept , maintained by individuals or unorganised groups ( like truck owner , wholesaler , farmer , individual shop owner ) and credit is raised or given generally on personal respect.
+
+This system can be organised , where we use a central messaging and record keeping system to track how much credit is given to whom or how much money is lent to whom .
+
+Instead of relying on personal guarantee and respect of an individual system such as credit score , loan payment cycle of an individual , his or her profit should be maintained by an app company , which also recommends how much credit can be given with reasonable safety to a particular individual or particular group of individuals.
+
 
 
 
