@@ -33,6 +33,32 @@ geometry : margin = 2cm
 
 
 
+#### Guidance/Awareness:
+-	Awareness through posters for educated people. Posters can either be attached to any famous place in the village or could be circulated in a newspaper.
+-	To reach uneducated ones, we need a medium like their school/college-going children. Now, these children could be targeted either from social media apps like Youtube/ Facebook which are most common, or can be informed via schools/colleges. A group of people working for the improvement of the village could also be used. There might be some meets/fairs of whole villages many times, so this gathering of people may be used for communication.
+-	On various occasions and festivals, women gather. So we can educate a few of them and communication to all others could also be possible 
+-	Circulating information through advertising and skill enhancement workshops through local channels as most of the middle-class people watch TV's than mobiles
+Education : 
+-	Farmers could be made aware of the best fertilizers and pesticides in the market either via related shops or via radio 
+-	They could be given training on some extra activities they can do for part-time income like poultry farming, cattle farming and the products that could be made with this
+-	Educating them about various recently made automated machines and tools and training them about how to use them
+
+#### SSI (Unemployment)
+##### The ways to tackle the problem of unemployment in rural areas with the aid of small scale/housing industries are:
+-   Small scale industries like Dal Mills in a village that have high production of lentils as are the ones in Uttar Pradesh and Madhya Pradesh, handmade cotton bags in the villages that have high production of cotton as are the ones in Punjab and Haryana can be set up in rural areas to provide employment opportunities. Small scale industries priorly comprise labor-intensive works which create a vast level of employment opportunities for the skilled and unskilled workers. 
+-   The practice of farming should also be diversified to other fields like horticulture, animal rearing, and pisciculture depending upon the village’s geographical location. Since farming comprises of seasonal working in the fields, these diversifications can act as a secondary source of income and work for the farmers.  
+-   With the medium of financial aid which can be either provided by government-funded schemes, banks, or any other mode, cottage industries can be set up by the people of rural areas at their homes creating employment opportunities for themselves and, for other unemployed people in the village.
+
+#### Small Scale Industries 
+- Two of the major factors that are hindrances in the development of small-scale industries are- shrinking local markets and low density.
+-  Small- scale industries should be made aware to work with the government to improve ICT coordination, resulting in its development.
+- One way of improving productivity in small-scale industries is by upskilling the labor force which can be done by: job rotation, peer mentoring, learning, development, etc.
+
+#### Temporary Unemployment
+- A large chunk of people in villages are farmers. Due to the seasonal nature of their work, most of which is during March-June and October-December, they are jobless in the other months. This creates a situation of temporary unemployment.
+- To solve this issue, we can create programs that will offer people a job whenever they want while working in their fields in the seasonal months. One of such programs is ‘MGNREGA: Mahatma Gandhi National Rural Employment Guarantee Act”. It is a 100-day work program introduced by the Indian Government in rural areas with a motive to guarantee the ‘right to work’ to all people. Around 13.28 crore workers have been employed using this scheme in 2020-21.
+
+
 
 ### [2. Education](#table-of-contents)
 
