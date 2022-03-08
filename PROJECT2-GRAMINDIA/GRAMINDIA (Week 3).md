@@ -141,46 +141,10 @@ following solutions.
     Operational cost = 2C  
     Computational cost = 2C  
     Total: 10C  
-    
-    
-    ## References
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-27RuralHouseholds2021" class="csl-entry">
-
-“27.9% Rural Households Bought Smartphone for Kids’ Studies Amid
-Pandemic: Survey.” 2021. Hindustan Times. November 18, 2021.
-<https://www.hindustantimes.com/india-news/279-rural-households-bought-at-least-one-smartphone-for-kids-studies-amid-pandemic-aser-survey-101637175238326.html>.
-
-</div>
-
-<div id="ref-44EngineeringStudents" class="csl-entry">
-
-“44% Engineering Students Want to Be Taught in Mother Tongue, Tamil Tops
-List: AICTE Survey.” n.d. Accessed March 7, 2022.
-<https://theprint.in/india/education/44-engineering-students-want-to-be-taught-in-mother-tongue-tamil-tops-list-aicte-survey/621098/>.
-
-</div>
-
-<div id="ref-26SchoolkidsEnglish2021" class="csl-entry">
-
-*The Times of India*. 2021. “26% of Schoolkids in English Medium; Nearly
-60% in Delhi,” July 3, 2021.
-<https://timesofindia.indiatimes.com/india/26-of-schoolkids-in-english-medium-nearly-60-in-delhi/articleshow/84082483.cms>.
-
-</div>
-
-</div>
-
-
 
 
 ### [3. Profession](#table-of-contents)
 
-    
-    
-**PS: What are the specifications for technology interventions for life and livelihood at the individual/home/family/community level?**
 
 #### AGRICULTURE
 
@@ -254,7 +218,8 @@ Our application can provide important pest identification and predictions using 
 Additionally, our application can provide free of cost consultants as well as paid farm inspectors and supervisors to guide the farmers.
 
   
-  ##### 3. IoT solutions
+
+##### 3. IoT solutions
 
 AI-based solutions for improving agricultural yield:
 
@@ -264,15 +229,12 @@ AI-based solutions for improving agricultural yield:
     
 3.  AI and machine learning-based smart tractors and ag robots - It becomes extremely hard for large-scale agricultural businesses to hire enough workers and at the same time be profitable. Large-scale farmers can use preprogrammed robots to distribute fertilizers on each row of crops to bring down the operating costs and also improve the yield.
 
-  
-  
----
 
 #### FISHING
 
 The fishing sector is one of the primary sectors of the Indian economy. In recent years, there have been many technological advancements in this sector. Due to this, the industry has seen increasing growth in the food supply, better and bigger yields, increased nutritional level and new job opportunities. But most of these technological developments are limited to significant fish farming firms/enterprises when they could also benefit the rural population. Some of the possible and affordable solutions that could help the people in GRAMIN India involved in this sector are:
 
--   **Effective monitoring devices:** The primary requirement of the fishing sector is the improvement in the monitoring devices, be it better equipment for navigation or weather monitoring, prediction of better fishing locations or monitoring dissolved oxygen and pH levels. Many of these requirements can be met by intelligent sensor-based IoT devices that provide real-time information to the fish farmers about all such necessary data [see 3]. Such devices can be remotely controlled and could be operated on the surface or underwater. Similar automated solutions can help the fisherman identify better fishing locations and monitor the weather conditions more effectively.
+- **Effective monitoring devices:** The primary requirement of the fishing sector is the improvement in the monitoring devices, be it better equipment for navigation or weather monitoring, prediction of better fishing locations or monitoring dissolved oxygen and pH levels. Many of these requirements can be met by intelligent sensor-based IoT devices that provide real-time information to the fish farmers about all such necessary data [see 3]. Such devices can be remotely controlled and could be operated on the surface or underwater. Similar automated solutions can help the fisherman identify better fishing locations and monitor the weather conditions more effectively.
     
 
 - **Biofloc Technology:** Fish farming in rural settings is primarily dependent on natural resources like the availability and productivity of nearby water bodies and other environmental conditions. This dependence on natural resources can be eliminated by setting up artificial fish farming tanks that utilize Biofloc. Biofloc is a symbiotic water process involving confined aquatic animals, heterotrophic bacteria, and other microbial species. It is mainly used in sun-exposed tanks with low or no water exchange. In Biofloc technology, animal feaces are transformed back into nutritious feed, which helps enhance water quality and prevents diseases. Biofloc technology is widely used in shrimp farming. Such systems help rural people gain food security and nutrition security, thereby increasing their financial status and standard of living. An example of how Biofloc technology helped people in rural areas can be seen from this story [see 4]
@@ -487,39 +449,6 @@ used by villagers to inform the government about bad conditions of
 toilets and other hygiene facilities in their village and then the
 government can use this information to take needful actions.
 
-## Citations
-
--   (“Health Devices - Sphygmomanometer Manufacturer from Delhi” n.d.)
--   (“Centre Releases Rs 8,454 Crore for Health Sector in 19 States -
-    The Economic Times” n.d.)
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/5QKDDAIN"
-class="csl-entry">
-
-“Centre Releases Rs 8,454 Crore for Health Sector in 19 States - The
-Economic Times.” n.d. Accessed March 7, 2022.
-<https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/centre-releases-rs-8454-crore-for-health-sector-in-19-states/articleshow/87689252.cms?from=mdr>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/G772U9XA"
-class="csl-entry">
-
-“Health Devices - Sphygmomanometer Manufacturer from Delhi.” n.d.
-IndiaMART.com. Accessed March 7, 2022.
-<https://www.indiamart.com/manu-shree-surgical-udyog/health-devices.html>.
-
-</div>
-
-</div>
-
-
-
-
-
-
 
 ### [5. Women](#table-of-contents)
 
@@ -577,13 +506,6 @@ Some National-level efforts to enhance financial literacy have been focused on s
 Each woman received an average of 30 hours of training over 15-18 months. The trainers were chosen from among the community and the training sessions were followed by financial education included with exposure visits to ATMs and banks, which helped the participants link with financial products and services of their choice.
 
 The program revealed several benefits for women. The training and exposure visits raised their confidence in dealing with financial institutions and enabled them to play a greater role in household financial decision-making, and resulted in a positive change in the attitude of male members who attended the sessions. This solution can be enhanced further and implemented in a more advanced way considering its limitations to improve the financial independence of women in rural areas.
-
-#### References:
-
-https://www.iasexpress.net/swachh-bharat-mission-success-or-failure-upsc/
-
-
-
 
 ### [References](#table-of-contents)
     
