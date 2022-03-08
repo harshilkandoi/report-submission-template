@@ -301,13 +301,7 @@ We can create an app which will provide work on a daily basis. The app has the f
     
 #### LOGISTICS
 
-A better logistics system bring greater efficiency in bringing , storing and distribution of goods
-
-  
-
-In context of villages, about 65% of the population of the country lives in villages
-
-And it mainly comprises of agricultural industry and artisan industry
+A better logistics system bring greater efficiency in bringing , storing and distribution of goods. In context of villages, about 65% of the population of the country lives in villages And it mainly comprises of agricultural industry and artisan industry.
 
   
 
@@ -320,9 +314,7 @@ Better infrastructure , to travel from villages to cities and better storage + a
 Some system solutions , such as improving storage capacity and quality of rural stores and department stores to develop a more robust distribution and storage centre
   
 
-Making a large storage and distribution centre for a few cluster of villages , through which material
-
-Reaching time decreases a lot to reach individual villages , and the cost of running a single large modern storage and distribution centre will be less than operating many such centres.
+Making a large storage and distribution centre for a few cluster of villages , through which material reaching time decreases a lot to reach individual villages , and the cost of running a single large modern storage and distribution centre will be less than operating many such centres.
 
   
 
