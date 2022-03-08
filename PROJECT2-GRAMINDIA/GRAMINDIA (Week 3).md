@@ -28,8 +28,7 @@ geometry : margin = 2cm
 ### [Abstract](#table-of-contents)
 This report presents the interventions needed at individual/community level for the betterment of life in rural india.Various solutions have been presented keeping in mind the key stakeholders and their needs. These are tageted at five major domains namely unemployment, education, profession based problems, healthcare, and issues particular to women. The following mindmap summarizes it.
 
-<a href="https://ibb.co/cCvKtvn"><img src="https://i.ibb.co/61ZcbZC/Screenshot-214.png" alt="Screenshot-214" border="0"></a>
-
+<a href="https://ibb.co/mNyCPyC"><img src="https://i.ibb.co/41SZ0SZ/Screenshot-215.png" alt="Screenshot-215" border="0"></a>
 
 
 ### [1. Unemployment](#table-of-contents)
