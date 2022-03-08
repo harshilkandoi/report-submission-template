@@ -26,6 +26,7 @@ geometry : margin = 2cm
 
 
 ### [Abstract](#table-of-contents)
+This report presents the interventions needed at individual/community level for the betterment of life in rural india.Various solutions have been presented keeping in mind the key stakeholders and their needs. These are tageted at five major domains namely unemployment, education, profession based problems, healthcare, and issues particular to women. The following mindmap summarizes it.
 
 
 
@@ -67,17 +68,17 @@ following solutions.
 
 -   **Providing free Internet connection with smartphones:**
 
-    Since there is a lack of high-quality education in villages. So we
-    can provide free internet connection under some government scheme.
-    Using smartphones they can learn from the national level teachers.
+    Since there is a lack of high-quality education in villages
+    free internet connection can be provided under a scheme funded by the government or a benefactor.
+    Using smartphones students can learn from teachers across the whole nation remotely.
     There are many platforms like Udemy, Coursera and Youtube that
     provides education with good teachers across the world. As per a
     recent survey done by ASER, 26.1% of rural families don’t have
     access to smartphones at home.(“27.9% Rural Households Bought
     Smartphone for Kids’ Studies Amid Pandemic: Survey” 2021)
 
-    Smartphones should be configured in such a way that they can only be
-    for educational purposes this will prevent misuse of smartphones.
+    Smartphones should be configured in such a way that they can only be used
+    for educational purposes, this will prevent misuse of smartphones.
 
 -   **Providing access to paid courses on the internet:**
 
