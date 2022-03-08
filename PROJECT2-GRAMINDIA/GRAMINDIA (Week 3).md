@@ -509,4 +509,35 @@ The program revealed several benefits for women. The training and exposure visit
 
 ### [References](#table-of-contents)
     
+[1]“26% of schoolkids in English medium; nearly 60% in Delhi | India News - Times of India.” https://timesofindia.indiatimes.com/india/26-of-schoolkids-in-english-medium-nearly-60-in-delhi/articleshow/84082483.cms (accessed Mar. 07, 2022).
+
+[2]“27.9% rural households bought smartphone for kids’ studies amid pandemic: Survey,” Hindustan Times, Nov. 18, 2021. https://www.hindustantimes.com/india-news/279-rural-households-bought-at-least-one-smartphone-for-kids-studies-amid-pandemic-aser-survey-101637175238326.html (accessed Mar. 07, 2022).
+
+[3]“44% engineering students want to be taught in mother tongue, Tamil tops list: AICTE survey.” https://theprint.in/india/education/44-engineering-students-want-to-be-taught-in-mother-tongue-tamil-tops-list-aicte-survey/621098/ (accessed Mar. 07, 2022).
+
+
+[4]“Centre releases Rs 8,454 crore for health sector in 19 states,” The Economic Times, Nov. 13, 2021. Accessed: Mar. 07, 2022. [Online]. Available: https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/centre-releases-rs-8454-crore-for-health-sector-in-19-states/articleshow/87689252.cms?from=mdr
+
+[5]“Health devices - Sphygmomanometer Manufacturer from Delhi,” IndiaMART.com. https://www.indiamart.com/manu-shree-surgical-udyog/health-devices.html (accessed Mar. 07, 2022).
+
+[6]“Kalahandi women develop IoT devices to help fish farmers,” The New Indian Express. https://www.newindianexpress.com/states/odisha/2021/dec/26/kalahandi-women-develop-iot-devices-to-help-fish-farmers-2399869.html (accessed Mar. 07, 2022).
+
+[7]“National Fisheries Development Board.” https://nfdb.gov.in/ (accessed Mar. 07, 2022).
+
+[8]A. D. Bank, Promoting Logistics Development in Rural Areas. Asian Development Bank, 2017. Accessed: Mar. 07, 2022. [Online]. Available: https://www.adb.org/publications/promoting-logistics-development-rural-areas
+
+[9]“Rural to Urban Logistics: The Key to Connectivity,” H&S SUPPLY CHAIN SERVICES PVT LTD. https://www.hssupplychain.com/blog/2021/4/rural-to-urban-logistics-the-key-to-connectivity/22-4-2021 (accessed Mar. 07, 2022).
+
+[10]“Small scale aquaculture - Boosting rural livelihoods,” LEISA INDIA, Mar. 28, 2019. https://leisaindia.org/small-scale-aquaculture-boosting-rural-livelihoods/ (accessed Mar. 07, 2022).
+
+[11]A. R. Manoj, “Using Biofloc Tech for Fish Farming, Couple Earns Rs 1 Lakh From Single Harvest,” The Better India, Feb. 16, 2022. https://www.thebetterindia.com/276181/biofloc-technology-fish-farming-kerala-couple-harvest-tilapia/ (accessed Mar. 07, 2022).
+
+[12]“vikaspedia Domains.” https://vikaspedia.in/agriculture/fisheries/fish-production/culture-fisheries/types-of-aquaculture/biofloc (accessed Mar. 07, 2022).
+
+[13]C. Mitra, “MGNREGA benefitted 5 crore households in past 4 months: Official data,” The Federal, Sep. 04, 2020. https://thefederal.com/news/mgnrega-benefitted-5-crore-households-in-past-4-months-official-data/ (accessed Mar. 07, 2022).
+
+[14]S. Mishra, “Role of Small Scale Industries in Rural India,” PSCNOTES.IN, Apr. 06, 2021. https://pscnotes.in/role-of-small-scale-industries-in-rural-india/ (accessed Mar. 07, 2022).
+
+[15]“Swachh Bharat Mission: Is it a Success or a Failure?,” IAS EXPRESS, Dec. 26, 2019. https://www.iasexpress.net/swachh-bharat-mission-success-or-failure-upsc/ (accessed Mar. 07, 2022).
+
   
