@@ -21,7 +21,7 @@ geometry : margin = 2cm
 > 
 > [5. Cleanliness](#5-cleanliness)
 >
-> [6. Awarenesss Campaigns](#6-awarenesss-campaigns)
+> [6. Awareness Campaigns](#6-awareness-campaigns)
 >
 > [References](#references)
 >
