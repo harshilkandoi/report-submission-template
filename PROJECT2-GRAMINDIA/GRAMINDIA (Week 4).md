@@ -86,9 +86,70 @@ geometry : margin = 2cm
 
 
 ### [4. Food Security](#table-of-contents)
+
+![](https://lh4.googleusercontent.com/z2CBNYgv8XF7WHiBXvJyavVmu_ga_S6icOwwLoD7XzlNxFCuPvM_-MQMAaH4YmkJ9QKX58PL-JixwoBt3R7UFYNUBBSPx7grxK9UUnv3OSLe69VZCxGguyDLb8N4XaCen5OMMnnL)
+
+-  Food availability:   Food availability means that people must have access to sufficient quantities of healthy and good-quality food. This can be done by improving crop productivity by using cross-breed crops, better irrigation facilities, soil monitoring and shifting to modern agricultural practices. We have looked over this category and some ways to improve it using various technological innovations in previous reports.
+    
+-   Food access: Includes reducing post-harvest loss by improving storage, refrigeration, transport, etc. and building a better distribution system to ensure that each individual have access to a sufficient healthy and nutritious diet.
+    
+-   Food use and utilization: Food utilization ensures that other than having access to good quality food, people eat a diversity of foods to meet their nutritional needs by eating a balanced diet rich in every essential nutrients.
     
 
+  
 
+#### Food access:
+
+Since crops grow seasonally, food storage solutions are required to maintain regular and sustainable supply of food throughout the year. Some potential solutions for food access issues can be:
+
+-   Due to high upfront cost, setting of silos or warehouses is difficult for small farmers therefore affordable off grid solar powered hermetic storage solutions or affordable configurable aeration mechanisms can help farmers for better storage.
+    
+-   Using advanced techniques like electro thermal treatment, ultrasound or dehydration freezing, ozone treatment and nano technology for better yield and shelf life.
+    
+-   ML-based aeration mechanism that can be attached to any food truck for food storage to control temperature, humidity and ethylene levels can help in making a robust cold chain for food transportation.
+    
+-   Software based community service to connect people in rural areas connecting service providers and people needing service leading to an efficient supply chain.
+    
+-   The use of Information and Communication Technology (ICT) can tackle the problems of the current food supply chain like food wastage, bulk production, food preservation, food adulteration, supply-demand matching, fraud prevention and counterfeiting. The use of data-driven collaborative forecasting of demand can help in effective supply-demand matching. Effective product tracking and tracing, and synchronization of freight transport through better transport scheduling can compress the time along the supply chain. Improving logistics, loading and unloading facilities, connecting logistic companies with producers for better transportation of food.
+    
+
+  
+  
+
+#### Food use and utilization:
+
+According to a paper published in journal food policy based on 2011 census data, 3 out of 4 people living in rural India cannot afford a nutritious diet. Even if they spent their entire income on food, almost 2 out of 3 would not be able to afford the cheapest possible diet fulfilling necessary requirements. 330 gm of cereals, 75 gm of pulses a day, 300 gm of dairy, 100 gm of fruit, and 300 gm of vegetables which should include at least 100 gm of dark green leafy vegetables, are required for nutritionally adequate diet for adult women as as per the guidelines by the National Institute for Nutritions.
+
+We know that a main factor in deciding how much a person needs to eat is calorific value , but rarely is it seen from where those calorific values are we getting , below table shows how much calorific value a portion of nuts , fresh fruits and salads contain.
+
+![](https://lh5.googleusercontent.com/dQ500v6cjSSti-V4GZ_4QREVVWpehu89mxMRfNjFGjHgrB7gYJV1A3IYG5uwPwT5wMqAAE0jF4RBB8jRgIT3JuJPypShp3vYLAWNmWyQdrqLIsqVQeJyzkV1NkrjT47IqlacBNAo)
+
+  
+
+To ensure proper food utilization, people need a balanced diet. The below table shows what level of activity and based on your gender how much portions of cereals , pulses and other dietary items an individual has to eat.
+
+  
+![](https://lh5.googleusercontent.com/WQMP_1-7jpzhzyfIzr3T3EBbrw_uBWE7Lpjle8aszoawbG9CsZJ3gNDv2mypPqaGRL5ibiHJXTvgaOQglB5ZCgUFZDbGEvL1jY2nkVFfz7qc0wO8wRGK8E3Ow1eLwTSX03GjP4UE)  
+
+From these above shown national dietary guidelines for a healthy life, some steps we can take to ensure food utilization in rural areas are:
+
+-   An information programme should be started in rural India, educating them of how much minimum food of various types they need to maintain a healthy lifestyle.
+    
+-   A more village targeted logistics and planning system should be developed , so that each village can grow whatever farmers are comfortable with ( planning as such a group of villages fulfill all dietary needs locally ), so that cost can be brought down ( logistical and transport , whole village is in either support of one type of crop so supply chain cost can be brought down and increased specialization in that particular crop or fruit will increase productivity ).
+    
+-   A community kitchen can be established,where the village as a whole works as a single co-operative unit, and co-operative kitchen feeds the whole village, this will result in a more organized structure , thus it will be easy to maintain a nutrition profile.
+    
+-   Free or cheap ration provided by Public Distribution System should also monitor nutritional needs of a family through some portal or app which need to be updated by ration distributors in rural areas, and a predictive ML model should be implemented to predict the target of providing nutritious diet in each household eradicating the major problem of malnutrition.
+    
+-   Awareness programs need to be conducted and strict monitoring on nutritional level in maternal diet and diet of children in the age group of 1-5 need to be done. Involvement of women is more important because meals of family are looked after by mothers in rural India and women participation encourages other women of the village also.
+    
+-   Effective food utilization depends in large measure on knowledge within the household of food storage and processing techniques. This is because most people in rua areas have very little knowledge on how to store and refrigerate things. Therefore, proper awareness of refrigeration guidelines should be publicized using the packaging of packed food and using radio and tv commercials for no packaged food.
+    
+
+  
+![](https://lh6.googleusercontent.com/qYfY29TZZj8yjIDEDAwt0P_QF2KFDgSM04g_cidZTzJoXdOB6yu-YtzTo-Irp_yoeHVoXdqWUhfdGE2V8pCL2BFBABEmFmcnZflTsMhpsK3E-j46FTo8FXx2y5VWC5rbtl-_iqB8)  
+  
+  
 ### [5. Cleanliness](#table-of-contents)
 
 ## Problem
