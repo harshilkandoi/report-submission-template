@@ -35,6 +35,24 @@ geometry : margin = 2cm
 ### [1. Vocational Training](#table-of-contents)
 
 
+##### The different ways in which the villagers can be trained by the means of vocational training are:
+Vocational training can be defined as equipping the villagers with skills worth making a living.
+The government is also advised by independent bodies like the National Council of Vocational Training or NCVT for providing these training and apprenticeship programs. It manages training programs and looks into certification matters. 
+One such program is described below-
+-   **Television and Radio Repairing-** 
+The unemployed villagers can be vocationally trained for television and radio repairing by the means of ITI courses, Polytechnic, or the courses funded by the State Government. Monetary incentives can be provided to the villagers who opt for these courses, which they can repay once they start earning after the completion of the course. Not only this, the ITI and Polytechnic courses will also open new fields of opportunities for the villagers. They can work in any small-scale industries of their respective fields. The villagers who do any type of work-related to electronics can also take part in this vocational training since this would enhance their skills.
+-   **Car Mechanic-**
+Similar to the courses of television and radio repairing mentioned, ITI courses and Polytechnic courses can also introduce courses in car mechanic training. Even, the courses could also be done in a hybrid way where villagers could be taught skills at certain garages present in the respective region. This will also fulfill the demand and supply of the workforce needed at a garage.
+- **Tour Guidance at tourist places:** 
+Unemployed youths of 18-28 age are the target group. They need to be taught common languages like English, Regional languages, and some specific languages whose tourists visit the most. They need to know the history of related places and information regarding transportation, stay at hotels, etc.
+- **Pottery and clay classes:**
+Upskilling the traditional pottery prevailing in rural areas with modern modifications by providing them tools, techniques, and markets and providing information regarding these. Establishing a design and innovations system with the help of these tools and techniques that will take care of designing suitable products as per demand.
+- **Lab-technician courses:** 
+It is a fourth-degree secondary education specialized course.  It can be available in the form of part-time secondary education or additional training.
+This profession requires knowledge and expertise of Chemistry mainly, analytical thinking skills, knowledge of English, etc. So, the right set of people to choose for its vocational training are people that fall in the category of 'educated unemployed. The government can implement some schemes to train these people to instill some expertise in them and make them perfect for this job.
+- **Sericulture:**
+ Sericulture is mainly done on the leaves of Mulberry, Eri, and Muga seeds. It can be modernized by methods such as modernization of seed preparation, plowing, weeding, terrace making's disinfection, replacing weeding and old plants by high yielding variety plants. We can also improve this by using high-tech machines like deflossing machines, for cocoons for seed preparation. So, the government should implement some schemes to help rural people to how to use these machines and technologies. It will also give people employment and help the production of silk.
+ 
 
 
 ### [2. Education](#table-of-contents)
