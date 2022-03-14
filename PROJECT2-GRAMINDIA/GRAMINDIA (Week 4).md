@@ -39,6 +39,46 @@ geometry : margin = 2cm
 
 ### [2. Education](#table-of-contents)
 
+- What are the specifications for technology interventions at the inter-community level?
+
+1. We can teach them basic communication skills in english or local language through which we can place them in customer FAQ section in companies. If they know their local language, then just a bit of training is required to make them communicate in a sophisticated manner and an effort to link them to such companies . This job can be done from anywhere like at your own place too. So this can be a solution.
+
+    Cost- around 1500-2000 rs. Hence, it is a cost efficient solution.
+                                                                                                            
+    
+
+  
+  
+
+2. We can give stipends to students in schools. The reason that a large portion of rural kids don’t go to school is because they can contribute more (financially ) by working in a farm or helping in the household chores. Giving stipends to students (or their parents) solves this problem. This is similar to how we pay PhD students and research scholars at colleges. We can also make this stipend performance based (based on grades) or effort based (based on the work done or time spent) to ensure that children have an incentive to work hard. This solution will alleviate poverty and promote education.
+
+    The cost can be around Rs 5,000 -10,000 per student per month. This may seem expensive but a more educated workforce will essentially pay for itself in the long run (by taxes and other contributions to the country’s growth). 
+	                                                                                                                                
+
+  
+  
+  
+
+3. Different coaching centres can be establised for students to learn real-world skills which are relevant for jobs such as Excel, AutoCAD etc. The government can subsidise the fees of coaching and can also establish government-run coaching centres similar to government schools. A good initiative for attracting more students in these institutions can be appointing teachers as someone from the same village who is eligible and have the required knowledge.
+
+    The cost for establishment of such centres may cost around 1,00,000. But it can recovered and cost of the teachers and employees can be paid by the student fees. Students getting subsidy will cost the government Rs 5,000 -10,000 per student per month.
+                                                                                                                            
+
+  
+
+4. Machine translation models using Artificial Intelligence and Natural Language Processing can be developed. Recent state-of-the-art models like GPT-2 and GPT-3 (developed by OpenAI) match human language skills competency on a multitude of tasks. 
+    Developing such a tool would greatly help rural kids access a wide range of knowledge (books, papers, articles) which are currently inaccessible since the majority of them are only in English and not in regional languages.
+
+  
+
+    Estimated Cost:  
+	Time: 1 year  
+	20 developers at 30 LPA = 6Cr  
+	Operational cost = 2Cr  
+	Computational cost = 2Cr  
+	Total: 10Cr
+                                                                                                                        
+
 
 ### [3. Infrastructure](#table-of-contents)
 
