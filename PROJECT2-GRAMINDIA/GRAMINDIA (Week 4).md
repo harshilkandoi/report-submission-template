@@ -101,6 +101,101 @@ This profession requires knowledge and expertise of Chemistry mainly, analytical
 ### [3. Infrastructure](#table-of-contents)
 
 
+#### Transport
+
+It's no secret that transportation continues to be a challenge for rural communities. With shortage of funds, difficulties in service frequency, wider travel zones, and a lack of basic services when compared to urban public transportation, there is an urgent need to develop rural transport. With the emergence of taxi services such as Uber, Ola, passengers now have a higher level of expectation when it comes to selecting a mode of transportation that is convenient for them. Rural communities, on the other hand, face a different set of challenges.
+
+The first and foremost step is to develop proper roadways and connectivity across rural and urban areas. Need for government tie-ups and schemes is higher than ever. New projects and processes that will ensure the sustainability of roads investments need to be undertaken. Involving the rural community itself in the planning and monitoring processes will enhance group ownership. Community based organizations can be trained to monitor the quality of roads being built and identify issues at various stages of construction and maintenance.  
+
+The next step is to make it simple and efficient for more people to use public transportation. On-Demand Public transportation/ Demand-Responsive Transportation (DRT), is a method of expanding the reach of a traditional public transportation service. This means that vehicles can serve a larger area and reach more passengers. DRT technology is a great way to improve fleet efficiency and provide a way for people to book public transportation.
+
+Use of a data-driven method to optimise the system is great a way to improve the following: 
+
+1. Increase coverage and give passengers more options
+2. Increase your customer base
+3. Provide a sustainable mode of transportation 
+4. Make changes to inefficient fixed-route transit services
+5. Improve passenger capture and integration with the larger transportation network 
+6. Reduce reliance on single occupancy vehicle use 
+7. Extend service hours and connect more passengers to amenities like medical appointments, retail stores, and job opportunities.
+
+
+#### Electricity
+
+Rural electricity has five major aspects: 
+
+* Establishment of rural electricity infrastructure and providing connectivity to households     
+* A sufficient supply of power of the desired quality  
+* Affordably priced electricity supply 
+* Providing clean, environmentally friendly, and long-term power in an efficient manner
+    
+A unified model for implementation is required for faster, more reliable, and effective rural electrification. In this regard, an integrated policy framework would be beneficial.
+
+Some of the solutions can be:
+1.  Solar streetlights/community lighting for village electrification and lighting in public places.
+2.  Solar/Lantern charging stations that are managed by a local entrepreneur
+3.  Mini grids of various sizes that are powered by solar, wind, small hydro, or biomass. These are viable candidates for a long-term business model for rural electrification.
+4.  Grid powered by renewable energy at the MW level, with smart controllers and appropriate energy storage technologies. These grids can meet the need for dependable 24 hour power in rural areas.
+5.  It is critical to advance technology in hybrid systems for mini grids and energy storage systems for balancing supply and demand in mini grids or distributed generation in rural areas.
+    
+#### Water
+
+There are still some villages that lack proper water facilities, and a continuous supply of water will have a great effect on Health and Farming . Moreover, the women travelled to far places to fetch drinking water. There was no provision to access clean water and remove pollutants .
+
+Understanding the depth of the issue , An NGO named AROEHAN procured solar-powered water pumps to lift water from streams and other sources. The water was lifted and transferred to a tank placed at a common public space in the village. The water from the tank falls with gravity and passes through a filter that purifies water, which was accessed through a tap.
+
+##### Possible Solution :
+
+A village as a community can implement the same by funding it themselves, a smaller village requires a smaller system thus not costing way too much, they can communicate the same with the governing body so that a budget is allocated for that, Since its Solar powered its will be a one time investment with little maintainace required over the years.
+
+#### Houses, living area
+
+Rural India is home to nearly three-fourths of the population. People in these areas have largely unmet housing needs. 
+
+The major housing issues are related to the following: 
+
+1. Houses in rural areas do not provide adequate protection against wind, rain, and cold. 
+2. They do not have adequate lighting and ventilation. 
+3. There is no separate arrangement for keeping animals in rural houses. 
+4. There is no adequate provision for basic sanitation and drinking water. 
+5. The surroundings of rural houses do not meet hygiene standards. 
+6. Insects, rodents, and other pests infest rural homes, causing health problems. 
+7. Rural homes have high maintenance costs that the poor cannot afford. 
+8. Rural houses are incapable of providing protection against natural disasters such as floods.
+
+Some possible solutions are:
+
+1.  Mobile homes - great for rural communities who often need to commute or changes places like in rajasthan. 
+2.  Renovation of old houses and more use of local sustainable materials
+3.  Energy efficient homes using renewable energy which will also make it cost efficient
+4.  Increase affordability with sustainability- Think local and simple. Imitating the urban planning and infrastructure won't solve the problem.
+5.  Rural areas provide numerous opportunities for energy and water conservation, as well as local food production. 
+    
+Windmills, rain wells, gardens, and farms for food are all ideal in rural areas. Furthermore, promoters of rural housing may discover locally abundant odd materials that could be used as insulation.
+
+#### Mobile towers
+
+One of the major problems faced by rural people is bad cell phone reception. Several things can cause bad cell phone reception. A common issue is a distance from the nearest tower. Like any other type of frequency wave, cell waves degrade over a distance which means the further from the tower, the weaker they are.
+
+However, we can’t get cell service anywhere. If there’s no tower signal at all near a location, we will not be able to get cell service. But many locations that seem to not have cell service are reached by a weak tower signal that doesn’t do much on its own. In those locations, we can get cell service with the help of a cell signal booster.
+
+A cell phone signal booster takes any amount of signal from a cell tower, no matter how weak, and boosts it. This helps you get better data and call connections in remote areas as long as there is any tower signal at all.   Signal boosters draw in weak signals and amplify them up to 32 times, creating robust, reliable coverage for your mobile devices.
+
+#### Communication systems: 
+
+India’s rural areas are sparsely covered by telecom services, in part due to not being considered a feasible business by most telecom companies. As the growth of urban areas continues, the gap between rural and urban areas keeps on increasing, due to differences in mobile connectivity.
+
+Providing rural populations with wireless broadband and mobile connectivity is the need of the hour. Giving them access to cost efficient and fast-deployment technologies to improve the connection to the outside world is required. Taking both technological and economic considerations into account, some possible solutions can be: 
+
+1. The International Telecommunication Union, the Universal Postal Union (UPU), the Government of Bhutan, and the Government of India have teamed up to use post offices to deliver digital access to rural areas. This scheme could be implemented across India, providing connectivity to rural areas. Because post offices are already in place, using them as a launch pad saves money.
+      A VSAT system with technology was used to provide telecom connectivity to the post offices. Launching e-post services, in addition to computerization of post offices and internet access, could be a component of the plan. It entails printing emails and mailing them to the intended recipient, thus shortening mail delivery time.
+      Post offices all over the nation can be used as connectivity hubs.
+2. We can identify the need and the most cost-efficient solutions by analysis of the population clusters in the rural villages. 
+      For Dense Rural Areas, where there are over 200,000 people in an Access Area, and the need increases with time, an optical fibre network is the most suitable, with a Wireless Access Network connecting each population cluster.
+      For Sparse Areas, the choice is dependent on the number of population clusters and the amount of bandwidth needed. A satellite is appropriate for around 20 clusters and less than 2 Mbps, while an optical fibre is suitable for more that 20 clusters with a bandwidth of over 2 Mbps.
+      In Extremely Sparse Areas, each population cluster must be served by a satellite link. 
+3. The Alliance for Affordable Internet (A4AI) suggests a structure that improves digital and financial literacy, generates material in regional and local languages, and includes stakeholders in the process.
+
 
 
 ### [4. Food Security](#table-of-contents)
