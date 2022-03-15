@@ -28,7 +28,9 @@ geometry : margin = 2cm
 
 
 ### [Abstract](#table-of-contents)
+This report contains the various technological interventions at the inter-community level. We looked at five major domains namely unemployment, education, Infrastructure, Food Security and Cleanliness for improvement. Unemployment aspect was dealt with in the previous report on an individual level so this time we propose vocational training for various stakeholders of the community. Also no effort is worthwhile unless information regarding it can be spread on mass level. Therefore, we feel that it is our utmost priority to create awareness among the people through Awareness Campaigns. The following mindmap summarises the abstract of the report:-
 
+<a href="https://ibb.co/Hrrk3D4"><img src="https://i.ibb.co/7GG6LJC/Screenshot-224.png" alt="Screenshot-224" border="0"></a>
 
 
 
