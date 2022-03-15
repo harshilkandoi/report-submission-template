@@ -36,9 +36,11 @@ geometry : margin = 2cm
 
 
 ##### The different ways in which the villagers can be trained by the means of vocational training are:
-Vocational training can be defined as equipping the villagers with skills worth making a living.
-The government is also advised by independent bodies like the National Council of Vocational Training or NCVT for providing these training and apprenticeship programs. It manages training programs and looks into certification matters. 
-One such program is described below-
+
+Vocational training can be defined as equipping the villagers with skills worth making a living. The government is also advised by independent bodies like the National Council of Vocational Training or NCVT for providing these training and apprenticeship programs. It manages training programs and looks into certification matters. 
+
+One such program is described below:
+
 -   **Television and Radio Repairing-** 
 The unemployed villagers can be vocationally trained for television and radio repairing by the means of ITI courses, Polytechnic, or the courses funded by the State Government. Monetary incentives can be provided to the villagers who opt for these courses, which they can repay once they start earning after the completion of the course. Not only this, the ITI and Polytechnic courses will also open new fields of opportunities for the villagers. They can work in any small-scale industries of their respective fields. The villagers who do any type of work-related to electronics can also take part in this vocational training since this would enhance their skills.
 -   **Car Mechanic-**
@@ -59,44 +61,14 @@ This profession requires knowledge and expertise of Chemistry mainly, analytical
 
 - What are the specifications for technology interventions at the inter-community level?
 
-1. We can teach them basic communication skills in english or local language through which we can place them in customer FAQ section in companies. If they know their local language, then just a bit of training is required to make them communicate in a sophisticated manner and an effort to link them to such companies . This job can be done from anywhere like at your own place too. So this can be a solution.
-
-    Cost- around 1500-2000 rs. Hence, it is a cost efficient solution.
+1. We can teach them basic communication skills in english or local language through which we can place them in customer FAQ section in companies. If they know their local language, then just a bit of training is required to make them communicate in a sophisticated manner and an effort to link them to such companies . This job can be done from anywhere like at your own place too. So this can be a solution. Cost- around 1500-2000 rs. Hence, it is a cost efficient solution.
                                                                                                             
-    
-
-  
-  
-
-2. We can give stipends to students in schools. The reason that a large portion of rural kids don’t go to school is because they can contribute more (financially ) by working in a farm or helping in the household chores. Giving stipends to students (or their parents) solves this problem. This is similar to how we pay PhD students and research scholars at colleges. We can also make this stipend performance based (based on grades) or effort based (based on the work done or time spent) to ensure that children have an incentive to work hard. This solution will alleviate poverty and promote education.
-
-    The cost can be around Rs 5,000 -10,000 per student per month. This may seem expensive but a more educated workforce will essentially pay for itself in the long run (by taxes and other contributions to the country’s growth). 
+2. We can give stipends to students in schools. The reason that a large portion of rural kids don’t go to school is because they can contribute more (financially ) by working in a farm or helping in the household chores. Giving stipends to students (or their parents) solves this problem. This is similar to how we pay PhD students and research scholars at colleges. We can also make this stipend performance based (based on grades) or effort based (based on the work done or time spent) to ensure that children have an incentive to work hard. This solution will alleviate poverty and promote education. The cost can be around Rs 5,000 -10,000 per student per month. This may seem expensive but a more educated workforce will essentially pay for itself in the long run (by taxes and other contributions to the country’s growth). 
 	                                                                                                                                
-
-  
-  
-  
-
-3. Different coaching centres can be establised for students to learn real-world skills which are relevant for jobs such as Excel, AutoCAD etc. The government can subsidise the fees of coaching and can also establish government-run coaching centres similar to government schools. A good initiative for attracting more students in these institutions can be appointing teachers as someone from the same village who is eligible and have the required knowledge.
-
-    The cost for establishment of such centres may cost around 1,00,000. But it can recovered and cost of the teachers and employees can be paid by the student fees. Students getting subsidy will cost the government Rs 5,000 -10,000 per student per month.
+3. Different coaching centres can be establised for students to learn real-world skills which are relevant for jobs such as Excel, AutoCAD etc. The government can subsidise the fees of coaching and can also establish government-run coaching centres similar to government schools. A good initiative for attracting more students in these institutions can be appointing teachers as someone from the same village who is eligible and have the required knowledge. The cost for establishment of such centres may cost around 1,00,000. But it can recovered and cost of the teachers and employees can be paid by the student fees. Students getting subsidy will cost the government Rs 5,000 -10,000 per student per month.
                                                                                                                             
-
-  
-
-4. Machine translation models using Artificial Intelligence and Natural Language Processing can be developed. Recent state-of-the-art models like GPT-2 and GPT-3 (developed by OpenAI) match human language skills competency on a multitude of tasks. 
-    Developing such a tool would greatly help rural kids access a wide range of knowledge (books, papers, articles) which are currently inaccessible since the majority of them are only in English and not in regional languages.
-
-  
-
-    Estimated Cost:  
-	Time: 1 year  
-	20 developers at 30 LPA = 6Cr  
-	Operational cost = 2Cr  
-	Computational cost = 2Cr  
-	Total: 10Cr
+4. Machine translation models using Artificial Intelligence and Natural Language Processing can be developed. Recent state-of-the-art models like GPT-2 and GPT-3 (developed by OpenAI) match human language skills competency on a multitude of tasks. Developing such a tool would greatly help rural kids access a wide range of knowledge (books, papers, articles) which are currently inaccessible since the majority of them are only in English and not in regional languages.
                                                                                                                         
-
 
 ### [3. Infrastructure](#table-of-contents)
 
@@ -209,8 +181,6 @@ Providing rural populations with wireless broadband and mobile connectivity is t
 -   Food use and utilization: Food utilization ensures that other than having access to good quality food, people eat a diversity of foods to meet their nutritional needs by eating a balanced diet rich in every essential nutrients.
     
 
-  
-
 #### Food access:
 
 Since crops grow seasonally, food storage solutions are required to maintain regular and sustainable supply of food throughout the year. Some potential solutions for food access issues can be:
@@ -224,9 +194,6 @@ Since crops grow seasonally, food storage solutions are required to maintain reg
 -   Software based community service to connect people in rural areas connecting service providers and people needing service leading to an efficient supply chain.
     
 -   The use of Information and Communication Technology (ICT) can tackle the problems of the current food supply chain like food wastage, bulk production, food preservation, food adulteration, supply-demand matching, fraud prevention and counterfeiting. The use of data-driven collaborative forecasting of demand can help in effective supply-demand matching. Effective product tracking and tracing, and synchronization of freight transport through better transport scheduling can compress the time along the supply chain. Improving logistics, loading and unloading facilities, connecting logistic companies with producers for better transportation of food.
-    
-
-  
   
 
 #### Food use and utilization:
@@ -237,10 +204,7 @@ We know that a main factor in deciding how much a person needs to eat is calorif
 
 ![](https://lh5.googleusercontent.com/dQ500v6cjSSti-V4GZ_4QREVVWpehu89mxMRfNjFGjHgrB7gYJV1A3IYG5uwPwT5wMqAAE0jF4RBB8jRgIT3JuJPypShp3vYLAWNmWyQdrqLIsqVQeJyzkV1NkrjT47IqlacBNAo)
 
-  
-
 To ensure proper food utilization, people need a balanced diet. The below table shows what level of activity and based on your gender how much portions of cereals , pulses and other dietary items an individual has to eat.
-
   
 ![](https://lh5.googleusercontent.com/WQMP_1-7jpzhzyfIzr3T3EBbrw_uBWE7Lpjle8aszoawbG9CsZJ3gNDv2mypPqaGRL5ibiHJXTvgaOQglB5ZCgUFZDbGEvL1jY2nkVFfz7qc0wO8wRGK8E3Ow1eLwTSX03GjP4UE)  
 
@@ -257,8 +221,6 @@ From these above shown national dietary guidelines for a healthy life, some step
 -   Awareness programs need to be conducted and strict monitoring on nutritional level in maternal diet and diet of children in the age group of 1-5 need to be done. Involvement of women is more important because meals of family are looked after by mothers in rural India and women participation encourages other women of the village also.
     
 -   Effective food utilization depends in large measure on knowledge within the household of food storage and processing techniques. This is because most people in rua areas have very little knowledge on how to store and refrigerate things. Therefore, proper awareness of refrigeration guidelines should be publicized using the packaging of packed food and using radio and tv commercials for no packaged food.
-    
-
   
 ![](https://lh6.googleusercontent.com/qYfY29TZZj8yjIDEDAwt0P_QF2KFDgSM04g_cidZTzJoXdOB6yu-YtzTo-Irp_yoeHVoXdqWUhfdGE2V8pCL2BFBABEmFmcnZflTsMhpsK3E-j46FTo8FXx2y5VWC5rbtl-_iqB8)  
   
@@ -275,42 +237,25 @@ From these above shown national dietary guidelines for a healthy life, some step
 
 -   Composting
 
-Composting can be done with any organic waste, such as vegetable waste,
-garden trash, agricultural waste, cow manure, and so on. Meat scraps and
-bones, as well as very greasy waste, should be avoided because they
-attract rodents and insects and cause odors. Composting can be done
-successfully in any corner of a house yard or field without the need for
-a structure. A compost pit, on the other hand, may retain heat, which
-helps to speed up the composting process while also improving
-aesthetics.
+Composting can be done with any organic waste, such as vegetable waste, garden trash, agricultural waste, cow manure, and so on. Meat scraps and bones, as well as very greasy waste, should be avoided because they attract rodents and insects and cause odors. Composting can be done successfully in any corner of a house yard or field without the need for a structure. A compost pit, on the other hand, may retain heat, which helps to speed up the composting process while also improving aesthetics.
 
 -   Vermicomposting
 
-Unlike traditional composting, which relies on natural processes to
-break down organic matter, vermicomposting employs a variety of worm
-species to break down organic matter and produce nutrient-rich compost.
-A vermi-tank or a vermi-bed can be used for vermicomposting.
+Unlike traditional composting, which relies on natural processes to break down organic matter, vermicomposting employs a variety of worm species to break down organic matter and produce nutrient-rich compost. A vermi-tank or a vermi-bed can be used for vermicomposting.
 
 **Non-biodegradable**
 
 -   Recycling
-
-Waste such as plastic, glass, metal, and so on can be sold to a
-kabadiwala.
+-   
+Waste such as plastic, glass, metal, and so on can be sold to a kabadiwala.
 
 ## Problem
 
-**Open defecation and improper waste management is still prominent in
-many villages which contaminates surroundings and contributes to the
-spread of many infectious diseases.**
+**Open defecation and improper waste management is still prominent inmany villages which contaminates surroundings and contributes to the spread of many infectious diseases.**
 
 ## Solution
 
-The government should provide gram panchayats and local municipalities
-with special grants for scientific waste management. Despiste of
-disposing the garbage in pits , it should be used as a source of energy.
-Municipalities should implement technology to convert garbage into
-manure and use it to generate fuel.
+The government should provide gram panchayats and local municipalitieswith special grants for scientific waste management. Despiste of disposing the garbage in pits , it should be used as a source of energy. Municipalities should implement technology to convert garbage into manure and use it to generate fuel.
 
 ## Problem
 
@@ -318,34 +263,17 @@ manure and use it to generate fuel.
 
 ## Solution
 
-The pit toilet and the flush toilet are the two most widely utilized
-sanitation systems today. Waterborne sewage has been shown to be
-ineffective in meeting sanitation needs in poor countries. Because the
-systems are too expensive to deliver to everyone, they are usually
-limited to the top and middle classes. Currently, almost 90% of sewage
-in developing-country cities is released untreated, damaging rivers,
-lakes, and coastal areas. Pit toilets have their own set of drawbacks,
-particularly in highly populated places, where they pose a serious risk
-of contaminating groundwater.
+The pit toilet and the flush toilet are the two most widely utilized sanitation systems today. Waterborne sewage has been shown to beineffective in meeting sanitation needs in poor countries. Because the systems are too expensive to deliver to everyone, they are usually limited to the top and middle classes. Currently, almost 90% of sewage
+in developing-country cities is released untreated, damaging rivers, lakes, and coastal areas. Pit toilets have their own set of drawbacks,
+particularly in highly populated places, where they pose a serious risk of contaminating groundwater.
 
 ## Problem
 
-**Residential burning of wood and other biomass used predominantly for
-cooking and heating causing pollution.**
+**Residential burning of wood and other biomass used predominantly for cooking and heating causing pollution.**
 
 ## Solution
 
-Ventilation plays an important part in reducing smoke and health risks,
-and the locals should be made aware of this. Subsidized better stoves
-can be offered to the rural people. The Integrated Rural Energy Planning
-Scheme can provide free upgraded stoves with chimneys (i.e. smoke-less
-earthen stoves) to the poorest segment of the tribal region in order to
-avoid the health risks associated with the consumption of fuel wood. The
-poor and middle-class should be discouraged from using clay pots and
-should be insisted on using aluminum kitchenware, pressure cookers, and
-energy-efficient stoves in order to minimize fuel wood usage and air
-pollution. The wealthier people in society can be insisted for shifting
-to biogas/gas stoves by offering them loans and subsidies.
+Ventilation plays an important part in reducing smoke and health risks, and the locals should be made aware of this. Subsidized better stoves can be offered to the rural people. The Integrated Rural Energy Planning Scheme can provide free upgraded stoves with chimneys (i.e. smoke-less earthen stoves) to the poorest segment of the tribal region in order to avoid the health risks associated with the consumption of fuel wood. The poor and middle-class should be discouraged from using clay pots and should be insisted on using aluminum kitchenware, pressure cookers, and energy-efficient stoves in order to minimize fuel wood usage and air pollution. The wealthier people in society can be insisted for shifting to biogas/gas stoves by offering them loans and subsidies.
 
 ## Problem
 
@@ -353,35 +281,21 @@ to biogas/gas stoves by offering them loans and subsidies.
 
 ## Solution 
 
-**Types of Liquid waste : waste water, fats, used oils, sludges or
-hazardous household liquids.** There are 6 commonly used processes for
-disposal of liquid waste. But incineration is the best method for
-disposal of hazardous liquid waste. The heat produced by a multiple
-hearth furnace will dispose of hazardous wastes like acids, scrap
-materials, slag, rock tailings, oils, and other chemicals. Any water
-left behind is clear and free of contaminants.
+**Types of Liquid waste : waste water, fats, used oils, sludges or hazardous household liquids.** There are 6 commonly used processes for disposal of liquid waste. But incineration is the best method for disposal of hazardous liquid waste. The heat produced by a multiple hearth furnace will dispose of hazardous wastes like acids, scrap
+materials, slag, rock tailings, oils, and other chemicals. Any water left behind is clear and free of contaminants.
 
 ## Problem
 
-**25% of rural India’s households don’t have access to sanitation and
-about 42.9% of the households in the rural areas used hand pump as the
+**25% of rural India’s households don’t have access to sanitation and about 42.9% of the households in the rural areas used hand pump as the
 principal source of drinking water**
 
 ## Solution
 
-Villagers don’t know about what are the harms of this poor sanitization
-and how it is affecting them so, they should be educated about this
-through various interactive online courses or videos about it in their
-own language so that they can understand the benefits. Government should
-also take help from these villagers to identify the villages with this
-problem. They can deploy an app in which villagers can put in the
-request for a proper toilet and drinking water source for their area and
-can also get rewards for this task. This way the Govt can identify and
-easily solve the problem.
+Villagers don’t know about what are the harms of this poor sanitization and how it is affecting them so, they should be educated about this through various interactive online courses or videos about it in their own language so that they can understand the benefits. Government should also take help from these villagers to identify the villages with this problem. They can deploy an app in which villagers can put in the request for a proper toilet and drinking water source for their area and can also get rewards for this task. This way the Govt can identify and easily solve the problem.
+
+
 
 ### [6. Awareness Campaigns](#table-of-contents)
-
-
 
 A public awareness campaign is a marketing effort to build public recognition of a problem through media, messaging, and an organized set of communication tactics. These campaigns target a large number of people over a specific period of time to try and generate specific outcomes or achieve pre-determined goals.
 
@@ -403,88 +317,43 @@ The basic objective of the farmer awareness programmes will be to give exposure 
 Capacity Building is a conceptual approach to development. It focuses on understanding the obstacles which inhibit people, governments, international organizations and non-governmental organizations from realizing their development goals while enhancing the abilities that will allow them to achieve measurable and sustainable results. Capacity Building comprises of activities which result in transfer of knowledge, skills and attitude from one person to another or from one group to another. We will do this programme in villages in the form of skill development campaign for the working class people who are unable to get employment or who are working as low-wage daily workers.
 
 
-## Citations
-
--   (Bryant n.d.)
--   (“Pit Latrine” 2021)
--   (“Flush Toilet” 2022)
--   (“Need to Focus on Sanitation and Cleanliness in Rural Areas
-    Highlighted - The Hindu” n.d.)
--   (“Vikaspedia Domains” n.d.)
--   (“25% of Rural India’s Households Don’t Have Access to Sanitation:
-    NSO Survey” n.d.)
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/FS8IAX6X"
-class="csl-entry">
-
-“25% of Rural India’s Households Don’t Have Access to Sanitation: NSO
-Survey.” n.d. Accessed March 13, 2022.
-<https://www.livemint.com/news/india/25-of-rural-india-s-households-don-t-have-access-to-sanitation-nso-survey/amp-11574690136848.html>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/B8G94L9G"
-class="csl-entry">
-
-Bryant, Ken. n.d. “6 Commonly Used Methods for Disposing Liquid Waste –
-Ken’s Commentary.” Accessed March 13, 2022.
-<https://www.kenscommentary.org/6-commonly-used-methods-for-disposing-liquid-waste/>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/5GTTKREI"
-class="csl-entry">
-
-“Flush Toilet.” 2022. In *Wikipedia*.
-<https://en.wikipedia.org/w/index.php?title=Flush_toilet&oldid=1075074046>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/RDVUSBJJ"
-class="csl-entry">
-
-“Need to Focus on Sanitation and Cleanliness in Rural Areas
-Highlighted - The Hindu.” n.d. Accessed March 13, 2022.
-<https://www.thehindu.com/news/national/karnataka/need-to-focus-on-sanitation-and-cleanliness-in-rural-areas-highlighted/article6950454.ece>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/264Q4JY9"
-class="csl-entry">
-
-“Pit Latrine.” 2021. In *Wikipedia*.
-<https://en.wikipedia.org/w/index.php?title=Pit_latrine&oldid=1060037771>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/4KQ5XCPB"
-class="csl-entry">
-
-“Vikaspedia Domains.” n.d. Accessed March 13, 2022.
-<https://vikaspedia.in/energy/environment/waste-management/solid-and-liquid-waste-management-in-rural-areas>.
-
-</div>
-
-</div>
-
-
-
-
-
 ### [References](#table-of-contents)
-- http://www.sikkimexpress.com/news-details/village-youths-launch-campaign-to-spread-menstrual-hygiene-awareness
 
-- https://communicationtoday.net/2015/06/29/village-sanitation-campaign-a-case-study-of-mangoli/
+[1]“75 Nutrition smart villages will strengthen India’s campaign against malnutrition.” https://pib.gov.in/pib.gov.in/Pressreleaseshare.aspx?PRID=1770657 (accessed Mar. 15, 2022).
 
-- https://ccsniam.gov.in/2-uncategorised/52-farmer-awareness-programmes
+[2]“Farmer Awareness Programmes.” https://ccsniam.gov.in/2-uncategorised/52-farmer-awareness-programmes (accessed Mar. 15, 2022).
 
-- https://www.smsfoundation.org/voter-awareness-campaign-in-panchayat-elections-2016/
+[3]COMMUNICATIONTODAY11, “Village Sanitation Campaign : A Case Study of Mangoli,” Communication Today, Jun. 29, 2015. https://communicationtoday.net/2015/06/29/village-sanitation-campaign-a-case-study-of-mangoli/ (accessed Mar. 15, 2022).
 
-- https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1770657
- 
-    
+[4]“Village youths launch campaign to spread menstrual hygiene awareness,” Sikkimexpress. http://www.sikkimexpress.com/village-youths-launch-campaign-to-spread-menstrual-hygiene-awareness (accessed Mar. 15, 2022).
 
+[5]“Voter awareness campaign- an essential to village development,” SM Sehgal Foundation, Aug. 29, 2016. https://www.smsfoundation.org/voter-awareness-campaign-in-panchayat-elections-2016/ (accessed Mar. 15, 2022).
 
-  
+[6]K. Bryant, “6 Commonly Used Methods for Disposing Liquid Waste – Ken’s Commentary.” https://www.kenscommentary.org/6-commonly-used-methods-for-disposing-liquid-waste/ (accessed Mar. 15, 2022).
+
+[7]N. C. Sharma, “25% of rural India’s households don’t have access to sanitation: NSO survey,” https://www.livemint.com, Nov. 25, 2019.
+https://www.livemint.com/news/india/25-of-rural-india-s-households-don-t-have-access-to-sanitation-nso-survey-11574690136848.html (accessed Mar. 15, 2022).
+
+[8]“Flush toilet,” Wikipedia. Mar. 03, 2022. Accessed: Mar. 15, 2022. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Flush_toilet&oldid=1075074046
+
+[9]V. P.m, “Need to focus on sanitation and cleanliness in rural areas highlighted,” The Hindu, Shivamogga:, Mar. 02, 2015. Accessed: Mar. 15, 2022. [Online]. Available: https://www.thehindu.com/news/national/karnataka/need-to-focus-on-sanitation-and-cleanliness-in-rural-areas-highlighted/article6950454.ece
+
+[10]“Pit latrine,” Wikipedia. Dec. 13, 2021. Accessed: Mar. 15, 2022. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Pit_latrine&oldid=1060037771
+
+[11]“vikaspedia Domains.” https://vikaspedia.in/energy/environment/waste-management/solid-and-liquid-waste-management-in-rural-areas (accessed Mar. 15, 2022).
+
+[12]“10 measures to ensure national food security - Rural Marketing.” https://ruralmarketing.in/stories/10-measures-to-ensure-national-food-security/ (accessed Mar. 15, 2022).
+
+[13]Affordability of Nutritious Diets in Rural India. 2020. Accessed: Mar. 15, 2022. [Online]. Available: https://ruralindiaonline.org/en/library/resource/affordability-of-nutritious-diets-in-rural-india/
+
+[14]“ICMR-National Institute of Nutrition, India.” https://www.nin.res.in/ (accessed Mar. 15, 2022).
+
+[16]“The Role of Refrigeration in Worldwide nutrition - Cool Coalition.” https://coolcoalition.org/the-role-of-refrigeration-in-worldwide-nutrition/ (accessed Mar. 15, 2022).
+
+[17]“What is food security? | TABLE Debates.” https://tabledebates.org/building-blocks/what-food-security (accessed Mar. 15, 2022).
+
+[18]“E-Services through Post Offices in Bhutan,” ITU. https://www.itu.int:443/en/publications/ITU-D/Pages/publications.aspx (accessed Mar. 15, 2022).
+
+[19]“How One Man Provided 14,000 Farmers With Clean Water & Doubled Their Income,” The Better India, Sep. 13, 2021. http://www.thebetterindia.com/262119/solar-powered-water-pumps-increase-farm-income-maharashtra/ (accessed Mar. 15, 2022).
+
+[20]“Rural Communications,” ITU. https://www.itu.int:443/en/ITU-D/Technology/Pages/RuralCommunications.aspx (accessed Mar. 15, 2022).
