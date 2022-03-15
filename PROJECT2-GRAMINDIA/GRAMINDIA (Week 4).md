@@ -348,12 +348,12 @@ https://www.livemint.com/news/india/25-of-rural-india-s-households-don-t-have-ac
 
 [14]“ICMR-National Institute of Nutrition, India.” https://www.nin.res.in/ (accessed Mar. 15, 2022).
 
-[16]“The Role of Refrigeration in Worldwide nutrition - Cool Coalition.” https://coolcoalition.org/the-role-of-refrigeration-in-worldwide-nutrition/ (accessed Mar. 15, 2022).
+[15]“The Role of Refrigeration in Worldwide nutrition - Cool Coalition.” https://coolcoalition.org/the-role-of-refrigeration-in-worldwide-nutrition/ (accessed Mar. 15, 2022).
 
-[17]“What is food security? | TABLE Debates.” https://tabledebates.org/building-blocks/what-food-security (accessed Mar. 15, 2022).
+[16]“What is food security? | TABLE Debates.” https://tabledebates.org/building-blocks/what-food-security (accessed Mar. 15, 2022).
 
-[18]“E-Services through Post Offices in Bhutan,” ITU. https://www.itu.int:443/en/publications/ITU-D/Pages/publications.aspx (accessed Mar. 15, 2022).
+[17]“E-Services through Post Offices in Bhutan,” ITU. https://www.itu.int:443/en/publications/ITU-D/Pages/publications.aspx (accessed Mar. 15, 2022).
 
-[19]“How One Man Provided 14,000 Farmers With Clean Water & Doubled Their Income,” The Better India, Sep. 13, 2021. http://www.thebetterindia.com/262119/solar-powered-water-pumps-increase-farm-income-maharashtra/ (accessed Mar. 15, 2022).
+[18]“How One Man Provided 14,000 Farmers With Clean Water & Doubled Their Income,” The Better India, Sep. 13, 2021. http://www.thebetterindia.com/262119/solar-powered-water-pumps-increase-farm-income-maharashtra/ (accessed Mar. 15, 2022).
 
-[20]“Rural Communications,” ITU. https://www.itu.int:443/en/ITU-D/Technology/Pages/RuralCommunications.aspx (accessed Mar. 15, 2022).
+[19]“Rural Communications,” ITU. https://www.itu.int:443/en/ITU-D/Technology/Pages/RuralCommunications.aspx (accessed Mar. 15, 2022).
