@@ -11,7 +11,7 @@ geometry : margin = 2cm
 > 
 > [Abstract](#abstract)
 >
-> [1. Vocational Training](#1-vocational-training)
+> [1. Unemployment](#1-unemployment)
 > 
 > [2. Education](#2-education)
 >
@@ -19,9 +19,9 @@ geometry : margin = 2cm
 > 
 > [4. Food Security](#4-food-security)
 > 
-> [5. Cleanliness](#5-cleanliness)
+> [5. Healthcare](#5-healthcare)
 >
-> [6. Awareness Campaigns](#6-awareness-campaigns)
+> [6. General Awareness](#6-general-awareness)
 >
 > [References](#references)
 >
@@ -31,7 +31,7 @@ geometry : margin = 2cm
 
 
 
-### [1. Vocational Training](#table-of-contents)
+### [1. Unemployment](#table-of-contents)
 
 
 ### [2. Education](#table-of-contents)
@@ -46,11 +46,11 @@ geometry : margin = 2cm
 
 
   
-### [5. Cleanliness](#table-of-contents)
+### [5. Healthcare](#table-of-contents)
 
 
 
-### [6. Awareness Campaigns](#table-of-contents)
+### [6. General Awareness](#table-of-contents)
 
 
 
