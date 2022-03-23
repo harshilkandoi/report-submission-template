@@ -33,6 +33,13 @@ geometry : margin = 2cm
 
 ### [1. Unemployment](#table-of-contents)
 
+**Pottery:** Buying separate sets of tools is costly. We can look at the net benefit we can expect by providing a fixed number of potters access to common tools and techniques. Even if by equipping each with the tools we may be in profit but that requires a high fixed cost. We have to consider this factor too.
+
+**Tourist guidance:** Making youths learn languages like English and some foreign languages can coincide with training for jobs like call center jobs and related jobs in this field. So collective costs of these activities can be reduced. Similarly, those youths wishing for any job in the history/ geographical field (like govt. jobs) who will be wishing to learn could be targeted. Also, systematic arrangements could be made with the help of apps/websites which will help tourist guides with all the knowledge regarding transportation and hotel stays at nearby sites. most tourists in India are domestic in nature, along with foreign languages, other regional languages like Tamil, Telugu, Gujarati, or Marathi also can be learned.
+
+**Sericulture:** Since, sericulture is mainly done in rural areas, people use outdated technologies in it. Also, primitive and unscientific reeling and weaving techniques are high in use, which decreases its production. That's why modern types of equipment like sprinklers, portrays, humidifiers, etc. should be used. Its production is less also, because of the use of poor quality seeds, which can be treated by: revolving the capital fund, purchasing seed testing equipment for seed production centers, and up-gradation of production units. These should be promoted by govt. in vocational training courses.
+The PM Free Silai Machine Yojana could be improved by running it in a loop. Once they have earned enough money, the women who were given sewing machines by the government can hire other women. The money they make can be used to buy new sewing machines and start a community. This would create more jobs while reducing the burden on government funding. We can begin small-scale projects in which we provide women with initial starter training and materials. Following that, women can begin sewing simple clothes and selling them to local authorities. Some of the benefits will go to the project holder, which will help us expand the project and make it more effective in the long run.
+
 
 ### [2. Education](#table-of-contents)
 
