@@ -42,6 +42,188 @@ The PM Free Silai Machine Yojana could be improved by running it in a loop. Once
 
 
 ### [2. Education](#table-of-contents)
+To improve education quality in a village we are suggesting the following solutions.
+
+-   **Providing free Internet connection with smartphones:**
+
+    Since there is a lack of high-quality education in villages. So we
+    can provide free internet connection under some government scheme.
+    Using smartphones they can learn from the national level teachers.
+    There are many platforms like Udemy, Coursera and Youtube that
+    provides education with good teachers across the world. As per a
+    recent survey done by ASER, 26.1% of rural families don’t have
+    access to smartphones at home.(“27.9% Rural Households Bought
+    Smartphone for Kids’ Studies Amid Pandemic: Survey” 2021)
+
+    Smartphones should be configured in such a way that they can only be
+    for educational purposes this will prevent misuse of smartphones.
+    
+    COST per village(500 families per village):  
+    Smartphones: 500x6000 = 3L  
+    Internet: 500x3000(per year plan) = 15L per year (3GB data per day for a year)  
+    Total Cost: 3L(one time) + 15L(per year) for one village  
+    
+-   **Providing access to paid courses on the internet:**
+
+    As most of the structured learning resources are paid on the
+    internet. So, we can provide access to those paid courses at a
+    subsidised rate so that they can afford it. They can acquire an
+    organised, high-quality education through these paid classes,
+    similar to what they would get at a premium school. This will have a
+    great impact on the future of a student studying in a village with
+    limited access to such premium institutions. Students from villages
+    will also be able to compete with a student studying in the urban
+    area having access to quality education.
+    
+    
+    Cost per village(500 family per village):
+    Course: 500*360(course price) = 1.8L per village
+
+-   **Linking Individuals:**
+
+    We can link various subject experts or students good at subjects
+    with village students. The village students can’t have access to
+    tuition or coaching facilities, so we can provide them with this
+    help with students( like NSS) or various NGOs can be linked to it.
+    In this way we can make a platform for villagers so that they can
+    get access to such help.
+
+-   **Encouraging Ed tech sector:**
+
+    The government needs to encourage the Ed tech sector to provide
+    services to students from rural areas as well. Clearly more needs to
+    be done by the private sector such as making content available in
+    regional languages, making services targeted towards the
+    underprivileged etc. This could be done by providing tax benefits
+    and government funding.
+
+-   **Modern Education Centre:**
+
+    Modern Education centres can be set up by Governments/Private
+    Institutions to provide, where classes of different fields of expert
+    teachers can be streamed live for mass students. Students, This
+    facility can be used as schools or coaching for the various fields
+    to get world-class teaching from the best teachers around the world.
+
+-   **Better translation software for regional languages :**
+
+    74 percent of children in India study in their mother tongue and
+    this number is even higher in rural areas. Moreover, 44 percent of
+    engineering students want to be taught in their mother tongue. This
+    shows most students prefer to learn and are more comfortable in
+    their mother tongue. However, most educational content - books,
+    articles, videos, research papers - are in English. Furthermore,
+    these increase and change at such a fast rate that it is impossible
+    to manually translate all the content. Hence, better AI and NLP
+    software will need to be developed. Over the last few years, OpenAI
+    has made huge strides to make models with performance matching human
+    language skills (GPT2 and more recently GPT3). Work will need to be
+    done to use this model in regional language translation contexts and
+    develop applications to do so.(*The Times of India* 2021) (“44%
+    Engineering Students Want to Be Taught in Mother Tongue, Tamil Tops
+    List: AICTE Survey” n.d.)
+    
+    
+    
+    
+    
+    Cost:  
+    Time: 1 year  
+    20 developers at 30 LPA = 6C  
+    Operational cost = 2C  
+    Computational cost = 2C  
+    Total: 10C  
+    
+
+
+
+
+
+
+
+What are the specifications for technology interventions at the inter-community level?
+
+- We can teach them basic communication skills in english or local language through which we can place them in customer FAQ section in companies. If they know their local language, then just a bit of training is required to make them communicate in a sophisticated manner and an effort to link them to such companies . This job can be done from anywhere like at your own place too. So this can be a solution.
+
+    Cost- around 1500-2000 rs. Hence, it is a cost efficient solution.
+
+  
+- We can give stipends to students in schools. The reason that a large portion of rural kids don’t go to school is because they can contribute more (financially ) by working in a farm or helping in the household chores. Giving stipends to students (or their parents) solves this problem. This is similar to how we pay PhD students and research scholars at colleges. We can also make this stipend performance based (based on grades) or effort based (based on the work done or time spent) to ensure that children have an incentive to work hard. This solution will alleviate poverty and promote education.
+
+    The cost can be around Rs 5,000 -10,000 per student per month. This may seem expensive but a more educated workforce will essentially pay for itself in the long run (by taxes and other contributions to the country’s growth). 
+
+
+- Different coaching centres can be establised for students to learn real-world skills which are relevant for jobs such as Excel, AutoCAD etc. The government can subsidise the fees of coaching and can also establish government-run coaching centres similar to government schools. A good initiative for attracting more students in these institutions can be appointing teachers as someone from the same village who is eligible and have the required knowledge.
+
+    The cost for establishment of such centres may cost around 1,00,000. But it can recovered and cost of the teachers and employees can be paid by the student fees. Students getting subsidy will cost the government Rs 5,000 -10,000 per student per month.
+
+
+- Machine translation models using Artificial Intelligence and Natural Language Processing can be developed. Recent state-of-the-art models like GPT-2 and GPT-3 (developed by OpenAI) match human language skills competency on a multitude of tasks. Developing such a tool would greatly help rural kids access a wide range of knowledge (books, papers, articles) which are currently inaccessible since the majority of them are only in English and not in regional languages.
+
+  Estimated Cost:
+  Time: 1 year  
+  20 developers at 30 LPA = 6Cr  
+  Operational cost = 2Cr  
+  Computational cost = 2Cr  
+  Total: 10Cr  
+  
+
+### Sustainability of proposed interventions
+
+We are introducing a committee to ensure the proper functioning of proposed interventions. The committee will consist of different teams having 2-4 members from the same village.
+
+  
+
+These are its following teams and its responsibility
+
+  
+
+1.  Finance Team: Some of the proposed interventions need a continuous flow of money.  And some of the interventions will charge some fees from villagers for its service. So, to manage the finance aspect, this team will be responsible. The finance team also introduce a service tax in the scheme provided by the committee to pay members with the salary as per govt guidelines.  
+      
+    
+2.  Marketing Team: to spread the scheme in the village, a marketing team is necessary. It is important to me sure that everyone in the village is able to understand the goal and the steps taken by us. A great marketing team is what wins the support of the people. 
+    
+
+3.  Execution Team: The main task for any work is execution. The execution team will look after all the necessary things and logistic parts required. The execution team will take feedback at ground level and required changes can be made. Hence, execution team has to work for betterment and has to keep keen eye for modifications as well.
+    
+
+4.  Complaint Team: to handle complaints from the villagers. Complaints are inevitable. A team will be formed to take in, process and forward complaints to the appropriate teams. In any project, it is extremely important to take feedback and improve and fix.
+    
+
+5.  Research and Management Team: research the ongoing or new programme to give suggestions to the execution team,  Using the data such as number of students involved, skill developed etc of the existing programme, This team will analysis each programme and its outcome. Based on the performance and outcome of each programme, this team will suggest changes in each programme and suggest new programes for better output. 
+
+
+
+    ## References
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-27RuralHouseholds2021" class="csl-entry">
+
+“27.9% Rural Households Bought Smartphone for Kids’ Studies Amid
+Pandemic: Survey.” 2021. Hindustan Times. November 18, 2021.
+<https://www.hindustantimes.com/india-news/279-rural-households-bought-at-least-one-smartphone-for-kids-studies-amid-pandemic-aser-survey-101637175238326.html>.
+
+</div>
+
+<div id="ref-44EngineeringStudents" class="csl-entry">
+
+“44% Engineering Students Want to Be Taught in Mother Tongue, Tamil Tops
+List: AICTE Survey.” n.d. Accessed March 7, 2022.
+<https://theprint.in/india/education/44-engineering-students-want-to-be-taught-in-mother-tongue-tamil-tops-list-aicte-survey/621098/>.
+
+</div>
+
+<div id="ref-26SchoolkidsEnglish2021" class="csl-entry">
+
+*The Times of India*. 2021. “26% of Schoolkids in English Medium; Nearly
+60% in Delhi,” July 3, 2021.
+<https://timesofindia.indiatimes.com/india/26-of-schoolkids-in-english-medium-nearly-60-in-delhi/articleshow/84082483.cms>.
+
+</div>
+
+</div>
+
 
                                                                                                                      
 
