@@ -277,6 +277,312 @@ These regional cooperatives will work with the government and private NGOs to ma
 
   
 ### [5. Healthcare](#table-of-contents)
+    
+## Problem:
+
+**Ineffective diagnosis of symptoms which leads to villagers taking
+longer to get the right treatment leading to loss of their precious time
+and money.**
+
+## Solution:
+
+Products like digital BP measurer, pulse-oximeter and thermometer should
+be readily available at local village medical centers so that villagers
+should be precisely able to know about symptoms they are suffering for
+better treatment. On an average, a digital BP machine costs Rs.900, a
+pulse-oximeter costs Rs.750 and a thermometer(digital) costs Rs.150.
+Government of India has granted Rs.8454 crores for improving healthcare
+facilities in rural India which means that every village has been
+granted about Rs.22 Lakhs on an average, hence these instruments can be
+easily afforded by the health centers. 
+
+## Problem:
+
+**Diseases such as Tuberculosis ,whooping cough, respiratory infections,
+pneumonia are highly contagious and infectious which may become severe
+and cause of death for rural people especially for pregnant ladies and
+infants.**
+
+## Solution: 
+
+Seminars should be conducted online on smartphones provided to poor
+rural people under government schemes to make villagers aware of the
+importance of water purification and should be taught scientific methods
+to purify water using household equipment. Science tested Techniques
+like filtration, sedimentation, Solar disinfection, Slow sand
+filtration, Upflow gravel filter etc should be taught and necessary
+equipment should be provided to them.
+
+## Problem:
+
+**Villages don’t have enough doctors and hospitals.**
+
+## Solution:
+
+Remote access or virtual consultations is the need of the hour in
+villages. Villagers should be made aware about the online medical
+consultation. Government should make an android application and website
+for providing free medical consultation to people of rural India  or
+villagers should be provided a healthcare scheme under a government
+scheme so that they can cover expenses of the virtual consultation
+platforms like practo and apollo 24/7.
+
+## Problem:
+
+**People try to self-medicate by using home remedies or witchcraft
+(black magic), which might actually worsen their health.**
+
+## Solution:
+
+People should be educated on the benefits of receiving professional
+medical care rather than attempting to self-treat or refer to
+witchcraft. Various virtual seminars, some animated series and online
+advertisements should be promoted on the Aarogya setu app or on
+entertainment platforms. The government should introduce virtual
+consultation platforms as they would save both time and money for the
+person. Health-related start-ups should be encouraged by the government
+as well. In remote regions, they can establish a platform that combines
+everything from online consultations to the purchase of medication to
+the scheduling of health checkups.
+
+## Problem:
+
+**Lack of advisory to the doctor and maintenance of reports.**
+
+## Solution:
+
+Integrating digital information to improve health care efficiency and
+accessibility. At any time, a doctor can turn to a support system for
+his clinical decision, which will aid him in making the right choice.
+When it comes to electronic health records (EHRs), patients no longer
+have to take them around with them. Additional to that, the adoption of
+digital prescriptions is expected to eliminate prescription errors.
+
+## Problem:
+
+**Unavailability of Medicinal Drugs in Rural areas**
+
+## Solution: 
+
+Government should establish some type of partnership with transport
+agencies like uber, and with individual transport vehicle workers like
+antoes, to make new apps available to rural areas, through which we can
+place an order for medicines we need.
+
+## Problem:
+
+**Less than 10 percent of the rural population uses toilets and have a
+lack of sanitary conditions.**
+
+## Solution:
+
+Villagers firstly should be educated about how to maintain good hygiene
+and what are the benefits of it. It can be done through interactive
+videos and online sessions directly on their mobile phones or through
+community events organized by various NGOs and govt. organizations.
+Other than that, the government should deploy mobile apps which can be
+used by villagers to inform the government about bad conditions of
+toilets and other hygiene facilities in their village and then the
+government can use this information to take needful actions.
+
+## Problem
+
+**Disposal of solid waste**
+
+## Solution
+
+**Biodegradable**
+
+-   Composting
+
+Composting can be done with any organic waste, such as vegetable waste,
+garden trash, agricultural waste, cow manure, and so on. Meat scraps and
+bones, as well as very greasy waste, should be avoided because they
+attract rodents and insects and cause odors. Composting can be done
+successfully in any corner of a house yard or field without the need for
+a structure. A compost pit, on the other hand, may retain heat, which
+helps to speed up the composting process while also improving
+aesthetics.
+
+-   Vermicomposting
+
+Unlike traditional composting, which relies on natural processes to
+break down organic matter, vermicomposting employs a variety of worm
+species to break down organic matter and produce nutrient-rich compost.
+A vermi-tank or a vermi-bed can be used for vermicomposting.
+
+**Non-biodegradable**
+
+-   Recycling
+
+Waste such as plastic, glass, metal, and so on can be sold to a
+kabadiwala.
+
+## Problem
+
+**Open defecation and improper waste management is still prominent in
+many villages which contaminates surroundings and contributes to the
+spread of many infectious diseases.**
+
+## Solution
+
+The government should provide gram panchayats and local municipalities
+with special grants for scientific waste management. Despiste of
+disposing the garbage in pits , it should be used as a source of energy.
+Municipalities should implement technology to convert garbage into
+manure and use it to generate fuel.
+
+## Problem
+
+**Poor Sanitation**
+
+## Solution
+
+The pit toilet and the flush toilet are the two most widely utilized
+sanitation systems today. Waterborne sewage has been shown to be
+ineffective in meeting sanitation needs in poor countries. Because the
+systems are too expensive to deliver to everyone, they are usually
+limited to the top and middle classes. Currently, almost 90% of sewage
+in developing-country cities is released untreated, damaging rivers,
+lakes, and coastal areas. Pit toilets have their own set of drawbacks,
+particularly in highly populated places, where they pose a serious risk
+of contaminating groundwater.
+
+## Problem
+
+**Residential burning of wood and other biomass used predominantly for
+cooking and heating causing pollution.**
+
+## Solution
+
+Ventilation plays an important part in reducing smoke and health risks,
+and the locals should be made aware of this. Subsidized better stoves
+can be offered to the rural people. The Integrated Rural Energy Planning
+Scheme can provide free upgraded stoves with chimneys (i.e. smoke-less
+earthen stoves) to the poorest segment of the tribal region in order to
+avoid the health risks associated with the consumption of fuel wood. The
+poor and middle-class should be discouraged from using clay pots and
+should be insisted on using aluminum kitchenware, pressure cookers, and
+energy-efficient stoves in order to minimize fuel wood usage and air
+pollution. The wealthier people in society can be insisted for shifting
+to biogas/gas stoves by offering them loans and subsidies.
+
+## Problem
+
+**Disposal of Liquid waste**
+
+## Solution 
+
+**Types of Liquid waste : waste water, fats, used oils, sludges or
+hazardous household liquids.** There are 6 commonly used processes for
+disposal of liquid waste. But incineration is the best method for
+disposal of hazardous liquid waste. The heat produced by a multiple
+hearth furnace will dispose of hazardous wastes like acids, scrap
+materials, slag, rock tailings, oils, and other chemicals. Any water
+left behind is clear and free of contaminants.
+
+## Problem
+
+**25% of rural India’s households don’t have access to sanitation and
+about 42.9% of the households in the rural areas used hand pump as the
+principal source of drinking water**
+
+## Solution
+
+Villagers don’t know about what are the harms of this poor sanitization
+and how it is affecting them so, they should be educated about this
+through various interactive online courses or videos about it in their
+own language so that they can understand the benefits. Government should
+also take help from these villagers to identify the villages with this
+problem. They can deploy an app in which villagers can put in the
+request for a proper toilet and drinking water source for their area and
+can also get rewards for this task. This way the Govt can identify and
+easily solve the problem.
+
+## Long term self-sustainable model
+
+To make sure that the healthcare and cleanliness of the village are
+self-sustainable in the long term, an independent committee needs to be
+formed that should take care of all the matters concerning cleanliness
+and healthcare and also make sure that the solutions suggested are being
+acted upon efficiently. The committee should act independently without
+interference from any third party. The committee should have a
+well-defined structure with a president and a board of members and
+elections should be held regularly every 3 years for each position of
+the board and the post of president with voters being all villagers
+above 18 years of age. For the first president and board of members,
+interviews should be held to make sure that they understand the problems
+and their technical solutions and they should also be able to educate
+the villagers about the same.
+
+## Citations
+
+-   (**http://zotero.org/users/local/zDgRZAmW/items/G772U9XA?**)
+-   (**http://zotero.org/users/local/zDgRZAmW/items/5QKDDAIN?**)
+-   (Bryant n.d.)
+-   (“Pit Latrine” 2021)
+-   (“Flush Toilet” 2022)
+-   (“Need to Focus on Sanitation and Cleanliness in Rural Areas
+    Highlighted - The Hindu” n.d.)
+-   (“Vikaspedia Domains” n.d.)
+-   (“25% of Rural India’s Households Don’t Have Access to Sanitation:
+    NSO Survey” n.d.)
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/FS8IAX6X"
+class="csl-entry">
+
+“25% of Rural India’s Households Don’t Have Access to Sanitation: NSO
+Survey.” n.d. Accessed March 13, 2022.
+<https://www.livemint.com/news/india/25-of-rural-india-s-households-don-t-have-access-to-sanitation-nso-survey/amp-11574690136848.html>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/B8G94L9G"
+class="csl-entry">
+
+Bryant, Ken. n.d. “6 Commonly Used Methods for Disposing Liquid Waste –
+Ken’s Commentary.” Accessed March 13, 2022.
+<https://www.kenscommentary.org/6-commonly-used-methods-for-disposing-liquid-waste/>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/5GTTKREI"
+class="csl-entry">
+
+“Flush Toilet.” 2022. In *Wikipedia*.
+<https://en.wikipedia.org/w/index.php?title=Flush_toilet&oldid=1075074046>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/RDVUSBJJ"
+class="csl-entry">
+
+“Need to Focus on Sanitation and Cleanliness in Rural Areas
+Highlighted - The Hindu.” n.d. Accessed March 13, 2022.
+<https://www.thehindu.com/news/national/karnataka/need-to-focus-on-sanitation-and-cleanliness-in-rural-areas-highlighted/article6950454.ece>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/264Q4JY9"
+class="csl-entry">
+
+“Pit Latrine.” 2021. In *Wikipedia*.
+<https://en.wikipedia.org/w/index.php?title=Pit_latrine&oldid=1060037771>.
+
+</div>
+
+<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/4KQ5XCPB"
+class="csl-entry">
+
+“Vikaspedia Domains.” n.d. Accessed March 13, 2022.
+<https://vikaspedia.in/energy/environment/waste-management/solid-and-liquid-waste-management-in-rural-areas>.
+
+</div>
+
+</div>
+
 
 
 
