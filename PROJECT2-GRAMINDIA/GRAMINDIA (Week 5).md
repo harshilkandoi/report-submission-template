@@ -716,6 +716,36 @@ class="csl-entry">
 
 ### [6. General Awareness](#table-of-contents)
 
+A public awareness campaign is a marketing effort to build public recognition of a problem through media, messaging, and an organized set of communication tactics. These campaigns target a large number of people over a specific period of time to try and generate specific outcomes or achieve pre-determined goals.
+
+##### To make the rural population aware about living a better life we are planning the following awareness campaigns
+-   **Health Awareness Campaign-** 
+People with life-limiting diseases including cancer, other noncommunicable diseases, and communicable diseases such as HIV/AIDS have pain, other symptoms, and psychosocial distress, which can dramatically decrease the quality of life and place a burden on the economy and on health-care system of the village society.Achieving community participation in health-related activities has remained a challenge for health programs in India.Creating a health awareness campaign is an effective way to prevent the spread of diseases affecting the community.
+-   **Voter Awareness Campaign-**
+Voting is the most vital aspect of participation as it gives citizens of India the right to choose their leaders who, in turn, are expected to represent their concerns and voices at appropriate levels in government. Yet gram panchayat elections experience a number of challenges, including lack of visibility, unawareness of voters, and a nexus of influential elites and opinion leaders.
+We will do a week-long election awareness campaign informing citizens about their rights and duties as voters and provided them with relevant information for the upcoming elections. The campaign will encourage voters to consider a candidate’s honesty, accessibility, and commitment toward development (without giving credence to factors like caste) through area-specific community meetings.
+- **Hygine and Sanity-** 
+Mahatma Gandhi once termed cleanliness as next to godliness. Proper sanitation is important not only for maintaining health but it also plays a vital role in the life of individuals and society. Good sanitary practices help in protecting the environment through prevention of contamination of water and soil, thereby leading to prevention of diseases. We will aware the villagers about the good sanitary practices and also communicate the dangers of improper hyginic measures.
+- **Nutrition Awareness Campaign:**
+The objectives of the initiative will be promoting nutritional awareness, education and behavioural change in rural areas involving farm women and school children, harnessing traditional knowledge through the local recipe to overcome malnutrition and implementing nutrition-sensitive agriculture through homestead agriculture and Nutri-garden.
+To achieve the goal of Malnutrition free villages, intensive awareness campaigns and field activities will be undertaken for focusing on the concept of Nutri-village / Nutri-food / Nutri-diet/ Nutri-thali etc.The products/tools/technologies developed by AICRP centres will be evaluated through multi-location trials.
+- **Farming Awareness Campaign-** 
+The basic objective of the farmer awareness programmes will be to give exposure to the Indian farmers on various agricultural marketing reforms, modern marketing methods, direct marketing, group marketing, interface with the experts of commodities specialist and marketing personnel, pledge financing, ware housing, and scientific storage of agricultural commodities in India and to upgrade their skill on this subject.
+
+- **Capacity Building Programme-** 
+Capacity Building is a conceptual approach to development. It focuses on understanding the obstacles which inhibit people, governments, international organizations and non-governmental organizations from realizing their development goals while enhancing the abilities that will allow them to achieve measurable and sustainable results. Capacity Building comprises of activities which result in transfer of knowledge, skills and attitude from one person to another or from one group to another. We will do this programme in villages in the form of skill development campaign for the working class people who are unable to get employment or who are working as low-wage daily workers.
+
+
+#### References_Aware
+- http://www.sikkimexpress.com/news-details/village-youths-launch-campaign-to-spread-menstrual-hygiene-awareness
+
+- https://communicationtoday.net/2015/06/29/village-sanitation-campaign-a-case-study-of-mangoli/
+
+- https://ccsniam.gov.in/2-uncategorised/52-farmer-awareness-programmes
+
+- https://www.smsfoundation.org/voter-awareness-campaign-in-panchayat-elections-2016/
+
+- https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1770657
 
 
 ### [References](#table-of-contents)
