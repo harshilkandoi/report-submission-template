@@ -122,24 +122,13 @@ To improve education quality in a village we are suggesting the following soluti
     develop applications to do so.(*The Times of India* 2021) (“44%
     Engineering Students Want to Be Taught in Mother Tongue, Tamil Tops
     List: AICTE Survey” n.d.)
-    
-    
-    
-    
-    
+   
     Cost:  
     Time: 1 year  
     20 developers at 30 LPA = 6C  
     Operational cost = 2C  
     Computational cost = 2C  
     Total: 10C  
-    
-
-
-
-
-
-
 
 What are the specifications for technology interventions at the inter-community level?
 
@@ -191,40 +180,6 @@ These are its following teams and its responsibility
     
 
 5.  Research and Management Team: research the ongoing or new programme to give suggestions to the execution team,  Using the data such as number of students involved, skill developed etc of the existing programme, This team will analysis each programme and its outcome. Based on the performance and outcome of each programme, this team will suggest changes in each programme and suggest new programes for better output. 
-
-
-
-    ## References
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-27RuralHouseholds2021" class="csl-entry">
-
-“27.9% Rural Households Bought Smartphone for Kids’ Studies Amid
-Pandemic: Survey.” 2021. Hindustan Times. November 18, 2021.
-<https://www.hindustantimes.com/india-news/279-rural-households-bought-at-least-one-smartphone-for-kids-studies-amid-pandemic-aser-survey-101637175238326.html>.
-
-</div>
-
-<div id="ref-44EngineeringStudents" class="csl-entry">
-
-“44% Engineering Students Want to Be Taught in Mother Tongue, Tamil Tops
-List: AICTE Survey.” n.d. Accessed March 7, 2022.
-<https://theprint.in/india/education/44-engineering-students-want-to-be-taught-in-mother-tongue-tamil-tops-list-aicte-survey/621098/>.
-
-</div>
-
-<div id="ref-26SchoolkidsEnglish2021" class="csl-entry">
-
-*The Times of India*. 2021. “26% of Schoolkids in English Medium; Nearly
-60% in Delhi,” July 3, 2021.
-<https://timesofindia.indiatimes.com/india/26-of-schoolkids-in-english-medium-nearly-60-in-delhi/articleshow/84082483.cms>.
-
-</div>
-
-</div>
-
-
                                                                                                                      
 
 ### [3. Infrastructure](#table-of-contents)
@@ -643,76 +598,6 @@ interviews should be held to make sure that they understand the problems
 and their technical solutions and they should also be able to educate
 the villagers about the same.
 
-## Citations
-
--   (**http://zotero.org/users/local/zDgRZAmW/items/G772U9XA?**)
--   (**http://zotero.org/users/local/zDgRZAmW/items/5QKDDAIN?**)
--   (Bryant n.d.)
--   (“Pit Latrine” 2021)
--   (“Flush Toilet” 2022)
--   (“Need to Focus on Sanitation and Cleanliness in Rural Areas
-    Highlighted - The Hindu” n.d.)
--   (“Vikaspedia Domains” n.d.)
--   (“25% of Rural India’s Households Don’t Have Access to Sanitation:
-    NSO Survey” n.d.)
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/FS8IAX6X"
-class="csl-entry">
-
-“25% of Rural India’s Households Don’t Have Access to Sanitation: NSO
-Survey.” n.d. Accessed March 13, 2022.
-<https://www.livemint.com/news/india/25-of-rural-india-s-households-don-t-have-access-to-sanitation-nso-survey/amp-11574690136848.html>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/B8G94L9G"
-class="csl-entry">
-
-Bryant, Ken. n.d. “6 Commonly Used Methods for Disposing Liquid Waste –
-Ken’s Commentary.” Accessed March 13, 2022.
-<https://www.kenscommentary.org/6-commonly-used-methods-for-disposing-liquid-waste/>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/5GTTKREI"
-class="csl-entry">
-
-“Flush Toilet.” 2022. In *Wikipedia*.
-<https://en.wikipedia.org/w/index.php?title=Flush_toilet&oldid=1075074046>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/RDVUSBJJ"
-class="csl-entry">
-
-“Need to Focus on Sanitation and Cleanliness in Rural Areas
-Highlighted - The Hindu.” n.d. Accessed March 13, 2022.
-<https://www.thehindu.com/news/national/karnataka/need-to-focus-on-sanitation-and-cleanliness-in-rural-areas-highlighted/article6950454.ece>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/264Q4JY9"
-class="csl-entry">
-
-“Pit Latrine.” 2021. In *Wikipedia*.
-<https://en.wikipedia.org/w/index.php?title=Pit_latrine&oldid=1060037771>.
-
-</div>
-
-<div id="ref-http://zotero.org/users/local/zDgRZAmW/items/4KQ5XCPB"
-class="csl-entry">
-
-“Vikaspedia Domains.” n.d. Accessed March 13, 2022.
-<https://vikaspedia.in/energy/environment/waste-management/solid-and-liquid-waste-management-in-rural-areas>.
-
-</div>
-
-</div>
-
-
-
 
 ### [6. General Awareness](#table-of-contents)
 
@@ -736,17 +621,49 @@ The basic objective of the farmer awareness programmes will be to give exposure 
 Capacity Building is a conceptual approach to development. It focuses on understanding the obstacles which inhibit people, governments, international organizations and non-governmental organizations from realizing their development goals while enhancing the abilities that will allow them to achieve measurable and sustainable results. Capacity Building comprises of activities which result in transfer of knowledge, skills and attitude from one person to another or from one group to another. We will do this programme in villages in the form of skill development campaign for the working class people who are unable to get employment or who are working as low-wage daily workers.
 
 
-#### References_Aware
-- http://www.sikkimexpress.com/news-details/village-youths-launch-campaign-to-spread-menstrual-hygiene-awareness
-
-- https://communicationtoday.net/2015/06/29/village-sanitation-campaign-a-case-study-of-mangoli/
-
-- https://ccsniam.gov.in/2-uncategorised/52-farmer-awareness-programmes
-
-- https://www.smsfoundation.org/voter-awareness-campaign-in-panchayat-elections-2016/
-
-- https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1770657
-
 
 ### [References](#table-of-contents)
+    
+[1]K. Bryant, “6 Commonly Used Methods for Disposing Liquid Waste – Ken’s Commentary.” https://www.kenscommentary.org/6-commonly-used-methods-for-disposing-liquid-waste/ (accessed Mar. 26, 2022).
+    
+[2]N. C. Sharma, “25% of rural India’s households don’t have access to sanitation: NSO survey,” https://www.livemint.com, Nov. 25, 2019. https://www.livemint.com/news/india/25-of-rural-india-s-households-don-t-have-access-to-sanitation-nso-survey-11574690136848.html (accessed Mar. 26, 2022).
+    
+[3]“Flush toilet,” Wikipedia. Mar. 03, 2022. Accessed: Mar. 26, 2022. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Flush_toilet&oldid=1075074046
 
+[4]V. P.m, “Need to focus on sanitation and cleanliness in rural areas highlighted,” The Hindu, Shivamogga:, Mar. 02, 2015. Accessed: Mar. 26, 2022. [Online]. Available: https://www.thehindu.com/news/national/karnataka/need-to-focus-on-sanitation-and-cleanliness-in-rural-areas-highlighted/article6950454.ece
+
+[5]“Pit latrine,” Wikipedia. Dec. 13, 2021. Accessed: Mar. 26, 2022. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Pit_latrine&oldid=1060037771
+    
+[6]“vikaspedia Domains.” https://vikaspedia.in/energy/environment/waste-management/solid-and-liquid-waste-management-in-rural-areas (accessed Mar. 26, 2022).
+    
+[7]“26% of schoolkids in English medium; nearly 60% in Delhi | India News - Times of India.” https://timesofindia.indiatimes.com/india/26-of-schoolkids-in-english-medium-nearly-60-in-delhi/articleshow/84082483.cms (accessed Mar. 26, 2022).
+    
+[8]“27.9% rural households bought smartphone for kids’ studies amid pandemic: Survey,” Hindustan Times, Nov. 18, 2021. https://www.hindustantimes.com/india-news/279-rural-households-bought-at-least-one-smartphone-for-kids-studies-amid-pandemic-aser-survey-101637175238326.html (accessed Mar. 26, 2022).
+    
+[9]“44% engineering students want to be taught in mother tongue, Tamil tops list: AICTE survey.” https://theprint.in/india/education/44-engineering-students-want-to-be-taught-in-mother-tongue-tamil-tops-list-aicte-survey/621098/ (accessed Mar. 26, 2022).
+
+[10]“10 measures to ensure national food security - Rural Marketing.” https://ruralmarketing.in/stories/10-measures-to-ensure-national-food-security/ (accessed Mar. 23, 2022).
+    
+[11]Affordability of Nutritious Diets in Rural India. 2020. Accessed: Mar. 23, 2022. [Online]. Available: https://ruralindiaonline.org/en/library/resource/affordability-of-nutritious-diets-in-rural-india/
+    
+[12]“ICMR-National Institute of Nutrition, India.” https://www.nin.res.in/ (accessed Mar. 23, 2022).
+    
+[13]“The Role of Refrigeration in Worldwide nutrition - Cool Coalition.” https://coolcoalition.org/the-role-of-refrigeration-in-worldwide-nutrition/ (accessed Mar. 23, 2022).
+    
+[14]“What is food security? | TABLE Debates.” https://tabledebates.org/building-blocks/what-food-security (accessed Mar. 23, 2022).
+
+[15]“75 Nutrition smart villages will strengthen India’s campaign against malnutrition.” https://pib.gov.in/pib.gov.in/Pressreleaseshare.aspx?PRID=1770657 (accessed Mar. 26, 2022).
+    
+[16]“Farmer Awareness Programmes.” https://ccsniam.gov.in/2-uncategorised/52-farmer-awareness-programmes (accessed Mar. 26, 2022).
+    
+[17]COMMUNICATIONTODAY11, “Village Sanitation Campaign : A Case Study of Mangoli,” Communication Today, Jun. 29, 2015. https://communicationtoday.net/2015/06/29/village-sanitation-campaign-a-case-study-of-mangoli/ (accessed Mar. 26, 2022).
+    
+[18]“Village youths launch campaign to spread menstrual hygiene awareness,” Sikkimexpress. http://www.sikkimexpress.com/village-youths-launch-campaign-to-spread-menstrual-hygiene-awareness (accessed Mar. 26, 2022).
+    
+[19]“Voter awareness campaign- an essential to village development,” SM Sehgal Foundation, Aug. 29, 2016. https://www.smsfoundation.org/voter-awareness-campaign-in-panchayat-elections-2016/ (accessed Mar. 26, 2022).
+
+[20]“E-Services through Post Offices in Bhutan,” ITU. https://www.itu.int:443/en/publications/ITU-D/Pages/publications.aspx (accessed Mar. 25, 2022).
+    
+[21]“How One Man Provided 14,000 Farmers With Clean Water & Doubled Their Income,” The Better India, Sep. 13, 2021. https://www.thebetterindia.com/262119/solar-powered-water-pumps-increase-farm-income-maharashtra/ (accessed Mar. 25, 2022).
+    
+[22]“Rural Communications,” ITU. https://www.itu.int:443/en/ITU-D/Technology/Pages/RuralCommunications.aspx (accessed Mar. 25, 2022).
