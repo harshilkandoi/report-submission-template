@@ -29,6 +29,9 @@ geometry : margin = 2cm
 
 ### [Abstract](#table-of-contents)
 
+This report presents the design part/implementation for the interventions needed at the community level and inter-community level. We have discussed the 6 core areas which are necessary for the development of the rural India. These are unemployment education, health care, infrastructure, food security and raising general awareness. We have also presented a long term sustainable model for the maintenance/Future use of the proposed interventions.
+
+
 
 
 ### [1. Unemployment](#table-of-contents)
